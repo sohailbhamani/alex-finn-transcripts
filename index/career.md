@@ -1,8 +1,9 @@
 # Career
 
-Episodes discussing **Career** (41 episodes):
+Episodes discussing **Career** (42 episodes):
 
 - [Unknown](../episodes/unknown-p4jryx4ek0c/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
 - [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
 - [Unknown](../episodes/2026-02-15-100-hours-of-openclaw-lessons-in-35-minutes/transcript.md) (2026-02-15)
 - [Claude Opus 4.6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)](../episodes/2026-02-05-claude-opus-46-is-a-massive-upgrade-for-clawdbot-and-claude-code-full-guide/transcript.md) (2026-02-05)
