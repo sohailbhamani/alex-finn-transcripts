@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (36 episodes):
+Episodes discussing **Projects** (37 episodes):
 
+- [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
