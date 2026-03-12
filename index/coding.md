@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (176 episodes):
+Episodes discussing **Coding** (177 episodes):
 
+- [Unknown](../episodes/unknown-fdrq2tn0bjm/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)
 - [LIVE: My OpenClaw just built Cursor. Software is dead.](../episodes/2026-02-25-live-my-openclaw-just-built-cursor-software-is-dead/transcript.md) (2026-02-25)
