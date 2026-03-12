@@ -1,10 +1,39 @@
 {
-  "total_videos": 212,
+  "total_videos": 213,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "fdrq2tN0BJM",
+      "youtube_url": "https://www.youtube.com/watch?v=fdrq2tN0BJM",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nHey, hope you're doing well, I'm going to take you through some of the work I've been doing with AI and how it's actually changing my daily workflow"
+      ],
+      "transcript_chars": 314,
+      "folder": "unknown-fdrq2tn0bjm"
+    },
     {
       "title": "Unknown",
       "video_id": "P4jryx4ek0c",
