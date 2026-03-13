@@ -1,5 +1,5 @@
 {
-  "total_videos": 213,
+  "total_videos": 214,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -98,6 +98,48 @@
       ],
       "transcript_chars": 18941,
       "folder": "unknown-rhlpv6qdbfe"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "Rjd1LqF9cG4",
+      "youtube_url": "https://www.youtube.com/watch?v=Rjd1LqF9cG4",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Nano Banana"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nI have this organization of 10 different OpenClaw agents doing work for me 24/7, 365"
+      ],
+      "transcript_chars": 21010,
+      "folder": "unknown-rjd1lqf9cg4"
     },
     {
       "title": "Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)",
