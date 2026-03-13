@@ -1,8 +1,9 @@
 # Youtube
 
-Episodes discussing **Youtube** (87 episodes):
+Episodes discussing **Youtube** (88 episodes):
 
 - [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-rjd1lqf9cg4/transcript.md) (unknown)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)
 - [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
