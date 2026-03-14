@@ -1,8 +1,9 @@
 # Box
 
-Episodes discussing **Box** (43 episodes):
+Episodes discussing **Box** (44 episodes):
 
 - [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [DO NOT use a VPS for OpenClaw (major warning)](../episodes/2026-02-12-do-not-use-a-vps-for-openclaw-major-warning/transcript.md) (2026-02-12)

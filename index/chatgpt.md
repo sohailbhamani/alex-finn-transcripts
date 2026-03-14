@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (31 episodes):
+Episodes discussing **Chatgpt** (32 episodes):
 
+- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [LIVE: Building INCREDIBLE apps with my ClawdBot (Sonnet 5???)](../episodes/2026-02-04-live-building-incredible-apps-with-my-clawdbot-sonnet-5/transcript.md) (2026-02-04)

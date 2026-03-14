@@ -1,7 +1,8 @@
 # Whisper
 
-Episodes discussing **Whisper** (16 episodes):
+Episodes discussing **Whisper** (17 episodes):
 
+- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
 - [🔴LIVE: Is Ralph Wiggum worth learning in Claude Code?](../episodes/2026-01-21-live-is-ralph-wiggum-worth-learning-in-claude-code/transcript.md) (2026-01-21)
 - [LIVE shipping startups with Claude Code and getting work done with Claude Cowork](../episodes/2026-01-20-live-shipping-startups-with-claude-code-and-getting-work-done-with-claude-cowork/transcript.md) (2026-01-20)

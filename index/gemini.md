@@ -1,7 +1,8 @@
 # Gemini
 
-Episodes discussing **Gemini** (72 episodes):
+Episodes discussing **Gemini** (73 episodes):
 
+- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)

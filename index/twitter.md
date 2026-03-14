@@ -1,7 +1,8 @@
 # Twitter
 
-Episodes discussing **Twitter** (67 episodes):
+Episodes discussing **Twitter** (68 episodes):
 
+- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [Unknown](../episodes/2026-02-15-100-hours-of-openclaw-lessons-in-35-minutes/transcript.md) (2026-02-15)
 - [I just spent $20,000 on OpenClaw. Here's why...](../episodes/2026-02-09-i-just-spent-20000-on-openclaw-heres-why/transcript.md) (2026-02-09)
 - [You NEED a Mac Mini for ClawdBot](../episodes/2026-02-04-you-need-a-mac-mini-for-clawdbot/transcript.md) (2026-02-04)
