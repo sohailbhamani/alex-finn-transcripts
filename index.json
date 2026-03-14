@@ -1,5 +1,5 @@
 {
-  "total_videos": 214,
+  "total_videos": 215,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -140,6 +140,69 @@
       ],
       "transcript_chars": 21010,
       "folder": "unknown-rjd1lqf9cg4"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "sWuMEPES3So",
+      "youtube_url": "https://www.youtube.com/watch?v=sWuMEPES3So",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Box",
+          "Perplexity",
+          "Twitter",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Sam Altman",
+          "Alex Finn"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Codex",
+          "Whisper",
+          "Perplexity",
+          "Jan",
+          "Make",
+          "MCP"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini Pro",
+          "Yi",
+          "SAM",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "I'm going to show you my home AI lab, things I'm building, an entire custom model I made to generate content, YouTube scripts, trained on my voice, trained on hundreds and hundreds of transcripts from"
+      ],
+      "transcript_chars": 91877,
+      "folder": "unknown-swumepes3so"
     },
     {
       "title": "Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)",

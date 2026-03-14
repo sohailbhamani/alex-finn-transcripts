@@ -1,7 +1,8 @@
 # Perplexity
 
-Episodes discussing **Perplexity** (11 episodes):
+Episodes discussing **Perplexity** (12 episodes):
 
+- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
 - [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)
 - [Using Claude Code to build startups LIVE!!!](../episodes/2026-01-10-using-claude-code-to-build-startups-live/transcript.md) (2026-01-10)
 - [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)
