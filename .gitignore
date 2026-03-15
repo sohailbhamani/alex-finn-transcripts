@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 CLAUDE.md
 .claude/
+.env
+.env.*
+*.key
+*.pem
+secrets.*
