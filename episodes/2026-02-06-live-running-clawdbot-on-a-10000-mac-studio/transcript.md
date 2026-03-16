@@ -6,6 +6,8 @@ duration: "1:54:47"
 duration_seconds: 6887
 view_count: 24016
 author: "Alex Finn"
+description: |
+  Join the Vibe Coding Academy (LIVE CLAWDBOT BOOTCAMP TODAY!): https://vibecodingacademy.dev
 
 yt_tags:
   []

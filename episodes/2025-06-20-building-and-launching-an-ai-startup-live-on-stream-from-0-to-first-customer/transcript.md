@@ -6,6 +6,8 @@ duration: "3:16:31"
 duration_seconds: 11791
 view_count: 6012
 author: "Alex Finn"
+description: |
+  I'm going to be taking ideas from the chat to design, build, and launch an app all on live stream. The first live streamer to ever do this
 
 yt_tags:
   []

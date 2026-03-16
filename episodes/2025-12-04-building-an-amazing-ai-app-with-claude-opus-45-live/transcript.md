@@ -6,6 +6,8 @@ duration: "1:56:54"
 duration_seconds: 7014
 view_count: 3117
 author: "Alex Finn"
+description: |
+  Join the Vibe Coding Academy for a FULL Claude Code Masterclass: https://vibecodingacademy.dev
 
 yt_tags:
   []

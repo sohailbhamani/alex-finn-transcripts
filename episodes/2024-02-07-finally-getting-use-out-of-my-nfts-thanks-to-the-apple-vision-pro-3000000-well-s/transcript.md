@@ -6,6 +6,8 @@ duration: "1:25"
 duration_seconds: 85
 view_count: 239
 author: "Alex Finn"
+description: |
+  The Apple Vision Pro makes buying NFTs worth it again! #apple #visionpro #technology
 
 yt_tags:
   []

@@ -6,6 +6,8 @@ duration: "1:26:04"
 duration_seconds: 5164
 view_count: 1390
 author: "Alex Finn"
+description: |
+  FREE VIBE CODING COMMUNITY: https://discord.gg/jzHfG87M
 
 yt_tags:
   []

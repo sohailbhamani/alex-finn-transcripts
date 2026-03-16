@@ -6,6 +6,36 @@ duration: "19:43"
 duration_seconds: 1183
 view_count: 16534
 author: "Alex Finn"
+description: |
+  Here is your full Claude Code with Sonnet 4.5 test and review. Whether you are new or pro, you'll have something to learn here.
+
+  JOIN MY FREE VIBE CODING COMMUNITY!! https://discord.gg/TzYjAds8YA
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Claude Sonnet 4.5 Announcement:
+  https://www.anthropic.com/news/claude-sonnet-4-5
+
+  Prompt:
+  I want to build an AI prompt library app. Users can enter in an AI prompt and save it to their library. They can then view their library of prompts and edit them. The prompt editor should be a beautiful markdown editor. There should even be a button in the editor called “Optimize” that takes the prompt and sends it to the Claude Sonnet 4.5 API and optimizes the prompt to improve it. this should be a beautiful application using Tailwind/Shadcn. It should be NextJS and Supabase for database and auth. Get creative with the UI, don’t make it a basic AI interface.
+
+  Visual Studio Code:
+  https://code.visualstudio.com/
+
+  Supabase (database):
+  https://supabase.com/
+
+  Timestamps:
+  0:00 Intro
+  0:48 Claude Code Extension
+  1:18 The Prompt
+  6:55 Building the database
+  8:36 The Claude API
+  9:05 V1 of the app
+  13:48 Improving the UI
+  17:12 Final Review
 
 yt_tags:
   []

@@ -6,6 +6,27 @@ duration: "20:19"
 duration_seconds: 1219
 view_count: 25876
 author: "Alex Finn"
+description: |
+  Here is a step by step action plan you can start TODAY to start making revenue with Claude Code.
+
+  Join the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Claude Code documentation:
+  https://code.claude.com/docs/en/overview
+
+  Timestamps:
+  0:00 Intro
+  1:35 The playbook
+  3:11 Setting up Claude Code
+  3:50 Coming up with an idea for an app
+  5:42 Building out the app
+  8:50 V1 of the app
+  9:50 Getting our first customer
+  14:31 Making money with our app and content
+  16:21 The flywheel
 
 yt_tags:
   []

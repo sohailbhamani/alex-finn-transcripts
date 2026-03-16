@@ -6,6 +6,68 @@ duration: "13:17"
 duration_seconds: 797
 view_count: 1658
 author: "Alex Finn"
+description: |
+  OpenAI announced 2 MAJOR releases today. ChatGPT Pro mode and ChatGPT o1 full release. I go over what action you need to take NOW to take advantage of these releases plus give you a full demo of o1. We'll build a full Mario game plus a business plan.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+  0:00 OpenAI Announcements
+  0:20 ChatGPT Pro Mode
+  2:25 Is Pro mode worth it?
+  3:17 Full o1 Release
+  4:00 Build a Game With o1
+  8:04 Final Game
+  9:34 Business Plan
+  12:24 Final Thoughts
+
+
+  Links:
+
+  ChatGPT:
+  https://chatgpt.com/
+
+  Cursor:
+  https://www.cursor.com/
+  Prompts:
+
+  Come up with entire marketing plan for my new AI content creation app:
+
+  I’m building a AI content creation app. It will allow users to input tweets and other pieces of content and repurpose that content into blog posts, newsletters, and video scripts. Please create for me an entire marketing plan as well as release road map.
+
+  O1, please create a simplified, Mario-style, side-scrolling platformer using Python and Pygame, all contained in a single .py file. I’d like you to:
+
+  Set Up:
+
+  Initialize a Pygame window with a reasonable resolution (e.g., 800x600).
+  Include a main game loop using pygame.time.Clock() to control the frame rate.
+  Character and Movement:
+
+  Draw a simple player character that can move left and right and jump.
+  Implement gravity so the player falls if not on a platform.
+  Ensure the player can only jump when on solid ground.
+  Scrolling World and Platforms:
+
+  Create a horizontally scrolling environment. The camera should track the player, so as the player moves right, new platforms appear.
+  Use a simple data structure for platforms (e.g., a list) and draw rectangles to represent them.
+  The player should land on platforms and not pass through them.
+  Coins and Score:
+
+  Add a few collectible “coins” along the way. When the player’s rectangle collides with a coin’s rectangle, remove the coin and increment a score counter displayed on the screen.
+  Simple Enemy:
+
+  Add one basic enemy that patrols on a platform.
+  If the player touches the enemy from the side, the player loses a life or restarts the level. If the player jumps on top of the enemy, the enemy is “defeated” and removed.
+  Game States and Polish:
+
+  Include a basic title screen and a simple “You Win” or “Game Over” screen.
+  Keep the code well-structured, commented, and all in one file.
+  After writing the initial code, briefly explain your reasoning and approach, and then refine it if necessary.
+  Please provide the complete code and a short summary of how everything works. If I need changes, I’ll ask for them afterward.
+
+
+  #ai #chatgpt #openai #technology #artificialintelligence #chatgpto1
 
 yt_tags:
   []

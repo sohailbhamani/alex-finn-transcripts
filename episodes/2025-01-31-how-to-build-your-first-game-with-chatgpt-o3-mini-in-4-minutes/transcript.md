@@ -6,6 +6,29 @@ duration: "9:38"
 duration_seconds: 578
 view_count: 4193
 author: "Alex Finn"
+description: |
+  OpenAI just released o3 Mini! Let's build a full game with it! No coding required! Complete beginner's guide.
+
+  Check out my X: https://x.com/AlexFinnX
+  Check out my AI content startup: https://www.creatorbuddy.io/
+  Subscribe to my free AI and entrepreneurship newsletter: https://www.1percentbetter.io/subscribe
+
+  Prompt: let's build a space shooting game using python and pygame. make sure you create everything involved including the game assets and rules
+  Windsurf:https://codeium.com/windsurf
+  Downloading Python: https://www.python.org/downloads/macos/
+  Install pip: python3 -m pip install --upgrade pip
+  install pygame: pip3 install pygame
+  Run game: python3 game.py
+
+
+  0:00 Intro
+  0:30 Where to find o3 Mini
+  1:41: Prompt to build game
+  3:30 Using Windsurf
+  3:50 Install Python and packages
+  4:44 Run game!
+  6:10 Updating the game
+  6:41 Our final game!
 
 yt_tags:
   []

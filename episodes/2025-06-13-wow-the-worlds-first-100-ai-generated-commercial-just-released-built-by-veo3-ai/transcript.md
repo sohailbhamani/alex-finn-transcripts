@@ -6,6 +6,8 @@ duration: "0:56"
 duration_seconds: 56
 view_count: 11298
 author: "Alex Finn"
+description: |
+  The world's first completely AI generated commercial just aired during the NBA Finals and it's mind blowing
 
 yt_tags:
   []

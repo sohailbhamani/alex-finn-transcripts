@@ -6,6 +6,24 @@ duration: "14:54"
 duration_seconds: 894
 view_count: 1067
 author: "Alex Finn"
+description: |
+  If you learn anything at all make sure to leave a like and subscribe!
+
+  In this video I explain what AI agents are, why they're important, what the best AI agent tools are, and how you can build your own.
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.1percentbetter.io/subscribe
+  Check out my AI content tool: https://www.creatorbuddy.io/
+
+  Bolt.new: https://bolt.new/
+  Manus: https://manus.im/app
+  Windsurf: https://windsurf.com/editor
+  Prompt: I want to build my own AI agent using Langchain. It should be able to take in a prompt do do research on the web based on that prompt. It should use Tavily for web searching.
+
+  0:00 What are AI agents?
+  4:23 Popular AI agent tools
+  9:02 How to take advantage
+  10:25 How to build your own AI agent
 
 yt_tags:
   []

@@ -6,6 +6,8 @@ duration: "0:54"
 duration_seconds: 54
 view_count: 1382
 author: "Alex Finn"
+description: |
+  I built an entire stock tracking application using AI. All it took was ONE PROMPT. No coding experience required at all.
 
 yt_tags:
   []

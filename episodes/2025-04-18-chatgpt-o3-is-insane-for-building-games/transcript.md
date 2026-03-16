@@ -6,6 +6,22 @@ duration: "8:53"
 duration_seconds: 533
 view_count: 3320
 author: "Alex Finn"
+description: |
+  Build, plan, and launch your first game using ChatGPT o3 and Cursor! ChatGPT o3 just launched and it literally feels like AGI. By the end of this video you'll have your own 3D game you can play and launch, no coding required!
+
+  If you learn anything at all make sure to leave a like and subscribe!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.1percentbetter.io/subscribe
+  Check out my AI content tool: https://www.creatorbuddy.io/
+
+  0:00 Intro
+  0:31 Prompt
+  1:23 Deep research
+  2:37 Image generation
+  4:33 Cursor
+  5:54 Playing the game
+  7:43 Challenge to you
 
 yt_tags:
   []

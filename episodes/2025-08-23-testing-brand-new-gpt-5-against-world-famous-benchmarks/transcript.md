@@ -6,6 +6,15 @@ duration: "1:19:37"
 duration_seconds: 4777
 view_count: 901
 author: "Alex Finn"
+description: |
+  THE VIBE LAB: https://discord.gg/jzHfG87M
+
+  Newest video: https://youtu.be/y11O01PQkbc
+
+  How to use GPT 5: https://youtu.be/RJfiOWkUQ8A
+
+
+  Build me a 3D first person shooter using threejs in a single html file. Make this game as stylistic, fun, and visually appealing as possible. Add any mechanics, powerups, and enemies you think will make the game more fun and beautiful.
 
 yt_tags:
   []

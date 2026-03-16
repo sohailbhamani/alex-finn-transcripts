@@ -6,6 +6,8 @@ duration: "0:22"
 duration_seconds: 22
 view_count: 1558
 author: "Alex Finn"
+description: |
+  This AI tool immediately turns any long form video into 20 different Youtube Shorts. Mind blowing...
 
 yt_tags:
   - "AI Tools"

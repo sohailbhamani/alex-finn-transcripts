@@ -6,6 +6,13 @@ duration: "6:08"
 duration_seconds: 368
 view_count: 19370
 author: "Alex Finn"
+description: |
+  The xAI API just launched and this totally revolutionizes AI! I take you through the API, why it's so important, and how to use it. I'll show you how to use Cursor AI to build with it as well!
+
+  Subscribe to my free newsletter: https://www.1percentbetter.io/subscribe
+  Follow me on X: https://x.com/AlexFinnX
+
+  #ai #aiprogramming #cursor #xai
 
 yt_tags:
   []

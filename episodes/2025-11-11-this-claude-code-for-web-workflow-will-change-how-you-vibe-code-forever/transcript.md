@@ -6,6 +6,24 @@ duration: "21:25"
 duration_seconds: 1285
 view_count: 16916
 author: "Alex Finn"
+description: |
+  Claude Code for Web allows you to use Claude Code ANYWHERE you are. Here's my master workflow for it
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Prompt to build journaling app:
+  I want to build a journaling app. It should be a beautiful, clean, simple app where the center piece is a markdown editor. on the left hand side shows all saved journal entries. Use NextJS, typescript, tailwind v3, and local storage for now for this app
+
+
+  Timestamps:
+  0:00 Intro
+  0:27 The 2 parts of this video
+  0:58 Building an app in Claude Code
+  4:36 Setting up Claude Code for Web
+  7:04 Our Claude Code for Web Master Workflow
+  15:56 Pulling down changes CC4W Made
 
 yt_tags:
   []

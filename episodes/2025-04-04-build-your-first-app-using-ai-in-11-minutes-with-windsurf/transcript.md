@@ -6,6 +6,27 @@ duration: "15:38"
 duration_seconds: 938
 view_count: 14823
 author: "Alex Finn"
+description: |
+  Leave a like and subscribe if you learned anything!
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+  Check out my AI startup: https://www.creatorbuddy.io/
+
+  Windsurf AI is the most powerful AI code editor out there right now. In this video I show you how to make your first AI chat bot app in Windsurf using the Claude Sonnet 3.7 API
+
+  Timestamps:
+  0:00 Intro
+  3:38 First Prompt
+  8:41 API key
+  10:25 First version of the app
+  11:19 Customize looks
+  12:17 Bouncing ideas off AI
+
+
+  Windsurf: https://codeium.com/windsurf
+
+  The prompt: I'd like to build an AI chat bot powered by the Claude Sonnett 3.7 API. I'd like to make it so it looks like a chat bot and I can message it and get responses back. Before we implement code, please build me a plan to build this
 
 yt_tags:
   []

@@ -6,6 +6,8 @@ duration: "1:02"
 duration_seconds: 62
 view_count: 3056
 author: "Alex Finn"
+description: |
+  Here's how you watch Sports while eating breakfast on the Apple Vision Pro #visionpro #apple #sports
 
 yt_tags:
   []

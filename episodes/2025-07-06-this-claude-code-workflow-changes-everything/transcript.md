@@ -6,6 +6,32 @@ duration: "15:50"
 duration_seconds: 950
 view_count: 26804
 author: "Alex Finn"
+description: |
+  In this video I show you how to master Claude Code by walking you through my master workflow. I used these tricks to build my AI startup and I'm positive you can too!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  Install Claude Code:
+  https://www.anthropic.com/claude-code
+  npm install -g @anthropic-ai/claude-code
+
+  Prompts:
+
+  Initial app prompt:
+  I want to build a 3D room with ThreeJS. In this 3D room will be an avatar we can talk to. This avatar will be powered by the OpenAI API so that we can chat with it and ask it questions. Please just build the room, the avatar, and the AI functionality so we can talk to the avatar.
+
+  CEO prompt:
+  Hi, I'm building out a 3D avatar in Cursor right now. It's a 3D avatar I can chat with and ask questions to. I want you to be the CEO of this company. Whenever the AI is building, I'm going to come and chat with you and get your advice and guidance. How does that sound?
+
+  Timestamps:
+  0:00 Intro
+  1:09 Senior developer
+  3:23 AI agent interns
+  8:16 Checking out the app
+  10:03 Building the CEO
+  15:10 Wrap up
 
 yt_tags:
   []

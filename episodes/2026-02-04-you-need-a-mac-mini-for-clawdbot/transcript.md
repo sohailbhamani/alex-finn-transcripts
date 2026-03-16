@@ -6,6 +6,25 @@ duration: "15:19"
 duration_seconds: 919
 view_count: 48797
 author: "Alex Finn"
+description: |
+  ClawdBot (OpenClaw) is a 24/7 AI agent employee and it is the most powerful technology I've ever used. Here are all the ways to set it up and why Mac Mini is the best
+
+  FULL ClawdBot bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  ClawdBot:
+  https://openclaw.ai/
+
+  What other information can I provide you to improve our productivity
+  Timestamps:
+  0:00 Intro
+  0:34 The options
+  1:07 Mac Mini vs VPS
+  5:25 One click launch services
+  7:29 Old computer in your closet
+  9:19 Mac Studio
 
 yt_tags:
   []

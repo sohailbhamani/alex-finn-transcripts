@@ -6,6 +6,8 @@ duration: "0:43"
 duration_seconds: 43
 view_count: 2041
 author: "Alex Finn"
+description: |
+  You won't believe what the Rabbit R1 is capable of #shorts #ai #rabbit
 
 yt_tags:
   []

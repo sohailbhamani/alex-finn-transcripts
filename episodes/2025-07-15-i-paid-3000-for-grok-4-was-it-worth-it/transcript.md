@@ -6,6 +6,75 @@ duration: "18:34"
 duration_seconds: 1114
 view_count: 29407
 author: "Alex Finn"
+description: |
+  Grok 4 Heavy costs $3,000 for the year! In this video I buy Grok 4 Heavy and compare it to Claude 4 Opus to see which is the king AI!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  https://grok.com/
+
+
+  Prompts:
+  Test 1:
+  Create a minecraft-style procedural terrain generator using Three.js. Requirements:
+
+  - Infinite terrain that generates as the player moves
+  - Multiple biomes (forest, desert, snow, mountains) with smooth transitions
+  - Perlin noise for realistic terrain height
+  - Different block types per biome (grass, sand, snow, stone)
+  - Basic player movement with WASD + spacebar to jump
+  - Chunk-based loading system for performance
+  - Day/night cycle with changing lighting
+  - Trees and basic vegetation that spawn based on biome rules
+  - Underground caves using 3D noise
+  - Water at sea level
+  Make it visually impressive and performant. Use modern Three.js best practices
+  - All on one file so I can run it easily (index.html).
+
+  Test 2:
+
+  Create a comprehensive stock analysis dashboard in a SINGLE HTML file with inline CSS and JavaScript.
+
+  Requirements:
+  1. Use CDN links for libraries:
+     - Chart.js or Plotly for charts
+     - Axios for API calls
+     - No build tools, everything runs in browser
+
+  2. Core Features:
+     - Stock search/ticker input
+     - Real-time price display with sparkline
+     - Key metrics dashboard (PE, volume, market cap, etc)
+     - Interactive price chart with multiple timeframes
+     - Visualization of price movements or volume
+     - Watchlist functionality (stored in localStorage)
+     - Technical indicators overlay
+
+  3. Use FREE APIs that work from browser:
+     - Alpha Vantage (requires free API key)
+
+  4. Make it look professional with:
+     - Dark mode financial theme
+     - Responsive grid layout
+     - Smooth animations
+     - Loading states
+     - Error handling
+
+  Everything must work by simply opening the HTML file in a browser.
+
+
+  Timestamps:
+  0:00 Intro
+  0:32 What is Grok 4 Heavy?
+  2:07 3D World Simulator
+  4:16 Grok test 1 results
+  5:17 Opus test 1 results
+  9:08 Test 2
+  11:35 Opus test 2 results
+  14:54 Grok test 2 results
+  15:41 Is Grok 4 worth it?
 
 yt_tags:
   []

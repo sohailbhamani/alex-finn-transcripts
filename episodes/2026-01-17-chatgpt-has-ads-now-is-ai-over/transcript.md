@@ -6,6 +6,8 @@ duration: "1:56:52"
 duration_seconds: 7012
 view_count: 2124
 author: "Alex Finn"
+description: |
+  Join the Vibe Coding Academy: vibecodingacademy.dev
 
 yt_tags:
   []

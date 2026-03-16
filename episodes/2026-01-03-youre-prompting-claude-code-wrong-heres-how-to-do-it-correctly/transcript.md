@@ -6,6 +6,63 @@ duration: "14:42"
 duration_seconds: 882
 view_count: 19541
 author: "Alex Finn"
+description: |
+  Anthropic just released a Claude Code prompting guide. Here's the top 10 tips from it
+
+  Join the Vibe Coding Academy waitlist: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Prompting guide:
+  https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices#research-and-information-gathering
+
+  Load up context prompt:
+  take a look at the app and architecture. Understand deeply how it works inside and out. Ask me any questions if there are things you don't understand. This will be the basis for the rest of our conversation.
+
+  Tool use summaries:
+  After completing a task that involves tool use, provide a quick summary of the work you've done
+
+  Adjust eagerness down:
+  Do not jump into implementation or change files unless clearly instructed to make changed. When the user's intent is ambiguous, default to providing information, doing research, and providing recommendations rather than taking action. Only proceed with edits, modifications, or implementations when the user explicitly requests them.
+
+  Adjust eagerness up:
+  By default, implement changes rather than only suggesting them. If the user's intent is unclear, infer the most useful likely action and proceed, using tools to discover any missing details instead of guessing. Try to infer the user's intent about whether a tool call (e.g. file edit or read) is intended or not, and act accordingly.
+
+  Use parallel tool calls:
+  If you intend to call multiple tools and there are no dependencies
+  between the tool calls, make all of the independent tool calls in
+  parallel. Prioritize calling tools simultaneously whenever the
+  actions can be done in parallel rather than sequentially. For
+  example, when reading 3 files, run 3 tool calls in parallel to read
+  all 3 files into context at the same time. Maximize use of parallel
+  tool calls where possible to increase speed and efficiency.
+  However, if some tool calls depend on previous calls to inform
+  dependent values like the parameters, do not call these tools in
+  parallel and instead call them sequentially. Never use placeholders
+  or guess missing parameters in tool calls.
+
+  Reduce hallucinations:
+  Never speculate about code you have not opened. If the user
+  references a specific file, you MUST read the file before
+  answering. Make sure to investigate and read relevant files BEFORE
+  answering questions about the codebase. Never make any claims about
+  code before investigating unless you are certain of the correct
+  answer - give grounded and hallucination-free answers.
+
+
+  Timestamps:
+  0:00 Intro
+  0:26 Tip 1 explain motivations
+  1:43 Tip 2 context windows
+  2:57 Tip 3 load up context
+  4:04 Tip 4 use git
+  5:18 Tip 5 tool use summaries
+  6:33 Tip 6 adjust eagerness
+  8:02 Tip 7 careful about the word think
+  9:25 Tip 8 use vision
+  11:20 Tip 9 use parallel tool calls
+  12:56 Tip 10 reduce hallucinations
 
 yt_tags:
   []

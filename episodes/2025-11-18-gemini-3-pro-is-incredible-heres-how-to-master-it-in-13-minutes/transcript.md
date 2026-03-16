@@ -6,6 +6,21 @@ duration: "13:11"
 duration_seconds: 791
 view_count: 19204
 author: "Alex Finn"
+description: |
+  Google Gemini 3 Pro just released and I put it through a bunch of tests. Here's how it turned out...
+
+  Sign up for my free newsletter (first info on Vibe Coding Academy): https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Gemini 3 Pro:
+  gemini.google.com
+
+  Timestamps:
+  0:00 Intro
+  0:58 Strengths
+  5:17 Weaknesses
+  11:38 When to use
 
 yt_tags:
   []

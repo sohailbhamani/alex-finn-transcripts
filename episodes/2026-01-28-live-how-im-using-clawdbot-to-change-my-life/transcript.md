@@ -6,6 +6,11 @@ duration: "1:55:40"
 duration_seconds: 6940
 view_count: 16079
 author: "Alex Finn"
+description: |
+  Join the Vibe Coding Academy: https://vibecodingacademy.dev/
+
+  How to fix your memory prompt:
+  Enable memory flush before compaction and session memory search in my Clawdbot config. Set `compaction.memoryFlush.enabled` to true and set `memorySearch.experimental.sessionMemory` to true with sources including both memory and sessions. Apply the config changes.
 
 yt_tags:
   []

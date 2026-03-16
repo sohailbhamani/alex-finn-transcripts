@@ -6,6 +6,21 @@ duration: "16:36"
 duration_seconds: 996
 view_count: 5374
 author: "Alex Finn"
+description: |
+  In this video I go through the 4 steps you need to take to find million dollar AI app ideas. By the end of this video I promise you'll have an idea for an app you can quickly build and ship.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+  MY AI content app: https://www.creatorbuddy.io/
+
+  0:00 Intro
+  1:09 Step 1
+  5:54 Step 2
+  9:05 Step 3
+  12:26 Step 4
+
+  #ai #saas #cursor #software #boltnew
 
 yt_tags:
   []

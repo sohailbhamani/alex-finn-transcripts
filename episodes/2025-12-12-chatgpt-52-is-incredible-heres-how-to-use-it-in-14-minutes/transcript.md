@@ -6,6 +6,127 @@ duration: "14:30"
 duration_seconds: 870
 view_count: 18641
 author: "Alex Finn"
+description: |
+  ChatGPT 5.2 just dropped and it's amazing. Here are all the strengths, weakness, and a master workflow.
+
+  Join the Vibe Coding Academy: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  BUSINESS PROMPT:
+  You are my brutally practical cofounder. I’ll give you my background + interests. Your job: generate app + business ideas that are actually shippable and sellable, not generic “AI habit tracker” trash.
+
+  My profile
+
+  Career/skills: I'm a content creator who makes tweets and videos about vibe coding
+
+  Interests/obsessions: AI, technology, entrepreneurship, investing, business
+
+  People I can reach / distribution: 55,000 on youtube and 300,000 on X
+
+  What I refuse to build: super massive, expensive, large scope projects
+
+  Time/complexity limit: 2 months
+
+  Platforms: iOS app or web app
+
+  Output rules
+
+  Give 8 ideas. Each must have:
+
+  Name (2–4 words)
+
+  One-sentence pitch
+
+  Target user
+
+  Pain it solves (specific)
+
+  MVP in 5 bullets (smallest real thing)
+
+  Why this wins (1 clear differentiator)
+
+  Monetization (price + model)
+
+  Fast distribution angle (how you’d get first 100 users)
+
+  Build time estimate (Weekend / 1 week / 2–4 weeks)
+
+  Then pick the best 1 and give:
+
+  a 30-second founder pitch
+
+  a 7-day execution plan (Day 1–7, concrete)
+
+  the first 3 screens (or pages) it needs
+
+  Hard constraints
+
+  No saturated ideas (todo, generic journaling, generic habit tracking, generic “AI chatbot wrapper”).
+
+  At least 3 ideas must be “weird but plausible” (novel combo of my interests).
+
+  Keep it tight. No essays.
+
+  STOCKS PROMPT:
+  You are my AI equity research analyst + data engineer. Use your tools (web browsing + market data + code) to produce an investor-ready output.
+
+  Universe:
+
+  * Analyze these AI-related tickers: NVDA, AMD, AVGO, TSM, ASML, MU, ARM, MSFT, GOOGL
+  * Benchmark: S&P 500 (or SPY)
+
+  Rules:
+
+  * You MUST browse the web for current info and cite sources for every key claim (earnings, guidance, major partnerships, regulatory issues, major product roadmap, competitive threats).
+  * Use market data tools for prices/returns when available; otherwise retrieve from reputable sources.
+  * No fluff. If you can’t verify something, say “unverified” and move on.
+
+  Deliverables (in this order):
+
+  1. Action Log (8–20 bullets)
+
+  * Briefly list what you did (e.g., “Pulled price history,” “Read latest earnings,” “Extracted guidance,” “Built spreadsheet,” “Generated charts”). No internal reasoning, just actions.
+
+  2. Spreadsheet (create a downloadable file)
+     Include one row per ticker with columns:
+
+  * Ticker, Company, Sub-sector (chips/cloud/software/etc.)
+  * Current price, 1D %, YTD %, 1Y %, 3Y % (if available)
+  * Market cap, Forward P/E (or N/A), Revenue growth (latest YoY), Operating margin (latest)
+  * “Moat score” 1–5 and moat drivers (short)
+  * Key risks (short)
+  * 3 bull catalysts (short)
+  * 3 bear catalysts (short)
+  * “What would change my mind?” (one line)
+
+  3. Charts (generate at least 2)
+
+  * Chart A: Indexed performance over the last 12 months for all tickers vs SPY (start = 100)
+  * Chart B: Max drawdown over the last 12 months (bar chart)
+
+  4. Research Summary (tight)
+
+  * For each ticker: 3-bullet bull case + 3-bullet bear case + 1-sentence moat
+  * Then: rank top 3 “best risk/reward” and top 3 “most fragile,” with one sentence each explaining why.
+
+  5. Sources
+
+  * List sources used per company (links/citations).
+
+
+  Timestamps:
+  0:00 Intro
+  0:30 Benchmarks
+  1:04 Strengths and weaknesses
+  1:50 Business prompt
+  5:45 Other strengths
+  6:38 Stock researching
+  9:09 Other strengths
+  9:49 Weaknesses
+  12:28 Pricing
+  12:42 When to use it
 
 yt_tags:
   []

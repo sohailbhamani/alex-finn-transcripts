@@ -7,6 +7,34 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  You need a mission control in your OpenClaw! Here is how to set it up easily.
+
+  FULL OpenClaw bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  OpenClaw:
+  https://openclaw.ai/
+
+  Prompts:
+  I want to build a subagent that you will use for all coding activities. anytime you need to code something, you will use this subagent. Please name the subagent Jason and have it run on ChatGPT 5.4. Let me know what we need to do to set up that oauth or API key.
+
+  I want to build a subagent that you will use for all research activities. every morning at 8am, please have this subagent search the web to find trending news about AI and vibe coding and AI agents. also please put them in our ai agent org chart in mission control. please use Qwen 3.5 for this subagent
+
+  Mission control video:
+  https://youtu.be/RhLpV6QDBFE
+
+  Timestamps:
+  0:00 Intro
+  1:55 Which agents you'll build
+  3:19 Models to choose
+  4:57 Building 1st subagent
+  6:49 Why subagents
+  7:58 Mission control additions
+  11:39 Setting up more subagents
+  15:55 The future
 
 yt_tags:
   []

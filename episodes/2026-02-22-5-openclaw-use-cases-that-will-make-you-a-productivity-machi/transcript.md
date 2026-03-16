@@ -7,6 +7,36 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  Here are 5 OpenClaw use cases I PROMISE will improve your life
+
+  FULL OpenClaw bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  OpenClaw:
+  https://openclaw.ai/
+
+  PROMPTS:
+
+  Please every morning at 7am open up [calendar.google.com](http://calendar.google.com/) in your own chrome browser. check to see what meetings I have that day. Then build me a prep doc with research about who I'm meeting with and any other context you might have about that meeting. Then schedule a task to remind me 15 minutes before each meeting.
+
+  Every Friday at 8am please send me a message checking in on my goals. Ask for my progress and how I feel about them at that time. Also ask what my biggest blocker is. Then ask about my mental health and have me talk about my mood. Track all of this in a new document that I can go back and review and track all my progress.
+
+  I want you to build me a learning plan around LLMs. I want to get 1% better at learning about this subject every morning. Please build a 30 day lesson plan, then every morning at 7am send me a brief document going over the lesson for that day so I can learn more about it. Create and save a document with that lesson for the day
+
+  I want to set up an advanced content creation pipeline inside of Discord. This should be a multi channel, multi agent approach. I want one channel for tweet alerts where an agent checks X every 2 hours for trending tweets in AI. I then want a research channel that takes the tweets and researches the stories behind them. I then want a content channel that turns those stories into scripts. Please walk through step by step setting this up
+
+  Every morning at 6am take a look at my to do list in Things 3. Find 1-3 tasks you can complete for me. I'd prefer writing or research tasks. Then create a document that summarizes everything you did.
+
+  Timestamps:
+  0:00 Intro
+  0:38 Meeting prep
+  3:15 Personal coach
+  5:51 Personal tutor
+  7:52 Research and content pipeline
+  8:33 Autonomous employee
 
 yt_tags:
   []

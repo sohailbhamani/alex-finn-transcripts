@@ -6,6 +6,21 @@ duration: "14:35"
 duration_seconds: 875
 view_count: 15913
 author: "Alex Finn"
+description: |
+  I use Replit Agent to build an amazing hack and slash game using just a few prompts. Follow along to build, deploy, and monetize your own video game, no coding required.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+  MY AI content app: https://www.creatorbuddy.io/
+
+  Replit Agent: https://replit.com/
+
+  0:00 Intro
+  0:39 Replit
+  3:38 V1 of the game
+  5:12 New monsters
+  8:37 New power ups
 
 yt_tags:
   []

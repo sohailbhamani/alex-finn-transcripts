@@ -6,6 +6,28 @@ duration: "13:19"
 duration_seconds: 799
 view_count: 13952
 author: "Alex Finn"
+description: |
+  Leave a like and subscribe if you learned anything!
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+  Check out my AI content app: https://www.creatorbuddy.io/
+
+  Learn how to build your first app with AI! No programming experience necessary! Beginner friendly! We use Grok 3 and Cursor to build a real time news app in under 10 minutes. You can then use these skills to build any application or game you want.
+
+  Timestamps:
+  0:00 Intro
+  0:46 Grok 3 intro
+  1:58 Coding prompt
+  2:25 Cursor
+  4:00 Run boilerplate
+  5:06 First UI elements
+  7:45 Implement xAI API
+  10:15 Test out real time news
+  10:59 UI improvements
+  11:45 Why Grok 3 is so important
+
+  Cursor: https://www.cursor.com/
 
 yt_tags:
   []

@@ -7,6 +7,39 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  Setting up OpenClaw in Discord gives you a multi agent workflow that changes everything. Here's how to set it up.
+
+  FULL OpenClaw bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  OpenClaw:
+  https://openclaw.ai/
+
+  PROMPTS:
+  I want to set you up in a discord server so I can communicate with you there. Please walk me through getting you in as a bot in Discord so I can communicate with you
+
+  Hey Openclaw I want channels for each one of my projects we are working on. please build out a channel in discord for every major project we are working on and make sure i can communicate with you from each
+
+  Please build a new channel for me for stock research. Every morning at 7am please send me a research report that goes over important stocks involved with the AI buildout. These should be stocks that stand to benefit by AI being built out more. They should also have comptitive advantages and strong moats. These could be chips, energy, or any other part of the supply chain. Do this for 7am every morning
+
+  Please create a competitive research channel for me that finds youtube videos from my competitors about vibe coding and openclaw. rank them by trending. I want to find the newest trending videos. Send it to me every morning at 8am
+
+  I want to set up a multi agent workflow in this discord. I want one channel where veery morning an agent gets spun up that researches X posts for trending content on openclaw. A half hour after that I want another sub agent spun up that takes those tweets and researches the stories behind them and puts them in a research channel. then a half hour after that have another agent take those research stories and create scripts for each that I can approve that sends an indicator if I like the script or not
+
+  Based on everything you know about me, my goals, my ambitions, and workflows we've done in the past, what are some advanced multi agent automations we can create in Discord?
+
+  Timestamps:
+  0:00 Intro
+  1:25 My Discord setup
+  9:39 How to set this up
+  21:49 Models to use
+  25:33 Devices you need
+  26:46 Security
+  28:02 Your own use cases
+  30:34 Dashboard
 
 yt_tags:
   []

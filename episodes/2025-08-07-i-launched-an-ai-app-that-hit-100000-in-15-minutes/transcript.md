@@ -6,6 +6,36 @@ duration: "22:47"
 duration_seconds: 1367
 view_count: 7851
 author: "Alex Finn"
+description: |
+  6 months ago I launched an AI app called Creator Buddy that hit $100,000 ARR in 15 minutes. In this video I walk you through step by step how to do the exact same thing, even if you've never coded before in your life
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Master Claude Code: https://youtu.be/iYiuzAsWnHU
+
+  Prompt 1:
+
+  I want to build an app that solves a challenge I have. The challenge I'm trying to solve is "I don't know what meals I can meal prep for my entire week. I have a list of ingredients but don't know what to make". Please list 5 solutions I can vibe code that will solve this challenge.
+
+  Prompt 2:
+
+  I like the idea of giving a list of ingredients in my fridge and then an AI takes those ingredients and recommends me 3 meals I can meal prep that week with those ingredients. It gives me step by step instructions on how to build those meals. Please give me an initial prompt I can put into Claude Code to build v1 of this app using NextJS
+
+  npm install -g @anthropic-ai/claude-code
+
+  cursor.com
+
+  https://openai.com/api/
+
+  0:00 Intro
+  1:20 Finding your idea
+  3:39 Choosing your idea
+  8:46 Building the app
+  13:40 Building hype for your app
+  18:18 Getting people onto the app
+  20:08 Getting your first customer
 
 yt_tags:
   []

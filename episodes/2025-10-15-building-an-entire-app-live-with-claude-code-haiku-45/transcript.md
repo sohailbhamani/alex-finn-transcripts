@@ -6,6 +6,8 @@ duration: "2:15:36"
 duration_seconds: 8136
 view_count: 2733
 author: "Alex Finn"
+description: |
+  NUMBER 14 TECH NEWSLETTER IN THE WORLD alexfinn.ai/subscribe
 
 yt_tags:
   []

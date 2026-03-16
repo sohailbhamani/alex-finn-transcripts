@@ -6,6 +6,25 @@ duration: "18:34"
 duration_seconds: 1114
 view_count: 7518
 author: "Alex Finn"
+description: |
+  In this video I go through the 8 AI tools I used to build and launch an AI app that is making me $300,000 a year. By the end of this video you'll have every tool you need to build and launch an AI app you can make money off of
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.alexfinn.ai
+  My AI content app: https://www.creatorbuddy.io/
+
+  Prompt I used: I am a content creator in the entrepreneur space. I create content on how to start businesses online. What are 3 challenges people in my space have that I can solve with a really simple app?
+
+  0:00 Intro
+  1:02 Tool 1
+  4:04 Tool 2
+  6:00 Tool 3
+  7:44 Tool 4
+  9:47 Tool 5
+  11:00 Tool 6
+  12:35 Tool 7
+  14:30 Tool 8
 
 yt_tags:
   []

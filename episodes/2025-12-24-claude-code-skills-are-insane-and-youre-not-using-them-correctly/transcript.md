@@ -6,6 +6,47 @@ duration: "17:52"
 duration_seconds: 1072
 view_count: 32552
 author: "Alex Finn"
+description: |
+  Claude Code Skills are incredible. Here are 6 Claude Skills you need to know about
+
+  Join the Vibe Coding Academy: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Frontend Design Skill
+  https://x.com/trq212/status/1989061939625144388?s=20
+  Best skill in the game. Makes Claude Code build WAY better UI. MUST install.
+
+  Content research writer
+  https://github.com/ComposioHQ/awesome-claude-skills/blob/master/content-research-writer/SKILL.md
+  Takes a look at your app and writing style and writes you content based on that. Can create outlines and do research online with citations.
+
+  Stripe payments
+  https://skillsmp.com/skills/wshobson-agents-plugins-payment-processing-skills-stripe-integration-skill-md
+  Integrating Stripe is in my opinion one of the most challenging parts of the app building process. Technically complex and frustrating to test. This skill makes it easier.
+
+  Domain name finder
+  https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-utilities-domain-name-brainstormer-skill-md
+  This skill is awesome. Looks at your app then goes online and comes up with app names and searches domain websites to see which ones are available. Will save you hours of brainstorming and searching spammy domain sites
+
+  Lead Finder
+  https://github.com/ComposioHQ/awesome-claude-skills/blob/master/lead-research-assistant/SKILL.md
+  Looks at your app, thinks about who the target audience should be, then finds you companies and people online you should target for marketing. Gives you websites, linkedin profiles, and reachout strategies for talking to those customers. Brilliant.
+
+  Skill Creator
+  https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator
+  Helps you create your own, detailed skills. So any reusable processes you have in the future you do over and over, you can now build great skills for them.
+
+  Timestamps:
+  0:00 Intro
+  0:37 What Claude Skill are
+  3:05 Design skill
+  5:47 Domain name finder
+  8:23 Stripe Skill
+  10:08 Content researcher and writer
+  13:40 Lead researcher
+  16:30 Skill creator
 
 yt_tags:
   []

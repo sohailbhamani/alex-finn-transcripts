@@ -6,6 +6,45 @@ duration: "9:59"
 duration_seconds: 599
 view_count: 51663
 author: "Alex Finn"
+description: |
+  You NEED to be using the Claude Code Ralph Wiggum plugin. Here's how
+
+  Join the Vibe Coding Academy: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  INSTALL RALPH WIGGUM:
+  /plugin install ralph-loop@claude-plugins-official
+
+  RALPH WEBSITE:
+  https://awesomeclaude.ai/ralph-wiggum
+
+  PROMPT (in the prompt, replace where I put (open bracket) and (closed bracket) with the actual brackets (shift comma and shift period) (youtube doesn't allow me to put brackets in descriptions, sorry):
+
+  /ralph-loop:ralph-loop "Implement Project Management Tool.
+
+  Requirements:
+  - Full project management tool vibe coders can use to build projects
+  - Use NextJS/Tailwind to build this out plus local storage
+  - Kanban board functionality
+  - built in todo list
+
+  Success criteria:
+  - All requirements implemented
+  - No linter errors
+  - Documentation updated showing how app works
+
+  Output (open bracket)promise(closed bracket)COMPLETE(open bracket)/promise(closed bracket) when done." --max-iterations 30 --completion-promise "COMPLETE"
+
+
+  Timestamps:
+  0:00 Intro
+  0:30 How Ralph Wiggum works
+  2:26 Installing Ralph Wiggum
+  3:09 The prompt
+  5:22 Ralph working
+  8:55 Reviewing the results
 
 yt_tags:
   []

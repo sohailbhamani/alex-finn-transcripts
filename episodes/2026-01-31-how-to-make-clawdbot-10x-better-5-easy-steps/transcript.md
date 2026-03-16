@@ -6,6 +6,32 @@ duration: "10:23"
 duration_seconds: 623
 view_count: 78836
 author: "Alex Finn"
+description: |
+  ClawdBot is a 24/7 AI agent employee and it is the most powerful technology I've ever used. Here are 5 steps to making it way smarter
+
+  FULL ClawdBot bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  ClawdBot:
+  https://openclaw.ai/
+
+  PROMPTS
+  Memory prompt:
+  Enable memory flush before compaction and session memory search in my Clawdbot config. Set `compaction.memoryFlush.enabled` to true and set `memorySearch.experimental.sessionMemory` to true with sources including both memory and sessions. Apply the config changes.
+
+  Reverse prompts:
+  Based on what you know about me and my goals, what are some tasks you can do to get us closer to our missions?
+
+  What other information can I provide you to improve our productivity
+  Timestamps:
+  0:00 Intro
+  0:23 Improving memory
+  1:39 Use the right models
+  3:24 Set expectations with Clawd
+  6:28 Reverse prompting
+  8:04 Create your own tooling
 
 yt_tags:
   []

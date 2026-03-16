@@ -7,6 +7,8 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  Join the Vibe Coding Academy: https://vibecodingacademy.dev
 
 yt_tags:
   []

@@ -6,6 +6,18 @@ duration: "8:54"
 duration_seconds: 534
 view_count: 50000
 author: "Alex Finn"
+description: |
+  ChatGPT 5.1 just dropped and it's amazing. Here are all the strengths, weakness, and a master workflow.
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Timestamps:
+  0:00 Intro
+  0:27 The announcement
+  1:02 Strengths and weaknesses
+  4:16 How to use it
 
 yt_tags:
   []

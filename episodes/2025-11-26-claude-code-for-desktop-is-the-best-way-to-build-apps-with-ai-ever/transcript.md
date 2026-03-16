@@ -6,6 +6,22 @@ duration: "14:03"
 duration_seconds: 843
 view_count: 95154
 author: "Alex Finn"
+description: |
+  Claude Code for Desktop makes building with AI so easy. Here's how to use it and my master workflow
+
+  Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+
+  Timestamps:
+  0:00 Intro
+  0:21 Walking through the app
+  1:40 First prompt
+  5:09 Combining chat with Claude Code
+  7:29 Spinning up cloud agents
+  11:21 Testing out our app
 
 yt_tags:
   []

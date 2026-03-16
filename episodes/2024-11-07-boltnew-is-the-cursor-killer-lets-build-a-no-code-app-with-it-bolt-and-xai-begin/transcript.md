@@ -6,6 +6,35 @@ duration: "9:10"
 duration_seconds: 550
 view_count: 6920
 author: "Alex Finn"
+description: |
+  In this video we use the Cursor killer (Bolt.New) to build a stock analysis app. We use the xAI API to feed in real time data as well.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+
+  Bolt:
+  https://bolt.new/
+
+  xAI:
+  https://console.x.ai/
+
+  Computer Use github:
+  https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo
+
+  0:00 What we are going to build
+  1:11 Bolt intro
+  1:48 Start building
+  3:12 Charting complete
+  4:03 Hooking up price data
+  5:26 Real time pricing complete
+  6:05 xAI API key
+  7:43 Real time data implemented
+
+
+
+  #ai #aiagent #xai  #technology #artificialintelligence #bolt
 
 yt_tags:
   []

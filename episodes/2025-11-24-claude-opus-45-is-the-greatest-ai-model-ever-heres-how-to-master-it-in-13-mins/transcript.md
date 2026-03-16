@@ -6,6 +6,28 @@ duration: "13:50"
 duration_seconds: 830
 view_count: 28401
 author: "Alex Finn"
+description: |
+  Claude Opus 4.5 is the best AI model ever. Here's why and how to get the absolute most out of it
+
+  Join the Vibe Coding Academy waitlist: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Announcement post:
+  https://www.anthropic.com/news/claude-opus-4-5
+
+
+
+  Timestamps:
+  0:00 Intro
+  0:45 Everything that's new
+  3:22 Claude Code Desktop
+  5:10 Using Opus for Coding
+  6:07 Testing Opus Coding
+  9:02 Chatting with Opus 4.5
+  11:06 Opus 4.5 Workflow
+  13:01 Use cases
 
 yt_tags:
   []

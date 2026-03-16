@@ -6,6 +6,27 @@ duration: "17:19"
 duration_seconds: 1039
 view_count: 19442
 author: "Alex Finn"
+description: |
+  Google Antigravity is an EXCELLENT AI coding tool. Here's everything you need to know including how to use it to build your first AI app
+
+  Join the Vibe Coding Academy waitlist: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Google Antigravity:
+  https://antigravity.google
+
+  Original Prompt:
+  Create a heroes of might and magic game in threeJS in voxel style. Before creating it, write up a Game Design Document first.
+
+  Timestamps:
+  0:00 Intro
+  0:25 Download and pricing
+  1:00 Why it's so cool
+  5:09 Building out an awesome app
+  12:22 Final result
+  13:15 Why Google will win
 
 yt_tags:
   []

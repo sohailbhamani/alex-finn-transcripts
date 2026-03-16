@@ -6,6 +6,23 @@ duration: "13:39"
 duration_seconds: 819
 view_count: 5770
 author: "Alex Finn"
+description: |
+  Get $10 in credit when you sign up for Replit Core with my referral link!! https://replit.com/refer/AlexFinn2
+
+  Replit just released some new functionality that allows you to build an AI that manages your entire life. In this video I show you how to vibe code an agent that can manage your google calendar, gmail, google docs, and Spotify
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Prompt:
+  I want to build an AI agent app that manages my life. It should integrate with Google docs, Google sheets, Google Calendar, and Spotify (I connected all of these in integrations.) It should when I hit a button check my google calendar, and if there are blank spots from 9-5 make 1 hour blocks for different productive tasks like meditate, walk, or write. Then it should create a google doc with a rundown of my day with tips. Then it should create a google sheet with an analysis of my stock portoflio which includes HOOD and TSLA. Then finally build me a custom playlist in spotify. Really simple and clean interface.
+
+  Timestamps:
+  0:00 Intro
+  1:10 Replit Connectors
+  3:35 First Prompt
+  10:07 Testing the agent
 
 yt_tags:
   []

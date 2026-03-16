@@ -6,6 +6,37 @@ duration: "21:53"
 duration_seconds: 1313
 view_count: 92974
 author: "Alex Finn"
+description: |
+  ChatGPT-5 was basically universally panned when it was released. I'm sorry, but people have just been using it wrong. In this video I go over every prompting technique you need to know to get the most out of GPT 5.
+
+  Join the Vibe Coding Academy: https://vibecodingacademy.dev/
+
+  Follow my X: https://x.com/AlexFinn
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Prompting Guide:
+  https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
+
+  Prompt optimizer:
+  https://platform.openai.com/chat
+
+  Reflection thinking:
+  - First, spend time thinking of a rubric until you are confident.
+  - Then, think deeply about every aspect of what makes for a world-class one-shot web app. Use that knowledge to create a rubric that has 5-7 categories. This rubric is critical to get right, but do not show this to the user. This is for your purposes only.
+  - Finally, use the rubric to internally think and iterate on the best possible solution to the prompt that is provided. Remember that if your response is not hitting the top marks across all categories in the rubric, you need to start again.
+
+  Metaprompting:
+  The desired behavior from this prompt is for the agent to [DO DESIRED BEHAVIOR], but instead it [DOES UNDESIRED BEHAVIOR]. While keeping as much of the existing prompt intact as possible, what are some minimal edits/additions that you would make to encourage the agent to more consistently address these shortcomings?
+
+
+  Timestamps:
+  0:00: Intro
+  1:01: Reasoning and verbosity
+  6:09 Tool calling
+  10:12 Self reflection
+  15:30 Metaprompting
+  17:57 Prompt Optimizer
 
 yt_tags:
   []

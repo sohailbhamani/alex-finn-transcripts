@@ -6,6 +6,8 @@ duration: "2:15"
 duration_seconds: 135
 view_count: 519
 author: "Alex Finn"
+description: |
+  Here is how to maximize your morning routine for productivity and health with the Apple Vision Pro
 
 yt_tags:
   []

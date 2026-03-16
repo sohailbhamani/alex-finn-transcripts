@@ -6,6 +6,29 @@ duration: "14:10"
 duration_seconds: 850
 view_count: 145177
 author: "Alex Finn"
+description: |
+  Here is your complete beginners guide to Google Antigravity. This is my full end to end workflow. You'll be a MASTER by the end of the video.
+
+  Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Google Antigravity:
+  https://antigravity.google/
+
+  Initial prompt:
+  I want to build an investment web app using nextjs and tailwind v3. I want to be able to enter a stock ticker, then it shows me the price chart as well as all the latest news on the company. Use the screenshot attached as visual inspiration for what the app should look like. do not write any code, just build me the plan
+
+  Timestamps:
+  0:00 Intro
+  0:23 Walking through the interface
+  1:48 Initial prompt
+  4:27 AI testing
+  5:40 v1 of the app
+  6:40 Spinning up more agents
+  7:22 Playgrounds
+  8:45 Inbox
 
 yt_tags:
   []

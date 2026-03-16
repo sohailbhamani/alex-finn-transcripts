@@ -6,6 +6,8 @@ duration: "1:48:00"
 duration_seconds: 6480
 view_count: 2893
 author: "Alex Finn"
+description: |
+  Sign up for the number 1 newsletter on Earth: alexfinn.ai/subscribe
 
 yt_tags:
   []

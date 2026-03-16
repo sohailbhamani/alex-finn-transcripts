@@ -6,6 +6,42 @@ duration: "21:49"
 duration_seconds: 1309
 view_count: 4841
 author: "Alex Finn"
+description: |
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  Learn how to build an AI powered Todoist clone (to-do app) with AI! No programming experience necessary! Beginner friendly! We build a todo app that uses the ChatGPT API to break down full activities into tasks automatically like magic. You can then use these skills to build any application or game you want.
+
+  We used Cursor to build out the functionality, v0 to build out the UI, and the ChatGPT API to implement API functionality. This was all done with no-code! Very beginner friendly!
+
+  Links:
+  Cursor: https://www.cursor.com/
+  v0: https://v0.dev/
+  ChatGPT API: https://platform.openai.com/
+
+  Timestamps:
+  0:00 Intro
+  0:32 v0 to build UI
+  1:56 Cursor to build out functionality
+  3:45 Install NextJS
+  4:02 UI Built
+  5:31 Completed tasks functionality
+  7:22 Add categories to tasks
+  8:40 Add ChatGPT API functionality
+  11:10 Get ChatGPT API key
+  12:37 First ChatGPT API test
+  13:12 Debugging ChatGPT API
+  15:48 ChatGPT API Works!
+  16:21 AI powered categories
+  18:39 Using Claude to brainstorm
+  20:00 AI powered time estimates
+  21:03 Next steps
+
+  Commands:
+  bunx create-next-app .
+  npm run dev
+
+  #cursor #ai #aiprogramming #chatgpt #chatgptapi #claude #todoist
 
 yt_tags:
   - "ai"

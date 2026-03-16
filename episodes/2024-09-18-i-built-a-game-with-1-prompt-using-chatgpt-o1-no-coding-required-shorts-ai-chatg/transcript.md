@@ -6,6 +6,8 @@ duration: "0:51"
 duration_seconds: 51
 view_count: 2887
 author: "Alex Finn"
+description: |
+  I built a Pacman game clone using only a single prompt with ChatGPT o1. This AI model is mind blowing. No coding required.
 
 yt_tags:
   []

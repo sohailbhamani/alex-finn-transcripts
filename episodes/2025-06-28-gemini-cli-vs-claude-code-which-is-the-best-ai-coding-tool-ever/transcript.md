@@ -6,6 +6,37 @@ duration: "23:53"
 duration_seconds: 1433
 view_count: 30583
 author: "Alex Finn"
+description: |
+  In this video I put Google Gemini CLI and Claude code head to head to see which is the best AI vibe coding tool. By the end of this video you'll know which one is king and which one is trash.
+
+  How to build a business with AI: https://www.youtube.com/watch?v=hHwnb9eSnj8&ab_channel=AlexFinn
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  Tools in the video:
+  Claude Code: https://www.anthropic.com/claude-code
+  Gemini CLI: https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
+
+  Command to install Gemini CLI:
+  npm install -g @google/gemini-cli
+
+  Command to install Claude Code
+  npm install -g @anthropic-ai/claude-code
+
+
+
+  Timestamps:
+  0:00 Intro
+  1:36 Competition begins
+  2:47 The prompt
+  5:38 V1
+  7:04 V2
+  9:59 V3
+  12:10 V4
+  17:40 Final Version
+  19:55 Scoring
 
 yt_tags:
   []

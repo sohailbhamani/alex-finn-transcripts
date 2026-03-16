@@ -6,6 +6,8 @@ duration: "1:49"
 duration_seconds: 109
 view_count: 19231
 author: "Alex Finn"
+description: |
+  Here's the most powerful AI vibe coding workflow of all time
 
 yt_tags:
   []

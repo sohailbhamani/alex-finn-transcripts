@@ -6,6 +6,18 @@ duration: "11:11"
 duration_seconds: 671
 view_count: 1979
 author: "Alex Finn"
+description: |
+  In this video I walk you through how to build your online creator business for FREE
+
+  I show you every revenue stream I have and how I built the business while maintaining a 9 to 5.
+
+  ➡️ Follow my Twitter/X: https://x.com/AlexFinnX
+
+  💸 Test out Kajabi: https://app.kajabi.com/r/oBmzFDZF/t/bzt7df7z
+
+  👨‍👩‍👧‍👦 Community software: Circle circle.so
+
+  💌 Newsletter- Beehiiv https://www.beehiiv.com?via=Nftgod
 
 yt_tags:
   []

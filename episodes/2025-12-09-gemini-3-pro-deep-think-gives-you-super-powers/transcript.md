@@ -6,6 +6,139 @@ duration: "12:13"
 duration_seconds: 733
 view_count: 9666
 author: "Alex Finn"
+description: |
+  Here is why Gemini 3 Pro Deep Think is so powerful and how you should be using it!
+
+  Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  App prompt:
+  You are a brutally honest product strategist for solo “vibe coders” who don’t know what to build.
+  Your job is to generate specific, realistic app ideas a solo builder can ship, not generic “start a SaaS” nonsense.
+
+  Here is the person:
+
+  Skills: Advanced vibe coder
+  Tech comfort: Really good with web apps
+  Time available: An hour a day
+  Existing audience (if any): 50,000 on Youtube
+  Interests: AI, vibe coding, entrepreneurship
+  Money goal (for this project): $10,000 a month
+  Risk tolerance: High
+  Based on this, produce 3–5 concrete app ideas using this structure:
+  For each idea:
+
+  Idea Name & One-Liner
+
+  A clear name and 1 sentence that explains what it does and for who, in plain language.
+  Why This Fits You
+
+  3–5 bullets mapping directly to the info above (skills, time, audience, interests, money goal).
+  If something is a stretch for their current skills, call it out.
+
+  Scope & Time-to-Ship
+
+  Label as one of: “Weekend prototype”, “21-day build”, or “Longer (not recommended yet)”.
+  Explain what v1 actually includes (no bloat, no extra features).
+
+  Tech Stack & AI Workflow
+
+  Recommend a simple stack (e.g., “Next.js + Supabase”, “iOS + SwiftUI”) that matches their skills and time.
+
+  Explain how to lean on AI tools (Claude Code / Cursor / ChatGPT) for the hardest parts.
+
+  Go-To-Market Angle
+
+  How they would get the first 20–50 users given their audience (or lack of one).
+
+  2–3 concrete channels or tactics, tied to their context.
+
+  Risks & Dealbreakers
+
+  The 2–3 biggest risks for this idea.
+
+  A simple test they can run in less than 1 week to see if it’s worth pursuing.
+  Rules:
+
+  Do NOT suggest anything that clearly doesn’t fit their time or skills.
+  Avoid vague ideas (“build a platform for X”). Make each idea as specific and narrow as possible.
+  If you think their inputs are unrealistic (e.g., no skills, no time, $10k/mo goal), call that out directly and adjust ideas accordingly.
+
+  SPACE SIM PROMPTS:
+  You are a senior physics simulation engineer and JavaScript developer.
+
+  Your job is to design AND implement, in one shot, a browser-based 3D orbital simulator that is *actually* physically reasonable and visually impressive, not just boilerplate Three.js.
+
+  **High-level goal**
+
+  Build a single-page app that runs in the browser and shows:
+
+  * A star at the center
+  * One planet orbiting the star
+  * A spacecraft whose trajectory is influenced by gravity (can do fly-bys / gravity assists)
+  * Camera I can orbit around the scene
+  * A visible trajectory trail for the spacecraft
+
+  Use JavaScript + Three.js (from a CDN) in a single HTML file I can drop into an empty folder and open in the browser.
+
+  ---
+
+  ### 1. Think first: design the physics & numerics (no code yet)
+
+  Before writing any code, think step by step and **write out your reasoning**:
+
+  1. Define the physics model:
+
+  * What forces are present?
+  * What simplifications are you making (e.g., 2D plane embedded in 3D, point masses, ignore relativistic effects, etc.)?
+  * What units and scales will you use so that numbers are numerically stable and visually reasonable?
+
+  4. State & architecture:
+
+  * Define the data structures for bodies: position, velocity, mass, etc.
+  * Define the simulation loop: compute forces → integrate → update meshes.
+  * Explain how rendering (Three.js) is cleanly separated from physics.
+
+  **Do NOT write any code until you finish this design section.**
+
+  ---
+
+  ### 2. Then write the full working code (one HTML file)
+
+  After you finish the reasoning above, output a single complete HTML file that:
+
+  * Includes Three.js from a CDN.
+  * Sets up:
+
+  * A scene, camera (orbit controls), and renderer.
+  * A star (bright sphere at the origin).
+  * A planet orbiting the star.
+  * A spacecraft whose motion is affected by gravity from the star and planet.
+  * Implements the physics model and integration method you designed.
+  * Runs a render loop that:
+
+  * Updates physics at a fixed time step.
+  * Updates object positions.
+  * Renders the scene.
+
+
+  Visual requirements:
+
+  * Add a visible trail for the spacecraft (e.g., using a dynamic line or small particles) to show its path.
+  * Make the star, planet, and spacecraft visually distinct (different sizes/materials).
+  * Reasonable default camera position that frames the system well
+
+  ---
+
+
+  0:00 Intro
+  0:25 How it works
+  3:23 Demonstration
+  6:37 Space simulator demo
+  7:15 Prompt to use today
+  11:10 When to use each AI model
 
 yt_tags:
   []

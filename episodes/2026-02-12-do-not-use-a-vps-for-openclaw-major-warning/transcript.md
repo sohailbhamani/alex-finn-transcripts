@@ -6,6 +6,24 @@ duration: "17:06"
 duration_seconds: 1026
 view_count: 15942
 author: "Alex Finn"
+description: |
+  Other creators are lying to you. DO NOT use a VPS for OpenClaw. THIS is the correct way to do it...
+
+  FULL ClawdBot bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  OpenClaw:
+  https://openclaw.ai/
+
+  Timestamps:
+  0:00 Intro
+  1:01 What we cover
+  2:48 Why VPSs suck
+  7:56 Hosting it locally
+  11:50 Setting it up
+  15:18 Ethics
 
 yt_tags:
   []

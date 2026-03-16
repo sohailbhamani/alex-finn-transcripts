@@ -6,6 +6,31 @@ duration: "15:07"
 duration_seconds: 907
 view_count: 101078
 author: "Alex Finn"
+description: |
+  ClawdBot is a 24/7 AI agent employee and it is the most powerful technology I've ever used. Here's how it set it up cheap and easy.
+
+  Join the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  ClawdBot:
+  http://clawd.bot/
+
+  Amazon EC2:
+  https://aws.amazon.com/pm/ec2/
+
+  Morning brief prompt:
+  I want you to create a morning brief that you text me every day. Please let me know any news going on in the world that us relevant to me. The weather in Mountain View, tasks you can do today that will be helpful, and tasks I should do that will advance my career
+
+  Timestamps:
+  0:00 Intro
+  0:37 Why not Mac Mini
+  1:17 Setting up Amazon EC2
+  3:54 Deploying ClawdBot
+  4:30 Choosing a model
+  7:28 Setting up ClawdBot
+  8:40 ClawdBot use cases and tips
 
 yt_tags:
   []

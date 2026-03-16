@@ -6,6 +6,24 @@ duration: "34:27"
 duration_seconds: 2067
 view_count: 6686
 author: "Alex Finn"
+description: |
+  In this video I put Cursor, Bolt, and Windsurf to the test to decide which is the best AI no code app builder. We build the same AI chat bot app with all 3 and see which can build the app the fastest.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+  0:00 Intro
+  0:55 Bolt
+  10:40 Bolt score
+  12:00 Windsurf
+  19:43 Windsurf score
+  21:38 Cursor
+  28:19 Cursor score
+  29:08 Final winner
+  30:12 My personal winner
+
+  #ai #windsurf  #cursor #artificialintelegence #programming #coding #bolt
 
 yt_tags:
   []

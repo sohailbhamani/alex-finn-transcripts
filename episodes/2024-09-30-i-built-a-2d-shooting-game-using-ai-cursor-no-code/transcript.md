@@ -6,6 +6,41 @@ duration: "26:13"
 duration_seconds: 1573
 view_count: 10598
 author: "Alex Finn"
+description: |
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  I build an entire 2D shooting game using Cursor. I show you how to build out an entire database (Supabase) so we can store a leaderboard. Then I walk you through hosting the app on the internet (Replit) so all your friends can play!
+
+  With Cursor, Supabase, and Replit you'll have a full stack 2D zombie killing game you and all your friends can play! All made with AI!
+
+  You can then use these skills to build any application or game you want.
+
+  Play the game!: https://alex-finns-zombie-killer-alexfinn2.replit.app/
+  Game Assets: https://drive.google.com/file/d/16FeCi_xLi-rCU3RnUzP81GsKOssgQOKH/view?usp=sharing
+
+  Timestamps:
+  0:00 Intro
+  0:42 Cursor
+  0:58 Setting up our game
+  3:12 Plan for video
+  3:37 Player Creation
+  5:59 Shooting Mechanics
+  8:05 Enemy Spawning
+  10:20 Background
+  11:48 Hit Detection
+  13:30 Scoring System
+  14:09 Weapons
+  18:28 Leaderboard (Supabase)
+  22:52 Host on the Internet
+  24:57 Game Live!
+
+
+  Cursor: https://www.cursor.com/
+  Supabase: https://supabase.com/
+  Replit: https://replit.com/~
+
+  #ai #programming #cursor #supabase #replit #nocode
 
 yt_tags:
   []

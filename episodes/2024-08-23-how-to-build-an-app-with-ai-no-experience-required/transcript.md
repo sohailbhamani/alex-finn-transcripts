@@ -6,6 +6,26 @@ duration: "17:13"
 duration_seconds: 1033
 view_count: 242237
 author: "Alex Finn"
+description: |
+  Building a SaaS with ChatGPT is so easy even a complete beginner can do it. In this video I walk step by step through how ANYONE can use any free AI tool to build an app that they can then productize and sell online. For free. No experience required.
+
+  Join the Vibe Coding Academy: https://vibecodingacademy.dev/
+  Follow my X: https://x.com/AlexFinn
+  Sign up for my free newsletter: https://www.alexfinn.ai
+
+  Tools you can use:
+  Grok- https://x.com/grok
+  ChatGPT- https://chatgpt.com/
+  Claude- https://claude.ai/
+
+  For coding:
+  Replit- replit.com
+
+  Prompts I use:
+  "Hi Grok, I'm a brand new programmer, and I'd like to make a Todo list app using React. I've never programmed a line of code in my life before so if you please can help me out here, but also teach me step by step what you're doing so I can then build other applications myself. I'm doing this completely on Replit.
+  Please make this app simple so that I can then customize it any way I want."
+
+  "Start with app.js please explain line by line how this works so I can truly understand the code I'm writing here. My goal is to become proficient in React so I can build other applications"
 
 yt_tags:
   []

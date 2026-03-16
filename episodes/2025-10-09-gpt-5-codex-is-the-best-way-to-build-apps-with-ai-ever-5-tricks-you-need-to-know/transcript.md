@@ -6,6 +6,24 @@ duration: "16:39"
 duration_seconds: 999
 view_count: 19020
 author: "Alex Finn"
+description: |
+  Here are 5 tricks for getting the absolute most out of OpenAI's Codex!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Codex:
+  https://chatgpt.com/codex
+
+  Timestamps:
+  0:00 Intro
+  0:36 Codex overview
+  3:02 Trick 1
+  5:29 Trick 2
+  8:04 Trick 3
+  11:33 Trick 4
+  13:23 Trick 5
 
 yt_tags:
   []

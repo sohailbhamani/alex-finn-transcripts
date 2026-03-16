@@ -6,6 +6,27 @@ duration: "19:14"
 duration_seconds: 1154
 view_count: 28538
 author: "Alex Finn"
+description: |
+  Cursor 2.0 just dropped and I have to admit, it's really nice. Here is your full review and guide to using it! How does it compare to Claude Code?
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Cursor 2.0:
+  https://cursor.com/
+
+  Prompt:
+  I want to build a stock portfolio app. It should allow me to type in a ticker for a stock, then it saves the stock to a watchlist, pulls the data about the stock from the alphavantage API, displays the chart, and displays other helpful information. It is critical that this is a beautiful app that doesn't look like it's built by AI and has nice animations and transitions so it feels really nice to use. Add any other features you think are interesting.
+
+  Timestamps:
+  0:00 Intro
+  0:29 New features
+  3:14 Walkthrough
+  4:43 First prompt
+  12:22 Multi agent test
+  14:21 Final app test
+  15:44 Final thoughts
 
 yt_tags:
   []

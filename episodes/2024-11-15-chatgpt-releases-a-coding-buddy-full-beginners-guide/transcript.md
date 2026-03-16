@@ -6,6 +6,29 @@ duration: "18:49"
 duration_seconds: 1129
 view_count: 14076
 author: "Alex Finn"
+description: |
+  In this video I introduce you to ChatGPT's amazing new feature 'Work With'. Work With is basically a coding buddy that hooks into other applications on your computer so it can hand hold you through building! I'll walk you through the new functionality and then show you how to build a mobile app with it in Xcode.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+  Make sure to download the ChatGPT Desktop app and Xcode from the App Store!
+
+  0:00 Work With intro
+  2:07 Set up
+  3:37 Setting up Work With
+  3:53 Planning the app
+  6:00 Start coding with Xcode
+  8:34 Test first version
+  11:21 Adding new expenses
+  13:11 Adding categories
+  16:07 Adding a chart
+  17:09 Final product
+
+
+
+  #ai #chatgpt  #artificialintelegence #programming #coding #workwith
 
 yt_tags:
   []

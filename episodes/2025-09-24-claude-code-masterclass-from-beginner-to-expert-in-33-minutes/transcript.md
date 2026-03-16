@@ -6,6 +6,53 @@ duration: "33:37"
 duration_seconds: 2017
 view_count: 26999
 author: "Alex Finn"
+description: |
+  By the end of this video you'll be a Claude Code MASTER. Whether you are new or pro, you'll have something to learn here.
+
+  JOIN MY FREE VIBE CODING COMMUNITY!! https://discord.gg/TzYjAds8YA
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  https://claude.com/product/claude-code
+  npm install -g @anthropic-ai/claude-code
+
+  Prompt: I want to build an advanced note taking app. The user should be able to take notes in a beautiful, powerful, easy to use editor, be able to save notes into folders and organize them however they want, and even use AI functionality. Let’s build a PRD for this app
+
+  Claude Code Rules:
+  1. First think through the problem, read the codebase for relevant files, and write a plan to tasks/todo.md.
+  2. The plan should have a list of todo items that you can check off as you complete them
+  3. Before you begin working, check in with me and I will verify the plan.
+  4. Then, begin working on the todo items, marking them as complete as you go.
+  5. Please every step of the way just give me a high level explanation of what changes you made
+  6. Make every task and code change you do as simple as possible. We want to avoid making any massive or complex changes. Every change should impact as little code as possible. Everything is about simplicity.
+  7. Finally, add a review section to the todo.md file with a summary of the changes you made and any other relevant information.
+  8. DO NOT BE LAZY. NEVER BE LAZY. IF THERE IS A BUG FIND THE ROOT CAUSE AND FIX IT. NO TEMPORARY FIXES. YOU ARE A SENIOR DEVELOPER. NEVER BE LAZY
+  9. MAKE ALL FIXES AND CODE CHANGES AS SIMPLE AS HUMANLY POSSIBLE. THEY SHOULD ONLY IMPACT NECESSARY CODE RELEVANT TO THE TASK AND NOTHING ELSE. IT SHOULD IMPACT AS LITTLE CODE AS POSSIBLE. YOUR GOAL IS TO NOT INTRODUCE ANY BUGS. IT'S ALL ABOUT SIMPLICITY
+
+
+  CRITICAL: When debugging, you MUST trace through the ENTIRE code flow step by step. No assumptions. No shortcuts.
+
+  Timestamps:
+  0:00 Intro
+  0:50 Installation
+  2:18 UI Intro
+  2:55 Model Picker
+  4:15 Plan Mode
+  5:55 Build the app
+  10:04 Debugging
+  11:17 V1 of the app
+  12:24 Background Tasks
+  13:02 Claude Rules
+  15:13 Think Modes
+  17:58 Implementing AI
+  19:20 Slash Commands
+  21:20 Subagents
+  24:11 Output Styles
+  26:01 AI Functionality
+  28:11 AI Copilot
+  31:03 Prompting Techniques
 
 yt_tags:
   []

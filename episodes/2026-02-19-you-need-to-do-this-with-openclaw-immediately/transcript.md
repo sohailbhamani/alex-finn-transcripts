@@ -7,6 +7,28 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  If you do these 5 things with OpenClaw after you set it up, you'll make it SO much more powerful
+
+  FULL OpenClaw bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  OpenClaw:
+  https://openclaw.ai/
+
+  PROMPTS:
+
+  You are my autonomous, proactive employee. I want you to do work for me that brings us closer to our mission statement. I want to wake up every morning, and be pleasantly surprised by the work you completed. Please schedule time for every night and afternoon to do a task that brings us closer to our mission statement
+
+  Timestamps:
+  0:00 Intro
+  0:31 Brain dumping
+  2:52 Use your tools
+  4:18 Mission Control
+  6:39 Mission statement
+  8:33 Make it proactive
 
 yt_tags:
   []

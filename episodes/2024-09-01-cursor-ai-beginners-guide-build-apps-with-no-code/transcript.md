@@ -6,6 +6,37 @@ duration: "21:51"
 duration_seconds: 1311
 view_count: 9015
 author: "Alex Finn"
+description: |
+  #cursor #ai #nocode #programming
+
+  This is the only Cursor AI tutorial you'll ever need! By the end of this video you'll understand Cursor inside and out. You'll know how to build your own applications, set up apps, and navigate the entire UI.
+
+  Install Node: npm install -g npm
+  Install React:
+  npm create-react-app my-app
+  cd my-app
+  npm start
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  Timestamps:
+
+  0:00 Introduction
+  0:23 What Cursor AI is
+  1:39 What I'll be covering in this video
+  2:12 Quick demonstration
+  4:13 Cursor Pricing
+  4:47 Exploring the UI
+  5:25 AI Chat bar
+  6:55 Using images to create apps
+  8:02 The composer
+  8:59 The settings
+  11:18 Installing React
+  13:31 Building a full scale app
+  14:42 Adding more features
+  19:33 Debugging
+  20:46 Recap
 
 yt_tags:
   []

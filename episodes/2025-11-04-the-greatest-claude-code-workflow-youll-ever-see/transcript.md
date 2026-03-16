@@ -6,6 +6,35 @@ duration: "30:56"
 duration_seconds: 1856
 view_count: 41975
 author: "Alex Finn"
+description: |
+  This new Claude Code workflow iwll have you building AI apps faster than you ever have before
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  VS Code:
+  https://code.visualstudio.com
+
+  Initial prompt:
+  I want to build a project management app for vibe coding apps. Basicaly the way I want it to work is it's a kanban board with TODO, In progress, and completed sections (plus I can add more if I want). I can add cards to the kanban board for tasks and add notes to the cards. The app should look like the design in the screenshot I attached and be beautiful with nice to use animations especially when I drag the cards. Use NextJS and Tailwind v3 for this. Just use local storage for now. no auth.
+
+  Follow up prompt:
+  I want to make it so that there is AI functionality in this app. I'd like to make it so that in each card on the kanban board there is an AI button. when i hit that button, it uses the openAI api to generate a prompt for that card. it will take the title of the card and turn it into a prompt I can give to claude code to build out that feature
+
+  Timestamps:
+  0:00 Intro
+  0:30 Setup
+  3:06 Design
+  4:19 First prompt
+  8:14 Project management
+  12:54 V1 of app
+  13:38 Setting up cloud agents
+  15:41 Spinning up cloud agents
+  18:07 Adding more functionality
+  23:56 Updating roadmap
+  24:30 AI Copilot
+  28:16 Testing final app
 
 yt_tags:
   []

@@ -6,6 +6,39 @@ duration: "28:26"
 duration_seconds: 1706
 view_count: 39614
 author: "Alex Finn"
+description: |
+  In this video I show you my revolutionary work flow for Claude Code and Cursor background agents!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  Tools in the video:
+  Cursor: https://www.cursor.com/
+  Claude Code: https://www.anthropic.com/claude-code
+
+  Prompts I use:
+  npm install -g @anthropic-ai/claude-code
+
+  I'm looking to build a simple notion clone. an advanced note taking app with file and folder system that allows you to create many different types of notes and files. I'd like it to be built with nextjs. before we start building this out though, I want to do a little planning with you. I first want you to make a new file called project
+
+  Claude.MD rules:
+  ## Standard Workflow
+  1. First think through the problem, read the codebase for relevant files, and write a plan to projectplan.md.
+  2. The plan should have a list of todo items that you can check off as you complete them
+  3. Before you begin working, check in with me and I will verify the plan.
+  4. Then, begin working on the todo items, marking them as complete as you go.
+  5. Please every step of the way just give me a high level explanation of what changes you made
+  6. Make every task and code change you do as simple as possible. We want to avoid making any massive or complex changes. Every change should impact as little code as possible. Everything is about simplicity.
+  7. Finally, add a review section to the projectplan.md file with a summary of the changes you made and any other relevant information.
+
+
+  0:00 Intro
+  2:45 Install Claude Code
+  6:25 Setting up the plan and rules
+  8:10 First prompt in Claude
+  14:43 Building app
+  18:00 Background agents
 
 yt_tags:
   []

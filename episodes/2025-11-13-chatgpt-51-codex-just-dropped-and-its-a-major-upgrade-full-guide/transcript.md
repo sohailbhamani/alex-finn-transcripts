@@ -6,6 +6,22 @@ duration: "17:17"
 duration_seconds: 1037
 view_count: 21926
 author: "Alex Finn"
+description: |
+  ChatGPT 5.1 Codex just dropped and it's amazing. Here are all the strengths, weakness, and a master workflow.
+
+  Sign up for my free newsletter (first info on Vibe Coding Academy): https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Prompt:
+  I want to build a full suite productivity app. I want it to have a kanban board, todo list, and calendar. I want to use NextJS and Tailwind v3. I want it to look clean with a minimal design that doesn't look like an AI made it. Use local storage for now. Please make a plan for this
+
+  Timestamps:
+  0:00 Intro
+  0:43 The announcement
+  1:14 The 3 new models
+  3:28 Codex workflow
+  14:27 Codex vs Claude Code
 
 yt_tags:
   []

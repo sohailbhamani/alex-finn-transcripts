@@ -6,6 +6,20 @@ duration: "8:21"
 duration_seconds: 501
 view_count: 45053
 author: "Alex Finn"
+description: |
+  Google Opal is the newest AI app builder from Google, and it's the easiest way to build apps with AI ever. Here's a full guide.
+
+  https://opal.withgoogle.com/
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  0:00 Intro
+  0:20 UI Tour
+  3:01 First app demo
+  3:41 Other amazing features
+  6:22 Will I replace Claude?
 
 yt_tags:
   []

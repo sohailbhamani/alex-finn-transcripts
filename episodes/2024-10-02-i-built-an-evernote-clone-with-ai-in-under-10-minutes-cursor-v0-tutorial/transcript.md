@@ -6,6 +6,30 @@ duration: "12:59"
 duration_seconds: 779
 view_count: 4132
 author: "Alex Finn"
+description: |
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  Learn how to build an Evernote clone with AI! No programming experience necessary! Beginner friendly! We use Cursor, V0, and the ChatGPT API to build an Evernote clone in under 10 minutes. You can then use these skills to build any application or game you want.
+
+  Timestamps:
+  0:00 Intro
+  0:40 v0
+  1:43 Cursor
+  1:59 Install NextJS
+  2:24 Install Component
+  4:31 Add new note
+  6:00 Add rich text editing
+  8:27 Implementing search
+  9:30 ChatGPT API
+  11:47 Final Product
+
+  Commands:
+  bunx create-next-app .
+  npm run dev
+
+  Cursor: https://www.cursor.com/
+  ChatGPT API: https://platform.openai.com/docs/api-reference
 
 yt_tags:
   []
