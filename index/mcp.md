@@ -2,7 +2,7 @@
 
 Episodes discussing **Mcp** (30 episodes):
 
-- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
+- [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [LIVE shipping startups with Claude Code and getting work done with Claude Cowork](../episodes/2026-01-20-live-shipping-startups-with-claude-code-and-getting-work-done-with-claude-cowork/transcript.md) (2026-01-20)
 - [ChatGPT HAS ADS NOW!!! Is AI over???](../episodes/2026-01-17-chatgpt-has-ads-now-is-ai-over/transcript.md) (2026-01-17)

@@ -2,9 +2,9 @@
 
 Episodes discussing **Frameworks** (119 episodes):
 
-- [Unknown](../episodes/unknown-fdrq2tn0bjm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-rjd1lqf9cg4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
+- [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
+- [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
+- [I did something INCREDIBLE with OpenClaw](../episodes/2026-03-11-i-did-something-incredible-with-openclaw/transcript.md) (2026-03-11)
 - [LIVE: I built an army of OpenClaw agents. I have lost control.](../episodes/2026-02-27-live-i-built-an-army-of-openclaw-agents-i-have-lost-control/transcript.md) (2026-02-27)
 - [LIVE: My OpenClaw just built Cursor. Software is dead.](../episodes/2026-02-25-live-my-openclaw-just-built-cursor-software-is-dead/transcript.md) (2026-02-25)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
