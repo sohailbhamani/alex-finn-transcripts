@@ -6,6 +6,28 @@ duration: "17:52"
 duration_seconds: 1072
 view_count: 16117
 author: "Alex Finn"
+description: |
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+  Github for this application: https://github.com/finna/notionclone
+
+  Learn how to build a Notion clone with AI! No programming experience necessary! Beginner friendly! We use Cursor to build a Notion in under 10 minutes. You can then use these skills to build any application or game you want.
+
+  Timestamps:
+  0:00 Intro
+  0:30 v0
+  2:00 Install Nextjs
+  2:43 Install v0 component
+  4:01 Fix styling
+  5:32 Adding functionality
+  8:24 Add notes
+  9:56 Improve editor
+  13:35 Spreadsheet functionality
+  15:10 Kanban board functionality
+
+  Commands:
+  bunx create-next-app .
+  npm run dev
 
 yt_tags:
   []

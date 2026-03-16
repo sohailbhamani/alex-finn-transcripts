@@ -6,6 +6,24 @@ duration: "13:33"
 duration_seconds: 813
 view_count: 31428
 author: "Alex Finn"
+description: |
+  Claude Cowork is a 24/7 AI agent employee that runs your life. Here's a full workflow that will save you HOURS a day.
+
+  Join the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Claude.md file:
+  https://docs.google.com/document/d/1AcplzIFpht45oPxJgJLKQFF9aoeavjPMF1GzZDjU3g4/edit?usp=sharing
+
+  Starter Prompt:
+  https://docs.google.com/document/d/1RPnX-5g-v-95TYNRRG8c-sFtkk6WmzUnbaK3_L-NFWw/edit?usp=sharing
+
+  Timestamps:
+  0:00 Intro
+  0:29 Demo of my workflow
+  6:00 How this is set up
 
 yt_tags:
   []

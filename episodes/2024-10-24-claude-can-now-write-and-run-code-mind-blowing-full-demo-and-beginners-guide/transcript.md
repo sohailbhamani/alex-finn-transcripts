@@ -6,6 +6,21 @@ duration: "7:15"
 duration_seconds: 435
 view_count: 5484
 author: "Alex Finn"
+description: |
+  Follow my X:
+  Subscribe to my FREE newsletter (30,000 subbed):
+  New feature set up: https://x.com/AnthropicAI/status/1849466471556038752
+  Take my spreadsheet and experiment yourself: https://docs.google.com/spreadsheets/d/1Qq81ewS38pnkM4vdEilFmr311RKKLZPew39z6ajF6kw/edit?usp=sharing
+
+  Anthropic just dropped an amazing update. Claude can now write and run code in your browser to do full analysis. In this video I take you through how it works and give you a demonstration. I'll show you how to run an analysis on your content. I then show you how to set it up yourself!
+
+  0:00 Major new update
+  0:32 What we'll build
+  1:25 Start prompting
+  2:36 Analyze charts
+  5:35 Setting this up yourself
+
+  #ai #aiprogramming #claude #tech #anthropic
 
 yt_tags:
   []

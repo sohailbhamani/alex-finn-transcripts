@@ -7,6 +7,8 @@ duration: "2:53"
 duration_seconds: 173
 view_count: 3936
 author: "Alex Finn"
+description: |
+  In this video I go over if you should learn to code in 2025, and if so how you should learn. I also give you a couple AI prompts that will make learning so much easier.
 
 yt_tags:
   []

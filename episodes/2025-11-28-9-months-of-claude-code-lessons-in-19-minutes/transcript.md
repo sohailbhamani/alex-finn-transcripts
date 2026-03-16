@@ -6,6 +6,35 @@ duration: "19:56"
 duration_seconds: 1196
 view_count: 37182
 author: "Alex Finn"
+description: |
+  Here are 8 lessons I've learned about Claude Code after using it every day for 9 months!
+
+  Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Claude Rules:
+  1. First think through the problem, read the codebase for relevant files, and write a plan to tasks/todo.md.
+  2. The plan should have a list of todo items that you can check off as you complete them
+  3. Before you begin working, check in with me and I will verify the plan.
+  4. Then, begin working on the todo items, marking them as complete as you go.
+  5. Please every step of the way just give me a high level explanation of what changes you made
+  6. Make every task and code change you do as simple as possible. We want to avoid making any massive or complex changes. Every change should impact as little code as possible. Everything is about simplicity.
+  7. Finally, add a review section to the todo.md file with a summary of the changes you made and any other relevant information.
+  8. DO NOT BE LAZY. NEVER BE LAZY. IF THERE IS A BUG FIND THE ROOT CAUSE AND FIX IT. NO TEMPORARY FIXES. YOU ARE A SENIOR DEVELOPER. NEVER BE LAZY
+  9. MAKE ALL FIXES AND CODE CHANGES AS SIMPLE AS HUMANLY POSSIBLE. THEY SHOULD ONLY IMPACT NECESSARY CODE RELEVANT TO THE TASK AND NOTHING ELSE. IT SHOULD IMPACT AS LITTLE CODE AS POSSIBLE. YOUR GOAL IS TO NOT INTRODUCE ANY BUGS. IT'S ALL ABOUT SIMPLICITY
+
+  Timestamps:
+  0:00 Intro
+  0:45 Best way to use Claude Code
+  2:41 Stop listening to the gurus
+  5:56 Saving money
+  7:29 Optimize your time
+  10:19 Claude Rules
+  12:46 Prompt Engineering
+  14:55 Better UI
+  16:29 Creative partner
 
 yt_tags:
   []

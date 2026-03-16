@@ -6,6 +6,39 @@ duration: "23:37"
 duration_seconds: 1417
 view_count: 85127
 author: "Alex Finn"
+description: |
+  In this video I show you how to master Claude Code! By the end of this video you'll be able to use Claude Code to build any apps you want without writing code!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  Tools in the video:
+  Cursor: https://www.cursor.com/
+  Claude Code: https://www.anthropic.com/claude-code
+
+  Command to install Claude Code:
+  npm install -g @anthropic-ai/claude-code
+
+  Claude.MD rules:
+  ## Standard Workflow
+  1. First think through the problem, read the codebase for relevant files, and write a plan to todo.md.
+  2. The plan should have a list of todo items that you can check off as you complete them
+  3. Before you begin working, check in with me and I will verify the plan.
+  4. Then, begin working on the todo items, marking them as complete as you go.
+  5. Please every step of the way just give me a high level explanation of what changes you made
+  6. Make every task and code change you do as simple as possible. We want to avoid making any massive or complex changes. Every change should impact as little code as possible. Everything is about simplicity.
+  7. Finally, add a review section to the todo.md file with a summary of the changes you made and any other relevant information.
+
+
+  0:00 Intro
+  0:37 What is Claude Code?
+  2:40 Pricing
+  5:39 Installing Claude Code
+  7:34 Building app
+  11:20 Secret sauce 1 plan mode
+  16:27 Secret sauce 2 rules file
+  19:27 Secret sauce 3 asking Claude
 
 yt_tags:
   []

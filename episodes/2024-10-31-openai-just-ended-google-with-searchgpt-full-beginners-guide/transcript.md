@@ -6,6 +6,23 @@ duration: "7:55"
 duration_seconds: 475
 view_count: 4853
 author: "Alex Finn"
+description: |
+  OpenAI just released SearchGPT. It is BY FAR the most powerful search engine I've ever used. In this video I'll demo you SearchGPT and compare it to Google and Perplexity.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+
+  0:00 SearchGPT Intro
+  0:24 Demo
+  1:29 Why it destroys Google
+  3:02 Google side by side
+  4:17 Perplexity side by side
+  6:12 Why SearchGPT is the winner
+  7:05 How to use SearchGPT moving forward
+
+  #ai #searchgpt #openai #artificialintelligence #chatgpt #perplexityai
 
 yt_tags:
   []

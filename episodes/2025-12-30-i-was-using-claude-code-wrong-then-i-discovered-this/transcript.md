@@ -6,6 +6,35 @@ duration: "13:00"
 duration_seconds: 780
 view_count: 31831
 author: "Alex Finn"
+description: |
+  There are many ways you can be using Claude Code. THIS way is by far the best.
+
+  Join the Vibe Coding Academy waitlist: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Visual Studio Code:
+  https://code.visualstudio.com
+
+  Install Claude Code:
+  https://code.claude.com/docs/en/overview
+
+  Prompt:
+  I want to build a note taking app with advanced AI
+  functionality. I want it to be beautiful and simple. I
+  want it to be built on NextJS. I want to it have a
+  beautiful rich text editor and AI functionality that
+  makes the app super powerful
+
+
+  Timestamps:
+  0:00 Intro
+  0:29 Why you're using CC wrong
+  1:06 3 best ways
+  4:37 Setting up CC
+  6:25 Building an AI app
+  10:57 Final version of app
 
 yt_tags:
   []

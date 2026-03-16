@@ -6,6 +6,24 @@ duration: "7:46"
 duration_seconds: 466
 view_count: 91949
 author: "Alex Finn"
+description: |
+  Leave a like and subscribe if you learned anything!
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  Learn how to build your first iOS app with AI! No programming experience necessary! Beginner friendly! We use Cursor to build an iOS app in under 10 minutes. You can then use these skills to build any application or game you want.
+
+  Timestamps:
+  0:00 Intro
+  0:22 Xcode
+  1:26 Cursor
+  2:40 First prompt
+  3:45 More functionality
+  5:21 Add calendar
+  6:30 Final product
+
+  Cursor: https://www.cursor.com/
 
 yt_tags:
   []

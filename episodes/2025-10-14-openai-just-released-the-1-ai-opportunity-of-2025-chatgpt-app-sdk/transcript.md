@@ -6,6 +6,38 @@ duration: "12:33"
 duration_seconds: 753
 view_count: 17421
 author: "Alex Finn"
+description: |
+  The ChatGPT App SDK from OpenAI is the biggest opportunity in AI right now. Here's why and how you can build your first app with it.
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  ChatGPT App SDK:
+  https://openai.com/index/introducing-apps-in-chatgpt/
+
+  Visual Studio Code:
+  https://code.visualstudio.com/
+
+  Codex IDE extension:
+  https://developers.openai.com/codex/ide/
+
+  Prompt:
+  Build a minimal TypeScript ChatGPT App: use @modelcontextprotocol/sdk with Express to expose a topMovers tool that hits Alpha Vantage’s TOP_GAINERS_LOSERS endpoint,  that, on load, calls window.openai.callTool('topMovers', { limit }), and renders responsive tables for the results inline in the widget. Have it run through a local server and ngrok. Please read through all the documentation here: https://developers.openai.com/apps-sdk/build/mcp-server
+
+  Alpha Vantage API:
+  https://www.alphavantage.co/
+
+  Ngrok:
+  https://ngrok.com/
+
+  Timestamps:
+  0:00 Intro
+  0:25 How it works
+  2:25 What we're building
+  3:05 Building the ChatGPT App
+  9:17 Configuring this in ChatGPT
+  10:26 The final product
 
 yt_tags:
   []

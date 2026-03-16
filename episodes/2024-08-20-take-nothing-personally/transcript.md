@@ -6,6 +6,8 @@ duration: "1:13"
 duration_seconds: 73
 view_count: 753
 author: "Alex Finn"
+description: |
+  Number 1 rules in life: take nothing personally. The moment you realize people who criticize you are just projecting their own insecurities on you, life becomes so much easier
 
 yt_tags:
   []

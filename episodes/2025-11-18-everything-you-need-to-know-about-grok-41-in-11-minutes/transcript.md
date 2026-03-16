@@ -6,6 +6,21 @@ duration: "11:34"
 duration_seconds: 694
 view_count: 20109
 author: "Alex Finn"
+description: |
+  Grok 4.1 just released and I put it through a bunch of tests. Here's how it turned out...
+
+  Sign up for my free newsletter (first info on Vibe Coding Academy): https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Grok:
+  grok.com
+
+  Timestamps:
+  0:00 Intro
+  0:26 The announcement
+  1:49 Strengths and weaknesses
+  9:36 AI use cases
 
 yt_tags:
   []

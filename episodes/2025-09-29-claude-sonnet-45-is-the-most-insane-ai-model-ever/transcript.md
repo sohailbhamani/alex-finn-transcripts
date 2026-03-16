@@ -6,6 +6,36 @@ duration: "13:57"
 duration_seconds: 837
 view_count: 33627
 author: "Alex Finn"
+description: |
+  By the end of this video you'll be a Claude Sonnet 4.5 MASTER. Whether you are new or pro, you'll have something to learn here.
+
+  JOIN MY FREE VIBE CODING COMMUNITY!! https://discord.gg/TzYjAds8YA
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Claude Sonnet 4.5 Announcement:
+  https://www.anthropic.com/news/claude-sonnet-4-5
+
+  Claude Agent SDK Announcement:
+  https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk
+
+  Claude Imagine:
+  https://claude.ai/imagine/
+
+  Claude For Chrome:
+  https://claude.ai/chrome/installed
+
+
+  Timestamps:
+  0:00 Intro
+  0:38 Improvements
+  5:12 New Products
+  5:46 Claude Code Extension
+  6:26 Claude Agent SDK
+  8:42 Claude for Chrome
+  10:24 Claude Imagine
 
 yt_tags:
   []

@@ -6,6 +6,46 @@ duration: "14:27"
 duration_seconds: 867
 view_count: 36813
 author: "Alex Finn"
+description: |
+  Anthropic released 10 updates to Claude Code recently. Here are how they all work
+
+  Join the Vibe Coding Academy waitlist: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Resume old sessions. When you go in a project and run this command, you can see all your old Claude Code sessions and resume whichever one you want so you don’t lose context: claude —resume
+
+  See what takes up your context. Running this command shows you what takes up your context window. Great to use when Claude is hallucinating a lot or not cooperating: /context
+
+  See your usage. Good for interesting stats or seeing how close you are getting to your limits: /stats
+
+  Rename your sessions. Good for organizing all your sessions by name so you know which to resume: /rename “your name”
+
+  Double escape to rewind the conversation to a previous message. Undoes code changes very easily.
+
+  Type ‘ultrathink’ to make claude code work way harder and get much better results
+
+  # to add custom memories. Just type # then tell Claude something for it to remember across sessions.
+
+  claude —dangerously-skip-permissions to put claude into yolo mode. Doesn’t ask for permissions anymore. Great for running long tasks independently.
+
+  /plugins for the claude plugins store. Make sure to install the design skill!
+
+  ctrl+s to save prompts. Stashes your prompt and puts it back into the window after your next message
+
+  Timestamps:
+  0:00 Intro
+  0:31 Resume sessions
+  1:48 See all your context
+  3:15 See your stats
+  4:16 Name your sessions
+  5:41 Rewinds
+  6:56 Ultrathink
+  8:35 Custom memories
+  10:13 YOLO mode
+  11:31 Plugin store
+  12:37 Stash prompts
 
 yt_tags:
   []

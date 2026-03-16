@@ -7,6 +7,8 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  Live OpenClaw bootcamps every single week in the Vibe Coding Academy! Join in and ask me any questions you have! https://vibecodingacademy.dev
 
 yt_tags:
   []

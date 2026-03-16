@@ -6,6 +6,7 @@ duration: "47:20"
 duration_seconds: 2840
 view_count: 1058
 author: "Alex Finn"
+description: ""
 
 yt_tags:
   []

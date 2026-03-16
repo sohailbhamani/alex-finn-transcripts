@@ -6,6 +6,8 @@ duration: "1:52:21"
 duration_seconds: 6741
 view_count: 20165
 author: "Alex Finn"
+description: |
+  Doing a FULL ClawdBot bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev/
 
 yt_tags:
   []

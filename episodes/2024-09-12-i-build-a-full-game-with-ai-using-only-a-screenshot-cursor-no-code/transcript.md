@@ -6,6 +6,30 @@ duration: "14:10"
 duration_seconds: 850
 view_count: 7568
 author: "Alex Finn"
+description: |
+  #ai #coding #programming #cursor #games
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  Learn how to build a simple game with AI using only a screenshot! No programming experience necessary! Beginner friendly! We use Cursor to build a simple game in under 10 minutes. You can then use these skills to build any application or game you want.
+
+  Timestamps
+  0:00 What are we building?
+  0:28 Install React
+  2:19 Input Screenshot
+  3:26 Version 1 launched
+  4:27 Background and stage created
+  6:28 Movement and enemy elimination
+  8:55 Enemies Moving
+  11:06 Improved details
+  12:50 Score implemented
+
+  Commands:
+  npx create-react-app mariogame
+  cd mariogame
+  npm start
+
+  #ai #coding #programming #cursor #games
 
 yt_tags:
   []

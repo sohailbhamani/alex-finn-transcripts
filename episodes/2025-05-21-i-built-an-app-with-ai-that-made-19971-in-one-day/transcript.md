@@ -6,6 +6,15 @@ duration: "20:36"
 duration_seconds: 1236
 view_count: 3571
 author: "Alex Finn"
+description: |
+  In this video I go through my 4 step process I used to build, launch, ship, and start making money off my AI app Creator Buddy. I did this completely by myself with almost no overhead or expenses. By the end of this video you'll know step by step how to build and launch your own profitable AI app.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.alexfinn.ai/
+  My AI content app: https://www.creatorbuddy.io/
+
+  Prompt for ideas: I am a content creator in the AI, entrepreneurship, and content creation space. What are some daily, basic challenges people have in this space? What are some basic apps that would solve these challenges
 
 yt_tags:
   []

@@ -6,6 +6,10 @@ duration: "1:58:58"
 duration_seconds: 7138
 view_count: 4922
 author: "Alex Finn"
+description: |
+  SIGN UP FOR THE NEWSLETTER: https://www.alexfinn.ai/
+
+  App we are building: https://prdgenie-git-main-finna1s-projects.vercel.app?_vercel_share=szf5UYq7tfVPiNZScHAMUJdTxhrkTFkI
 
 yt_tags:
   []

@@ -6,6 +6,8 @@ duration: "0:54"
 duration_seconds: 54
 view_count: 4070
 author: "Alex Finn"
+description: |
+  I use Cursor AI to build a Mario video game clone using just a single screenshot. This is absolutely mind blowing
 
 yt_tags:
   []

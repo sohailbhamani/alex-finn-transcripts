@@ -6,6 +6,24 @@ duration: "13:43"
 duration_seconds: 823
 view_count: 44663
 author: "Alex Finn"
+description: |
+  Google AI Studio is the EASIEST way to build apps with AI ever. Here is everything it does well and a full guide to building your first app
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Google AI Studio Build
+  http://ai.studio/build
+
+  Timestamps:
+  0:00 Intro
+  0:35 The best part of Google AI Studio
+  3:57 Building first app
+  5:12 AI Studio advantages
+  6:22 Testing the app
+  8:24 All the features of AI Studio
+  10:19 Does it replace Lovable?
 
 yt_tags:
   []

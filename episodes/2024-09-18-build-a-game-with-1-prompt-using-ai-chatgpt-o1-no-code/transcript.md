@@ -6,6 +6,45 @@ duration: "7:43"
 duration_seconds: 463
 view_count: 6315
 author: "Alex Finn"
+description: |
+  Like, reply, and subscribe if you learned anything!
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  Learn how to build a simple game with AI! No programming experience necessary! Beginner friendly! We use ChatGPT o1 to build a simple game in under 10 minutes. You can then use these skills to build any application or game you want.
+
+  ⏰Timestamps
+  0:00 ChatGPTo1 Intro
+  0:54 Prompt
+  3:00 ChatGPTo1 Response
+  4:35 Cursor
+  6:29 Run Game
+
+  Prompt:
+  Use pygame to make a game called "Pac Boy" very similar to Pac-Man
+  * You are a yellow circle with an eye and a mouth. You are automatically moving forward.
+  * You are in a maze.
+  * In the maze, there are white dots you need to eat.
+  * The character automatically moves forward. You use the arrow keys to change direction.
+  * You cannot move through walls.
+  * There is a red ghost that is also moving around the maze that you want to avoid.
+  * The ghost should move along the grid, changing direction only at tile centers, to navigate the maze correctly without getting stuck in walls.
+  * If it touches you, you die.
+  * Use retro colors and a dark background.
+  * Put a score counter in the top right that increments by 1 every time you eat a dot.
+  * Automatically restart the game when you win or lose.
+  * Give the code in a single file.
+
+
+  Links:
+  Cursor: https://www.cursor.com/
+  Python: https://www.python.org/downloads/
+  pip install pygame
+  python3 pacmangame.py
+
+
+  #ai #coding #programming #cursor #games #chatgpto1 #chatgpt
 
 yt_tags:
   []

@@ -6,6 +6,25 @@ duration: "11:20"
 duration_seconds: 680
 view_count: 5289
 author: "Alex Finn"
+description: |
+  Claude Haiku is so fast, so cheap, and you need to be using it. Here's your full guide on its strengths, weaknesses, and how to build an app with it.
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+
+  Prompt:
+  I want to build out a kanban board task management app. I want to be able to have a beautiful kanban board with default columns of 'Long Term' 'To do' 'In Progress' 'Completed'. It should have beautiful animations and a nice look and feel that matches the screenshot attacked. It should store the tasks locally for now and use NextJS.
+
+  Timestamps:
+  0:00 Intro
+  0:25 How it works
+  1:05 Benchmarks
+  2:17 Strengths
+  3:52 How to use Haiku
+  6:04 Build an app
+  10:17 Final product
 
 yt_tags:
   []

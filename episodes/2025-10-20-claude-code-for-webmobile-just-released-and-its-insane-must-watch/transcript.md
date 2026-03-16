@@ -6,6 +6,26 @@ duration: "16:18"
 duration_seconds: 978
 view_count: 33790
 author: "Alex Finn"
+description: |
+  Claude Code for Web/Mobile allows you to spin up AI agents wherever you go. The workflow I'm about to teach you is insane.
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Claude for Github:
+  https://github.com/apps/claude
+
+  Timestamps:
+  0:00 Intro
+  0:45 Tour
+  1:38 Example of use
+  3:25 Setting it up
+  4:30 Workflow for using Claude for Web
+  7:07 Spinning up tasks with the agent
+  9:12 Using it with the local agent
+  11:06 Must know tips
+  14:03 Pulling in the code from the agents
 
 yt_tags:
   []

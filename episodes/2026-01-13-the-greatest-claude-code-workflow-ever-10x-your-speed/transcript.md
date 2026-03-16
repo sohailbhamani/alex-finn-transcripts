@@ -6,6 +6,29 @@ duration: "17:14"
 duration_seconds: 1034
 view_count: 32689
 author: "Alex Finn"
+description: |
+  This is the best Claude Code workflow ever. Here's how to use Ghostty and the Claude Code CLI to get maximum productivity.
+
+  Join the Vibe Coding Academy: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Ghostty terminal:
+  ghostty.org
+
+  Claude Code installation command:
+  https://code.claude.com/docs/en/overview
+
+  Prompt:
+  I want to build out a habit tracking app. I want it to be beautiful but simply themed. I want it to track my habits, streaks, and excellent animations and visuals that make the app satisfying, and allow me to track my mood. I’d also like advanced AI functionality. Feel free to ask me questions to come up with more ideas.
+
+  Timestamps:
+  0:00 Intro
+  0:22 Why this is the best
+  2:41 Ghostty introduction
+  5:16 Building the app
+  12:32 Reviewing the app plus more tips
 
 yt_tags:
   []

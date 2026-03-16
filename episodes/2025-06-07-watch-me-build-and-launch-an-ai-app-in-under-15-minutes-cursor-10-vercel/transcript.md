@@ -6,6 +6,18 @@ duration: "17:04"
 duration_seconds: 1024
 view_count: 11733
 author: "Alex Finn"
+description: |
+  In this video I show you how to build and launch your first AI app using Cursor and Vercel. No programming experience required.
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+
+  Tools you can use:
+  Cursor: https://www.cursor.com/
+  Vercel: https://vercel.com/
+
+  Prompts I use:
+  I want to build a fitness tracking app built on nextJS. I should be able to tell you what workout I did and for how long then an AI (OpenAI API) tells me how many calories I burnt. Let's build this out step by step, 1 step at a time please. Explain everything you do as you go along
 
 yt_tags:
   []

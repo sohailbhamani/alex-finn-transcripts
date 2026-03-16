@@ -6,6 +6,41 @@ duration: "13:03"
 duration_seconds: 783
 view_count: 67621
 author: "Alex Finn"
+description: |
+  ClawdBot is a 24/7 AI agent employee and it is the most powerful technology I've ever used. Here's how to get the most out of it
+
+  Join the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  ClawdBot:
+  http://molt.bot/
+
+  Morning brief:
+  I want you to send me a morning brief every morning at 8am my time. I want this morning brief to include the local weather for the day, a list of a few trending youtube videos about my interests, a list of tasks I need to get done today based on my todo list, tasks that you think you can do for me today that will be helpful based on what you know about me, a list of trending stories based on my interests, and recommendations you can make for me that will make today super productive
+
+  Proactive coder:
+  I  am a 1 man business. I work from the moment I wake up to the moment I go to sleep. I need an employee taking as much off my plate and being as proactive as possible. Please take everything you know about me and just do work you think would make my life easier or improve my business and make me money. I want to wake up every morning and be like "wow, you got a lot done while I was sleeping." Don't be afraid to monitor my business and build things that would help improve our workflow. Just create PRs for me to review, don't push anything live. I'll test and commit. Every night when I go to bed, build something cool out I can test. Schedule time to work every night at 11pm
+
+  2nd brain:
+  I want you to build me a 2nd brain. This should be a nextJS app that shows a list of documents you create as we work together in a nice document viewer that feels like a mix of obsidian and linear. I want you to create a folder where all the documents in that folder are viewable in this 2nd brain. Update your memories/skills so that as we talk every day, you create documents in that 2nd brain that explore some of the more important concepts we discuss. You should also create daily journal entries that record from a high level all our daily discussions
+
+  Afternoon report:
+  I want a daily research report sent to me every afternoon. Based on what you know about me I want you to research and give me a report about a concept that would improve me, processes that would improve our working relationship, or anything else that would be helpful for me. Examples would be deep dives on concepts I'm interested in like machine learning or a new workflow we can implement together that will improve our productivity
+
+  last30days Skill
+  https://github.com/mvanhorn/last30days-skill
+  https://x.com/mvanhorn
+
+  Timestamps:
+  0:00 Intro
+  0:27 Morning Report
+  3:38 Proactive Coder
+  5:58 2nd brain
+  8:38 Daily research report
+  10:29 Last30Days Research
+  12:20 Outro
 
 yt_tags:
   []

@@ -6,6 +6,25 @@ duration: "12:45"
 duration_seconds: 765
 view_count: 29139
 author: "Alex Finn"
+description: |
+  Build an AI tutor app with AI EASY using Google Firebase Studio!
+
+  If you learn anything at all make sure to leave a like and subscibe!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.1percentbetter.io/subscribe
+  Check out my AI content tool: https://www.creatorbuddy.io/
+
+  Firebase Studio: https://firebase.studio/
+
+  0:00 What is Firebase Studio
+  1:45 Prompt
+  3:24 Writing Code
+  4:55 V1
+  6:15 Customization
+  6:51 Monetization
+  8:19 Adding a database
+  10:50 Outro
 
 yt_tags:
   []

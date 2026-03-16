@@ -6,6 +6,21 @@ duration: "28:50"
 duration_seconds: 1730
 view_count: 1868
 author: "Alex Finn"
+description: |
+  In this video we figure out which is the best AI coding tool for beginners, Lovable, Firebase Studio, or Bolt.New. We'll build a full AI app with each then score based on the results. Follow along and build with me!
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+  MY AI content app: https://www.creatorbuddy.io/
+
+  0:00 Intro
+  0:38 Lovable
+  11:26 Firebase Studio
+  19:40 Bolt
+  26:31 Final scoring
+
+  #ai #programming  #firebase #artificialintelegence #programming #lovable #bolt
 
 yt_tags:
   []

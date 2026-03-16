@@ -6,6 +6,29 @@ duration: "9:39"
 duration_seconds: 579
 view_count: 8449
 author: "Alex Finn"
+description: |
+  In this video I show you how to use the easiest to use AI programming tool ever: Bolt.New. We use Bolt.New to build a movie recommendations app. I'll show you how to build an app without writing code then put it on the web to use. We also use the ChatGPT API!
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+
+  Bolt:
+  https://bolt.new/
+
+  0:00 Bolt intro
+  0:58 What we are building
+  2:18 Version 1 of app
+  3:40 Testing the app
+  4:20 Adding more functionality
+  5:15 Setting up ChatGPT API
+  6:04 Version 2 of app
+  7:24 Hosting on web
+
+
+
+  #ai #bolt #artificialintelegence #programming #coding
 
 yt_tags:
   []

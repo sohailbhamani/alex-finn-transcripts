@@ -6,6 +6,53 @@ duration: "14:03"
 duration_seconds: 843
 view_count: 76910
 author: "Alex Finn"
+description: |
+  In this video I show you how to master Claude Code by walking you through my 8 tricks. I used these tricks to build my AI startup and I'm positive you can too!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  Install Claude Code:
+  https://www.anthropic.com/claude-code
+  npm install -g @anthropic-ai/claude-code
+
+  7 Claude rules
+  1. First think through the problem, read the codebase for relevant files, and write a plan to tasks/todo.md.
+  2. The plan should have a list of todo items that you can check off as you complete them
+  3. Before you begin working, check in with me and I will verify the plan.
+  4. Then, begin working on the todo items, marking them as complete as you go.
+  5. Please every step of the way just give me a high level explanation of what changes you made
+  6. Make every task and code change you do as simple as possible. We want to avoid making any massive or complex changes. Every change should impact as little code as possible. Everything is about simplicity.
+  7. Finally, add a review section to the [todo.md](http://todo.md/) file with a summary of the changes you made and any other relevant information.
+
+  Security prompt:
+
+  Please check through all the code you just wrote and make sure it follows security best practices. make sure there are no sensitive information in the front and and there are no vulnerabilities that can be exploited
+
+  Learning from Claude prompt:
+
+  Please explain the functionality and code you just built out in detail. Walk me through wehat you changed and how it works. Act like you’re a senior engineer teaching me code
+
+  Be productive while Claude cooks:
+
+  When I am coding with AI there are long breaks into between me giving me commands to the AI. Typically I spend that time doom scrolling which distracts me and pu†s me in a bad mental state. I'd like to use that time now to chat with you and generate new ideas, and also reflect on my other ideas and businesses and content. I'm not sure how I'd like to use this chat or what role I'd like you to play, but I think ti could be much more useful than me doom scrolling. What do you think? What could be the best way for us to use this chat?
+
+  Timestamps:
+  0:00 Intro
+  0:38 Trick 1
+  1:52 Trick 2
+  4:02 Trick 3
+  5:20 Trick 4
+  6:45 Trick 5
+  7:53 Trick 6
+  9:48 Trick 7
+  11:18 Trick 8
+  3:14 How to use Gemini CLI
+  4:57 First prompt
+  7:24 Gemini starts building
+  10:00 V1 of app
+  13:37 Wrap up
 
 yt_tags:
   []

@@ -6,6 +6,8 @@ duration: "0:54"
 duration_seconds: 54
 view_count: 5838
 author: "Alex Finn"
+description: |
+  Is this the coolest AI vibe coding set up ever? Here's how I run two instances of Cursor at the same time autonomously
 
 yt_tags:
   []

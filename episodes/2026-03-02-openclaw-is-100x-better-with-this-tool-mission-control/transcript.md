@@ -7,6 +7,27 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  You need a mission control in your OpenClaw! Here is how to set it up easily.
+
+  FULL OpenClaw bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  OpenClaw:
+  https://openclaw.ai/
+
+  Timestamps:
+  0:00 Intro
+  0:35 Task board
+  3:57 Calendar
+  5:10 Projects
+  7:03 Memories
+  8:29 Docs
+  10:29 Team
+  12:44 Office
+  14:22 Important note
 
 yt_tags:
   []

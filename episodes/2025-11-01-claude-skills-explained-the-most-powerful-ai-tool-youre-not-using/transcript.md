@@ -6,6 +6,139 @@ duration: "24:27"
 duration_seconds: 1467
 view_count: 28455
 author: "Alex Finn"
+description: |
+  Claude Skills are super powerful, and nobody is using them. Here are 5 skills you can implement today that will instantly make your workflow 10x faster.
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  PROMPTS:
+  **Idea Validator:
+  Create a skill called "Idea Validator" that gives me honest, quick feedback on app ideas before I invest time building.
+
+  Evaluation criteria:
+  - Market: Is this crowded? Who else is doing this? What's different?
+  - Demand: Do people actually want this or just say they do?
+  - Feasibility: Can a solo builder ship this in 2-4 weeks?
+  - Monetization: How would this make money? Are people paying for similar things?
+  - Interest factor: Is this boring or actually compelling?
+
+  Be brutally honest. I'd rather hear "this has been done 100 times" now than after building for a month.
+
+  Output format:
+  - Quick verdict: Build it, Maybe, or Skip it
+  - Why (2-3 sentences)
+  - Similar existing products
+  - What would make this idea stronger
+
+  Use this skill before starting any project to save me from building stuff nobody wants.
+
+  **2. Launch Planner**
+  ```
+  Create a skill called "Launch Planner" that helps me take app ideas and turn them into shippable MVPs.
+
+  Include:
+  - My product philosophy: ship fast, validate with real users, no feature creep
+  - My preferred tech stack: Next.js, Supabase, Vercel deployment
+  - MVP scoping rules: only features that serve the core user loop, nothing that takes more than 1 week to build
+  - Questions to ask before building anything: Who is this for? What's the one problem it solves? How will I know if it works?
+  - Common mistakes to avoid: building features nobody asked for, over-engineering, adding auth before validating the idea
+
+  Use this skill to:
+  - Generate PRDs from ideas
+  - Create starter prompts for Claude Code
+  - Advise me on product decisions throughout the build
+  - Keep me focused on shipping
+  ```
+
+  ## Claude Code Skills
+
+  **3. Design Guide**
+  ```
+  Create a skill called "Design Guide" that ensures every UI I build looks modern and professional.
+
+  Design principles:
+  - Clean and minimal - lots of white space, not cluttered
+  - Neutral color palette - use grays and off-whites as base, ONE accent color used sparingly
+  - NO generic purple/blue gradients
+  - Consistent spacing using 8px grid system (8, 16, 24, 32, 48, 64px)
+  - Typography: clear hierarchy, readable sizes (16px minimum for body text), max 2 fonts
+  - Subtle shadows, not heavy or overdone
+  - Rounded corners but not everything needs to be rounded
+  - Clear interactive states (hover, active, disabled)
+  - Mobile-first thinking
+
+  Good examples:
+  - Buttons: subtle shadow, proper padding, clear hover state, no gradients
+  - Cards: clean borders or subtle shadows, not both
+  - Forms: proper labels, clear error states, good spacing between fields
+
+  Bad examples:
+  - Rainbow gradients everywhere
+  - Tiny unreadable text
+  - Inconsistent spacing
+  - Every element is a different color
+
+  Reference this skill whenever building any UI component.
+  ```
+
+  **4. Marketing Writer**
+  ```
+  Create a skill called "Marketing Writer" that writes marketing content for my product and features.
+
+  Read the codebase to understand what the app does, what features exist, and the core value proposition.
+
+  My brand voice:
+  - Casual and direct, like talking to a friend
+  - No corporate buzzwords or cringe marketing speak
+  - Focus on real benefits, not hype
+  - Use simple language, avoid jargon
+
+  Include templates for:
+  - Landing page feature sections (problem → solution → benefit format)
+  - Tweet threads (hook, build credibility, show value, CTA)
+  - Launch emails (personal, specific value prop, easy CTA)
+
+  Use this skill whenever I ship a feature or need to write marketing content. Automatically understand the context from the codebase so I don't have to explain what my app does.
+  ```
+
+  **5. Roadmap Builder**
+  ```
+  Create a skill called "Roadmap Builder" that helps me decide what to build next for my product.
+
+  My prioritization framework:
+  - Impact vs Effort matrix - prioritize high impact, low effort first
+  - Categories in order of importance: Retention - Core features - Monetization - Growth
+  - Stage-based rules:
+    * Pre-launch: ONLY core loop features, nothing else
+    * Post-launch: ONLY features users explicitly request
+    * Growth phase: Features that reduce churn or increase sharing
+
+  Questions to ask about every feature:
+  - Does this serve the core use case?
+  - Will users actually use this or just say they want it?
+  - Can we fake it first to validate demand?
+
+  Red flags:
+  - Feature creep - adding things because they're "cool"
+  - Premature optimization
+  - Building for imaginary users, not real ones
+
+  Use this skill to:
+  - Advise what to build next
+  - Challenge feature ideas
+  - Keep roadmap focused on what matters
+
+
+  Timestamps:
+  0:00 Intro
+  0:33 What are Claude Skills
+  3:19 Idea Validator Skill
+  8:30 Launch Planner skill
+  12:11 Designer Skill
+  15:59 Marketing Skill
+  21:14 Product Manager Skill
 
 yt_tags:
   []

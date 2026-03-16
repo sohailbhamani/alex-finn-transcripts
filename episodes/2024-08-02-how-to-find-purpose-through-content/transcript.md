@@ -6,6 +6,10 @@ duration: "6:32"
 duration_seconds: 392
 view_count: 991
 author: "Alex Finn"
+description: |
+  3 years ago I started creating content. 1 year ago I quit my job to do it full time. By tweeting and creating videos for a few minutes a day I was able to start my own business and truly find PURPOSE in my life.
+
+  In this video I go through how you can do the same thing. This is how you use the internet to find purpose in your life.
 
 yt_tags:
   []

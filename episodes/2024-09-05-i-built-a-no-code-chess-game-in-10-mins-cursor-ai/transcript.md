@@ -6,6 +6,35 @@ duration: "23:22"
 duration_seconds: 1402
 view_count: 4158
 author: "Alex Finn"
+description: |
+  #ai #coding #programming #cursor #games
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  Learn how to build a simple Chess game with AI! No programming experience necessary! Beginner friendly! We use Cursor to build a simple game in under 10 minutes. You can then use these skills to build any application or game you want.
+
+  Timestamps
+  0:00 What are we building?
+  0:50 Introduction to Cursor
+  2:26 Project Set Up- Install React
+  5:36 Start Building Game
+  7:02 Chess Board Set Up!
+  9:08 Implement Pieces
+  10:36 Implement Chess Rules
+  16:31 Debugging the game
+  19:56 Bouncing Ideas Off AI
+  20:12 Adding Further Stylistic Changes
+  21:16 Fun Customization
+  22:50 Final Game
+
+
+  Commands:
+  npx create-react-app chess-game
+  If it doesn’t work: sudo create-react-app chess-game
+  cd chess-game
+  Npm start
+
+  #ai #coding #programming #cursor #games
 
 yt_tags:
   []

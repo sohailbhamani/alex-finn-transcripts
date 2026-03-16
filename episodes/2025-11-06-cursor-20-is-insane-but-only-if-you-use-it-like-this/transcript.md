@@ -6,6 +6,29 @@ duration: "17:01"
 duration_seconds: 1021
 view_count: 17202
 author: "Alex Finn"
+description: |
+  This new Cursor 2.0 workflow will have you building AI apps faster than you ever have before
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Cursor:
+  https://cursor.com
+
+  Initial prompt:
+  I want to build a productivity app that includes a calendar and to do list side by side. I want to be able to add items to the to do list then click and drag them over to the calendar so I can see how much work I need to do on a day by day basis. This should be simple, clean, and beautiful. No purple and blue gradients. Use NextJS and tailwind v3. Use local storage for now.
+
+
+  Timestamps:
+  0:00 Intro
+  0:24 Multiple models
+  7:24 Browser
+  7:48 Building new features w Browser
+  9:20 Debugging w browser
+  10:20 Instant code review
+  11:35 Hidden mobile app
+  13:04 Cloud agents
 
 yt_tags:
   []

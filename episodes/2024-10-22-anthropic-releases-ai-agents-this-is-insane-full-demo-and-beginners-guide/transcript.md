@@ -6,6 +6,37 @@ duration: "9:07"
 duration_seconds: 547
 view_count: 19824
 author: "Alex Finn"
+description: |
+  Anthropic releases 'Computer Use', their version of AI Agents. This is literally the most revolutionary technology I've ever used. You now have your own personal army of AI agents doing work for you.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+  COMMANDS FOR TERMINAL:
+  Mac:
+  docker run -e ANTHROPIC_API_KEY=$ANTHROPIC_API_KEY -v $HOME/.anthropic:/home/computeruse/.anthropic -p 5900:5900 -p 8501:8501 -p 6080:6080 -p 8080:8080 -it ghcr.io/anthropics/anthropic-quickstarts:computer-use-demo-latest
+
+  PC:
+  docker run -e ANTHROPIC_API_KEY=%ANTHROPIC_API_KEY% -v %USERPROFILE%/.anthropic:/home/computeruse/.anthropic -p 5900:5900 -p 8501:8501 -p 6080:6080 -p 8080:8080 -it ghcr.io/anthropics/anthropic-quickstarts:computer-use-demo-latest
+
+  Anthropic API:
+  https://www.anthropic.com/api
+
+  Computer Use announcement:
+  https://docs.anthropic.com/en/docs/build-with-claude/computer-use
+
+  Computer Use github:
+  https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo
+
+  0:00 What Did Anthropic Just Release?
+  1:04 How It Works
+  1:19 AI Research Agent
+  3:35 Vacation Planning Agent
+  5:15 Set Up
+  6:56 Why This Is Revolutionary
+
+  #ai #aiagent #anthropic #technology #artificialintelligence #chatgpt
 
 yt_tags:
   []

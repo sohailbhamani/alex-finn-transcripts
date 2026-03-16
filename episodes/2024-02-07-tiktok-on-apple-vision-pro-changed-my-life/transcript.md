@@ -6,6 +6,8 @@ duration: "1:33"
 duration_seconds: 93
 view_count: 464
 author: "Alex Finn"
+description: |
+  You NEED to be using TikTok on your Apple Vision Pro. Your life will never be the same #tiktok #apple #visionpro
 
 yt_tags:
   []

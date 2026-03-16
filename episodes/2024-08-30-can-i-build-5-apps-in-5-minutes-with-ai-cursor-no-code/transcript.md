@@ -6,6 +6,25 @@ duration: "5:57"
 duration_seconds: 357
 view_count: 1135
 author: "Alex Finn"
+description: |
+  #ai #cursor #programming #apps
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+
+  I challenge myself to build 5 apps in 5 minutes using Cursor. Cursor is seriously the most powerful AI tool on planet earth right now. By the end of the video you'll be able to build, ship, and make money off your own apps! No programming required!
+
+  0:00 The Challenge
+  0:24 To-do List App
+  1:07 Tic Tac Toe Game
+  2:04 Motivational Quote Generator
+  2:47 Calculator App
+  3:23 Timer App
+  3:40 Challenge Complete
+  3:52 Recap
+
+  #ai #cursor #programming #apps
 
 yt_tags:
   []

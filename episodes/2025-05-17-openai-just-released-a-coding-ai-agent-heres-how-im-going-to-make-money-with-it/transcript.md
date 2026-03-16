@@ -6,6 +6,16 @@ duration: "11:12"
 duration_seconds: 672
 view_count: 14723
 author: "Alex Finn"
+description: |
+  In this video I go through the 7 steps I took so build and launch an AI app that is making me an average of $704 a day. By the end of this video you'll have a fully working AI app you can launch and make money off of.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.alexfinn.ai/
+  My AI content app: https://www.creatorbuddy.io/
+
+  OpenAI Codex: https://chatgpt.com/codex
+  Windsurf:https://windsurf.com/
 
 yt_tags:
   []

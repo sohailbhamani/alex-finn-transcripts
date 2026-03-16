@@ -6,6 +6,24 @@ duration: "22:44"
 duration_seconds: 1364
 view_count: 5193
 author: "Alex Finn"
+description: |
+  Leave a like and subscribe if you learned anything!
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+  My AI content app: https://www.creatorbuddy.io/
+
+  Manus AI is the hottest AI app out there right now. It is an AI agent that does work for you while you sleep. In this video I give you a FULL demo of Manus AI and show you why it's taking the internet by storm,
+
+  0:00 Intro
+  2:20 The prompt
+  5:10 Manus builds the plan
+  6:19 Researching pain points
+  10:36 Analyze Market
+  16:30 Building the code
+  19:30 Final product
+
+  https://manus.im/
 
 yt_tags:
   []

@@ -6,6 +6,23 @@ duration: "16:57"
 duration_seconds: 1017
 view_count: 89037
 author: "Alex Finn"
+description: |
+  In this video I go over an INCREDIBLE workflow for GPT-5 Codex!
+
+  JOIN MY FREE VIBE CODING COMMUNITY!! https://discord.gg/TzYjAds8YA
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  https://chatgpt.com/codex
+
+  Timestamps:
+  0:00 Intro
+  1:11 Setup
+  3:47 Building an app
+  9:09 Integrating results
+  14:32 Marketing agents
 
 yt_tags:
   []

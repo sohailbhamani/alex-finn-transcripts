@@ -6,6 +6,23 @@ duration: "18:35"
 duration_seconds: 1115
 view_count: 28791
 author: "Alex Finn"
+description: |
+  Here is how to use Claude Code with Opus 4.5 to build your first iOS app!
+
+  Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Initial prompt:
+  you are in an iOS app we just created. I want to build a habit tracking app. Users should be able to enter a new habit, then click a checkbox to say they completed it. Next to that will be their current streak for days in a row.
+
+  0:00 Intro
+  0:33 Setup
+  5:00 v1 of app
+  10:35 v2 of app
+  13:40 v3 of app
+  15:01 other things you need to know
 
 yt_tags:
   []

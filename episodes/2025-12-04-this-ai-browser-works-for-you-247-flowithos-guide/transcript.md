@@ -6,6 +6,26 @@ duration: "12:10"
 duration_seconds: 730
 view_count: 4306
 author: "Alex Finn"
+description: |
+  FlowithOS is an AI browser that literally does work for you 24/7. Here's how it works.
+
+  Thank you Flowith for partnering for this video! They had ZERO control over the final video or any of my opinions. Everything said in this video is of my own, authentic opinion.
+
+  Try Flowith! https://try.flowith.io/?utm_source=alexfinn
+  Reply below for an invitation code!
+
+  Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Timestamps:
+  0:00 Intro
+  0:54 Platform walkthrough
+  1:46 Starting first agent task
+  5:34 Second agentic task
+  7:20 Teaching the browser skills
+  10:08 Teach mode
 
 yt_tags:
   []

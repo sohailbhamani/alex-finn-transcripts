@@ -6,6 +6,26 @@ duration: "19:16"
 duration_seconds: 1156
 view_count: 7464
 author: "Alex Finn"
+description: |
+  In this video I put Cursor w/ GPT 5 up against Claude Code to determine if Claude Code is still the AI coding king.
+
+  We use the World Famous Patented Alex Finn AI Coding Benchmark (WFPAFACB) to see which tool is worth your money
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  0:00 Intro
+  0:31 The Benchmark
+  1:15 FPS Benchmark Cursor
+  3:50 FPS benchmark Claude Code
+  5:44 Elon dance benchmark Cursor
+  7:33 Elon dance benchmark Claude Code
+  9:12 City flythrough Cursor
+  10:50 City flythrough Claude Code
+  13:05 Music Visualizer Cursor
+  14:32 Music Visualizer Claude Code
+  16:02 Winner of the benchmark
 
 yt_tags:
   []

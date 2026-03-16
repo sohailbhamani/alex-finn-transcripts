@@ -6,6 +6,8 @@ duration: "1:59:19"
 duration_seconds: 7159
 view_count: 2702
 author: "Alex Finn"
+description: |
+  Sign up for my free AI newsletter: alexfinn.ai/subscribe
 
 yt_tags:
   []

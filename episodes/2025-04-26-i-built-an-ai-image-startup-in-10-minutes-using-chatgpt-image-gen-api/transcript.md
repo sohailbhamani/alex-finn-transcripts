@@ -6,6 +6,26 @@ duration: "11:38"
 duration_seconds: 698
 view_count: 6751
 author: "Alex Finn"
+description: |
+  ChatGPT just relased their new image generation API. Let's build a business out of it in under 10 minutes.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+  MY AI content app: https://www.creatorbuddy.io/
+
+  ChatGPT API: http://platform.openai.com/
+  Windsurf: https://windsurf.com/
+
+  Prompts I use:
+  I want to build an AI image app using the newest chat GPT image api model called gpt-image-1. It should be a logo generation app where the user can enter in a description of their business and the AI generates a logo. It should connect to that API and allow the user to enter in a prompt, then it generates an image. very simple. here is the documentation:
+
+  https://platform.openai.com/docs/guides/image-generation?image-generation-model=gpt-image-1
+
+  0:00 intro
+  0:53 Windsurf
+  4:41 V1 of the app
+  9:41 Landing page
 
 yt_tags:
   []

@@ -6,6 +6,31 @@ duration: "15:33"
 duration_seconds: 933
 view_count: 58253
 author: "Alex Finn"
+description: |
+  In this video I show you how to master Google Gemini CLI! By the end of this video you'll be able to use Google Gemini CLI to build any apps you want without writing code!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  Tools in the video:
+  Cursor: https://www.cursor.com/
+  Gemini CLI: https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
+
+  Command to install Gemini CLI:
+  npm install -g @google/gemini-cli
+
+  Prompt:
+  Let’s do some planning, I want you to build an AI habit tracking app, I enter in a few sentences myself then an AI generates me habits. I check off the habits and the app gives me cool visualizations. I want to build this with NextJS and the OpenAI API. Do not write any code
+
+  Timestamps:
+  0:00 Intro
+  0:21 What is Gemini CLI
+  3:14 How to use Gemini CLI
+  4:57 First prompt
+  7:24 Gemini starts building
+  10:00 V1 of app
+  13:37 Wrap up
 
 yt_tags:
   []

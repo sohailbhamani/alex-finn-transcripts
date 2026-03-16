@@ -6,6 +6,38 @@ duration: "18:29"
 duration_seconds: 1109
 view_count: 62917
 author: "Alex Finn"
+description: |
+  Claude Cowork is a 24/7 AI agent employee that runs your life. Here's a full guide.
+
+  Join the Vibe Coding Academy: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Claude Desktop:
+  https://code.claude.com/docs/en/desktop
+
+  PROMPTS
+
+  Organize images:
+  Go into this downloads folder, take all the images and screenshots, and put them into a new 'Images' folder. organize that images folder any way you want
+
+  Create media kit:
+  I have a newsletter with 40,000 subs called Ship It Weekly. Please go to my newsletter site alexfinn.ai and research it, then make a media kit presentation for me that I can send to potential sponsors
+
+  Track subscriptions:
+  Go through my credit statement and make a spreadsheet of all subscriptions I have, then make a column for the cost of the subscription, and a column that explains how to unsubscribe. Let me know how much I'd save by unsubscribing to everything
+
+  App idea research:
+  I have an app idea: 3D AI agent manager, like a RTS game. Run it through full validation - research competitors, analyze the market, identify strengths and weaknesses. Then create a professional PRD document with charts and tables that includes: target user, core user loop, MVP scope, tech stack, timeline, naming/domain suggestions, launch strategy, and a Claude Code starter prompt.
+
+  Timestamps:
+  0:00 Intro
+  0:42 What Claude Cowork is
+  2:36 Organizing your images
+  6:41 Make presentations
+  11:45 Manage finances
+  14:37 Research app ideas
 
 yt_tags:
   []

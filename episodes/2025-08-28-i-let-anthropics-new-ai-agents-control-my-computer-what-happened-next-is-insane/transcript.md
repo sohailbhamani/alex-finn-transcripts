@@ -6,6 +6,19 @@ duration: "13:47"
 duration_seconds: 827
 view_count: 5458
 author: "Alex Finn"
+description: |
+  Anthropic gave me exclusive early access to Claude for Chrome, and what it can do is unbelievable. It is an AI agent that controls your computer!
+
+  FREE Vibe Coding Community: https://discord.gg/TzYjAds8YA
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+
+  0:00 Intro
+  0:39 Use case 1
+  6:34 Use case 2
 
 yt_tags:
   []

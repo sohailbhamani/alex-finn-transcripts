@@ -6,6 +6,38 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  I've spent 100 hours with OpenClaw. Here is EVERYTHING I know about it. Feel free to skip around to relevant chapters.
+
+  FULL OpenClaw bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  OpenClaw:
+  https://openclaw.ai/
+
+  PROMPTS:
+
+  Please schedule a morning brief for me every day at 8am. Send it to my Telegram. In this morning brief I want:
+  1. The weather in San Francisco
+  2. Top news stories in AI
+  3. Any tasks I have in my todo list on Things 3
+  4. Tasks you can complete for me today that bring me closer to my goals
+
+  I want you to set up a Mission Control. This is a custom place for us to build out any tools we need to be more productive. Please build this using NextJS and host it locally.
+
+  Timestamps:
+  0:00 Intro
+  0:53 What is OpenClaw
+  4:33 Where to host OpenClaw
+  8:12 Setting up OpenClaw
+  13:23 First things to do with OpenClaw
+  17:01 OpenClaw Use Cases
+  23:09 Brains and muscles
+  26:55 OpenClaw Mindset
+  30:32 Another advanced workflow
+  31:44 Security
 
 yt_tags:
   []

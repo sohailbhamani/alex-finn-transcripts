@@ -6,6 +6,25 @@ duration: "8:49"
 duration_seconds: 529
 view_count: 4900
 author: "Alex Finn"
+description: |
+  Anthropic releases 'Computer Use', their version of AI Agents. This is literally the most revolutionary technology I've ever used. You now have your own personal army of AI agents doing work for you. In this video we ask Computer Use to make us $10,000. You won't believe what happens next.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+  How to set up Anthropic Computer Use:
+  https://youtu.be/hkYq9rWfapg
+
+  0:00 Our experiment
+  0:40 Computer Use intro
+  1:10 Our prompt
+  2:15 Market research
+  3:55 Creating the business plan
+  6:03 Course outline
+  7:30 Why this is insane
+
+  #ai #aiagent #anthropic #technology #artificialintelligence #chatgpt
 
 yt_tags:
   []

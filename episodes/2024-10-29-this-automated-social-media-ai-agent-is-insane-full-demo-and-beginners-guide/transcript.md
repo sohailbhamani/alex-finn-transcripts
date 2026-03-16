@@ -6,6 +6,30 @@ duration: "9:41"
 duration_seconds: 581
 view_count: 6433
 author: "Alex Finn"
+description: |
+  Anthropic releases 'Computer Use', their version of AI Agents. This is literally the most revolutionary technology I've ever used. You now have your own personal army of AI agents doing work for you. In this video I help you set up an AI agent that does research on Twitter and writes you endless content.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+  AI agent:
+  https://x.com/hellokillian/status/1849248458701705334
+
+  Anthropic API:
+  https://www.anthropic.com/api
+
+  Install Python:
+  https://www.python.org/downloads/
+
+  0:00 Intro
+  1:07 What we are going to cover
+  1:23 What our AI Agent will do
+  2:01 Running the agent
+  6:17 Why this is mind blowing
+  7:02 Setting this up for yourself
+
+  #ai #aiagent #anthropic #technology #artificialintelligence #chatgpt #claude
 
 yt_tags:
   []

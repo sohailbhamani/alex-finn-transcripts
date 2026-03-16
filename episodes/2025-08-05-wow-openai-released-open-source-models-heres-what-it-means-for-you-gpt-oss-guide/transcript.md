@@ -6,6 +6,19 @@ duration: "7:41"
 duration_seconds: 461
 view_count: 6299
 author: "Alex Finn"
+description: |
+  OpenAI finally did it! They released TWO new open weights models. Here's what it means for you and how to set them up!
+
+  https://ollama.com/
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  0:00 intro
+  0:32 What these models are
+  1:49 Why this is important
+  4:32 How to set this up
 
 yt_tags:
   []

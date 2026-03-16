@@ -6,6 +6,33 @@ duration: "7:50"
 duration_seconds: 470
 view_count: 6711
 author: "Alex Finn"
+description: |
+  OpenAI has released ChatGPT Tasks! Their first step towards AI Agents. Here is your complete beginner guide!
+
+  Check out my X: https://x.com/AlexFinnX
+  Subscribe to my free AI and entrepreneurship newsletter: https://www.1percentbetter.io/subscribe
+
+  0:00 What is ChatGPT Tasks?
+  1:38 Journal Prompt
+  2:48 Health Prompt
+  3:36 Workout Prompt
+  4:53 Books Prompt
+  5:36 Language Prompt
+  6:15 Reflective Prompt
+
+  Prompts I used in this video:
+
+  Give me a new journal prompt every single morning at 7am that will help me practice gratitude. It should be some sort of prompt that will help me reflect on my life and everything positive in it
+
+  send me a weekly list Sunday morning of meals for the week plus all the groceries I need so I can get it when shopping. I want these to be healthy meals with no seed oils and no sugar. I also want it high in protein
+
+  Send me a custom workout every morning. My goal is to increase strength and get bigger muscles. Give me complimentary workouts every morning
+
+  Give me 3 new books to read on the first day of every month. I want these to be nonfiction books that improve my life. I want to be more focused and create better content
+
+  I want to spend 15 minutes learning Spanish every night. Every night send me a list of 100 Spanish words for me to practice
+
+  Give me a mental health and mood check in every evening at 7pm so I can become more aware of my emotions as I get ready for bed
 
 yt_tags:
   []

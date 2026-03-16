@@ -6,6 +6,8 @@ duration: "2:10:22"
 duration_seconds: 7822
 view_count: 4232
 author: "Alex Finn"
+description: |
+  Going to use Claude Code to build an AI startup live! Taking suggestions from the chat on what to build
 
 yt_tags:
   []

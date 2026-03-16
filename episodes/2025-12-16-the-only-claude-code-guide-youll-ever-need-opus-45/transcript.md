@@ -6,6 +6,48 @@ duration: "24:45"
 duration_seconds: 1485
 view_count: 94077
 author: "Alex Finn"
+description: |
+  Here is your complete beginners guide to Claude Code. This is my full end to end workflow. You'll be a MASTER by the end of the video.
+
+  Join the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Claude Code:
+  https://code.claude.com/docs
+
+  Visual Studio Code:
+  https://code.visualstudio.com
+
+  Claude Design Skill:
+  https://x.com/trq212/status/1989061939625144388?s=20
+
+  Initial prompt:
+  I want to build a project management app for vibe coders.
+  it should be a kanban board that also has a todo list next
+  to it and a note taking area. The kanban board should
+  have todo, in progress, and complete and have cards for
+  the tasks you can drag and move around. make it a clean,
+  simple, dark mode interface that doesn't look AI generated
+
+  Timestamps:
+  0:00 Intro
+  0:41 Why it's the best
+  2:27 CLI vs extension vs desktop
+  4:34 Claude Code setup
+  4:55 Pricing
+  6:13 Setting it up
+  7:44 Slash commands
+  8:58 Plan mode
+  9:41 First prompt
+  13:49 V1 of app
+  14:50 Claude Skills
+  15:39 Improving UI
+  16:37 Adding more features
+  18:47 Debugging
+  20:26 Github
+  21:07 Architecture of an app
 
 yt_tags:
   []

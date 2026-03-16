@@ -6,6 +6,24 @@ duration: "19:15"
 duration_seconds: 1155
 view_count: 46304
 author: "Alex Finn"
+description: |
+  Claude Opus 4.6 just release and it's incredible. Here's all the improvements plus how to use it in ClawdBot and Claude Code
+
+  FULL ClawdBot bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  OpenClaw:
+  https://openclaw.ai/
+
+  Timestamps:
+  0:00 Intro
+  0:49 What we cover
+  1:53 Why you should use local models
+  5:46 What I built with OpenClaw
+  12:45 Local model use cases
+  15:12 Local models you can run
 
 yt_tags:
   []

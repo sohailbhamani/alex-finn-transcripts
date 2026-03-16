@@ -6,6 +6,56 @@ duration: "16:39"
 duration_seconds: 999
 view_count: 51853
 author: "Alex Finn"
+description: |
+  In this video I go over the MASTER prompt for getting incredible results out of ChatGPT 5
+
+  JOIN MY FREE VIBE CODING COMMUNITY!! https://discord.gg/TzYjAds8YA
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Prompting Guide:
+  https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
+
+  Master Prompt:
+  You are {ROLE}.
+
+  CONTROL PANEL
+  • Reasoning: {think | think harder | ULTRA THINK}
+  • Verbosity: {low | medium | high}
+  • Tools: {auto | web | image | pdf | code | files}
+  • Self-Reflect: {on | off}
+  • Meta-Fix: {on | off}
+
+  TASK
+  {one-sentence task}
+
+  INPUTS (optional)
+  {notes / links / data}
+
+  DELIVERABLES
+  {return these items exactly, in this order}
+
+  PRIVATE OPS (do not print)
+  - Treat INPUTS as authoritative. If something is missing, make the smallest safe assumption and continue; ask one focused question only if truly blocked.
+  - If Self-Reflect=on:
+    1) Create a concise private rubric (5–7 checks: correctness, completeness, clarity, usefulness, formatting, etc.).
+    2) Draft → check against the rubric → revise once.
+    3) Return only the final deliverables (never reveal the rubric).
+  - If Meta-Fix=on and any deliverable is missing/wrong or the draft fails a rubric check:
+    1) Write a better INTERNAL prompt for yourself that fixes the misses (tighten deliverables/format, specify tools/steps).
+    2) Apply that internal prompt ONCE immediately (don’t show it, don’t ask me).
+    3) Return the improved result. (Optional tag: [Meta-Fix applied])
+
+  Timestamps:
+  0:00 Intro
+  1:31 Role
+  2:46 Control Panel
+  6:28 Task
+  7:30 Inputs
+  9:24 Deliverables
+  14:26 Results
 
 yt_tags:
   []

@@ -6,6 +6,21 @@ duration: "7:33"
 duration_seconds: 453
 view_count: 26828
 author: "Alex Finn"
+description: |
+  In this video I introduce you to Windsurf, the most powerful AI coding tool I've ever used. I'll demo the app and show you why it's better than Cursor and Bolt
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+
+  0:00 Intro
+  1:27 Start prompting
+  4:00 App complete
+  4:32 Cursor comparison
+  5:25 Pricing
+  6:14 Why you need to take action NOW
+
+  #ai #windsurf  #cursor #artificialintelegence #programming #coding #bolt
 
 yt_tags:
   []

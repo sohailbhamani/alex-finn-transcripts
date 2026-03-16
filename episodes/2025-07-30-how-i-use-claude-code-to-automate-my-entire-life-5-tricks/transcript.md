@@ -6,6 +6,24 @@ duration: "13:21"
 duration_seconds: 801
 view_count: 32831
 author: "Alex Finn"
+description: |
+  In this video I go through how you can use Claude Code for everything BUT coding
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  Prompts (youtube won't allow more than 5,000 characters in a description):
+  https://docs.google.com/document/d/1WGdMCQpCyWRubIgITovxQUrcoNOngqHXj2PKalTstfw/edit?usp=sharing
+
+  Timestamps:
+
+  0:00 intro
+  0:41 Weekly checkin
+  3:55 Daily journal
+  5:21 Content research
+  7:42 Note analyzer
+  9:53 Daily brief
 
 yt_tags:
   []

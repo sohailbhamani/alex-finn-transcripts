@@ -6,6 +6,30 @@ duration: "13:09"
 duration_seconds: 789
 view_count: 25791
 author: "Alex Finn"
+description: |
+  Leave a like and subscribe if you learned anything!
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  I'm going to show you how to build an iOS game that can easily be made in 15 mins with AI! No programming experience necessary! Beginner friendly! We use Xcode, Cursor to build the game for iOS. You can then use these skills to build any application or game you want.
+
+  Timestamps:
+  0:00 Intro
+  0:24 Install
+  0:35 Xcode
+  1:04 Cursor
+  2:16 Prompt
+  3:10 Building
+  5:04 The Spaceship
+  6:20 Lasers
+  7:13 Enemies
+  10:04 Game Over
+  11:15 Scoreboard
+  12:16 Gameplay
+
+  Cursor: https://www.cursor.com/
+  Xcode: https://developer.apple.com/xcode/
 
 yt_tags:
   []

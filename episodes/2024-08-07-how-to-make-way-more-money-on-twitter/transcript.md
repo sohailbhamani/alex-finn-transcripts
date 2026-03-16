@@ -6,6 +6,8 @@ duration: "3:40"
 duration_seconds: 220
 view_count: 17016
 author: "Alex Finn"
+description: |
+  This simple strategy will show you how I make significantly more money on Twitter/X through their ad revenue program. A lot of people think they understand how the X ad revenue program works, unfortunately they don't. Here are a few easy steps you can take every day to increase your revenue made on Twitter/X
 
 yt_tags:
   []

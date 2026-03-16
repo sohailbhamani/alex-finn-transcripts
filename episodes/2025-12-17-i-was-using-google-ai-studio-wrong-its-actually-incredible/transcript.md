@@ -6,6 +6,26 @@ duration: "10:33"
 duration_seconds: 633
 view_count: 21919
 author: "Alex Finn"
+description: |
+  Google AI Studio is SICK. Here's my workflow for getting WAY better at building apps.
+
+  Join the Vibe Coding Academy waitlist: vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  AI Studio:
+  https://aistudio.google.com/apps
+
+  Antigravity:
+  https://antigravity.google
+
+  Timestamps:
+  0:00 Intro
+  0:24 Why Google AI Studio is sick
+  1:12 How to get WAY better at building apps
+  2:43 First app
+  4:31 Moving to Antigravity
 
 yt_tags:
   []

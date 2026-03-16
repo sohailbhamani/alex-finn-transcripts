@@ -6,6 +6,52 @@ duration: "14:20"
 duration_seconds: 860
 view_count: 24475
 author: "Alex Finn"
+description: |
+  Kimi K2 Thinking is the best AI model I've ever used. In this video I go over why and show you how to build your own deep research app with it.
+
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinnX
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Kimi:
+  https://kimi.com
+
+  Prompt to build your own Kimi Research app (I used Claude Code to build it):
+  Build a Kimi K2 Thinking Demo App Create a web app that demonstrates the Kimi K2 Thinking model's extended reasoning and multi-tool capabilities. The app should:
+  Tech Stack: Next.js, TypeScript, Tailwind CSS v3, React
+  Features:
+  Accept research queries (e.g., "Compare Notion, Obsidian, and Roam Research")
+  Display real-time thinking/reasoning as it happens
+  Show all tool calls as they execute with arguments and results
+  Display metrics (thinking tokens, tool calls, elapsed time, input/output tokens)
+  Show final research report in markdown
+  Tools: The model should have access to:
+  web_search: Search the web for information (use Tavily API)
+  analyze_data: Execute Python code for data analysis and visualization
+  create_pdf_report: Generate professional PDF research reports
+  UI Layout:
+  Input area for research queries with 3 example prompts
+  Metrics panel showing real-time stats
+  Three-column layout showing: Thinking (left) | Tool Calls (middle) | Results (right)
+  Each panel scrolls independently with 600px fixed height
+  API: Use the Moonshot API (Kimi K2 Thinking model) with streaming responses
+  Example Queries:
+  "Research Notion, Obsidian, and Roam Research. Find pricing, create a comparison chart, and generate a PDF report."
+  "Analyze the top 3 AI coding assistants. Research pricing and features, create visualizations, and export a PDF."
+  "Research cloud storage providers. Find pricing tiers, calculate cost per GB, create a chart, and generate a PDF decision matrix."
+  Environment Variables:
+  MOONSHOT_API_KEY (from Moonshot AI)
+  TAVILY_API_KEY (from Tavily)
+
+
+  Timestamps:
+  0:00 Intro
+  0:39 Why Kimi is incredible
+  3:54 Benchmarks
+  4:58 When to use it
+  5:20 Demonstration
+  10:20 Instant code review
+  11:32 How to build your own Kimi researcher
 
 yt_tags:
   []

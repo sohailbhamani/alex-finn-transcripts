@@ -6,6 +6,26 @@ duration: "13:45"
 duration_seconds: 825
 view_count: 748
 author: "Alex Finn"
+description: |
+  🔥Make sure to like and reply with which strategy you're going to focus on first!
+
+  😘 Make sure to subscribe if you learned anything
+
+  🚨Connect with me elsewhere:
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  These 7 strategies were CRITICAL for my success over the last month on Youtube. They helped me get to over 1,000 subscribers in the first 24 days. Copy these strategies and get your first 1,000 subscribers the easy way.
+
+  Timestamps:
+  0:00 Intro
+  0:44 Multiple algorithms
+  2:49 Your niche
+  4:13 SEO
+  6:23 Evergreen
+  7:53 Collect data
+  10:09 Titles and thumbnails
+  11:34 Energy
 
 yt_tags:
   []

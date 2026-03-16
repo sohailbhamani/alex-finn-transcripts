@@ -6,6 +6,33 @@ duration: "37:17"
 duration_seconds: 2237
 view_count: 36873
 author: "Alex Finn"
+description: |
+  FREE Vibe Coding Community: https://discord.gg/Fw2Std9v
+
+  In this video I walk you through vibe coding 101! If you've never vibe coded before or don't even know what vibe coding is, this is the video for you! You'll build your first app with AI
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  First prompt:
+  I want to build out an application with AI. I will be using Claude Code to build out this app. I want to build out a todo list app combined with a calendar. So when I create new todo items I can place them on a calendar. I want to use NextJS for this application. What do you think about this idea and what features would you add
+
+  0:00 Intro
+  0:57 What we're covering
+  1:41 What is vibe coding?
+  2:41 Biggest opportunity ever
+  4:16 The tools we'll be using
+  5:00 Installing the tools
+  7:45 Using Claude Code
+  8:48 Coming up with app ideas
+  11:09 Coming up with plan for the app
+  15:47 Sending first prompt
+  17:49 V1 of app
+  21:38 Tinkering with the app
+  28:49 Anatomy of an app
+  31:17 Putting the app live
+  34:21 Getting first customer
 
 yt_tags:
   []

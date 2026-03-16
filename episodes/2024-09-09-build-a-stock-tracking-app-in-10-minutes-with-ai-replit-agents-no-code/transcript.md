@@ -6,6 +6,26 @@ duration: "21:16"
 duration_seconds: 1276
 view_count: 9447
 author: "Alex Finn"
+description: |
+  #ai #coding #programming #replit #cursor #stocks
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  Learn how to build a simple stock portfolio app with AI! No programming experience necessary! Beginner friendly! We use Replit Agents to build a simple stock tracker in under 10 minutes. You can then use these skills to build any application or game you want.
+
+  Timestamps
+  0:00 App Preview
+  0:13 What We Are Building
+  0:57 Replit Agents Introduction
+  2:03 Prompt
+  3:29 App Plan
+  5:50 Dashboard 1st Version Unveiled
+  10:32 Debugging
+  12:53 User Authentication
+  15:28 Stock Sentiment
+  20:25 Application Live!!!
+
+  #ai #coding #programming #replit #cursor #stocks
 
 yt_tags:
   []

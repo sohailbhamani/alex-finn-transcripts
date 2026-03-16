@@ -6,6 +6,8 @@ duration: "0:42"
 duration_seconds: 42
 view_count: 514
 author: "Alex Finn"
+description: |
+  EVERY creator on Youtube needs a newsletter. ESPECIALLY if you want to start a business or make money.
 
 yt_tags:
   []

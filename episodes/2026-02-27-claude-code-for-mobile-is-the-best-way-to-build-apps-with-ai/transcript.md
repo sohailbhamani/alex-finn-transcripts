@@ -7,6 +7,21 @@ duration: "unknown"
 duration_seconds: 0
 view_count: 0
 author: "Alex Finn"
+description: |
+  Claude Code remote control is Claude Code for mobile. Here is how it works and how to use it. Also should you use this instead of OpenClaw?
+
+  FULL OpenClaw bootcamp in the Vibe Coding Academy: https://vibecodingacademy.dev
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  Follow my X: https://x.com/AlexFinn
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  Timestamps:
+  0:00 Intro
+  0:57 Building an app
+  3:08 V1 of app
+  3:45 Send to mobile
+  6:06 Final version of app
+  6:42 Claude Code vs OpenClaw
 
 yt_tags:
   []

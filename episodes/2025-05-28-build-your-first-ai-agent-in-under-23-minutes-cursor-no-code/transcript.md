@@ -6,6 +6,26 @@ duration: "23:38"
 duration_seconds: 1418
 view_count: 9186
 author: "Alex Finn"
+description: |
+  No more paying hundreds of dollars for ChatGPT and Manus. In this video I walk you through building your own AI agent! Beginner friendly! By the end of this video you'll have a fully working AI agent that can go on the internet and do research for you.
+
+  Make sure to follow my X and subscribe to my newsletter!
+  X: https://x.com/AlexFinnX
+  Newsletter: https://www.1percentbetter.io/subscribe
+  MY AI content app: https://www.creatorbuddy.io/
+
+
+  OpenAI API: https://platform.openai.com/
+  https://app.tavily.com/home
+
+  0:00 Intro
+  1:23 What makes an AI agent
+  2:45 Building the initial prompt
+  4:41 Using Cursor
+  8:47 Building the AI plan
+  13:02 Implementing tools
+  16:22 Make it autonomous
+  20:34 Testing the agent
 
 yt_tags:
   []

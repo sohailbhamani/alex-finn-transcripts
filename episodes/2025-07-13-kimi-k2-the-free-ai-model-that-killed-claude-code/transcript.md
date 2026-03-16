@@ -6,6 +6,30 @@ duration: "8:45"
 duration_seconds: 525
 view_count: 25859
 author: "Alex Finn"
+description: |
+  In this video I walk you through why Kimi K2 is taking the AI industry by storm and how you can set it up to code for FREE!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My AI app: https://www.creatorbuddy.io/
+
+  Links from video:
+  https://www.kimi.com/
+
+  https://api.moonshot.ai/anthropic
+
+  I want you to build me a 3D first person shooter game using ThreeJS. Be creative and make it fun and beautiful. put it in a single file in index so it's easy to run
+
+  https://platform.moonshot.ai/console
+
+  Timestamps:
+  0:00 Intro
+  0:29 Using Kimi K2
+  0:50 Benchmarks
+  2:08 OpenAI Panic
+  3:09 Installing Kimi K2
+  5:19 Building the  app
+  6:50 Final results
 
 yt_tags:
   []

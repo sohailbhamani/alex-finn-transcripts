@@ -6,6 +6,21 @@ duration: "14:05"
 duration_seconds: 845
 view_count: 11446
 author: "Alex Finn"
+description: |
+  In this video I show you how to build mobile apps in seconds using AI! Rork makes it incredibly easy to enter a prompt and immediately get a mobile app built
+
+  Try out Rork! https://rork.com/?ref=alexnw
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  0:00 Intro
+  2:16 Building a game
+  4:39 Testing the game
+  8:14 Building a productivity app
+  9:24 Testing the productivity app
+  13:16 Final thoughts
 
 yt_tags:
   []

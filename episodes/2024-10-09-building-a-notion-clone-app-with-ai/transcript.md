@@ -6,6 +6,8 @@ duration: "0:35"
 duration_seconds: 35
 view_count: 3082
 author: "Alex Finn"
+description: |
+  ok AI is actually crazy, I built a Notion clone with Cursor and V0
 
 yt_tags:
   []

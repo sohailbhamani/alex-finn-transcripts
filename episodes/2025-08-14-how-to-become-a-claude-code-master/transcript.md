@@ -6,6 +6,19 @@ duration: "13:49"
 duration_seconds: 829
 view_count: 8706
 author: "Alex Finn"
+description: |
+  In this video I walk you through 5 hidden Claude Code features that will 10x your productivity!
+
+  Follow my X: https://x.com/AlexFinnX
+  Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
+  My $300k/yr AI app: https://www.creatorbuddy.io/
+
+  0:00 Intro
+  0:26 Auto Model Switcher
+  2:15 Custom Status Line
+  5:30 Security Slash Command
+  7:35 Directory Level Rules
+  11:19 Background Tasks
 
 yt_tags:
   []

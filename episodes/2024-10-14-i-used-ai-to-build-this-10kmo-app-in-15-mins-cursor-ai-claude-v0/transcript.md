@@ -6,6 +6,28 @@ duration: "22:17"
 duration_seconds: 1337
 view_count: 6521
 author: "Alex Finn"
+description: |
+  Leave a like and subscribe if you learned anything!
+
+  Follow my X: https://x.com/AlexFinnX
+  Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
+
+  I'm going to show you how to build an app that can easily make $10,000 using with AI! No programming experience necessary! Beginner friendly! We use Claude to come up with product ideas, V0 to build a prototype, Cursor to build the app, and X/Youtube to market. You can then use these skills to build any application or game you want.
+
+  Timestamps:
+  0:00 Intro
+  1:30 Claude
+  3:33 V0
+  5:23 Cursor
+  8:47 Install UI
+  11:23 Functionality
+  15:21 Categories
+  16:48 Marketing
+  21:00 Homework
+
+  Cursor: https://www.cursor.com/
+  v0: https://v0.dev/
+  Claude: https://claude.ai/
 
 yt_tags:
   []
