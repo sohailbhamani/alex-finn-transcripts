@@ -276,9 +276,14 @@
       "id": "sWuMEPES3So",
       "reason": "Supadata API error: 400 - {\"error\":\"invalid-request\",\"message\":\"Invalid Request\",\"details\":\"This video is currently live streaming. Transcripts are only available after the stream ends.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/invalid-request\"}",
       "time": "2026-03-13T18:27:19.786886"
+    },
+    {
+      "id": "YaakcHNtUEw",
+      "reason": "Supadata API error: 400 - {\"error\":\"invalid-request\",\"message\":\"Invalid Request\",\"details\":\"This video is currently live streaming. Transcripts are only available after the stream ends.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/invalid-request\"}",
+      "time": "2026-03-16T18:45:42.323461"
     }
   ],
-  "last_run": "2026-03-14T18:21:42.109305",
+  "last_run": "2026-03-16T18:45:42.323475",
   "no_transcript": [
     "5zbsR03aGAE",
     "DWKPszM-bXk"
