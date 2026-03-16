@@ -2,9 +2,9 @@
 
 Episodes discussing **Career** (43 episodes):
 
-- [Unknown](../episodes/unknown-fdrq2tn0bjm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-p4jryx4ek0c/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-rhlpv6qdbfe/transcript.md) (unknown)
+- [I did something INCREDIBLE with OpenClaw](../episodes/2026-03-11-i-did-something-incredible-with-openclaw/transcript.md) (2026-03-11)
+- [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)
+- [The Hardest Worker in the Room](../episodes/2026-02-20-the-hardest-worker-in-the-room/transcript.md) (2026-02-20)
 - [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
 - [Unknown](../episodes/2026-02-15-100-hours-of-openclaw-lessons-in-35-minutes/transcript.md) (2026-02-15)
 - [Claude Opus 4.6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)](../episodes/2026-02-05-claude-opus-46-is-a-massive-upgrade-for-clawdbot-and-claude-code-full-guide/transcript.md) (2026-02-05)

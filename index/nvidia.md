@@ -2,7 +2,7 @@
 
 Episodes discussing **Nvidia** (22 episodes):
 
-- [Unknown](../episodes/unknown-swumepes3so/transcript.md) (unknown)
+- [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [DO NOT use a VPS for OpenClaw (major warning)](../episodes/2026-02-12-do-not-use-a-vps-for-openclaw-major-warning/transcript.md) (2026-02-12)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)

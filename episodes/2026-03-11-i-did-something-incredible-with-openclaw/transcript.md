@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "I did something INCREDIBLE with OpenClaw"
 video_id: "fdrq2tN0BJM"
 youtube_url: "https://www.youtube.com/watch?v=fdrq2tN0BJM"
-publish_date: "unknown"
+publish_date: "2026-03-11"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
@@ -31,7 +31,7 @@ entities:
 concepts:
   []
 summary:
-  - "# Unknown
+  - "# I did something INCREDIBLE with OpenClaw
 
 Hey, hope you're doing well, I'm going to take you through some of the work I've been doing with AI and how it's actually changing my daily workflow"
 keywords:
@@ -41,6 +41,6 @@ keywords:
   - "workflows"
 ---
 
-# Unknown
+# I did something INCREDIBLE with OpenClaw
 
 Hey, hope you're doing well, I'm going to take you through some of the work I've been doing with AI and how it's actually changing my daily workflow. One of the biggest shifts has been using large language models to automate the boring parts of my job, like summarizing long meetings and generating code snippets.
