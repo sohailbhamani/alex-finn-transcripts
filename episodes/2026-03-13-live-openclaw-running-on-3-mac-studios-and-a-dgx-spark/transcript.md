@@ -57,7 +57,9 @@ entities:
 concepts:
   []
 summary:
-  - "I'm going to show you my home AI lab, things I'm building, an entire custom model I made to generate content, YouTube scripts, trained on my voice, trained on hundreds and hundreds of transcripts from"
+  - "# LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark
+
+Today is going to be amazing"
 keywords:
   - "ai-tools"
   - "anthropic"
