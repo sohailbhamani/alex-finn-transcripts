@@ -22,7 +22,6 @@ description: |
   9:34 Business Plan
   12:24 Final Thoughts
 
-
   Links:
 
   ChatGPT:
@@ -65,7 +64,6 @@ description: |
   Keep the code well-structured, commented, and all in one file.
   After writing the initial code, briefly explain your reasoning and approach, and then refine it if necessary.
   Please provide the complete code and a short summary of how everything works. If I need changes, I’ll ask for them afterward.
-
 
   #ai #chatgpt #openai #technology #artificialintelligence #chatgpto1
 

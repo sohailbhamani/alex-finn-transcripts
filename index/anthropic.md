@@ -1,7 +1,8 @@
 # Anthropic
 
-Episodes discussing **Anthropic** (134 episodes):
+Episodes discussing **Anthropic** (136 episodes):
 
+- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)
@@ -51,6 +52,7 @@ Episodes discussing **Anthropic** (134 episodes):
 - [The only Claude Code guide you'll ever need (Opus 4.5)](../episodes/2025-12-16-the-only-claude-code-guide-youll-ever-need-opus-45/transcript.md) (2025-12-16)
 - [ChatGPT 5.2 is INCREDIBLE. Here’s how to use it in 14 minutes](../episodes/2025-12-12-chatgpt-52-is-incredible-heres-how-to-use-it-in-14-minutes/transcript.md) (2025-12-12)
 - [Building startups LIVE with Claude Code (Claude Opus 4.5)](../episodes/2025-12-10-building-startups-live-with-claude-code-claude-opus-45/transcript.md) (2025-12-10)
+- [Gemini 3 Pro Deep Think Gives You Super Powers](../episodes/2025-12-09-gemini-3-pro-deep-think-gives-you-super-powers/transcript.md) (2025-12-09)
 - [Watch me build a startup LIVE with Claude Code](../episodes/2025-12-08-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-12-08)
 - [Using Claude Code and Claude Opus 4.5 To Build AMAZING Startups](../episodes/2025-12-06-using-claude-code-and-claude-opus-45-to-build-amazing-startups/transcript.md) (2025-12-06)
 - [The EASIEST way to build iOS apps with Claude Code (Opus 4.5)](../episodes/2025-12-05-the-easiest-way-to-build-ios-apps-with-claude-code-opus-45/transcript.md) (2025-12-05)

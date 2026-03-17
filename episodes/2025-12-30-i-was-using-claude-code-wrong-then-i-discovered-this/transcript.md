@@ -27,7 +27,6 @@ description: |
   beautiful rich text editor and AI functionality that
   makes the app super powerful
 
-
   Timestamps:
   0:00 Intro
   0:29 Why you're using CC wrong

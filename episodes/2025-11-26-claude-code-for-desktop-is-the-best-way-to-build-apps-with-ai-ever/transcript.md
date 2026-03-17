@@ -14,7 +14,6 @@ description: |
   Follow my X: https://x.com/AlexFinn
   My $300k/yr AI app: https://www.creatorbuddy.io/
 
-
   Timestamps:
   0:00 Intro
   0:21 Walking through the app

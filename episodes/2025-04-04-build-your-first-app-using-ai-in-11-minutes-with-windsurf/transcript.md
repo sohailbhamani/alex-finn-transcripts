@@ -23,7 +23,6 @@ description: |
   11:19 Customize looks
   12:17 Bouncing ideas off AI
 
-
   Windsurf: https://codeium.com/windsurf
 
   The prompt: I'd like to build an AI chat bot powered by the Claude Sonnett 3.7 API. I'd like to make it so it looks like a chat bot and I can message it and get responses back. Before we implement code, please build me a plan to build this

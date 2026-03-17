@@ -29,7 +29,6 @@ description: |
   Metaprompting:
   The desired behavior from this prompt is for the agent to [DO DESIRED BEHAVIOR], but instead it [DOES UNDESIRED BEHAVIOR]. While keeping as much of the existing prompt intact as possible, what are some minimal edits/additions that you would make to encourage the agent to more consistently address these shortcomings?
 
-
   Timestamps:
   0:00: Intro
   1:01: Reasoning and verbosity

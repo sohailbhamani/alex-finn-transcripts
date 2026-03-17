@@ -13,7 +13,6 @@ description: |
 
   How to use GPT 5: https://youtu.be/RJfiOWkUQ8A
 
-
   Build me a 3D first person shooter using threejs in a single html file. Make this game as stylistic, fun, and visually appealing as possible. Add any mechanics, powerups, and enemies you think will make the game more fun and beautiful.
 
 yt_tags:

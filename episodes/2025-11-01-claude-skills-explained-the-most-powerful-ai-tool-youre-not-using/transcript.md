@@ -130,7 +130,6 @@ description: |
   - Challenge feature ideas
   - Keep roadmap focused on what matters
 
-
   Timestamps:
   0:00 Intro
   0:33 What are Claude Skills

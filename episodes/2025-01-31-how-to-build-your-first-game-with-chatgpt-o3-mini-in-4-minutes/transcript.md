@@ -20,7 +20,6 @@ description: |
   install pygame: pip3 install pygame
   Run game: python3 game.py
 
-
   0:00 Intro
   0:30 Where to find o3 Mini
   1:41: Prompt to build game

@@ -27,7 +27,6 @@ description: |
   Claude For Chrome:
   https://claude.ai/chrome/installed
 
-
   Timestamps:
   0:00 Intro
   0:38 Improvements

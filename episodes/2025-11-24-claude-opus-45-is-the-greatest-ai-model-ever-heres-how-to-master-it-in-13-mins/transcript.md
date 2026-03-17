@@ -17,8 +17,6 @@ description: |
   Announcement post:
   https://www.anthropic.com/news/claude-opus-4-5
 
-
-
   Timestamps:
   0:00 Intro
   0:45 Everything that's new

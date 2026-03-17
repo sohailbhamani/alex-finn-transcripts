@@ -115,7 +115,6 @@ description: |
 
   * List sources used per company (links/citations).
 
-
   Timestamps:
   0:00 Intro
   0:30 Benchmarks

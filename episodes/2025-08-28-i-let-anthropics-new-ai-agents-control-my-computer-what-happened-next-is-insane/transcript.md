@@ -15,7 +15,6 @@ description: |
   Sign up for my free newsletter: https://www.alexfinn.ai/subscribe
   My $300k/yr AI app: https://www.creatorbuddy.io/
 
-
   0:00 Intro
   0:39 Use case 1
   6:34 Use case 2

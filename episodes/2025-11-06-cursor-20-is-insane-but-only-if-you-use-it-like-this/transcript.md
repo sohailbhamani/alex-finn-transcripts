@@ -19,7 +19,6 @@ description: |
   Initial prompt:
   I want to build a productivity app that includes a calendar and to do list side by side. I want to be able to add items to the to do list then click and drag them over to the calendar so I can see how much work I need to do on a day by day basis. This should be simple, clean, and beautiful. No purple and blue gradients. Use NextJS and tailwind v3. Use local storage for now.
 
-
   Timestamps:
   0:00 Intro
   0:24 Multiple models

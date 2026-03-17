@@ -50,7 +50,6 @@ description: |
   code before investigating unless you are certain of the correct
   answer - give grounded and hallucination-free answers.
 
-
   Timestamps:
   0:00 Intro
   0:26 Tip 1 explain motivations

@@ -1,7 +1,8 @@
 # Stripe
 
-Episodes discussing **Stripe** (23 episodes):
+Episodes discussing **Stripe** (24 episodes):
 
+- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)
 - [Building mind blowing apps with Claude Code LIVE](../episodes/2025-12-29-building-mind-blowing-apps-with-claude-code-live/transcript.md) (2025-12-29)
 - [Claude Code Skills are INSANE (and you’re not using them correctly)](../episodes/2025-12-24-claude-code-skills-are-insane-and-youre-not-using-them-correctly/transcript.md) (2025-12-24)

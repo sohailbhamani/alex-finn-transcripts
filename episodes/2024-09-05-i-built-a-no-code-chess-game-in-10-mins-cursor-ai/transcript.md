@@ -27,7 +27,6 @@ description: |
   21:16 Fun Customization
   22:50 Final Game
 
-
   Commands:
   npx create-react-app chess-game
   If it doesn’t work: sudo create-react-app chess-game

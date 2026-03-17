@@ -37,7 +37,6 @@ description: |
 
   Output (open bracket)promise(closed bracket)COMPLETE(open bracket)/promise(closed bracket) when done." --max-iterations 30 --completion-promise "COMPLETE"
 
-
   Timestamps:
   0:00 Intro
   0:30 How Ralph Wiggum works
