@@ -25,8 +25,6 @@ description: |
   Command to install Claude Code
   npm install -g @anthropic-ai/claude-code
 
-
-
   Timestamps:
   0:00 Intro
   1:36 Competition begins

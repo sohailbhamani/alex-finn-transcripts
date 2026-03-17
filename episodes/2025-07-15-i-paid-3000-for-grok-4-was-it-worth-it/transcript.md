@@ -15,7 +15,6 @@ description: |
 
   https://grok.com/
 
-
   Prompts:
   Test 1:
   Create a minecraft-style procedural terrain generator using Three.js. Requirements:
@@ -63,7 +62,6 @@ description: |
      - Error handling
 
   Everything must work by simply opening the HTML file in a browser.
-
 
   Timestamps:
   0:00 Intro

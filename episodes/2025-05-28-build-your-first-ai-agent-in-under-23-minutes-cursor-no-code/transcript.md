@@ -14,7 +14,6 @@ description: |
   Newsletter: https://www.1percentbetter.io/subscribe
   MY AI content app: https://www.creatorbuddy.io/
 
-
   OpenAI API: https://platform.openai.com/
   https://app.tavily.com/home
 

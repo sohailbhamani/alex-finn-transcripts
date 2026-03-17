@@ -12,7 +12,6 @@ description: |
   Follow my X: https://x.com/AlexFinnX
   Subscribe to my newsletter: https://www.1percentbetter.io/subscribe
 
-
   I challenge myself to build 5 apps in 5 minutes using Cursor. Cursor is seriously the most powerful AI tool on planet earth right now. By the end of the video you'll be able to build, ship, and make money off your own apps! No programming required!
 
   0:00 The Challenge

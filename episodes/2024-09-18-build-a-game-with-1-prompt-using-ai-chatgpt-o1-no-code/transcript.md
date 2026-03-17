@@ -36,13 +36,11 @@ description: |
   * Automatically restart the game when you win or lose.
   * Give the code in a single file.
 
-
   Links:
   Cursor: https://www.cursor.com/
   Python: https://www.python.org/downloads/
   pip install pygame
   python3 pacmangame.py
-
 
   #ai #coding #programming #cursor #games #chatgpto1 #chatgpt
 

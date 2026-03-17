@@ -13,7 +13,6 @@ description: |
   X: https://x.com/AlexFinnX
   Newsletter: https://www.1percentbetter.io/subscribe
 
-
   Bolt:
   https://bolt.new/
 
@@ -25,8 +24,6 @@ description: |
   5:15 Setting up ChatGPT API
   6:04 Version 2 of app
   7:24 Hosting on web
-
-
 
   #ai #bolt #artificialintelegence #programming #coding
 

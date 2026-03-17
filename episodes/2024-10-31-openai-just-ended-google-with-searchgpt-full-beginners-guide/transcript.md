@@ -13,7 +13,6 @@ description: |
   X: https://x.com/AlexFinnX
   Newsletter: https://www.1percentbetter.io/subscribe
 
-
   0:00 SearchGPT Intro
   0:24 Demo
   1:29 Why it destroys Google

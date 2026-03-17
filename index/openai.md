@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (86 episodes):
+Episodes discussing **Openai** (87 episodes):
 
+- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)

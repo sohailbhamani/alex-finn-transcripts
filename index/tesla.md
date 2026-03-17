@@ -1,7 +1,8 @@
 # Tesla
 
-Episodes discussing **Tesla** (30 episodes):
+Episodes discussing **Tesla** (31 episodes):
 
+- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [How to run ClawdBot for DIRT CHEAP](../episodes/2026-02-02-how-to-run-clawdbot-for-dirt-cheap/transcript.md) (2026-02-02)

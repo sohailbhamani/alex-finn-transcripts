@@ -1,13 +1,15 @@
 # Meta
 
-Episodes discussing **Meta** (33 episodes):
+Episodes discussing **Meta** (35 episodes):
 
+- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [🔴LIVE: Is Ralph Wiggum worth learning in Claude Code?](../episodes/2026-01-21-live-is-ralph-wiggum-worth-learning-in-claude-code/transcript.md) (2026-01-21)
 - [Claude Cowork is the best AI tool of 2026. Here's how to use it.](../episodes/2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it/transcript.md) (2026-01-20)
 - [Claude Code vs Codex GPT 5.2 high: Which should you be using? LIVE](../episodes/2026-01-14-claude-code-vs-codex-gpt-52-high-which-should-you-be-using-live/transcript.md) (2026-01-14)
 - [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)
 - [Claude Code Skills are INSANE (and you’re not using them correctly)](../episodes/2025-12-24-claude-code-skills-are-insane-and-youre-not-using-them-correctly/transcript.md) (2025-12-24)
 - [Building startups LIVE with Claude Code (Claude Opus 4.5)](../episodes/2025-12-10-building-startups-live-with-claude-code-claude-opus-45/transcript.md) (2025-12-10)
+- [Gemini 3 Pro Deep Think Gives You Super Powers](../episodes/2025-12-09-gemini-3-pro-deep-think-gives-you-super-powers/transcript.md) (2025-12-09)
 - [Watch me build a startup LIVE with Claude Code](../episodes/2025-12-08-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-12-08)
 - [Building an AMAZING AI app with Claude Opus 4.5 LIVE](../episodes/2025-12-04-building-an-amazing-ai-app-with-claude-opus-45-live/transcript.md) (2025-12-04)
 - [CLAUDE OPUS 4.5 RELEASED! GREATEST AI MODEL EVER? TESTED LIVE!](../episodes/2025-11-24-claude-opus-45-released-greatest-ai-model-ever-tested-live/transcript.md) (2025-11-24)

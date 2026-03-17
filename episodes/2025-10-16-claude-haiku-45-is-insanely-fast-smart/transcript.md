@@ -13,7 +13,6 @@ description: |
   Follow my X: https://x.com/AlexFinnX
   My $300k/yr AI app: https://www.creatorbuddy.io/
 
-
   Prompt:
   I want to build out a kanban board task management app. I want to be able to have a beautiful kanban board with default columns of 'Long Term' 'To do' 'In Progress' 'Completed'. It should have beautiful animations and a nice look and feel that matches the screenshot attacked. It should store the tasks locally for now and use NextJS.
 

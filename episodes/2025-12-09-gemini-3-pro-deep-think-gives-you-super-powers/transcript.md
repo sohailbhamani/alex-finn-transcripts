@@ -83,7 +83,61 @@ description: |
 
   Use JavaScript + Three.js (from a CDN) in a single HTML file I can drop into an empty folder and open in the browser.
 
-  ---
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+entities:
+  companies:
+    - "Google"
+    - "GitHub"
+    - "Cursor"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Gemini"
+    - "Cursor"
+    - "Make"
+    - "Opus"
+  models:
+    - "Gemini"
+    - "Gemini 3"
+    - "Gemini Pro"
+concepts:
+  []
+summary:
+  - "Think first: design the physics & numerics (no code yet)
+
+  Before writing any code, think step by step and **write out your reasoning**:
+
+  1"
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+---
 
   ### 1. Think first: design the physics & numerics (no code yet)
 

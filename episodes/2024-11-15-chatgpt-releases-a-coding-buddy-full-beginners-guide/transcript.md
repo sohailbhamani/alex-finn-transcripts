@@ -26,8 +26,6 @@ description: |
   16:07 Adding a chart
   17:09 Final product
 
-
-
   #ai #chatgpt  #artificialintelegence #programming #coding #workwith
 
 yt_tags:

@@ -43,7 +43,6 @@ description: |
   MOONSHOT_API_KEY (from Moonshot AI)
   TAVILY_API_KEY (from Tavily)
 
-
   Timestamps:
   0:00 Intro
   0:39 Why Kimi is incredible

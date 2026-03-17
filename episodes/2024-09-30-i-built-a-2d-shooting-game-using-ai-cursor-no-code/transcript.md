@@ -35,7 +35,6 @@ description: |
   22:52 Host on the Internet
   24:57 Game Live!
 
-
   Cursor: https://www.cursor.com/
   Supabase: https://supabase.com/
   Replit: https://replit.com/~

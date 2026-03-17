@@ -16,7 +16,6 @@ description: |
   Prompt to build journaling app:
   I want to build a journaling app. It should be a beautiful, clean, simple app where the center piece is a markdown editor. on the left hand side shows all saved journal entries. Use NextJS, typescript, tailwind v3, and local storage for now for this app
 
-
   Timestamps:
   0:00 Intro
   0:27 The 2 parts of this video

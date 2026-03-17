@@ -13,7 +13,6 @@ description: |
   X: https://x.com/AlexFinnX
   Newsletter: https://www.1percentbetter.io/subscribe
 
-
   Bolt:
   https://bolt.new/
 
@@ -31,8 +30,6 @@ description: |
   5:26 Real time pricing complete
   6:05 xAI API key
   7:43 Real time data implemented
-
-
 
   #ai #aiagent #xai  #technology #artificialintelligence #bolt
 

@@ -26,8 +26,6 @@ description: |
   12:57 Game works!
   13:52 Customize game
 
-
-
   Cursor AI Rules:
   "DO NOT GIVE ME HIGH LEVEL STUFF, IF I ASK FOR FIX OR EXPLANATION, I WANT ACTUAL CODE OR EXPLANATION!!! I DON'T WANT "Here's how you can blablabla"
 
@@ -48,7 +46,6 @@ description: |
   No need to disclose you're an AI
   Please respect my prettier preferences when you provide code.
   Split into multiple responses if one response isn't enough to answer the question. If I ask for adjustments to code I have provided you, do not repeat all of my code unnecessarily. Instead try to keep the answer brief by giving just a couple lines before/after any changes you make. Multiple code blocks are ok."
-
 
   Commands:
   npx create-react-app flappy-bird

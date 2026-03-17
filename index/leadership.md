@@ -1,13 +1,15 @@
 # Leadership
 
-Episodes discussing **Leadership** (29 episodes):
+Episodes discussing **Leadership** (31 episodes):
 
+- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)
 - [Claude Cowork is the best AI tool of 2026. Here's how to use it.](../episodes/2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it/transcript.md) (2026-01-20)
 - [Using Claude Code to build startups LIVE!!!](../episodes/2026-01-10-using-claude-code-to-build-startups-live/transcript.md) (2026-01-10)
 - [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)
 - [The only Claude Code guide you'll ever need (Opus 4.5)](../episodes/2025-12-16-the-only-claude-code-guide-youll-ever-need-opus-45/transcript.md) (2025-12-16)
+- [Gemini 3 Pro Deep Think Gives You Super Powers](../episodes/2025-12-09-gemini-3-pro-deep-think-gives-you-super-powers/transcript.md) (2025-12-09)
 - [Using Claude Code and Claude Opus 4.5 To Build AMAZING Startups](../episodes/2025-12-06-using-claude-code-and-claude-opus-45-to-build-amazing-startups/transcript.md) (2025-12-06)
 - [Google Antigravity: From Beginner to Expert in 14 Minutes](../episodes/2025-12-02-google-antigravity-from-beginner-to-expert-in-14-minutes/transcript.md) (2025-12-02)
 - [Did Google Antigravity just kill Cursor? (Gemini 3)](../episodes/2025-11-20-did-google-antigravity-just-kill-cursor-gemini-3/transcript.md) (2025-11-20)
