@@ -84,6 +84,7 @@ description: |
   Use JavaScript + Three.js (from a CDN) in a single HTML file I can drop into an empty folder and open in the browser.
 
 
+
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"

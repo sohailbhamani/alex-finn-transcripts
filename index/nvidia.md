@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (23 episodes):
+Episodes discussing **Nvidia** (24 episodes):
 
+- [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
