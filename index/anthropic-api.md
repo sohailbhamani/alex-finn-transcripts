@@ -1,7 +1,8 @@
 # Anthropic Api
 
-Episodes discussing **Anthropic Api** (6 episodes):
+Episodes discussing **Anthropic Api** (7 episodes):
 
+- [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Using Claude Code to build startups LIVE!!!](../episodes/2026-01-10-using-claude-code-to-build-startups-live/transcript.md) (2026-01-10)
 - [The greatest Claude Code workflow you’ll ever see...](../episodes/2025-11-04-the-greatest-claude-code-workflow-youll-ever-see/transcript.md) (2025-11-04)
 - [Claude Code with Sonnet 4.5 is actually incredible (with 1 exception)](../episodes/2025-09-30-claude-code-with-sonnet-45-is-actually-incredible-with-1-exception/transcript.md) (2025-09-30)

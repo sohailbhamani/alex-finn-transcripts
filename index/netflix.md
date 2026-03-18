@@ -1,7 +1,8 @@
 # Netflix
 
-Episodes discussing **Netflix** (5 episodes):
+Episodes discussing **Netflix** (6 episodes):
 
+- [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [You NEED a Mac Mini for ClawdBot](../episodes/2026-02-04-you-need-a-mac-mini-for-clawdbot/transcript.md) (2026-02-04)
 - [LIVE: Using ClawdBot to ship a FULL startup](../episodes/2026-02-02-live-using-clawdbot-to-ship-a-full-startup/transcript.md) (2026-02-02)
 - [Building mind blowing apps with Claude Code LIVE](../episodes/2025-12-29-building-mind-blowing-apps-with-claude-code-live/transcript.md) (2025-12-29)

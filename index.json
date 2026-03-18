@@ -1,10 +1,64 @@
 {
-  "total_videos": 216,
+  "total_videos": 217,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "CxErCGVo-oo",
+      "youtube_url": "https://www.youtube.com/watch?v=CxErCGVo-oo",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Apple",
+          "Nvidia",
+          "Twitter",
+          "X",
+          "YouTube",
+          "Netflix"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Anthropic API",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [
+        "I do live boot camps every single friday about openclaw inside the vibe coding academy"
+      ],
+      "summary": [
+        "# Unknown\nIt has been four months since the most powerful AI tool ever, OpenClaw, has released, and a lot has changed"
+      ],
+      "transcript_chars": 48171,
+      "folder": "unknown-cxercgvo-oo"
+    },
     {
       "title": "Unknown",
       "video_id": "YaakcHNtUEw",
