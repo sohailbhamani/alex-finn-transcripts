@@ -1,5 +1,5 @@
 {
-  "total_videos": 217,
+  "total_videos": 218,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -58,6 +58,70 @@
       ],
       "transcript_chars": 48171,
       "folder": "unknown-cxercgvo-oo"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "lPsyi5i6SQc",
+      "youtube_url": "https://www.youtube.com/watch?v=lPsyi5i6SQc",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Vercel",
+          "Cursor",
+          "Twitter"
+        ],
+        "people": [
+          "Sam Altman",
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "GPT-5",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Codex",
+          "Make",
+          "Opus",
+          "Atlas"
+        ],
+        "models": [
+          "GPT-5",
+          "Gemini",
+          "Falcon",
+          "DeepSeek",
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "I'm going to take you through my entire OpenClaw mission control"
+      ],
+      "transcript_chars": 113640,
+      "folder": "unknown-lpsyi5i6sqc"
     },
     {
       "title": "Unknown",

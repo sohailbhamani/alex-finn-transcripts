@@ -1,7 +1,8 @@
 # Gpt 5
 
-Episodes discussing **Gpt 5** (6 episodes):
+Episodes discussing **Gpt 5** (7 episodes):
 
+- [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [GPT-5 Codex is the best way to build apps with AI ever (5 tricks you need to know)](../episodes/2025-10-09-gpt-5-codex-is-the-best-way-to-build-apps-with-ai-ever-5-tricks-you-need-to-know/transcript.md) (2025-10-09)
 - [GPT-5 Codex: From Beginner to Expert in 17 minutes](../episodes/2025-09-18-gpt-5-codex-from-beginner-to-expert-in-17-minutes/transcript.md) (2025-09-18)
 - [Did GPT-5 Codex just kill Claude Code?](../episodes/2025-09-16-did-gpt-5-codex-just-kill-claude-code/transcript.md) (2025-09-16)
