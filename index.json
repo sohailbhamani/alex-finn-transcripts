@@ -1,5 +1,5 @@
 {
-  "total_videos": 218,
+  "total_videos": 219,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -122,6 +122,36 @@
       ],
       "transcript_chars": 113640,
       "folder": "unknown-lpsyi5i6sqc"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "WDtlvsgF4xs",
+      "youtube_url": "https://www.youtube.com/watch?v=WDtlvsgF4xs",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "General"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThe 2024 Nissan Frontier is the mid-sized pickup truck that is rugged, capable, and full of technology"
+      ],
+      "transcript_chars": 633,
+      "folder": "unknown-wdtlvsgf4xs"
     },
     {
       "title": "Unknown",

@@ -1,6 +1,6 @@
 # Alex Finn Podcast Index
 
-Index of 218 episodes across 102 topics.
+Index of 219 episodes across 102 topics.
 
 ## Topics
 
@@ -10,13 +10,13 @@ Index of 218 episodes across 102 topics.
 - [Tutorial](tutorial.md) (172 episodes)
 - [Claude](claude.md) (149 episodes)
 - [Tutorials](tutorials.md) (148 episodes)
-- [Ai News](ai-news.md) (143 episodes)
+- [Ai News](ai-news.md) (144 episodes)
 - [Anthropic](anthropic.md) (138 episodes)
 - [Cursor](cursor.md) (135 episodes)
-- [Frameworks](frameworks.md) (120 episodes)
+- [Frameworks](frameworks.md) (121 episodes)
 - [Claude Code](claude-code.md) (117 episodes)
+- [Product Management](product-management.md) (109 episodes)
 - [Google](google.md) (108 episodes)
-- [Product Management](product-management.md) (108 episodes)
 - [Prompting](prompting.md) (103 episodes)
 - [Ai Agents](ai-agents.md) (91 episodes)
 - [Youtube](youtube.md) (90 episodes)
@@ -25,8 +25,8 @@ Index of 218 episodes across 102 topics.
 - [Opus](opus.md) (80 episodes)
 - [Apple](apple.md) (78 episodes)
 - [Gemini](gemini.md) (74 episodes)
+- [Ai Strategy](ai-strategy.md) (73 episodes)
 - [Github](github.md) (73 episodes)
-- [Ai Strategy](ai-strategy.md) (72 episodes)
 - [Workflows](workflows.md) (70 episodes)
 - [Twitter](twitter.md) (70 episodes)
 - [Sonnet](sonnet.md) (63 episodes)
@@ -44,8 +44,8 @@ Index of 218 episodes across 102 topics.
 - [Microsoft](microsoft.md) (25 episodes)
 - [Nvidia](nvidia.md) (25 episodes)
 - [Amazon](amazon.md) (25 episodes)
+- [News Roundup](news-roundup.md) (24 episodes)
 - [Stripe](stripe.md) (24 episodes)
-- [News Roundup](news-roundup.md) (23 episodes)
 - [Arc](arc.md) (20 episodes)
 - [Deep Dives](deep-dives.md) (18 episodes)
 - [Whisper](whisper.md) (17 episodes)
@@ -79,8 +79,8 @@ Index of 218 episodes across 102 topics.
 - [N8N](n8n.md) (4 episodes)
 - [O1](o1.md) (3 episodes)
 - [Langchain](langchain.md) (3 episodes)
-- [Claude Cowork](claude-cowork.md) (3 episodes)
 - [Cowork](cowork.md) (3 episodes)
+- [Claude Cowork](claude-cowork.md) (3 episodes)
 - [O3](o3.md) (2 episodes)
 - [Vercel](vercel.md) (2 episodes)
 - [Jan](jan.md) (2 episodes)
@@ -104,8 +104,8 @@ Index of 218 episodes across 102 topics.
 - [Mistral](mistral.md) (1 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Amd](amd.md) (1 episodes)
-- [Alfred](alfred.md) (1 episodes)
 - [Operator](operator.md) (1 episodes)
+- [Alfred](alfred.md) (1 episodes)
 
 ## Search
 
