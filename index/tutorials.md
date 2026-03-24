@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (149 episodes):
+Episodes discussing **Tutorials** (150 episodes):
 
+- [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)

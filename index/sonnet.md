@@ -1,7 +1,8 @@
 # Sonnet
 
-Episodes discussing **Sonnet** (63 episodes):
+Episodes discussing **Sonnet** (64 episodes):
 
+- [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever/transcript.md) (2026-02-17)
