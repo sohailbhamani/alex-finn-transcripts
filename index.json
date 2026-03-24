@@ -1,5 +1,5 @@
 {
-  "total_videos": 220,
+  "total_videos": 221,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -58,6 +58,65 @@
       ],
       "transcript_chars": 48171,
       "folder": "unknown-cxercgvo-oo"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "LaHXmRE-_fs",
+      "youtube_url": "https://www.youtube.com/watch?v=LaHXmRE-_fs",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Cursor",
+          "Zapier",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Arc",
+          "Shortcuts",
+          "Zapier",
+          "Make",
+          "n8n",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "Claude Opus",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "I turn the internet comes back on and it says I'm live"
+      ],
+      "transcript_chars": 108879,
+      "folder": "unknown-lahxmre-_fs"
     },
     {
       "title": "Unknown",

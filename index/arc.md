@@ -1,7 +1,8 @@
 # Arc
 
-Episodes discussing **Arc** (20 episodes):
+Episodes discussing **Arc** (21 episodes):
 
+- [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
 - [Building apps LIVE with my 24/7 AI employee Clawdbot](../episodes/2026-01-23-building-apps-live-with-my-247-ai-employee-clawdbot/transcript.md) (2026-01-23)
