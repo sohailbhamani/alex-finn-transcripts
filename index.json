@@ -1,5 +1,5 @@
 {
-  "total_videos": 221,
+  "total_videos": 222,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -222,6 +222,56 @@
       ],
       "transcript_chars": 16356,
       "folder": "unknown-qra0myplepe"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "UlC7pTdH_y4",
+      "youtube_url": "https://www.youtube.com/watch?v=UlC7pTdH_y4",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "Apple",
+          "Nvidia",
+          "Hugging Face"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Gemini",
+          "Hugging Face",
+          "LM Studio",
+          "Make",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "Opus 4.5",
+          "Sonnet 4",
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nI'm about to show you the future of AI, AI agents and OpenClaw"
+      ],
+      "transcript_chars": 22179,
+      "folder": "unknown-ulc7ptdh_y4"
     },
     {
       "title": "Unknown",
