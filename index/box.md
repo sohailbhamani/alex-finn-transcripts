@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (44 episodes):
+Episodes discussing **Box** (45 episodes):
 
+- [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
