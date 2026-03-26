@@ -1,5 +1,5 @@
 {
-  "total_videos": 222,
+  "total_videos": 223,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -222,6 +222,67 @@
       ],
       "transcript_chars": 16356,
       "folder": "unknown-qra0myplepe"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "sTTCF83Us3E",
+      "youtube_url": "https://www.youtube.com/watch?v=sTTCF83Us3E",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Box",
+          "Hugging Face",
+          "Perplexity"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Sora",
+          "Whisper",
+          "Perplexity",
+          "Hugging Face",
+          "Arc",
+          "Make"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nWe have breaking news into the AI news office"
+      ],
+      "transcript_chars": 127592,
+      "folder": "unknown-sttcf83us3e"
     },
     {
       "title": "Unknown",
