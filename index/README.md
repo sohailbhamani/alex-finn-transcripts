@@ -79,8 +79,8 @@ Index of 223 episodes across 103 topics.
 - [Github Copilot](github-copilot.md) (4 episodes)
 - [O1](o1.md) (3 episodes)
 - [Langchain](langchain.md) (3 episodes)
-- [Claude Cowork](claude-cowork.md) (3 episodes)
 - [Cowork](cowork.md) (3 episodes)
+- [Claude Cowork](claude-cowork.md) (3 episodes)
 - [Lm Studio](lm-studio.md) (3 episodes)
 - [O3](o3.md) (2 episodes)
 - [Vercel](vercel.md) (2 episodes)
@@ -105,8 +105,8 @@ Index of 223 episodes across 103 topics.
 - [Mistral](mistral.md) (1 episodes)
 - [Palantir](palantir.md) (1 episodes)
 - [Amd](amd.md) (1 episodes)
-- [Operator](operator.md) (1 episodes)
 - [Alfred](alfred.md) (1 episodes)
+- [Operator](operator.md) (1 episodes)
 
 ## Search
 
