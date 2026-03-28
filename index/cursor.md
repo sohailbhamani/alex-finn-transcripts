@@ -1,10 +1,11 @@
 # Cursor
 
-Episodes discussing **Cursor** (137 episodes):
+Episodes discussing **Cursor** (138 episodes):
 
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [LIVE: My OpenClaw just built Cursor. Software is dead.](../episodes/2026-02-25-live-my-openclaw-just-built-cursor-software-is-dead/transcript.md) (2026-02-25)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)

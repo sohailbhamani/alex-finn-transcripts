@@ -1,5 +1,5 @@
 {
-  "total_videos": 223,
+  "total_videos": 224,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -363,6 +363,69 @@
       ],
       "transcript_chars": 633,
       "folder": "unknown-wdtlvsgf4xs"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "-XQshH4zJkk",
+      "youtube_url": "https://www.youtube.com/watch?v=-XQshH4zJkk",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Nvidia",
+          "Tesla",
+          "GitHub",
+          "Cursor",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Elon Musk"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Codex",
+          "Ollama",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "GPT-4o",
+          "Claude Opus",
+          "Claude Sonnet",
+          "Claude Haiku",
+          "Qwen",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nClaude Mythos, the most powerful AI model ever created"
+      ],
+      "transcript_chars": 91540,
+      "folder": "unknown-xqshh4zjkk"
     },
     {
       "title": "Unknown",

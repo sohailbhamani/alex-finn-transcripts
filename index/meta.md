@@ -1,11 +1,12 @@
 # Meta
 
-Episodes discussing **Meta** (39 episodes):
+Episodes discussing **Meta** (40 episodes):
 
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [🔴LIVE: Is Ralph Wiggum worth learning in Claude Code?](../episodes/2026-01-21-live-is-ralph-wiggum-worth-learning-in-claude-code/transcript.md) (2026-01-21)
 - [Claude Cowork is the best AI tool of 2026. Here's how to use it.](../episodes/2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it/transcript.md) (2026-01-20)
