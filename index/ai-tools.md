@@ -1,6 +1,6 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (193 episodes):
+Episodes discussing **Ai Tools** (194 episodes):
 
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
@@ -8,6 +8,7 @@ Episodes discussing **Ai Tools** (193 episodes):
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)
