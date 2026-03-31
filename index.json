@@ -1,10 +1,68 @@
 {
-  "total_videos": 224,
+  "total_videos": 225,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "9Qrs-n5HkC8",
+      "youtube_url": "https://www.youtube.com/watch?v=9Qrs-n5HkC8",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Meta",
+          "Amazon",
+          "Apple",
+          "Tesla",
+          "Slack",
+          "Box",
+          "Perplexity",
+          "Cursor"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Codex",
+          "Perplexity",
+          "Shortcuts",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nToday I'm going to give you a glimpse into the future"
+      ],
+      "transcript_chars": 106464,
+      "folder": "unknown-9qrs-n5hkc8"
+    },
     {
       "title": "Unknown",
       "video_id": "CxErCGVo-oo",
