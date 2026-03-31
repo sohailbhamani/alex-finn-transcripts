@@ -1,11 +1,12 @@
 # Twitter
 
-Episodes discussing **Twitter** (72 episodes):
+Episodes discussing **Twitter** (73 episodes):
 
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [Unknown](../episodes/2026-02-15-100-hours-of-openclaw-lessons-in-35-minutes/transcript.md) (2026-02-15)
 - [I just spent $20,000 on OpenClaw. Here's why...](../episodes/2026-02-09-i-just-spent-20000-on-openclaw-heres-why/transcript.md) (2026-02-09)
