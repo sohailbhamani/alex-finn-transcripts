@@ -1,11 +1,12 @@
 # Opus
 
-Episodes discussing **Opus** (84 episodes):
+Episodes discussing **Opus** (85 episodes):
 
 - [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)

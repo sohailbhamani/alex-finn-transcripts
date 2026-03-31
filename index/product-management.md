@@ -1,9 +1,10 @@
 # Product Management
 
-Episodes discussing **Product Management** (110 episodes):
+Episodes discussing **Product Management** (111 episodes):
 
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wdtlvsgf4xs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)

@@ -1,10 +1,11 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (125 episodes):
+Episodes discussing **Frameworks** (126 episodes):
 
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wdtlvsgf4xs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
