@@ -1,5 +1,5 @@
 {
-  "total_videos": 226,
+  "total_videos": 227,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -116,6 +116,51 @@
       ],
       "transcript_chars": 48171,
       "folder": "unknown-cxercgvo-oo"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "FRjmzUGEpHo",
+      "youtube_url": "https://www.youtube.com/watch?v=FRjmzUGEpHo",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Twitter",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Any of the coins are going to go up or down or whatever it is",
+        "Everything coming from clawed code for the rest of this year"
+      ],
+      "summary": [
+        "The entire source code for Clawed Code leaked onto the internet this morning"
+      ],
+      "transcript_chars": 12917,
+      "folder": "unknown-frjmzugepho"
     },
     {
       "title": "Unknown",
