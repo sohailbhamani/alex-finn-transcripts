@@ -1,9 +1,10 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (196 episodes):
+Episodes discussing **Ai Tools** (197 episodes):
 
 - [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-frjmzugepho/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
