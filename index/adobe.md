@@ -1,7 +1,8 @@
 # Adobe
 
-Episodes discussing **Adobe** (6 episodes):
+Episodes discussing **Adobe** (7 episodes):
 
+- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
 - [LIVE shipping startups with Claude Code and getting work done with Claude Cowork](../episodes/2026-01-20-live-shipping-startups-with-claude-code-and-getting-work-done-with-claude-cowork/transcript.md) (2026-01-20)
 - [Claude Cowork: from beginner to expert in 18 minutes](../episodes/2026-01-15-claude-cowork-from-beginner-to-expert-in-18-minutes/transcript.md) (2026-01-15)
 - [Watch me build a startup LIVE with Claude Code](../episodes/2025-12-08-watch-me-build-a-startup-live-with-claude-code/transcript.md) (2025-12-08)

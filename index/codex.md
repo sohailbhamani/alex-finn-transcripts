@@ -1,8 +1,9 @@
 # Codex
 
-Episodes discussing **Codex** (35 episodes):
+Episodes discussing **Codex** (36 episodes):
 
 - [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)

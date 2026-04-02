@@ -1,10 +1,11 @@
 # Ai News
 
-Episodes discussing **Ai News** (150 episodes):
+Episodes discussing **Ai News** (151 episodes):
 
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-frjmzugepho/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
