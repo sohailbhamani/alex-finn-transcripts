@@ -1,11 +1,12 @@
 # Opus
 
-Episodes discussing **Opus** (86 episodes):
+Episodes discussing **Opus** (87 episodes):
 
 - [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-frjmzugepho/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)

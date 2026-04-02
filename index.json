@@ -1,5 +1,5 @@
 {
-  "total_videos": 227,
+  "total_videos": 228,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -220,6 +220,68 @@
       ],
       "transcript_chars": 108879,
       "folder": "unknown-lahxmre-_fs"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "Lp9CVrKFZe8",
+      "youtube_url": "https://www.youtube.com/watch?v=Lp9CVrKFZe8",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Apple",
+          "Adobe",
+          "Box",
+          "Cursor",
+          "LinkedIn",
+          "Twitter"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Codex",
+          "Whisper",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Haiku",
+          "Projects"
+        ],
+        "models": [
+          "SAM",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "How to prepare today for what's coming next"
+      ],
+      "summary": [
+        "# Unknown\nmassive fallout from the Clawude Code leak"
+      ],
+      "transcript_chars": 114213,
+      "folder": "unknown-lp9cvrkfze8"
     },
     {
       "title": "Unknown",

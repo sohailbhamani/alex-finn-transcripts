@@ -1,11 +1,12 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (124 episodes):
+Episodes discussing **Claude Code** (125 episodes):
 
 - [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-frjmzugepho/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
