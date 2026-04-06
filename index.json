@@ -1,5 +1,5 @@
 {
-  "total_videos": 228,
+  "total_videos": 229,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -62,6 +62,49 @@
       ],
       "transcript_chars": 106464,
       "folder": "unknown-9qrs-n5hkc8"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "cNALFf9R4t4",
+      "youtube_url": "https://www.youtube.com/watch?v=cNALFf9R4t4",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "YouTube",
+          "Netflix"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Anthropic API",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nBad news, Anthropic has banned Open Claw from all its subscriptions"
+      ],
+      "transcript_chars": 17476,
+      "folder": "unknown-cnalff9r4t4"
     },
     {
       "title": "Unknown",
