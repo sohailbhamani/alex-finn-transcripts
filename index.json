@@ -1,5 +1,5 @@
 {
-  "total_videos": 229,
+  "total_videos": 230,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -389,6 +389,56 @@
       ],
       "transcript_chars": 113640,
       "folder": "unknown-lpsyi5i6sqc"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "Pe_wvdV2E6c",
+      "youtube_url": "https://www.youtube.com/watch?v=Pe_wvdV2E6c",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Tesla",
+          "Twitter",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus",
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "You can no longer use OpenClaw with your Anthropic subscription"
+      ],
+      "transcript_chars": 80842,
+      "folder": "unknown-pe_wvdv2e6c"
     },
     {
       "title": "Unknown",

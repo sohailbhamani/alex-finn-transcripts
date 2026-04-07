@@ -1,9 +1,10 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (25 episodes):
+Episodes discussing **News Roundup** (26 episodes):
 
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-frjmzugepho/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-pe_wvdv2e6c/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wdtlvsgf4xs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
 - [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
