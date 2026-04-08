@@ -106,8 +106,8 @@ Index of 230 episodes across 104 topics.
 - [Palantir](palantir.md) (1 episodes)
 - [Amd](amd.md) (1 episodes)
 - [Ollama](ollama.md) (1 episodes)
-- [Alfred](alfred.md) (1 episodes)
 - [Operator](operator.md) (1 episodes)
+- [Alfred](alfred.md) (1 episodes)
 
 ## Search
 
