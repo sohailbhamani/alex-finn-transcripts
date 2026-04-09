@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (106 episodes):
+Episodes discussing **Prompting** (107 episodes):
 
+- [Unknown](../episodes/unknown-6v-b073qhpa/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)

@@ -1,10 +1,48 @@
 {
-  "total_videos": 230,
+  "total_videos": 231,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "6V-b073qhPA",
+      "youtube_url": "https://www.youtube.com/watch?v=6V-b073qhPA",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "YouTube"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "In this video, I'm going to show you how to make it great"
+      ],
+      "transcript_chars": 12211,
+      "folder": "unknown-6v-b073qhpa"
+    },
     {
       "title": "Unknown",
       "video_id": "9Qrs-n5HkC8",
