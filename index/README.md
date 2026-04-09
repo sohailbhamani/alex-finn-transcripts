@@ -1,26 +1,26 @@
 # Alex Finn Podcast Index
 
-Index of 230 episodes across 104 topics.
+Index of 231 episodes across 104 topics.
 
 ## Topics
 
-- [Make](make.md) (207 episodes)
-- [Ai Tools](ai-tools.md) (200 episodes)
+- [Make](make.md) (208 episodes)
+- [Ai Tools](ai-tools.md) (201 episodes)
 - [Coding](coding.md) (189 episodes)
-- [Tutorial](tutorial.md) (177 episodes)
+- [Tutorial](tutorial.md) (178 episodes)
 - [Claude](claude.md) (160 episodes)
-- [Tutorials](tutorials.md) (154 episodes)
+- [Tutorials](tutorials.md) (155 episodes)
 - [Ai News](ai-news.md) (153 episodes)
 - [Anthropic](anthropic.md) (149 episodes)
 - [Cursor](cursor.md) (141 episodes)
-- [Frameworks](frameworks.md) (129 episodes)
+- [Frameworks](frameworks.md) (130 episodes)
 - [Claude Code](claude-code.md) (126 episodes)
 - [Google](google.md) (114 episodes)
 - [Product Management](product-management.md) (113 episodes)
-- [Prompting](prompting.md) (106 episodes)
-- [Ai Agents](ai-agents.md) (98 episodes)
+- [Prompting](prompting.md) (107 episodes)
+- [Ai Agents](ai-agents.md) (99 episodes)
 - [Openai](openai.md) (97 episodes)
-- [Youtube](youtube.md) (94 episodes)
+- [Youtube](youtube.md) (95 episodes)
 - [X](x.md) (89 episodes)
 - [Opus](opus.md) (89 episodes)
 - [Apple](apple.md) (83 episodes)
@@ -30,10 +30,10 @@ Index of 230 episodes across 104 topics.
 - [Github](github.md) (74 episodes)
 - [Workflows](workflows.md) (72 episodes)
 - [Sonnet](sonnet.md) (69 episodes)
-- [Career](career.md) (48 episodes)
+- [Career](career.md) (49 episodes)
 - [Box](box.md) (47 episodes)
 - [Meta](meta.md) (42 episodes)
-- [Projects](projects.md) (41 episodes)
+- [Projects](projects.md) (42 episodes)
 - [Startups](startups.md) (38 episodes)
 - [Tesla](tesla.md) (37 episodes)
 - [Codex](codex.md) (36 episodes)

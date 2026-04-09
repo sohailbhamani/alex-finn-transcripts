@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (41 episodes):
+Episodes discussing **Projects** (42 episodes):
 
+- [Unknown](../episodes/unknown-6v-b073qhpa/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)

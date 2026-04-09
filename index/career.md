@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (48 episodes):
+Episodes discussing **Career** (49 episodes):
 
+- [Unknown](../episodes/unknown-6v-b073qhpa/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
