@@ -15,7 +15,7 @@ yt_tags:
 
 
 # AI-enriched metadata
-content_type: "Framework"
+content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
 audience:
@@ -69,6 +69,7 @@ keywords:
   - "opus"
   - "prompting"
   - "sonnet"
+  - "tutorials"
 ---
 
 # Unknown

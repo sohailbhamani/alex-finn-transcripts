@@ -16,7 +16,7 @@ yt_tags:
 
 # AI-enriched metadata
 content_type: "News Roundup"
-primary_topic: "AI Strategy"
+primary_topic: "AI Agents"
 difficulty: "Intermediate"
 audience:
   - "General"
@@ -36,6 +36,7 @@ summary:
 
 The 2024 Nissan Frontier is the mid-sized pickup truck that is rugged, capable, and full of technology"
 keywords:
+  - "ai-agents"
   - "ai-news"
   - "frameworks"
   - "product-management"
