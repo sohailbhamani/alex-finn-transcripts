@@ -15,7 +15,7 @@ yt_tags:
 
 
 # AI-enriched metadata
-content_type: "News Roundup"
+content_type: "Tutorial"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"
 audience:
@@ -69,6 +69,7 @@ keywords:
   - "nvidia"
   - "openai"
   - "opus"
+  - "tutorials"
   - "twitter"
   - "workflows"
   - "x"

@@ -1,14 +1,16 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (155 episodes):
+Episodes discussing **Tutorials** (157 episodes):
 
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
 - [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
+- [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
 - [OpenClaw's new update is MASSIVE](../episodes/2026-03-23-openclaw-s-new-update-is-massive/transcript.md) (2026-03-23)
 - [5 OpenClaw use cases that will actually improve your life...](../episodes/2026-03-22-5-openclaw-use-cases-that-will-actually-improve-your-life/transcript.md) (2026-03-22)
+- [The only OpenClaw tutorial you’ll ever need (March 2026 edition)](../episodes/2026-03-17-the-only-openclaw-tutorial-you-ll-ever-need-march-2026-editi/transcript.md) (2026-03-17)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)

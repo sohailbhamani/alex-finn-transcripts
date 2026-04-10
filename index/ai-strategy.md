@@ -1,12 +1,10 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (77 episodes):
+Episodes discussing **Ai Strategy** (75 episodes):
 
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
 - [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
-- [OpenClaw's new update is MASSIVE](../episodes/2026-03-23-openclaw-s-new-update-is-massive/transcript.md) (2026-03-23)
 - [5 OpenClaw use cases that will actually improve your life...](../episodes/2026-03-22-5-openclaw-use-cases-that-will-actually-improve-your-life/transcript.md) (2026-03-22)
-- [LIVE: I built my own AI research lab (Hermes agent/OpenClaw)](../episodes/2026-03-20-live-i-built-my-own-ai-research-lab-hermes-agent-openclaw/transcript.md) (2026-03-20)
 - [LIVE: The ULTIMATE OpenClaw Mission Control revealed!](../episodes/2026-03-18-live-the-ultimate-openclaw-mission-control-revealed/transcript.md) (2026-03-18)
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)

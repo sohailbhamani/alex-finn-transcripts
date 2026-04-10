@@ -1,11 +1,10 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (26 episodes):
+Episodes discussing **News Roundup** (25 episodes):
 
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)
 - [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)
 - [LIVE: I built my own AI research lab (Hermes agent/OpenClaw)](../episodes/2026-03-20-live-i-built-my-own-ai-research-lab-hermes-agent-openclaw/transcript.md) (2026-03-20)
-- [The only OpenClaw tutorial you’ll ever need (March 2026 edition)](../episodes/2026-03-17-the-only-openclaw-tutorial-you-ll-ever-need-march-2026-editi/transcript.md) (2026-03-17)
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)

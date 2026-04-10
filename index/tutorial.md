@@ -1,14 +1,16 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (178 episodes):
+Episodes discussing **Tutorial** (180 episodes):
 
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
 - [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
 - [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
+- [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
 - [OpenClaw's new update is MASSIVE](../episodes/2026-03-23-openclaw-s-new-update-is-massive/transcript.md) (2026-03-23)
 - [5 OpenClaw use cases that will actually improve your life...](../episodes/2026-03-22-5-openclaw-use-cases-that-will-actually-improve-your-life/transcript.md) (2026-03-22)
 - [LIVE: The ULTIMATE OpenClaw Mission Control revealed!](../episodes/2026-03-18-live-the-ultimate-openclaw-mission-control-revealed/transcript.md) (2026-03-18)
+- [The only OpenClaw tutorial you’ll ever need (March 2026 edition)](../episodes/2026-03-17-the-only-openclaw-tutorial-you-ll-ever-need-march-2026-editi/transcript.md) (2026-03-17)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)
