@@ -2,9 +2,9 @@
 
 Episodes discussing **Workflows** (72 episodes):
 
-- [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-frjmzugepho/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
+- [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
+- [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)
+- [The only OpenClaw tutorial you’ll ever need (March 2026 edition)](../episodes/2026-03-17-the-only-openclaw-tutorial-you-ll-ever-need-march-2026-editi/transcript.md) (2026-03-17)
 - [I did something INCREDIBLE with OpenClaw](../episodes/2026-03-11-i-did-something-incredible-with-openclaw/transcript.md) (2026-03-11)
 - [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)

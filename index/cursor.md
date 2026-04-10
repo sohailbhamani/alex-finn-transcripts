@@ -2,14 +2,14 @@
 
 Episodes discussing **Cursor** (141 episodes):
 
-- [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
+- [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
+- [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
+- [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
+- [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
+- [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
+- [OpenClaw's new update is MASSIVE](../episodes/2026-03-23-openclaw-s-new-update-is-massive/transcript.md) (2026-03-23)
+- [LIVE: The ULTIMATE OpenClaw Mission Control revealed!](../episodes/2026-03-18-live-the-ultimate-openclaw-mission-control-revealed/transcript.md) (2026-03-18)
+- [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [LIVE: My OpenClaw just built Cursor. Software is dead.](../episodes/2026-02-25-live-my-openclaw-just-built-cursor-software-is-dead/transcript.md) (2026-02-25)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [LIVE: Showing AMAZING ClawdBot/OpenClaw use cases](../episodes/2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases/transcript.md) (2026-01-30)

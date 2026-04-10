@@ -2,8 +2,8 @@
 
 Episodes discussing **Whisper** (19 episodes):
 
-- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
+- [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
+- [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
 - [🔴LIVE: Is Ralph Wiggum worth learning in Claude Code?](../episodes/2026-01-21-live-is-ralph-wiggum-worth-learning-in-claude-code/transcript.md) (2026-01-21)

@@ -2,8 +2,8 @@
 
 Episodes discussing **Arc** (22 episodes):
 
-- [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
+- [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
+- [OpenClaw's new update is MASSIVE](../episodes/2026-03-23-openclaw-s-new-update-is-massive/transcript.md) (2026-03-23)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)
 - [Building apps LIVE with my 24/7 AI employee Clawdbot](../episodes/2026-01-23-building-apps-live-with-my-247-ai-employee-clawdbot/transcript.md) (2026-01-23)

@@ -2,7 +2,7 @@
 
 Episodes discussing **Atlas** (9 episodes):
 
-- [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
+- [LIVE: The ULTIMATE OpenClaw Mission Control revealed!](../episodes/2026-03-18-live-the-ultimate-openclaw-mission-control-revealed/transcript.md) (2026-03-18)
 - [LIVE: Using ClawdBot to ship a FULL startup](../episodes/2026-02-02-live-using-clawdbot-to-ship-a-full-startup/transcript.md) (2026-02-02)
 - [Claude Code vs Codex GPT 5.2 high: Which should you be using? LIVE](../episodes/2026-01-14-claude-code-vs-codex-gpt-52-high-which-should-you-be-using-live/transcript.md) (2026-01-14)
 - [USING CLAUDE CODE TO LAUNCH A STARTUP LIVE!!!](../episodes/2026-01-01-using-claude-code-to-launch-a-startup-live/transcript.md) (2026-01-01)
