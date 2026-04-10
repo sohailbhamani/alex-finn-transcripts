@@ -2,9 +2,9 @@
 
 Episodes discussing **Framework** (13 episodes):
 
-- [Unknown](../episodes/unknown-cnalff9r4t4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
+- [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
+- [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
+- [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
 - [I did something INCREDIBLE with OpenClaw](../episodes/2026-03-11-i-did-something-incredible-with-openclaw/transcript.md) (2026-03-11)
 - [LIVE: I built an army of OpenClaw agents. I have lost control.](../episodes/2026-02-27-live-i-built-an-army-of-openclaw-agents-i-have-lost-control/transcript.md) (2026-02-27)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)

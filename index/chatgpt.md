@@ -2,9 +2,9 @@
 
 Episodes discussing **Chatgpt** (35 episodes):
 
-- [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
+- [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
+- [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
+- [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)

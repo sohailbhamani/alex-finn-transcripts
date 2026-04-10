@@ -2,9 +2,9 @@
 
 Episodes discussing **Gemini** (76 episodes):
 
-- [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
+- [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
+- [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
+- [LIVE: The ULTIMATE OpenClaw Mission Control revealed!](../episodes/2026-03-18-live-the-ultimate-openclaw-mission-control-revealed/transcript.md) (2026-03-18)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)

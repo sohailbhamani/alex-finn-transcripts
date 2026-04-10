@@ -2,11 +2,11 @@
 
 Episodes discussing **Prompting** (107 episodes):
 
-- [Unknown](../episodes/unknown-6v-b073qhpa/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-qra0myplepe/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
+- [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
+- [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
+- [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
+- [5 OpenClaw use cases that will actually improve your life...](../episodes/2026-03-22-5-openclaw-use-cases-that-will-actually-improve-your-life/transcript.md) (2026-03-22)
+- [LIVE: The ULTIMATE OpenClaw Mission Control revealed!](../episodes/2026-03-18-live-the-ultimate-openclaw-mission-control-revealed/transcript.md) (2026-03-18)
 - [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)
 - [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)

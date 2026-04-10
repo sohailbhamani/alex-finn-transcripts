@@ -2,8 +2,8 @@
 
 Episodes discussing **Amazon** (26 episodes):
 
-- [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
+- [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
+- [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [DO NOT use a VPS for OpenClaw (major warning)](../episodes/2026-02-12-do-not-use-a-vps-for-openclaw-major-warning/transcript.md) (2026-02-12)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)

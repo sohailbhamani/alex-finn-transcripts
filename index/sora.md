@@ -2,7 +2,7 @@
 
 Episodes discussing **Sora** (9 episodes):
 
-- [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
+- [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
 - [Building startups LIVE with Claude Code (Claude Opus 4.5)](../episodes/2025-12-10-building-startups-live-with-claude-code-claude-opus-45/transcript.md) (2025-12-10)
 - [Is ChatPT 5.1 Pro Worth $200? Testing LIVE!!!](../episodes/2025-11-21-is-chatpt-51-pro-worth-200-testing-live/transcript.md) (2025-11-21)
 - [Gemini 3.0 Pro: Is this the GREATEST AI ever? LIVE testing!](../episodes/2025-11-19-gemini-30-pro-is-this-the-greatest-ai-ever-live-testing/transcript.md) (2025-11-19)

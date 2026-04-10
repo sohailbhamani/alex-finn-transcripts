@@ -2,13 +2,13 @@
 
 Episodes discussing **Product Management** (113 episodes):
 
-- [Unknown](../episodes/unknown-frjmzugepho/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lpsyi5i6sqc/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-wdtlvsgf4xs/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
+- [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
+- [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
+- [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)
+- [OpenClaw's new update is MASSIVE](../episodes/2026-03-23-openclaw-s-new-update-is-massive/transcript.md) (2026-03-23)
+- [LIVE: I built my own AI research lab (Hermes agent/OpenClaw)](../episodes/2026-03-20-live-i-built-my-own-ai-research-lab-hermes-agent-openclaw/transcript.md) (2026-03-20)
+- [LIVE: The ULTIMATE OpenClaw Mission Control revealed!](../episodes/2026-03-18-live-the-ultimate-openclaw-mission-control-revealed/transcript.md) (2026-03-18)
+- [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)
 - [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)
 - [You NEED to do this with OpenClaw immediately!](../episodes/2026-02-19-you-need-to-do-this-with-openclaw-immediately/transcript.md) (2026-02-19)

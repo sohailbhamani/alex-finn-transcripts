@@ -2,12 +2,12 @@
 
 Episodes discussing **Sonnet** (69 episodes):
 
-- [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-frjmzugepho/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lahxmre-_fs/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-ulc7ptdh_y4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-xqshh4zjkk/transcript.md) (unknown)
+- [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
+- [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)
+- [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
+- [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
+- [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
+- [OpenClaw's new update is MASSIVE](../episodes/2026-03-23-openclaw-s-new-update-is-massive/transcript.md) (2026-03-23)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever/transcript.md) (2026-02-17)

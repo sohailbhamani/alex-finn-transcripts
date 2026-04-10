@@ -2,9 +2,9 @@
 
 Episodes discussing **Box** (47 episodes):
 
-- [Unknown](../episodes/unknown-9qrs-n5hkc8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-sttcf83us3e/transcript.md) (unknown)
+- [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
+- [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
+- [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
 - [LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark](../episodes/2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark/transcript.md) (2026-03-13)
 - [OpenClaw is 100x better with this tool (Mission Control)](../episodes/2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control/transcript.md) (2026-03-02)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)

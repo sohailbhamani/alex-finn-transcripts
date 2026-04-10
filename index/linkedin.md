@@ -2,7 +2,7 @@
 
 Episodes discussing **Linkedin** (16 episodes):
 
-- [Unknown](../episodes/unknown-lp9cvrkfze8/transcript.md) (unknown)
+- [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)
 - [Unknown](../episodes/2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever/transcript.md) (2026-02-17)
 - [LIVE: How I'm using ClawdBot to change my life](../episodes/2026-01-28-live-how-im-using-clawdbot-to-change-my-life/transcript.md) (2026-01-28)

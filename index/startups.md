@@ -2,9 +2,9 @@
 
 Episodes discussing **Startups** (38 episodes):
 
-- [Unknown](../episodes/unknown-pe_wvdv2e6c/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-tp6yf22ojdi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
+- [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)
+- [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
+- [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
 - [LIVE: Using ClawdBot to ship a FULL startup](../episodes/2026-02-02-live-using-clawdbot-to-ship-a-full-startup/transcript.md) (2026-02-02)
 - [ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up](../episodes/2026-01-24-clawdbot-is-the-most-powerful-ai-tool-ive-ever-used-in-my-life-heres-how-to-set/transcript.md) (2026-01-24)

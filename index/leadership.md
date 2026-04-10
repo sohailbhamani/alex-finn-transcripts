@@ -2,9 +2,9 @@
 
 Episodes discussing **Leadership** (33 episodes):
 
-- [Unknown](../episodes/unknown-cnalff9r4t4/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-cxercgvo-oo/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-yaakchntuew/transcript.md) (unknown)
+- [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
+- [The only OpenClaw tutorial you’ll ever need (March 2026 edition)](../episodes/2026-03-17-the-only-openclaw-tutorial-you-ll-ever-need-march-2026-editi/transcript.md) (2026-03-17)
+- [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)
 - [Claude Cowork is the best AI tool of 2026. Here's how to use it.](../episodes/2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it/transcript.md) (2026-01-20)
