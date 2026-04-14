@@ -1,10 +1,113 @@
 {
-  "total_videos": 231,
+  "total_videos": 233,
   "date_range": {
-    "newest": "2026-04-09",
+    "newest": "unknown",
     "oldest": "2023-02-11"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "mduLV-mWrNM",
+      "youtube_url": "https://www.youtube.com/watch?v=mduLV-mWrNM",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Twitter",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nOpen Claw and Hermes agent is the most powerful combo in AI right now"
+      ],
+      "transcript_chars": 19268,
+      "folder": "unknown-mdulv-mwrnm"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "WlDhN2bm3SU",
+      "youtube_url": "https://www.youtube.com/watch?v=WlDhN2bm3SU",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Slack",
+          "Stripe",
+          "Perplexity",
+          "Twitter"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Whisper",
+          "Perplexity",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Atlas",
+          "o3"
+        ],
+        "models": [
+          "o3",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nToday we are going to go over the absolutely massive Open Claw updates we've been getting over last week"
+      ],
+      "transcript_chars": 104960,
+      "folder": "unknown-wldhn2bm3su"
+    },
     {
       "title": "OpenClaw + Obsidian gives you super powers",
       "video_id": "6V-b073qhPA",
