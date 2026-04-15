@@ -1,7 +1,8 @@
 # Sonnet
 
-Episodes discussing **Sonnet** (70 episodes):
+Episodes discussing **Sonnet** (71 episodes):
 
+- [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)

@@ -1,8 +1,9 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (181 episodes):
+Episodes discussing **Tutorial** (182 episodes):
 
 - [Unknown](../episodes/unknown-mdulv-mwrnm/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
 - [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
