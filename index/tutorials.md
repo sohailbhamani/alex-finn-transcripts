@@ -1,8 +1,9 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (159 episodes):
+Episodes discussing **Tutorials** (160 episodes):
 
 - [Unknown](../episodes/unknown-mdulv-mwrnm/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
