@@ -1,7 +1,8 @@
 # Adobe
 
-Episodes discussing **Adobe** (7 episodes):
+Episodes discussing **Adobe** (8 episodes):
 
+- [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [LIVE shipping startups with Claude Code and getting work done with Claude Cowork](../episodes/2026-01-20-live-shipping-startups-with-claude-code-and-getting-work-done-with-claude-cowork/transcript.md) (2026-01-20)
 - [Claude Cowork: from beginner to expert in 18 minutes](../episodes/2026-01-15-claude-cowork-from-beginner-to-expert-in-18-minutes/transcript.md) (2026-01-15)

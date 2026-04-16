@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (39 episodes):
+Episodes discussing **Startups** (40 episodes):
 
+- [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)

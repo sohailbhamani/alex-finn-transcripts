@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (128 episodes):
+Episodes discussing **Claude Code** (129 episodes):
 
+- [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)

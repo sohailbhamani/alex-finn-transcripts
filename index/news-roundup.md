@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (26 episodes):
+Episodes discussing **News Roundup** (27 episodes):
 
+- [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)
 - [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)
