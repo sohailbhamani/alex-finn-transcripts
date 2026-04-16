@@ -1,10 +1,70 @@
 {
-  "total_videos": 234,
+  "total_videos": 235,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "DzH0U-JBems",
+      "youtube_url": "https://www.youtube.com/watch?v=DzH0U-JBems",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple",
+          "Tesla",
+          "Adobe",
+          "GitHub",
+          "Perplexity",
+          "Cursor",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Codex",
+          "Perplexity",
+          "Arc",
+          "Shortcuts",
+          "Make",
+          "n8n"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nClaude Code just released a massive update that makes it by far the best vibe coding tool I've ever used"
+      ],
+      "transcript_chars": 107362,
+      "folder": "unknown-dzh0u-jbems"
+    },
     {
       "title": "Unknown",
       "video_id": "mduLV-mWrNM",
