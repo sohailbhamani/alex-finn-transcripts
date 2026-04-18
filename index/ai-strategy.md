@@ -1,8 +1,9 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (77 episodes):
+Episodes discussing **Ai Strategy** (78 episodes):
 
 - [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
 - [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)

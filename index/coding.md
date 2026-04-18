@@ -1,9 +1,10 @@
 # Coding
 
-Episodes discussing **Coding** (191 episodes):
+Episodes discussing **Coding** (192 episodes):
 
 - [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)

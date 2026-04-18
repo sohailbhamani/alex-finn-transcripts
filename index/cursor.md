@@ -1,8 +1,9 @@
 # Cursor
 
-Episodes discussing **Cursor** (142 episodes):
+Episodes discussing **Cursor** (143 episodes):
 
 - [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)

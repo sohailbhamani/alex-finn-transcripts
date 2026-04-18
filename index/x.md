@@ -1,8 +1,9 @@
 # X
 
-Episodes discussing **X** (90 episodes):
+Episodes discussing **X** (91 episodes):
 
 - [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)
 - [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)
 - [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
