@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (132 episodes):
+Episodes discussing **Frameworks** (133 episodes):
 
+- [Unknown](../episodes/unknown-8yhytif9pyi/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-mdulv-mwrnm/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)

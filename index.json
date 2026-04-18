@@ -1,10 +1,51 @@
 {
-  "total_videos": 236,
+  "total_videos": 237,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
   },
   "videos": [
+    {
+      "title": "Unknown",
+      "video_id": "8YhYtIF9PYI",
+      "youtube_url": "https://www.youtube.com/watch?v=8YhYtIF9PYI",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThe creator of Claude Code just revealed seven secrets to get the most out of Claude Code and Opus 47"
+      ],
+      "transcript_chars": 14235,
+      "folder": "unknown-8yhytif9pyi"
+    },
     {
       "title": "Unknown",
       "video_id": "DzH0U-JBems",

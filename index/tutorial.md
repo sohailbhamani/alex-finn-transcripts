@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (182 episodes):
+Episodes discussing **Tutorial** (183 episodes):
 
+- [Unknown](../episodes/unknown-8yhytif9pyi/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-mdulv-mwrnm/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)

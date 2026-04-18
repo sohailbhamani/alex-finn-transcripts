@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (108 episodes):
+Episodes discussing **Prompting** (109 episodes):
 
+- [Unknown](../episodes/unknown-8yhytif9pyi/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
