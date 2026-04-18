@@ -1,9 +1,10 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (203 episodes):
+Episodes discussing **Ai Tools** (204 episodes):
 
 - [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)

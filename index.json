@@ -1,5 +1,5 @@
 {
-  "total_videos": 235,
+  "total_videos": 236,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -153,6 +153,68 @@
       ],
       "transcript_chars": 18894,
       "folder": "unknown-phr1o_af5na"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "q1atPRjtTtA",
+      "youtube_url": "https://www.youtube.com/watch?v=q1atPRjtTtA",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Tesla",
+          "Adobe",
+          "Perplexity",
+          "Cursor",
+          "Twitter",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Copilot",
+          "Cursor",
+          "Codex",
+          "Perplexity",
+          "Arc",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "Gemini 3"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThis has been the biggest week in AI news of the entire year by far"
+      ],
+      "transcript_chars": 85442,
+      "folder": "unknown-q1atprjttta"
     },
     {
       "title": "Unknown",
