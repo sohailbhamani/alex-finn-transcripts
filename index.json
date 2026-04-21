@@ -1,5 +1,5 @@
 {
-  "total_videos": 237,
+  "total_videos": 238,
   "date_range": {
     "newest": "unknown",
     "oldest": "2023-02-11"
@@ -147,6 +147,61 @@
       ],
       "transcript_chars": 19268,
       "folder": "unknown-mdulv-mwrnm"
+    },
+    {
+      "title": "Unknown",
+      "video_id": "mGcdxFPwBdU",
+      "youtube_url": "https://www.youtube.com/watch?v=mGcdxFPwBdU",
+      "publish_date": "unknown",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Slack",
+          "GitHub",
+          "Twitter",
+          "YouTube"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [
+        "You require an internet connection",
+        "All your chats go to servers and ai labs that they can read it and train their models on"
+      ],
+      "summary": [
+        "# Unknown\nOpenClaw is the most powerful AI tool ever made"
+      ],
+      "transcript_chars": 50978,
+      "folder": "unknown-mgcdxfpwbdu"
     },
     {
       "title": "Unknown",

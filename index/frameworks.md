@@ -1,9 +1,10 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (133 episodes):
+Episodes discussing **Frameworks** (134 episodes):
 
 - [Unknown](../episodes/unknown-8yhytif9pyi/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-mdulv-mwrnm/transcript.md) (unknown)
+- [Unknown](../episodes/unknown-mgcdxfpwbdu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)

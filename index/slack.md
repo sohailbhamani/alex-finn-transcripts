@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (8 episodes):
+Episodes discussing **Slack** (9 episodes):
 
+- [Unknown](../episodes/unknown-mgcdxfpwbdu/transcript.md) (unknown)
 - [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
 - [LIVE: The ULTIMATE OpenClaw setup](../episodes/2026-02-11-live-the-ultimate-openclaw-setup/transcript.md) (2026-02-11)
