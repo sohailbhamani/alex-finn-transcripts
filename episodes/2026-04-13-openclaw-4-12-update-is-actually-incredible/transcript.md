@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "OpenClaw 4.12 update is actually incredible"
 video_id: "WlDhN2bm3SU"
 youtube_url: "https://www.youtube.com/watch?v=WlDhN2bm3SU"
-publish_date: "unknown"
+publish_date: "2026-04-13"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

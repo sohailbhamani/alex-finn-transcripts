@@ -2,9 +2,9 @@
 
 Episodes discussing **News Roundup** (28 episodes):
 
-- [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
+- [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
+- [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
+- [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)
 - [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)
 - [LIVE: I built my own AI research lab (Hermes agent/OpenClaw)](../episodes/2026-03-20-live-i-built-my-own-ai-research-lab-hermes-agent-openclaw/transcript.md) (2026-03-20)

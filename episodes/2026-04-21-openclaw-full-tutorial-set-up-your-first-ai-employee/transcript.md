@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "OpenClaw Full Tutorial: Set up your first AI employee!"
 video_id: "mGcdxFPwBdU"
 youtube_url: "https://www.youtube.com/watch?v=mGcdxFPwBdU"
-publish_date: "unknown"
+publish_date: "2026-04-21"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

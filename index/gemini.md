@@ -2,10 +2,10 @@
 
 Episodes discussing **Gemini** (80 episodes):
 
-- [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-mdulv-mwrnm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-mgcdxfpwbdu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
+- [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
+- [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
+- [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
+- [You NEED to set up a multi agent team with OpenClaw and Hermes](../episodes/2026-04-13-you-need-to-set-up-a-multi-agent-team-with-openclaw-and-herm/transcript.md) (2026-04-13)
 - [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
 - [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
 - [LIVE: The ULTIMATE OpenClaw Mission Control revealed!](../episodes/2026-03-18-live-the-ultimate-openclaw-mission-control-revealed/transcript.md) (2026-03-18)

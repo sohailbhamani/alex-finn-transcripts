@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH"
 video_id: "q1atPRjtTtA"
 youtube_url: "https://www.youtube.com/watch?v=q1atPRjtTtA"
-publish_date: "unknown"
+publish_date: "2026-04-17"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
