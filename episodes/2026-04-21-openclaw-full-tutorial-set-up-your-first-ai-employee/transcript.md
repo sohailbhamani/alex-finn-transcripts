@@ -17,7 +17,7 @@ yt_tags:
 # AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
-difficulty: "Intermediate"
+difficulty: "Beginner"
 audience:
   - "Engineers"
   - "Executives"
@@ -67,6 +67,7 @@ keywords:
   - "opus"
   - "projects"
   - "slack"
+  - "tutorials"
   - "twitter"
   - "youtube"
 ---
