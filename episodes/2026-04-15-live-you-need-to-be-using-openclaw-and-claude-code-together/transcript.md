@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "LIVE: You NEED to be using OpenClaw and Claude Code together"
 video_id: "DzH0U-JBems"
 youtube_url: "https://www.youtube.com/watch?v=DzH0U-JBems"
-publish_date: "unknown"
+publish_date: "2026-04-15"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)"
 video_id: "8YhYtIF9PYI"
 youtube_url: "https://www.youtube.com/watch?v=8YhYtIF9PYI"
-publish_date: "unknown"
+publish_date: "2026-04-18"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0
