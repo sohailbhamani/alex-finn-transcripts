@@ -2,7 +2,7 @@
 
 Episodes discussing **Copilot** (12 episodes):
 
-- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
+- [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)
 - [Building Apps with Claude Code and AI LIVE](../episodes/2025-12-20-building-apps-with-claude-code-and-ai-live/transcript.md) (2025-12-20)
 - [Using Claude Opus 4.5 to build INCREDIBLE apps](../episodes/2025-12-02-using-claude-opus-45-to-build-incredible-apps/transcript.md) (2025-12-02)

@@ -1,158 +1,15 @@
 {
   "total_videos": 238,
   "date_range": {
-    "newest": "unknown",
+    "newest": "2026-04-21",
     "oldest": "2023-02-11"
   },
   "videos": [
     {
-      "title": "Unknown",
-      "video_id": "8YhYtIF9PYI",
-      "youtube_url": "https://www.youtube.com/watch?v=8YhYtIF9PYI",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Tools",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives"
-      ],
-      "entities": {
-        "companies": [
-          "Anthropic",
-          "X",
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Make",
-          "Opus",
-          "Projects"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nThe creator of Claude Code just revealed seven secrets to get the most out of Claude Code and Opus 47"
-      ],
-      "transcript_chars": 14235,
-      "folder": "unknown-8yhytif9pyi"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "DzH0U-JBems",
-      "youtube_url": "https://www.youtube.com/watch?v=DzH0U-JBems",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "News Roundup",
-      "primary_topic": "AI Tools",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Apple",
-          "Tesla",
-          "Adobe",
-          "GitHub",
-          "Perplexity",
-          "Cursor",
-          "Twitter",
-          "X"
-        ],
-        "people": [
-          "Alex Finn"
-        ],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Gemini",
-          "Cursor",
-          "Codex",
-          "Perplexity",
-          "Arc",
-          "Shortcuts",
-          "Make",
-          "n8n"
-        ],
-        "models": [
-          "Claude Opus",
-          "Gemini"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nClaude Code just released a massive update that makes it by far the best vibe coding tool I've ever used"
-      ],
-      "transcript_chars": 107362,
-      "folder": "unknown-dzh0u-jbems"
-    },
-    {
-      "title": "Unknown",
-      "video_id": "mduLV-mWrNM",
-      "youtube_url": "https://www.youtube.com/watch?v=mduLV-mWrNM",
-      "publish_date": "unknown",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Twitter",
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "Gemini",
-          "Make",
-          "Opus"
-        ],
-        "models": [
-          "Gemini"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# Unknown\nOpen Claw and Hermes agent is the most powerful combo in AI right now"
-      ],
-      "transcript_chars": 19268,
-      "folder": "unknown-mdulv-mwrnm"
-    },
-    {
-      "title": "Unknown",
+      "title": "OpenClaw Full Tutorial: Set up your first AI employee!",
       "video_id": "mGcdxFPwBdU",
       "youtube_url": "https://www.youtube.com/watch?v=mGcdxFPwBdU",
-      "publish_date": "unknown",
+      "publish_date": "2026-04-21",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -200,14 +57,34 @@
       "summary": [
         "# Unknown\nOpenClaw is the most powerful AI tool ever made"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "openai",
+        "opus",
+        "projects",
+        "slack",
+        "twitter",
+        "youtube"
+      ],
       "transcript_chars": 50978,
-      "folder": "unknown-mgcdxfpwbdu"
+      "folder": "2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee"
     },
     {
-      "title": "Unknown",
-      "video_id": "pHr1O_Af5NA",
-      "youtube_url": "https://www.youtube.com/watch?v=pHr1O_Af5NA",
-      "publish_date": "unknown",
+      "title": "The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)",
+      "video_id": "8YhYtIF9PYI",
+      "youtube_url": "https://www.youtube.com/watch?v=8YhYtIF9PYI",
+      "publish_date": "2026-04-18",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -215,46 +92,57 @@
       "description": "",
       "yt_tags": [],
       "content_type": "Tutorial",
-      "primary_topic": "AI Strategy",
+      "primary_topic": "AI Tools",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
-        "Executives",
-        "Product Managers"
+        "Executives"
       ],
       "entities": {
         "companies": [
           "Anthropic",
-          "Google",
-          "GitHub",
+          "X",
           "YouTube"
         ],
         "people": [],
         "products": [
           "Claude",
           "Claude Code",
-          "Whisper",
           "Make",
           "Opus",
-          "Sonnet",
           "Projects"
         ],
-        "models": [
-          "Whisper"
-        ]
+        "models": []
       },
       "concepts": [],
       "summary": [
-        "# Unknown\nThe new Claude Code desktop is the best way to vibe code ever"
+        "# Unknown\nThe creator of Claude Code just revealed seven secrets to get the most out of Claude Code and Opus 47"
       ],
-      "transcript_chars": 18894,
-      "folder": "unknown-phr1o_af5na"
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "make",
+        "opus",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
+      "transcript_chars": 14235,
+      "folder": "2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-"
     },
     {
-      "title": "Unknown",
+      "title": "LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH",
       "video_id": "q1atPRjtTtA",
       "youtube_url": "https://www.youtube.com/watch?v=q1atPRjtTtA",
-      "publish_date": "unknown",
+      "publish_date": "2026-04-17",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -309,14 +197,192 @@
       "summary": [
         "# Unknown\nThis has been the biggest week in AI news of the entire year by far"
       ],
+      "keywords": [
+        "adobe",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "arc",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "copilot",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "openai",
+        "opus",
+        "perplexity",
+        "product-management",
+        "tesla",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 85442,
-      "folder": "unknown-q1atprjttta"
+      "folder": "2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau"
     },
     {
-      "title": "Unknown",
+      "title": "Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)",
+      "video_id": "pHr1O_Af5NA",
+      "youtube_url": "https://www.youtube.com/watch?v=pHr1O_Af5NA",
+      "publish_date": "2026-04-15",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "GitHub",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Whisper",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Projects"
+        ],
+        "models": [
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nThe new Claude Code desktop is the best way to vibe code ever"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "github",
+        "google",
+        "make",
+        "opus",
+        "product-management",
+        "projects",
+        "sonnet",
+        "tutorials",
+        "whisper",
+        "workflows",
+        "youtube"
+      ],
+      "transcript_chars": 18894,
+      "folder": "2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a"
+    },
+    {
+      "title": "LIVE: You NEED to be using OpenClaw and Claude Code together",
+      "video_id": "DzH0U-JBems",
+      "youtube_url": "https://www.youtube.com/watch?v=DzH0U-JBems",
+      "publish_date": "2026-04-15",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple",
+          "Tesla",
+          "Adobe",
+          "GitHub",
+          "Perplexity",
+          "Cursor",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Codex",
+          "Perplexity",
+          "Arc",
+          "Shortcuts",
+          "Make",
+          "n8n"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nClaude Code just released a massive update that makes it by far the best vibe coding tool I've ever used"
+      ],
+      "keywords": [
+        "adobe",
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "make",
+        "n8n",
+        "openai",
+        "perplexity",
+        "shortcuts",
+        "startups",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x"
+      ],
+      "transcript_chars": 107362,
+      "folder": "2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together"
+    },
+    {
+      "title": "OpenClaw 4.12 update is actually incredible",
       "video_id": "WlDhN2bm3SU",
       "youtube_url": "https://www.youtube.com/watch?v=WlDhN2bm3SU",
-      "publish_date": "unknown",
+      "publish_date": "2026-04-13",
       "duration": "unknown",
       "duration_seconds": 0,
       "view_count": 0,
@@ -370,8 +436,92 @@
       "summary": [
         "# Unknown\nToday we are going to go over the absolutely massive Open Claw updates we've been getting over last week"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "anthropic",
+        "apple",
+        "atlas",
+        "claude",
+        "claude-code",
+        "codex",
+        "google",
+        "make",
+        "meta",
+        "nvidia",
+        "o3",
+        "openai",
+        "opus",
+        "perplexity",
+        "prompting",
+        "slack",
+        "sonnet",
+        "startups",
+        "stripe",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "whisper"
+      ],
       "transcript_chars": 104960,
-      "folder": "unknown-wldhn2bm3su"
+      "folder": "2026-04-13-openclaw-4-12-update-is-actually-incredible"
+    },
+    {
+      "title": "You NEED to set up a multi agent team with OpenClaw and Hermes",
+      "video_id": "mduLV-mWrNM",
+      "youtube_url": "https://www.youtube.com/watch?v=mduLV-mWrNM",
+      "publish_date": "2026-04-13",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Twitter",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Gemini",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Unknown\nOpen Claw and Hermes agent is the most powerful combo in AI right now"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "anthropic",
+        "frameworks",
+        "gemini",
+        "make",
+        "openai",
+        "opus",
+        "product-management",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "youtube"
+      ],
+      "transcript_chars": 19268,
+      "folder": "2026-04-13-you-need-to-set-up-a-multi-agent-team-with-openclaw-and-herm"
     },
     {
       "title": "OpenClaw + Obsidian gives you super powers",
@@ -407,6 +557,17 @@
       "concepts": [],
       "summary": [
         "In this video, I'm going to show you how to make it great"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "career",
+        "frameworks",
+        "make",
+        "projects",
+        "prompting",
+        "tutorials",
+        "youtube"
       ],
       "transcript_chars": 12211,
       "folder": "2026-04-09-openclaw-obsidian-gives-you-super-powers"
@@ -458,6 +619,23 @@
       "summary": [
         "You can no longer use OpenClaw with your Anthropic subscription"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "make",
+        "openai",
+        "opus",
+        "startups",
+        "tesla",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 80842,
       "folder": "2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno"
     },
@@ -500,6 +678,21 @@
       "concepts": [],
       "summary": [
         "# Unknown\nBad news, Anthropic has banned Open Claw from all its subscriptions"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "anthropic-api",
+        "claude",
+        "frameworks",
+        "google",
+        "leadership",
+        "make",
+        "netflix",
+        "opus",
+        "tutorials",
+        "youtube"
       ],
       "transcript_chars": 17476,
       "folder": "2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i"
@@ -563,6 +756,35 @@
       "summary": [
         "# Unknown\nmassive fallout from the Clawude Code leak"
       ],
+      "keywords": [
+        "adobe",
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "box",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "google",
+        "haiku",
+        "linkedin",
+        "make",
+        "meta",
+        "openai",
+        "opus",
+        "product-management",
+        "projects",
+        "sonnet",
+        "tutorials",
+        "twitter",
+        "whisper",
+        "workflows"
+      ],
       "transcript_chars": 114213,
       "folder": "2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows"
     },
@@ -606,6 +828,28 @@
       "concepts": [],
       "summary": [
         "# Unknown\nHermes Agent is taking the internet by storm"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "cursor",
+        "frameworks",
+        "make",
+        "nvidia",
+        "openai",
+        "opus",
+        "product-management",
+        "projects",
+        "prompting",
+        "startups",
+        "tutorials",
+        "twitter",
+        "workflows"
       ],
       "transcript_chars": 14769,
       "folder": "2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide"
@@ -651,6 +895,23 @@
       ],
       "summary": [
         "The entire source code for Clawed Code leaked onto the internet this morning"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "make",
+        "opus",
+        "product-management",
+        "sonnet",
+        "twitter",
+        "workflows",
+        "x"
       ],
       "transcript_chars": 12917,
       "folder": "2026-03-31-massive-claude-code-leak-this-changes-everything"
@@ -709,6 +970,29 @@
       "concepts": [],
       "summary": [
         "# Unknown\nToday I'm going to give you a glimpse into the future"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "box",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "make",
+        "mcp",
+        "meta",
+        "openai",
+        "opus",
+        "perplexity",
+        "shortcuts",
+        "slack",
+        "sonnet",
+        "tesla"
       ],
       "transcript_chars": 106464,
       "folder": "2026-03-30-live-hermes-vs-openclaw-live-tests"
@@ -773,6 +1057,31 @@
       "summary": [
         "# Unknown\nClaude Mythos, the most powerful AI model ever created"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "frameworks",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "meta",
+        "nvidia",
+        "ollama",
+        "openai",
+        "opus",
+        "sonnet",
+        "tesla",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 91540,
       "folder": "2026-03-27-live-claude-mythos-opus-5-revealed"
     },
@@ -834,6 +1143,32 @@
       "summary": [
         "# Unknown\nWe have breaking news into the AI news office"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "box",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "hugging-face",
+        "make",
+        "meta",
+        "nvidia",
+        "openai",
+        "perplexity",
+        "sora",
+        "tesla",
+        "tutorials",
+        "whisper"
+      ],
       "transcript_chars": 127592,
       "folder": "2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op"
     },
@@ -883,6 +1218,28 @@
       "concepts": [],
       "summary": [
         "# Unknown\nI'm about to show you the future of AI, AI agents and OpenClaw"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "chatgpt",
+        "claude",
+        "coding",
+        "frameworks",
+        "gemini",
+        "google",
+        "hugging-face",
+        "lm-studio",
+        "make",
+        "meta",
+        "nvidia",
+        "openai",
+        "opus",
+        "prompting",
+        "sonnet",
+        "tutorials"
       ],
       "transcript_chars": 22179,
       "folder": "2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu"
@@ -943,6 +1300,32 @@
       "summary": [
         "I turn the internet comes back on and it says I'm live"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "google",
+        "make",
+        "n8n",
+        "nvidia",
+        "openai",
+        "opus",
+        "product-management",
+        "shortcuts",
+        "sonnet",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "x",
+        "zapier"
+      ],
       "transcript_chars": 108879,
       "folder": "2026-03-23-openclaw-s-new-update-is-massive"
     },
@@ -984,6 +1367,23 @@
       "summary": [
         "# Unknown\nOpenClaw is the single most powerful piece of software ever released"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "make",
+        "projects",
+        "prompting",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 16356,
       "folder": "2026-03-22-5-openclaw-use-cases-that-will-actually-improve-your-life"
     },
@@ -1013,6 +1413,12 @@
       "concepts": [],
       "summary": [
         "# Unknown\nThe 2024 Nissan Frontier is the mid-sized pickup truck that is rugged, capable, and full of technology"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "frameworks",
+        "product-management"
       ],
       "transcript_chars": 633,
       "folder": "2026-03-20-live-i-built-my-own-ai-research-lab-hermes-agent-openclaw"
@@ -1078,6 +1484,32 @@
       "summary": [
         "I'm going to take you through my entire OpenClaw mission control"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "atlas",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "gemini",
+        "google",
+        "gpt-5",
+        "make",
+        "meta",
+        "nvidia",
+        "openai",
+        "opus",
+        "product-management",
+        "prompting",
+        "tesla",
+        "twitter",
+        "vercel"
+      ],
       "transcript_chars": 113640,
       "folder": "2026-03-18-live-the-ultimate-openclaw-mission-control-revealed"
     },
@@ -1131,6 +1563,32 @@
       ],
       "summary": [
         "# Unknown\nIt has been four months since the most powerful AI tool ever, OpenClaw, has released, and a lot has changed"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "anthropic-api",
+        "apple",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "google",
+        "leadership",
+        "make",
+        "meta",
+        "netflix",
+        "nvidia",
+        "openai",
+        "opus",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 48171,
       "folder": "2026-03-17-the-only-openclaw-tutorial-you-ll-ever-need-march-2026-editi"
@@ -1199,6 +1657,33 @@
       "summary": [
         "Jensen Wong is about to go on stage and make the biggest AI announcements of all time"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "alfred",
+        "amazon",
+        "anthropic",
+        "apple",
+        "chatgpt",
+        "claude",
+        "codex",
+        "cursor",
+        "google",
+        "langchain",
+        "leadership",
+        "make",
+        "meta",
+        "microsoft",
+        "nvidia",
+        "openai",
+        "operator",
+        "perplexity",
+        "product-management",
+        "projects",
+        "startups",
+        "stripe",
+        "tesla"
+      ],
       "transcript_chars": 129321,
       "folder": "2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn"
     },
@@ -1263,6 +1748,30 @@
       "summary": [
         "# LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark\nToday is going to be amazing"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "box",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "frameworks",
+        "gemini",
+        "google",
+        "jan",
+        "make",
+        "mcp",
+        "nvidia",
+        "openai",
+        "perplexity",
+        "twitter",
+        "whisper",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 91877,
       "folder": "2026-03-13-live-openclaw-running-on-3-mac-studios-and-a-dgx-spark"
     },
@@ -1306,6 +1815,26 @@
       "summary": [
         "# How to build an army of OpenClaw agents\nI have this organization of 10 different OpenClaw agents doing work for me 24/7, 365"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "frameworks",
+        "github",
+        "leadership",
+        "make",
+        "nano-banana",
+        "opus",
+        "sonnet",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 21010,
       "folder": "2026-03-12-how-to-build-an-army-of-openclaw-agents"
     },
@@ -1335,6 +1864,12 @@
       "concepts": [],
       "summary": [
         "# I did something INCREDIBLE with OpenClaw\nHey, hope you're doing well, I'm going to take you through some of the work I've been doing with AI and how it's actually changing my daily workflow"
+      ],
+      "keywords": [
+        "career",
+        "coding",
+        "frameworks",
+        "workflows"
       ],
       "transcript_chars": 314,
       "folder": "2026-03-11-i-did-something-incredible-with-openclaw"
@@ -1372,6 +1907,19 @@
       "concepts": [],
       "summary": [
         "# OpenClaw is 100x better with this tool (Mission Control)\nI'm about to show you how to give your open claw superpowers"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "box",
+        "career",
+        "coding",
+        "make",
+        "projects",
+        "prompting",
+        "tutorials",
+        "workflows",
+        "youtube"
       ],
       "transcript_chars": 18941,
       "folder": "2026-03-02-openclaw-is-100x-better-with-this-tool-mission-control"
@@ -1413,6 +1961,23 @@
       "summary": [
         "# Unknown\nYou're about to become five times more productive"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "deep-dives",
+        "github",
+        "make",
+        "opus",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 9967,
       "folder": "2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai"
     },
@@ -1442,6 +2007,10 @@
       "concepts": [],
       "summary": [
         "# Unknown\nHello, this is a test of the video transcription system"
+      ],
+      "keywords": [
+        "ai-agents",
+        "frameworks"
       ],
       "transcript_chars": 109,
       "folder": "2026-02-27-live-i-built-an-army-of-openclaw-agents-i-have-lost-control"
@@ -1476,6 +2045,12 @@
       "concepts": [],
       "summary": [
         "# Unknown\nHello, my name is Ian and I'm a researcher at the Georgia Tech Research Institute here in Atlanta"
+      ],
+      "keywords": [
+        "ai-tools",
+        "coding",
+        "cursor",
+        "frameworks"
       ],
       "transcript_chars": 1062,
       "folder": "2026-02-25-live-my-openclaw-just-built-cursor-software-is-dead"
@@ -1529,6 +2104,27 @@
       "summary": [
         "# Unknown\nWhat I'm about to show you is how I have an army of AI agents working for me in Discord 24 hours a day, seven days a week, all autonomously running my business and making me money"
       ],
+      "keywords": [
+        "ai-agents",
+        "anthropic",
+        "artifacts",
+        "canvas",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "nano-banana",
+        "openai",
+        "projects",
+        "tutorials",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 39008,
       "folder": "2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord"
     },
@@ -1570,6 +2166,23 @@
       "summary": [
         "# Unknown\nOpenClaw is the most powerful AI tool I've ever used"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "coding",
+        "deep-dives",
+        "frameworks",
+        "google",
+        "leadership",
+        "linkedin",
+        "make",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 16437,
       "folder": "2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi"
     },
@@ -1598,6 +2211,9 @@
       "concepts": [],
       "summary": [
         "# The Hardest Worker in the Room\nI was talking about this with my team just the other day"
+      ],
+      "keywords": [
+        "career"
       ],
       "transcript_chars": 644,
       "folder": "2026-02-20-the-hardest-worker-in-the-room"
@@ -1633,6 +2249,19 @@
       "concepts": [],
       "summary": [
         "# Unknown\nOpenClaw is the most powerful AI tool ever created, but only if you do these five things right after you set it up"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "career",
+        "frameworks",
+        "make",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "workflows",
+        "youtube"
       ],
       "transcript_chars": 12567,
       "folder": "2026-02-19-you-need-to-do-this-with-openclaw-immediately"
@@ -1695,6 +2324,33 @@
       "summary": [
         "You can no longer use your Anthropic accounts with OpenClaw"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "amd",
+        "anthropic",
+        "apple",
+        "box",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "mcp",
+        "microsoft",
+        "openai",
+        "opus",
+        "projects",
+        "sonnet",
+        "uber",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 52354,
       "folder": "2026-02-18-live-anthropic-bans-openclaw-its-over"
     },
@@ -1743,6 +2399,25 @@
       ],
       "summary": [
         "6 and is faster, cheaper, and just as good as Opus at most agentic tasks"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "computer-use",
+        "frameworks",
+        "google",
+        "linkedin",
+        "make",
+        "opus",
+        "sonnet",
+        "tutorials",
+        "x"
       ],
       "transcript_chars": 14176,
       "folder": "2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever"
@@ -1811,6 +2486,32 @@
       "summary": [
         "This is the single biggest AI story of the year, period"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "box",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "computer-use",
+        "frameworks",
+        "gemini",
+        "google",
+        "lm-studio",
+        "make",
+        "microsoft",
+        "nano-banana",
+        "nvidia",
+        "openai",
+        "opus",
+        "palantir",
+        "product-management",
+        "tesla"
+      ],
       "transcript_chars": 98768,
       "folder": "2026-02-16-live-openai-buys-openclaw-will-anthropic-survive"
     },
@@ -1858,6 +2559,25 @@
       "summary": [
         "# Unknown\nThis is the video you've been waiting for"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "make",
+        "openai",
+        "opus",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 40828,
       "folder": "2026-02-15-100-hours-of-openclaw-lessons-in-35-minutes"
     },
@@ -1889,6 +2609,13 @@
       "concepts": [],
       "summary": [
         "# LIVE: My OpenClaw setup is incredible\nHello everyone, and welcome to this quick tutorial"
+      ],
+      "keywords": [
+        "ai-strategy",
+        "frameworks",
+        "make",
+        "product-management",
+        "tutorials"
       ],
       "transcript_chars": 334,
       "folder": "2026-02-13-live-my-openclaw-setup-is-incredible"
@@ -1936,6 +2663,24 @@
       "summary": [
         "# 6 OpenClaw use cases I promise will change your life\nThis is the video you've been waiting for"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "coding",
+        "frameworks",
+        "google",
+        "make",
+        "nano-banana",
+        "notion",
+        "opus",
+        "prompting",
+        "tutorials",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 21928,
       "folder": "2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life"
     },
@@ -1978,6 +2723,20 @@
       "concepts": [],
       "summary": [
         "# DO NOT use a VPS for OpenClaw (major warning)\nYeah, so you're getting lied to"
+      ],
+      "keywords": [
+        "amazon",
+        "anthropic",
+        "apple",
+        "box",
+        "claude",
+        "google",
+        "make",
+        "nvidia",
+        "product-management",
+        "tutorials",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 19661,
       "folder": "2026-02-12-do-not-use-a-vps-for-openclaw-major-warning"
@@ -2039,6 +2798,31 @@
       "summary": [
         "# LIVE: The ULTIMATE OpenClaw setup\nToday, I am going to show you the ultimate OpenClaw setup"
       ],
+      "keywords": [
+        "ai-news",
+        "amazon",
+        "anthropic",
+        "apple",
+        "arc",
+        "box",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "lm-studio",
+        "make",
+        "nvidia",
+        "openai",
+        "opus",
+        "slack",
+        "sonnet",
+        "startups",
+        "tesla",
+        "workflows"
+      ],
       "transcript_chars": 101945,
       "folder": "2026-02-11-live-the-ultimate-openclaw-setup"
     },
@@ -2088,6 +2872,23 @@
       "summary": [
         "I just spent $20,000 on OpenClaw and plan on spending another $100,000 on it by the end of the year"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "make",
+        "mistral",
+        "nvidia",
+        "opus",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 21006,
       "folder": "2026-02-09-i-just-spent-20000-on-openclaw-heres-why"
     },
@@ -2117,6 +2918,9 @@
       "concepts": [],
       "summary": [
         "# LIVE: Running ClawdBot on a $10,000 Mac Studio\nHello, this is a test transcription to demonstrate the JSON output format"
+      ],
+      "keywords": [
+        "tutorials"
       ],
       "transcript_chars": 253,
       "folder": "2026-02-06-live-running-clawdbot-on-a-10000-mac-studio"
@@ -2162,6 +2966,23 @@
       "summary": [
         "6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)\nClaude Opus 4"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "make",
+        "opus",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 19415,
       "folder": "2026-02-05-claude-opus-46-is-a-massive-upgrade-for-clawdbot-and-claude-code-full-guide"
     },
@@ -2200,6 +3021,18 @@
       "concepts": [],
       "summary": [
         "# LIVE: Building INCREDIBLE apps with my ClawdBot (Sonnet 5"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "chatgpt",
+        "frameworks",
+        "gpt-4",
+        "openai",
+        "product-management",
+        "sonnet",
+        "tutorials"
       ],
       "transcript_chars": 903,
       "folder": "2026-02-04-live-building-incredible-apps-with-my-clawdbot-sonnet-5"
@@ -2243,6 +3076,24 @@
       "concepts": [],
       "summary": [
         "# You NEED a Mac Mini for ClawdBot\nClaudebot is blowing up everywhere and for good reason"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "box",
+        "fiverr",
+        "frameworks",
+        "make",
+        "netflix",
+        "opus",
+        "product-management",
+        "twitter",
+        "workflows",
+        "youtube"
       ],
       "transcript_chars": 17536,
       "folder": "2026-02-04-you-need-a-mac-mini-for-clawdbot"
@@ -2288,6 +3139,23 @@
       "concepts": [],
       "summary": [
         "# How to run ClawdBot for DIRT CHEAP\nClaudebot is the most powerful AI tool in the world"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "codex",
+        "coding",
+        "frameworks",
+        "gemini",
+        "haiku",
+        "make",
+        "openai",
+        "opus",
+        "tesla",
+        "tutorials",
+        "youtube"
       ],
       "transcript_chars": 13400,
       "folder": "2026-02-02-how-to-run-clawdbot-for-dirt-cheap"
@@ -2343,6 +3211,29 @@
       "summary": [
         "# LIVE: Using ClawdBot to ship a FULL startup\nToday we are going to do some amazing things"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "atlas",
+        "box",
+        "chatgpt",
+        "chroma",
+        "claude",
+        "claude-code",
+        "codex",
+        "make",
+        "netflix",
+        "openai",
+        "opus",
+        "sonnet",
+        "startups",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 102423,
       "folder": "2026-02-02-live-using-clawdbot-to-ship-a-full-startup"
     },
@@ -2382,6 +3273,23 @@
       "concepts": [],
       "summary": [
         "# How to make ClawdBot 10x better (5 easy steps)\nClaudebot, aka OpenClaw, is the most powerful AI tool ever released, but only if you use it the right way"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "opus",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "workflows",
+        "x"
       ],
       "transcript_chars": 11886,
       "folder": "2026-01-31-how-to-make-clawdbot-10x-better-5-easy-steps"
@@ -2441,6 +3349,32 @@
       "summary": [
         "# LIVE: Showing AMAZING ClawdBot/OpenClaw use cases\nToday I'm going to take you through Claudebot aka Moldbot aka OpenClaw aka Claudebot C++ A+ threebot Claudebot"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "make",
+        "nano-banana",
+        "nvidia",
+        "opus",
+        "perplexity",
+        "projects",
+        "shopify",
+        "stripe",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "workflows"
+      ],
       "transcript_chars": 98590,
       "folder": "2026-01-30-live-showing-amazing-clawdbotopenclaw-use-cases"
     },
@@ -2483,6 +3417,25 @@
       "concepts": [],
       "summary": [
         "# 5 insane ClawdBot uses cases you need to do immediately\nClaudebot is taking the entire internet by storm right now and for good reason"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "frameworks",
+        "github",
+        "make",
+        "openai",
+        "openai-api",
+        "opus",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 15194,
       "folder": "2026-01-28-5-insane-clawdbot-uses-cases-you-need-to-do-immediately"
@@ -2548,6 +3501,33 @@
       "summary": [
         "# LIVE: How I'm using ClawdBot to change my life\nToday I'm going to be taking you through Claudebot, the most powerful AI tool I believe that's ever been made"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "arc",
+        "box",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "frameworks",
+        "gemini",
+        "google",
+        "linkedin",
+        "make",
+        "microsoft",
+        "n8n",
+        "nvidia",
+        "opus",
+        "salesforce",
+        "tutorials",
+        "twitter",
+        "whisper",
+        "workflows"
+      ],
       "transcript_chars": 103485,
       "folder": "2026-01-28-live-how-im-using-clawdbot-to-change-my-life"
     },
@@ -2594,6 +3574,23 @@
       "concepts": [],
       "summary": [
         "# This is the CHEAPEST and EASIEST way to set up ClawdBot\nbot is the most important technology you should be using in 2026"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "aws",
+        "claude",
+        "linkedin",
+        "make",
+        "openai",
+        "openai-api",
+        "opus",
+        "product-management",
+        "twitter",
+        "workflows",
+        "youtube"
       ],
       "transcript_chars": 17336,
       "folder": "2026-01-27-this-is-the-cheapest-and-easiest-way-to-set-up-clawdbot"
@@ -2646,6 +3643,30 @@
       "concepts": [],
       "summary": [
         "# ClawdBot is the most powerful AI tool I\u2019ve ever used in my life"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "aws",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "github",
+        "google",
+        "make",
+        "nano-banana",
+        "notion",
+        "opus",
+        "startups",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 32214,
       "folder": "2026-01-24-clawdbot-is-the-most-powerful-ai-tool-ive-ever-used-in-my-life-heres-how-to-set"
@@ -2705,6 +3726,30 @@
       "summary": [
         "# Building apps LIVE with my 24/7 AI employee Clawdbot\nToday we are going through what might just be in my opinion, and this isn't even hyperbole"
       ],
+      "keywords": [
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "arc",
+        "box",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "openai",
+        "opus",
+        "product-management",
+        "projects",
+        "tesla",
+        "twitter",
+        "workflows",
+        "x"
+      ],
       "transcript_chars": 90768,
       "folder": "2026-01-23-building-apps-live-with-my-247-ai-employee-clawdbot"
     },
@@ -2747,6 +3792,25 @@
       "concepts": [],
       "summary": [
         "# How I made $500,000 with Claude Code (and how you can too)\nSo, in 2025, I made half a million dollars off Claude Code"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "box",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "frameworks",
+        "make",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 23385,
       "folder": "2026-01-22-how-i-made-500000-with-claude-code-and-how-you-can-too"
@@ -2815,6 +3879,34 @@
         "# \ud83d\udd34LIVE: Is Ralph Wiggum worth learning in Claude Code",
         "The planning stage and mapping things out in a way that claude code can build large apps"
       ],
+      "keywords": [
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "meta",
+        "nvidia",
+        "openai",
+        "opus",
+        "prompting",
+        "shortcuts",
+        "tutorials",
+        "twitter",
+        "whisper",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 105718,
       "folder": "2026-01-21-live-is-ralph-wiggum-worth-learning-in-claude-code"
     },
@@ -2862,6 +3954,31 @@
       "concepts": [],
       "summary": [
         "Claude Co-work is going to be the biggest AI tool of 2026 and you're not even using 1% of its ability"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "claude-cowork",
+        "coding",
+        "cowork",
+        "frameworks",
+        "github",
+        "google",
+        "leadership",
+        "make",
+        "meta",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials",
+        "workflows",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 15306,
       "folder": "2026-01-20-claude-cowork-is-the-best-ai-tool-of-2026-heres-how-to-use-it"
@@ -2925,6 +4042,34 @@
       "summary": [
         "# LIVE shipping startups with Claude Code and getting work done with Claude Cowork\nWe are live today"
       ],
+      "keywords": [
+        "adobe",
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "claude-cowork",
+        "codex",
+        "coding",
+        "cowork",
+        "cursor",
+        "frameworks",
+        "github",
+        "google",
+        "linkedin",
+        "make",
+        "mcp",
+        "n8n",
+        "openai",
+        "product-management",
+        "replit",
+        "startups",
+        "whisper",
+        "workflows"
+      ],
       "transcript_chars": 92568,
       "folder": "2026-01-20-live-shipping-startups-with-claude-code-and-getting-work-done-with-claude-cowork"
     },
@@ -2987,6 +4132,34 @@
       "summary": [
         "Today we are going to build and launch a full startup live"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "career",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "nvidia",
+        "openai",
+        "opus",
+        "projects",
+        "startups",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "whisper"
+      ],
       "transcript_chars": 99864,
       "folder": "2026-01-17-chatgpt-has-ads-now-is-ai-over"
     },
@@ -3034,6 +4207,28 @@
       "concepts": [],
       "summary": [
         "# Claude Cowork: from beginner to expert in 18 minutes\nWow, it actually did all that research and created this amazing document"
+      ],
+      "keywords": [
+        "adobe",
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "artifacts",
+        "claude",
+        "claude-code",
+        "claude-cowork",
+        "coding",
+        "cowork",
+        "google",
+        "make",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials",
+        "twitter",
+        "youtube"
       ],
       "transcript_chars": 20854,
       "folder": "2026-01-15-claude-cowork-from-beginner-to-expert-in-18-minutes"
@@ -3099,6 +4294,35 @@
       "summary": [
         "LIVE\nToday we are going to be building and working on and getting our first customers for an AI startup we've been working on for a while in Claude Code"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "atlas",
+        "career",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "meta",
+        "microsoft",
+        "openai",
+        "opus",
+        "prompting",
+        "shopify",
+        "sonnet",
+        "startups",
+        "tesla",
+        "whisper"
+      ],
       "transcript_chars": 106814,
       "folder": "2026-01-14-claude-code-vs-codex-gpt-52-high-which-should-you-be-using-live"
     },
@@ -3145,6 +4369,26 @@
       "summary": [
         "# The greatest Claude Code workflow ever (10x your speed)\nI have figured out the best workflow ever for Claude Code"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "github",
+        "make",
+        "opus",
+        "product-management",
+        "projects",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 18357,
       "folder": "2026-01-13-the-greatest-claude-code-workflow-ever-10x-your-speed"
     },
@@ -3185,6 +4429,24 @@
       "concepts": [],
       "summary": [
         "# The Ralph Wiggum plugin makes Claude Code 100x more powerful (WOW"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "make",
+        "product-management",
+        "projects",
+        "prompting",
+        "tailwind",
+        "tutorials",
+        "workflows",
+        "youtube"
       ],
       "transcript_chars": 10895,
       "folder": "2026-01-10-the-ralph-wiggum-plugin-makes-claude-code-100x-more-powerful-wow"
@@ -3248,6 +4510,34 @@
       "summary": [
         "Today we are going to build and launch an entire application from ideiation to creation to launch all on this live stream using Claude Code"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "anthropic-api",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "google",
+        "leadership",
+        "make",
+        "opus",
+        "perplexity",
+        "sonnet",
+        "startups",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "whisper",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 85770,
       "folder": "2026-01-10-using-claude-code-to-build-startups-live"
     },
@@ -3292,6 +4582,23 @@
       "concepts": [],
       "summary": [
         "# The creator of Claude Code just revealed his INSANE workflow (must watch)\nThe creator of Claude Code just revealed his entire Claude Code workflow and honestly it's amazing and I just learned a ton"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "make",
+        "opus",
+        "product-management",
+        "sonnet",
+        "workflows",
+        "x"
       ],
       "transcript_chars": 11974,
       "folder": "2026-01-06-the-creator-of-claude-code-just-revealed-his-insane-workflow-must-watch"
@@ -3355,6 +4662,33 @@
       "summary": [
         "# Building a startup with Claude Code LIVE using my new workflow\nToday we are going to be doing something really cool"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "google",
+        "make",
+        "mcp",
+        "mongodb",
+        "opus",
+        "product-management",
+        "shortcuts",
+        "startups",
+        "tesla",
+        "twitter",
+        "whisper",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 120383,
       "folder": "2026-01-05-building-a-startup-with-claude-code-live-using-my-new-workflow"
     },
@@ -3397,6 +4731,20 @@
       "summary": [
         "Claude Code is the most powerful AI tool in the world, but only if you use it the right way",
         "When you start a new session or start a new chat automatically in the context, claude will understand all your recent sessions and all the past changes you made in those sessions because it can see al"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "github",
+        "make",
+        "opus",
+        "product-management",
+        "prompting",
+        "tutorials"
       ],
       "transcript_chars": 15754,
       "folder": "2026-01-03-youre-prompting-claude-code-wrong-heres-how-to-do-it-correctly"
@@ -3461,6 +4809,34 @@
       "summary": [
         "Today we are going to get our first customers for our claude code built app"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "copilot",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "leadership",
+        "make",
+        "mcp",
+        "meta",
+        "notion",
+        "perplexity",
+        "product-management",
+        "prompting",
+        "startups",
+        "tutorials",
+        "twitter",
+        "x"
+      ],
       "transcript_chars": 94229,
       "folder": "2026-01-02-using-claude-code-to-get-my-first-customers-live"
     },
@@ -3522,6 +4898,32 @@
       "summary": [
         "Over the last couple months we've been building a vibecoded app store"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "atlas",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "openai",
+        "opus",
+        "perplexity",
+        "product-management",
+        "startups",
+        "twitter",
+        "whisper",
+        "x"
+      ],
       "transcript_chars": 90443,
       "folder": "2026-01-01-using-claude-code-to-launch-a-startup-live"
     },
@@ -3564,6 +4966,23 @@
       "concepts": [],
       "summary": [
         "then I discovered this\nThere are 11 different ways you can be using Claude Code, but one way is significantly better than all the rest"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "bolt",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "lovable",
+        "make",
+        "notion",
+        "opus",
+        "product-management",
+        "tutorials"
       ],
       "transcript_chars": 14346,
       "folder": "2025-12-30-i-was-using-claude-code-wrong-then-i-discovered-this"
@@ -3624,6 +5043,30 @@
       "summary": [
         "# Building mind blowing apps with Claude Code LIVE\nToday we are going to build some amazing apps using Claude Code"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "netflix",
+        "opus",
+        "projects",
+        "startups",
+        "stripe",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 94230,
       "folder": "2025-12-29-building-mind-blowing-apps-with-claude-code-live"
     },
@@ -3667,6 +5110,25 @@
       "concepts": [],
       "summary": [
         "# Claude Code Skills are INSANE (and you\u2019re not using them correctly)\nIf you're not using Claude Skills, you're not using Claude Code correctly"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "linkedin",
+        "make",
+        "meta",
+        "projects",
+        "prompting",
+        "stripe",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 19280,
       "folder": "2025-12-24-claude-code-skills-are-insane-and-youre-not-using-them-correctly"
@@ -3732,6 +5194,32 @@
       "summary": [
         "Today we are going to build out a full startup live on stream using Claude Code and all the new features they just launched"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "box",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "opus",
+        "product-management",
+        "projects",
+        "sonnet",
+        "startups",
+        "tesla",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 99462,
       "folder": "2025-12-23-building-apps-live-with-new-claude-code-updates"
     },
@@ -3775,6 +5263,27 @@
       "concepts": [],
       "summary": [
         "Over the past month, Anthropic has released a ton of secret updates to Claude Code that you would only find out about if you were following specific Twitter accounts"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "figma",
+        "frameworks",
+        "github",
+        "make",
+        "notion",
+        "opus",
+        "projects",
+        "prompting",
+        "tutorials",
+        "twitter",
+        "x"
       ],
       "transcript_chars": 16152,
       "folder": "2025-12-22-claude-code-just-had-a-major-update-heres-how-to-use-it"
@@ -3834,6 +5343,32 @@
       "summary": [
         "# Building Apps with Claude Code and AI LIVE\nToday we are going to be building and launching an entire app live using Claude code"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "copilot",
+        "cursor",
+        "gemini",
+        "github",
+        "github-copilot",
+        "google",
+        "linkedin",
+        "lovable",
+        "make",
+        "microsoft",
+        "openai",
+        "opus",
+        "prompting",
+        "sonnet",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 97949,
       "folder": "2025-12-20-building-apps-with-claude-code-and-ai-live"
     },
@@ -3879,6 +5414,25 @@
       "concepts": [],
       "summary": [
         "It\u2019s actually incredible\nGoogle AI Studio is sneaky one of the best AI coding tools out there, but only if you use it the right way"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "lovable",
+        "make",
+        "nano-banana",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 11996,
       "folder": "2025-12-17-i-was-using-google-ai-studio-wrong-its-actually-incredible"
@@ -3943,6 +5497,29 @@
       "summary": [
         "We are going to do the only benchmark in the world that isn't biased"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "box",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "mcp",
+        "openai",
+        "opus",
+        "tesla",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 96828,
       "folder": "2025-12-16-is-chatgpt-52-the-greatest-ai-model-ever-full-tests-and-benchmarks-live"
     },
@@ -3991,6 +5568,30 @@
       "summary": [
         "# The only Claude Code guide you'll ever need (Opus 4"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "box",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "leadership",
+        "make",
+        "netflix",
+        "opus",
+        "product-management",
+        "projects",
+        "prompting",
+        "stripe",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 28263,
       "folder": "2025-12-16-the-only-claude-code-guide-youll-ever-need-opus-45"
     },
@@ -4037,6 +5638,29 @@
       "concepts": [],
       "summary": [
         "2 just launched and I am absolutely blown away in almost every measurable category except for a couple I'll go over"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "artifacts",
+        "canvas",
+        "career",
+        "chatgpt",
+        "coding",
+        "deep-dives",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "openai",
+        "opus",
+        "product-management",
+        "prompting",
+        "startups",
+        "tutorials",
+        "workflows",
+        "x"
       ],
       "transcript_chars": 15594,
       "folder": "2025-12-12-chatgpt-52-is-incredible-heres-how-to-use-it-in-14-minutes"
@@ -4105,6 +5729,36 @@
       "summary": [
         "# Building startups LIVE with Claude Code (Claude Opus 4"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "career",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "mcp",
+        "meta",
+        "mongodb",
+        "openai",
+        "opus",
+        "product-management",
+        "sonnet",
+        "sora",
+        "startups",
+        "tesla",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 99644,
       "folder": "2025-12-10-building-startups-live-with-claude-code-claude-opus-45"
     },
@@ -4150,6 +5804,27 @@
       "concepts": [],
       "summary": [
         "Think first: design the physics & numerics (no code yet)\nBefore writing any code, think step by step and **write out your reasoning**:\n1"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "leadership",
+        "make",
+        "meta",
+        "opus",
+        "product-management",
+        "prompting",
+        "tutorials"
       ],
       "transcript_chars": 16441,
       "folder": "2025-12-09-gemini-3-pro-deep-think-gives-you-super-powers"
@@ -4212,6 +5887,30 @@
       "concepts": [],
       "summary": [
         "# Watch me build a startup LIVE with Claude Code\ntest test"
+      ],
+      "keywords": [
+        "adobe",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "bard",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "meta",
+        "nvidia",
+        "openai",
+        "opus",
+        "projects",
+        "startups",
+        "tesla"
       ],
       "transcript_chars": 107715,
       "folder": "2025-12-08-watch-me-build-a-startup-live-with-claude-code"
@@ -4276,6 +5975,35 @@
       "summary": [
         "5 To Build AMAZING Startups\nToday we are going to build an entire iOS app beginning to end"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "atlas",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "google",
+        "leadership",
+        "linkedin",
+        "make",
+        "mcp",
+        "notion",
+        "nvidia",
+        "openai",
+        "opus",
+        "projects",
+        "prompting",
+        "startups",
+        "tutorials"
+      ],
       "transcript_chars": 93223,
       "folder": "2025-12-06-using-claude-code-and-claude-opus-45-to-build-amazing-startups"
     },
@@ -4321,6 +6049,23 @@
       "concepts": [],
       "summary": [
         "# The EASIEST way to build iOS apps with Claude Code (Opus 4"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "google",
+        "make",
+        "nano-banana",
+        "opus",
+        "prompting",
+        "tutorials"
       ],
       "transcript_chars": 21157,
       "folder": "2025-12-05-the-easiest-way-to-build-ios-apps-with-claude-code-opus-45"
@@ -4386,6 +6131,37 @@
       "summary": [
         "5 LIVE\nthat we are going to build with claude code and claude opus 4"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "box",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "mcp",
+        "meta",
+        "notion",
+        "opus",
+        "product-management",
+        "prompting",
+        "shopify",
+        "sonnet",
+        "startups",
+        "tutorials",
+        "twitter",
+        "whisper",
+        "workflows",
+        "x"
+      ],
       "transcript_chars": 100796,
       "folder": "2025-12-04-building-an-amazing-ai-app-with-claude-opus-45-live"
     },
@@ -4439,6 +6215,35 @@
       "summary": [
         "# This AI browser works for you 24/7 (FlowithOS guide)\nFlowwith OS is a brand new agentic browser from Flowith and it might just be the most powerful AI browser ever"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "atlas",
+        "box",
+        "career",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "coding",
+        "computer-use",
+        "cursor",
+        "deep-dives",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "openai",
+        "perplexity",
+        "product-management",
+        "prompting",
+        "shortcuts",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "youtube"
+      ],
       "transcript_chars": 13074,
       "folder": "2025-12-04-this-ai-browser-works-for-you-247-flowithos-guide"
     },
@@ -4486,6 +6291,28 @@
       "concepts": [],
       "summary": [
         "# Google Antigravity: From Beginner to Expert in 14 Minutes\nGoogle Anti-gravity is an incredible AI coding tool, but only if you use it the right way"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "artifacts",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "gemini",
+        "google",
+        "leadership",
+        "make",
+        "product-management",
+        "projects",
+        "prompting",
+        "tailwind",
+        "v0",
+        "workflows"
       ],
       "transcript_chars": 15908,
       "folder": "2025-12-02-google-antigravity-from-beginner-to-expert-in-14-minutes"
@@ -4550,6 +6377,33 @@
       "summary": [
         "5 to build INCREDIBLE apps\n[snorts] Today we are going to build some incredible apps with Claude code and Claude Opus 4"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "box",
+        "career",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "copilot",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "mcp",
+        "microsoft",
+        "notion",
+        "nvidia",
+        "openai",
+        "opus",
+        "sonnet",
+        "stripe"
+      ],
       "transcript_chars": 96719,
       "folder": "2025-12-02-using-claude-opus-45-to-build-incredible-apps"
     },
@@ -4600,6 +6454,29 @@
       "summary": [
         "# 9 months of Claude Code Lessons in 19 minutes\nOn February 24th, 2025, Claude Code released and not a single day has gone by where it hasn't been the best AI coding tool on the entire market"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "haiku",
+        "make",
+        "mcp",
+        "netflix",
+        "product-management",
+        "sonnet",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 21025,
       "folder": "2025-11-28-9-months-of-claude-code-lessons-in-19-minutes"
     },
@@ -4643,6 +6520,26 @@
       "concepts": [],
       "summary": [
         "# Claude Code for Desktop is the BEST way to build apps with AI EVER\nThe Claude Code Desktop app is the absolute best way to build apps with AI ever, but only if you use it the right way"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "canvas",
+        "claude",
+        "claude-code",
+        "coding",
+        "copilot",
+        "frameworks",
+        "github",
+        "make",
+        "nano-banana",
+        "opus",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "twitter",
+        "workflows"
       ],
       "transcript_chars": 14907,
       "folder": "2025-11-26-claude-code-for-desktop-is-the-best-way-to-build-apps-with-ai-ever"
@@ -4691,6 +6588,23 @@
       "concepts": [],
       "summary": [
         "Here's how to master it in 13 mins\nI'm just going to get it out of the way"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "opus",
+        "sonnet",
+        "tutorials"
       ],
       "transcript_chars": 14078,
       "folder": "2025-11-24-claude-opus-45-is-the-greatest-ai-model-ever-heres-how-to-master-it-in-13-mins"
@@ -4757,6 +6671,34 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "claude",
+        "claude-code",
+        "coding",
+        "computer-use",
+        "cursor",
+        "deep-dives",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "meta",
+        "nvidia",
+        "openai",
+        "opus",
+        "sonnet",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 117780,
       "folder": "2025-11-24-claude-opus-45-released-greatest-ai-model-ever-tested-live"
     },
@@ -4824,6 +6766,32 @@
       "summary": [
         "Today we are going to test the most expensive AI model on planet Earth, Chat GPT 5"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "arc",
+        "bard",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "nvidia",
+        "openai",
+        "opus",
+        "prompting",
+        "slack",
+        "sora",
+        "twitter"
+      ],
       "transcript_chars": 103144,
       "folder": "2025-11-21-is-chatpt-51-pro-worth-200-testing-live"
     },
@@ -4872,6 +6840,26 @@
       "concepts": [],
       "summary": [
         "(Gemini 3)\nGoogle has just released the best AI development environment on the entire market"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "google",
+        "leadership",
+        "make",
+        "product-management",
+        "projects",
+        "tutorials",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 18870,
       "folder": "2025-11-20-did-google-antigravity-just-kill-cursor-gemini-3"
@@ -4941,6 +6929,33 @@
       "summary": [
         "Today we are going to put Gemini 3 through its paces"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "meta",
+        "nvidia",
+        "openai",
+        "opus",
+        "prompting",
+        "sonnet",
+        "sora",
+        "stripe",
+        "tesla"
+      ],
       "transcript_chars": 95090,
       "folder": "2025-11-19-gemini-30-pro-is-this-the-greatest-ai-ever-live-testing"
     },
@@ -4992,6 +7007,26 @@
       "summary": [
         "1 just released and I'm gonna be honest with you, it is absolutely incredible in some ways and potentially the most disappointing model of the year in a few other ways"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "deep-dives",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "nano-banana",
+        "opus",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 12178,
       "folder": "2025-11-18-everything-you-need-to-know-about-grok-41-in-11-minutes"
     },
@@ -5040,6 +7075,23 @@
       "concepts": [],
       "summary": [
         "Here's how to master it in 13 minutes\nGoogle Gemini 3 just released and it is the most revolutionary AI model we have ever seen"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "projects",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "youtube"
       ],
       "transcript_chars": 14300,
       "folder": "2025-11-18-gemini-3-pro-is-incredible-heres-how-to-master-it-in-13-minutes"
@@ -5110,6 +7162,33 @@
       "summary": [
         "TESTING AND BENCHMARKING LIVE\nToday we are going to build an amazing startup with Claude Code and Codeex"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "meta",
+        "n8n",
+        "notion",
+        "openai",
+        "openai-api",
+        "shopify",
+        "sora",
+        "startups",
+        "stripe",
+        "tesla",
+        "tutorials",
+        "whisper"
+      ],
       "transcript_chars": 115755,
       "folder": "2025-11-17-grok-41-just-dropped-testing-and-benchmarking-live"
     },
@@ -5149,6 +7228,22 @@
       "concepts": [],
       "summary": [
         "The issue is if you don't prompt it correctly, your results will be horrible"
+      ],
+      "keywords": [
+        "ai-news",
+        "apple",
+        "box",
+        "frameworks",
+        "leadership",
+        "make",
+        "meta",
+        "microsoft",
+        "notion",
+        "openai",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials"
       ],
       "transcript_chars": 17184,
       "folder": "2025-11-16-the-ultimate-gpt-51-prompting-guide"
@@ -5215,6 +7310,35 @@
       "summary": [
         "1 to build apps LIVE\nToday we are going to use codeex with GPT 5"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "arc",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "copilot",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "microsoft",
+        "nvidia",
+        "openai",
+        "perplexity",
+        "product-management",
+        "sora",
+        "startups",
+        "tesla",
+        "tutorials"
+      ],
       "transcript_chars": 112676,
       "folder": "2025-11-14-using-codex-gpt-51-to-build-apps-live"
     },
@@ -5261,6 +7385,28 @@
       "summary": [
         "1 Codex Just dropped and it\u2019s a MAJOR Upgrade (full guide)\nOpenAI just put not one, not two, but three brand new models into their AI coding tool, Codeex"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "frameworks",
+        "github",
+        "make",
+        "openai",
+        "product-management",
+        "sonnet",
+        "tailwind",
+        "tutorials",
+        "workflows",
+        "youtube"
+      ],
       "transcript_chars": 18709,
       "folder": "2025-11-13-chatgpt-51-codex-just-dropped-and-its-a-major-upgrade-full-guide"
     },
@@ -5302,6 +7448,22 @@
       "concepts": [],
       "summary": [
         "This is actually a pretty considerable update and I've really really been enjoying this model"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "make",
+        "openai",
+        "sonnet",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 9602,
       "folder": "2025-11-12-chatgpt-51-is-amazing-heres-how-to-use-it-in-8-minutes"
@@ -5370,6 +7532,33 @@
       "summary": [
         "TESTING IT LIVE\nToday we are going to continue our epic build of the vibe coded app store that we're going to be putting live very very soon"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "box",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "copilot",
+        "cursor",
+        "gemini",
+        "github",
+        "github-copilot",
+        "google",
+        "make",
+        "meta",
+        "microsoft",
+        "openai",
+        "product-management",
+        "sora",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 123395,
       "folder": "2025-11-12-chatgpt-51-just-dropped-testing-it-live"
     },
@@ -5415,6 +7604,22 @@
       "concepts": [],
       "summary": [
         "# This Claude Code for Web workflow will change how you vibe code forever\nyou're using Claude Code for web wrong"
+      ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "github",
+        "haiku",
+        "make",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "tailwind",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 22657,
       "folder": "2025-11-11-this-claude-code-for-web-workflow-will-change-how-you-vibe-code-forever"
@@ -5477,6 +7682,31 @@
       "summary": [
         "(ask me anything)\nToday we are going to be building out a full application using Claude Code Live"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "haiku",
+        "make",
+        "mcp",
+        "meta",
+        "openai",
+        "opus",
+        "sonnet",
+        "startups",
+        "stripe",
+        "twitter",
+        "x"
+      ],
       "transcript_chars": 95193,
       "folder": "2025-11-10-building-a-startup-with-claude-code-live-ask-me-anything"
     },
@@ -5517,6 +7747,21 @@
       "concepts": [],
       "summary": [
         "Here\u2019s why\u2026\nKimmy K2 thinking is the best AI model I've ever used"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "make",
+        "notion",
+        "sonnet",
+        "tailwind",
+        "tutorials"
       ],
       "transcript_chars": 15721,
       "folder": "2025-11-09-kimi-k2-thinking-is-the-greatest-ai-model-ever-heres-why"
@@ -5582,6 +7827,34 @@
       "summary": [
         "# Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code\nToday we are going to put the world's greatest AI model, the one taking the world by storm, the one everyone is talking about, Ki"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "atlas",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "haiku",
+        "make",
+        "notion",
+        "nvidia",
+        "opus",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "stripe",
+        "tesla",
+        "twitter"
+      ],
       "transcript_chars": 84231,
       "folder": "2025-11-08-testing-kimi-k2-thinking-and-launching-an-app-live-with-claude-code"
     },
@@ -5621,6 +7894,23 @@
       "concepts": [],
       "summary": [
         "It is going to have you building apps faster than you ever have before"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "google",
+        "make",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "workflows",
+        "x"
       ],
       "transcript_chars": 18425,
       "folder": "2025-11-06-cursor-20-is-insane-but-only-if-you-use-it-like-this"
@@ -5688,6 +7978,33 @@
       "summary": [
         "# Watch me build a startup live with Claude Code\nToday we're going to do something awesome"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "n8n",
+        "nvidia",
+        "openai",
+        "product-management",
+        "slack",
+        "startups",
+        "tesla",
+        "tutorials",
+        "whisper",
+        "workflows",
+        "zapier"
+      ],
       "transcript_chars": 124347,
       "folder": "2025-11-05-watch-me-build-a-startup-live-with-claude-code"
     },
@@ -5741,6 +8058,32 @@
       "concepts": [],
       "summary": [
         "# The greatest Claude Code workflow you\u2019ll ever see"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "anthropic-api",
+        "apple",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "haiku",
+        "make",
+        "meta",
+        "product-management",
+        "projects",
+        "sonnet",
+        "tailwind",
+        "twitter",
+        "workflows",
+        "youtube"
       ],
       "transcript_chars": 35539,
       "folder": "2025-11-04-the-greatest-claude-code-workflow-youll-ever-see"
@@ -5807,6 +8150,34 @@
       "summary": [
         "0 as well as claude code to first see which one's better but second build out a fullcale application from beginning to end"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "arc",
+        "atlas",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "make",
+        "meta",
+        "nvidia",
+        "product-management",
+        "projects",
+        "sonnet",
+        "sora",
+        "startups",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 94978,
       "folder": "2025-11-04-using-cursor-20-claude-code-to-build-a-startup-live"
     },
@@ -5848,6 +8219,27 @@
       "concepts": [],
       "summary": [
         "# Claude Skills explained: the most POWERFUL AI tool you\u2019re not using\nClaude skills is the most powerful AI tool that you're not using right now"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "google",
+        "leadership",
+        "linkedin",
+        "make",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 27903,
       "folder": "2025-11-01-claude-skills-explained-the-most-powerful-ai-tool-youre-not-using"
@@ -5914,6 +8306,30 @@
       "summary": [
         "# Launching an app with Claude Code LIVE\nToday we are going to build an amazing, incredible app using Claude Code"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "arc",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "nvidia",
+        "openai",
+        "sonnet",
+        "tutorials",
+        "twitter",
+        "youtube"
+      ],
       "transcript_chars": 96341,
       "folder": "2025-11-01-launching-an-app-with-claude-code-live"
     },
@@ -5961,6 +8377,26 @@
       "concepts": [],
       "summary": [
         "0 just dropped and it is radically different than the cursor you're used to"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "google",
+        "make",
+        "openai",
+        "product-management",
+        "sonnet",
+        "tailwind",
+        "tesla",
+        "tutorials"
       ],
       "transcript_chars": 21571,
       "folder": "2025-10-29-cursor-20-is-insane-but-is-it-better-than-claude-code"
@@ -6025,6 +8461,35 @@
       "summary": [
         "Today we are going to be building out a full application with Cursor 2"
       ],
+      "keywords": [
+        "adobe",
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "copilot",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "linkedin",
+        "make",
+        "microsoft",
+        "openai",
+        "opus",
+        "product-management",
+        "sonnet",
+        "tutorials",
+        "twitter",
+        "whisper",
+        "x"
+      ],
       "transcript_chars": 98389,
       "folder": "2025-10-29-using-cursor-20-to-build-apps-live"
     },
@@ -6074,6 +8539,26 @@
       "summary": [
         "# This Google AI Studio workflow is INSANE\nGoogle just released what might be the most powerful AI app builder on the entire market"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "claude",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "lovable",
+        "make",
+        "nano-banana",
+        "product-management",
+        "tutorials",
+        "whisper",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 24264,
       "folder": "2025-10-28-this-google-ai-studio-workflow-is-insane"
     },
@@ -6114,6 +8599,23 @@
       "concepts": [],
       "summary": [
         "# I used Replit to build an AI agent that manages my life in 13 minutes\nReplet might be the best AI agent builder in the entire game right now"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "coding",
+        "github",
+        "google",
+        "leadership",
+        "make",
+        "notion",
+        "product-management",
+        "projects",
+        "prompting",
+        "replit",
+        "tesla",
+        "workflows"
       ],
       "transcript_chars": 16863,
       "folder": "2025-10-27-i-used-replit-to-build-an-ai-agent-that-manages-my-life-in-13-minutes"
@@ -6179,6 +8681,35 @@
       "summary": [
         "# Using Google AI Studio to build entire apps with AI LIVE"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "copilot",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "leadership",
+        "linkedin",
+        "make",
+        "mcp",
+        "meta",
+        "microsoft",
+        "openai",
+        "opus",
+        "product-management",
+        "sonnet",
+        "stripe",
+        "tesla",
+        "tutorials",
+        "whisper"
+      ],
       "transcript_chars": 114650,
       "folder": "2025-10-27-using-google-ai-studio-to-build-entire-apps-with-ai-live"
     },
@@ -6239,6 +8770,31 @@
       "summary": [
         "# Claude Code vs Codex: Who can make the better trading bot LIVE"
       ],
+      "keywords": [
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "atlas",
+        "box",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "copilot",
+        "cursor",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "microsoft",
+        "openai",
+        "oracle",
+        "prompting",
+        "sonnet",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 90922,
       "folder": "2025-10-24-claude-code-vs-codex-who-can-make-the-better-trading-bot-live"
     },
@@ -6294,6 +8850,28 @@
       "summary": [
         "They released the easiest way to build apps with AI ever"
       ],
+      "keywords": [
+        "ai-news",
+        "bolt",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "lovable",
+        "make",
+        "nano-banana",
+        "product-management",
+        "prompting",
+        "shopify",
+        "sora",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 15582,
       "folder": "2025-10-21-google-ai-studio-just-killed-lovable-most-insane-ai-app-builder-ever"
     },
@@ -6336,6 +8914,23 @@
       ],
       "summary": [
         "# Claude Code for Web/Mobile just released and it\u2019s INSANE (must watch)\nAnthropic finally did it"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "github",
+        "google",
+        "make",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 17777,
       "folder": "2025-10-20-claude-code-for-webmobile-just-released-and-its-insane-must-watch"
@@ -6385,6 +8980,26 @@
       "concepts": [],
       "summary": [
         "5 is INSANELY fast + smart\nAnthropic just released a brand new AI model that's going to save you tons of cash and get you so much more value"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "gemini",
+        "google",
+        "haiku",
+        "make",
+        "opus",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "twitter",
+        "x"
       ],
       "transcript_chars": 12527,
       "folder": "2025-10-16-claude-haiku-45-is-insanely-fast-smart"
@@ -6449,6 +9064,36 @@
       "summary": [
         "# Building an entire app LIVE with Claude Code (Haiku 4"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "box",
+        "canva",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "haiku",
+        "make",
+        "mcp",
+        "meta",
+        "nano-banana",
+        "openai",
+        "prompting",
+        "sonnet",
+        "startups",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 114639,
       "folder": "2025-10-15-building-an-entire-app-live-with-claude-code-haiku-45"
     },
@@ -6488,6 +9133,19 @@
       "concepts": [],
       "summary": [
         "# OpenAI just released the #1 AI opportunity of 2025 (ChatGPT App SDK)\nI'm going to show you how to build something really cool in this video"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "chatgpt",
+        "coding",
+        "frameworks",
+        "make",
+        "mcp",
+        "openai",
+        "prompting",
+        "tutorials"
       ],
       "transcript_chars": 14151,
       "folder": "2025-10-14-openai-just-released-the-1-ai-opportunity-of-2025-chatgpt-app-sdk"
@@ -6553,6 +9211,36 @@
       "summary": [
         "# Watch me build a startup live with Claude Code and Codex GPT 5\nToday we are going to build an entire startup live"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "artifacts",
+        "box",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "nano-banana",
+        "openai",
+        "prompting",
+        "sonnet",
+        "startups",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x"
+      ],
       "transcript_chars": 83646,
       "folder": "2025-10-11-watch-me-build-a-startup-live-with-claude-code-and-codex-gpt-5"
     },
@@ -6597,6 +9285,22 @@
       "concepts": [],
       "summary": [
         "# GPT-5 Codex is the best way to build apps with AI ever (5 tricks you need to know)\nEveryone is talking about OpenAI's codeex"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "chatgpt",
+        "codex",
+        "coding",
+        "cursor",
+        "github",
+        "gpt-5",
+        "make",
+        "openai",
+        "product-management",
+        "projects",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 16620,
       "folder": "2025-10-09-gpt-5-codex-is-the-best-way-to-build-apps-with-ai-ever-5-tricks-you-need-to-know"
@@ -6647,6 +9351,27 @@
       "concepts": [],
       "summary": [
         "5 is actually incredible (with 1 exception)\nClaude Sonnet 4"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "anthropic-api",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "google",
+        "make",
+        "meta",
+        "openai",
+        "opus",
+        "projects",
+        "prompting",
+        "sonnet",
+        "tailwind",
+        "tutorials"
       ],
       "transcript_chars": 21982,
       "folder": "2025-09-30-claude-code-with-sonnet-45-is-actually-incredible-with-1-exception"
@@ -6699,6 +9424,27 @@
       "summary": [
         "5 is the most INSANE AI model ever\nAll right, I'm going to be honest with you"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "opus",
+        "perplexity",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "workflows"
+      ],
       "transcript_chars": 15060,
       "folder": "2025-09-29-claude-sonnet-45-is-the-most-insane-ai-model-ever"
     },
@@ -6742,6 +9488,26 @@
       "concepts": [],
       "summary": [
         "# Claude Code Masterclass: From Beginner to Expert in 33 minutes\nIf you just started using Claude Code, or even if you've been using it for a while, you're probably only getting about 10% of what Cla"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "make",
+        "openai",
+        "opus",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "youtube"
       ],
       "transcript_chars": 36898,
       "folder": "2025-09-24-claude-code-masterclass-from-beginner-to-expert-in-33-minutes"
@@ -6794,6 +9560,28 @@
       "summary": [
         "# GPT-5 Codex: From Beginner to Expert in 17 minutes\nSo, I've been using OpenAI's codecs the last few days, and I have figured out a workflow that is probably the best AI vibe coding workflow I've ev"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "gpt-5",
+        "make",
+        "openai",
+        "product-management",
+        "prompting",
+        "startups",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "youtube"
+      ],
       "transcript_chars": 18083,
       "folder": "2025-09-18-gpt-5-codex-from-beginner-to-expert-in-17-minutes"
     },
@@ -6844,6 +9632,28 @@
       "summary": [
         "Open AAI just released a new model that changes everything"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "box",
+        "career",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "gpt-5",
+        "make",
+        "openai",
+        "opus",
+        "product-management",
+        "sonnet",
+        "tutorials"
+      ],
       "transcript_chars": 19140,
       "folder": "2025-09-16-did-gpt-5-codex-just-kill-claude-code"
     },
@@ -6883,6 +9693,21 @@
       "concepts": [],
       "summary": [
         "# This one prompt makes GPT-5 INSANE\nChad GPT5 is the best AI model ever released"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "coding",
+        "frameworks",
+        "gpt-5",
+        "leadership",
+        "make",
+        "meta",
+        "openai",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "youtube"
       ],
       "transcript_chars": 18182,
       "folder": "2025-09-08-this-one-prompt-makes-gpt-5-insane"
@@ -6927,6 +9752,21 @@
       "concepts": [],
       "summary": [
         "# I let Anthropic\u2019s new AI agents control my computer"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "canva",
+        "claude",
+        "coding",
+        "cursor",
+        "google",
+        "make",
+        "perplexity",
+        "prompting",
+        "youtube"
       ],
       "transcript_chars": 16689,
       "folder": "2025-08-28-i-let-anthropics-new-ai-agents-control-my-computer-what-happened-next-is-insane"
@@ -6986,6 +9826,29 @@
       "concepts": [],
       "summary": [
         "# Testing BRAND NEW GPT 5 against world famous benchmarks\nSonic aka X AI because they won't reveal it, but I got the evidence"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "bolt",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "meta",
+        "microsoft",
+        "openai",
+        "opus",
+        "sonnet",
+        "tesla",
+        "twitter",
+        "x"
       ],
       "transcript_chars": 58704,
       "folder": "2025-08-23-testing-brand-new-gpt-5-against-world-famous-benchmarks"
@@ -7047,6 +9910,36 @@
       "summary": [
         "# Building apps live with GPT-5 and Claude Code\nLet's do it"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "frameworks",
+        "gemini",
+        "google",
+        "gpt-5",
+        "leadership",
+        "make",
+        "meta",
+        "microsoft",
+        "nvidia",
+        "openai",
+        "opus",
+        "product-management",
+        "projects",
+        "slack",
+        "sonnet",
+        "tesla",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 83656,
       "folder": "2025-08-21-building-apps-live-with-gpt-5-and-claude-code"
     },
@@ -7088,6 +9981,22 @@
       "concepts": [],
       "summary": [
         "It\u2019s actually insane (full guide)\nthat GPT5 came out recently and quite frankly the reactions have been horrible"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "chatgpt",
+        "claude",
+        "coding",
+        "frameworks",
+        "make",
+        "meta",
+        "openai",
+        "prompting",
+        "tutorials",
+        "twitter",
+        "youtube"
       ],
       "transcript_chars": 23879,
       "folder": "2025-08-20-ive-been-using-chatgpt-5-wrong-its-actually-insane-full-guide"
@@ -7150,6 +10059,32 @@
       "summary": [
         "# Building an app LIVE with Claude Code\nWelcome, welcome to the live stream"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "haiku",
+        "make",
+        "meta",
+        "microsoft",
+        "midjourney",
+        "product-management",
+        "sonnet",
+        "tesla",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 68504,
       "folder": "2025-08-19-building-an-app-live-with-claude-code"
     },
@@ -7197,6 +10132,24 @@
       "concepts": [],
       "summary": [
         "# Vibe Coding Masterclass: Build your first app with AI in 37 minutes (Claude Code)\nWelcome to the Vibe Coding Master Class"
+      ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "github",
+        "google",
+        "make",
+        "product-management",
+        "stripe",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 41828,
       "folder": "2025-08-18-vibe-coding-masterclass-build-your-first-app-with-ai-in-37-minutes-claude-code"
@@ -7258,6 +10211,34 @@
       "summary": [
         "# Using Claude Code to build and launch apps LIVE\nWelcome to the live stream"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "microsoft",
+        "openai",
+        "opus",
+        "product-management",
+        "sonnet",
+        "tutorials",
+        "twitter",
+        "whisper",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 78975,
       "folder": "2025-08-16-using-claude-code-to-build-and-launch-apps-live"
     },
@@ -7297,6 +10278,20 @@
       "concepts": [],
       "summary": [
         "# How to Become a Claude Code Master\nOver the last few months, Claude Code has added a ton of new features that aren't talked about or documented anywhere"
+      ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "frameworks",
+        "github",
+        "make",
+        "opus",
+        "product-management",
+        "sonnet",
+        "tutorials"
       ],
       "transcript_chars": 14428,
       "folder": "2025-08-14-how-to-become-a-claude-code-master"
@@ -7368,6 +10363,29 @@
       "summary": [
         "Sam Altman and Elon FIGHTING\nSam Alman, Elon Musk in a total online battle"
       ],
+      "keywords": [
+        "ai-news",
+        "amazon",
+        "anthropic",
+        "apple",
+        "arc",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "google",
+        "make",
+        "meta",
+        "openai",
+        "opus",
+        "perplexity",
+        "product-management",
+        "projects",
+        "sonnet",
+        "tesla"
+      ],
       "transcript_chars": 86733,
       "folder": "2025-08-14-perplexity-trying-to-buy-google-sam-altman-and-elon-fighting"
     },
@@ -7426,6 +10444,29 @@
       "summary": [
         "So, for those who missed it, there has been a smattering reviews online"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "career",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "cursor",
+        "frameworks",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "openai",
+        "opus",
+        "perplexity",
+        "sonnet",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 44875,
       "folder": "2025-08-12-ai-news-chatgpt-5-massive-disappointment-grok-imagine-slop"
     },
@@ -7476,6 +10517,23 @@
       "summary": [
         "# Claude Code vs Cursor (GPT-5): Which should you choose"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gpt-5",
+        "make",
+        "openai",
+        "opus",
+        "prompting",
+        "uber"
+      ],
       "transcript_chars": 19848,
       "folder": "2025-08-12-claude-code-vs-cursor-gpt-5-which-should-you-choose"
     },
@@ -7516,6 +10574,25 @@
       "concepts": [],
       "summary": [
         "# This AI built me a mobile app in 14 minutes using GPT 5 (Rork guide)\nI found an AI agent running on GPT5 that lets you build entire iOS and Android apps in one single prompt"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "make",
+        "product-management",
+        "projects",
+        "prompting",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 16632,
       "folder": "2025-08-10-this-ai-built-me-a-mobile-app-in-14-minutes-using-gpt-5-rork-guide"
@@ -7575,6 +10652,29 @@
       "summary": [
         "# ChatGPT-5 vs Claude Code: best AI coding tool ever"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "box",
+        "canvas",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "make",
+        "notion",
+        "openai",
+        "opus",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "twitter",
+        "workflows",
+        "youtube"
+      ],
       "transcript_chars": 87542,
       "folder": "2025-08-09-chatgpt-5-vs-claude-code-best-ai-coding-tool-ever"
     },
@@ -7625,6 +10725,26 @@
         "# I launched an AI app that hit $100,000 in 15 minutes\nSix months ago, I launched my first AI app that I 100% solo built by myself, all with AI, no coding at all",
         "Every step of the way i built out creator buddy, i shared my journey on social media"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "make",
+        "openai",
+        "openai-api",
+        "product-management",
+        "stripe",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 25297,
       "folder": "2025-08-07-i-launched-an-ai-app-that-hit-100000-in-15-minutes"
     },
@@ -7663,6 +10783,18 @@
       ],
       "summary": [
         "(GPT-OSS Guide)\nMassive breaking news from OpenAI that will change the industry forever"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "cursor",
+        "frameworks",
+        "make",
+        "meta",
+        "openai",
+        "prompting",
+        "tutorials"
       ],
       "transcript_chars": 8643,
       "folder": "2025-08-05-wow-openai-released-open-source-models-heres-what-it-means-for-you-gpt-oss-guide"
@@ -7709,6 +10841,26 @@
       "summary": [
         "# Google just released the EASIEST way to build apps with AI ever (Google Opal guide)\nGoogle just released what might be the easiest way to build apps ever with AI"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "canvas",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "gemini",
+        "google",
+        "make",
+        "product-management",
+        "prompting",
+        "tesla",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 9499,
       "folder": "2025-08-01-google-just-released-the-easiest-way-to-build-apps-with-ai-ever-google-opal-guid"
     },
@@ -7753,6 +10905,24 @@
       "summary": [
         "# How I use Claude Code to automate my entire life (5 tricks)\nEveryone knows Claude Code is the best coding tool in the world"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "google",
+        "make",
+        "notion",
+        "prompting",
+        "tutorials",
+        "twitter",
+        "youtube"
+      ],
       "transcript_chars": 15187,
       "folder": "2025-07-30-how-i-use-claude-code-to-automate-my-entire-life-5-tricks"
     },
@@ -7792,6 +10962,23 @@
       "concepts": [],
       "summary": [
         "# 5 secret Claude Code features you need to know about\nFlawed Code is the most powerful AI coding tool ever made"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "github",
+        "leadership",
+        "make",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "workflows"
       ],
       "transcript_chars": 13741,
       "folder": "2025-07-26-5-secret-claude-code-features-you-need-to-know-about"
@@ -7855,6 +11042,31 @@
       "summary": [
         "# Building and launching an app with Claude Code LIVE\nWe're live"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "anthropic-api",
+        "apple",
+        "artifacts",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "mcp",
+        "meta",
+        "notion",
+        "opus",
+        "sonnet",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 121697,
       "folder": "2025-07-24-building-and-launching-an-app-with-claude-code-live"
     },
@@ -7898,6 +11110,23 @@
       "concepts": [],
       "summary": [
         "Brock 4 just came out and has everyone in the AI space talking"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "coding",
+        "cursor",
+        "frameworks",
+        "google",
+        "ibm",
+        "make",
+        "opus",
+        "prompting",
+        "tutorials",
+        "x"
       ],
       "transcript_chars": 19634,
       "folder": "2025-07-15-i-paid-3000-for-grok-4-was-it-worth-it"
@@ -7944,6 +11173,22 @@
       "concepts": [],
       "summary": [
         "# Kimi K2- The FREE AI Model That Killed Claude Code"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "anthropic-api",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "make",
+        "openai",
+        "opus",
+        "product-management"
       ],
       "transcript_chars": 10368,
       "folder": "2025-07-13-kimi-k2-the-free-ai-model-that-killed-claude-code"
@@ -8011,6 +11256,33 @@
       "summary": [
         "You're tuned in to the number one technology stream in the history of mankind"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "copilot",
+        "cursor",
+        "gemini",
+        "github",
+        "github-copilot",
+        "google",
+        "jan",
+        "leadership",
+        "make",
+        "microsoft",
+        "msty",
+        "openai",
+        "startups",
+        "tesla",
+        "tutorials",
+        "twitter",
+        "whisper"
+      ],
       "transcript_chars": 101974,
       "folder": "2025-07-10-building-a-startup-with-grok-4-live"
     },
@@ -8058,6 +11330,30 @@
       "concepts": [],
       "summary": [
         "# This Claude Code Workflow Changes EVERYTHING\nEveryone knows Claude Code is the most powerful AI coding tool ever made"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "leadership",
+        "make",
+        "openai",
+        "openai-api",
+        "opus",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "workflows",
+        "youtube"
       ],
       "transcript_chars": 17502,
       "folder": "2025-07-06-this-claude-code-workflow-changes-everything"
@@ -8122,6 +11418,33 @@
       "summary": [
         "# Building an AI Startup with Claude Code LIVE\nWe're live"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "copilot",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "github-copilot",
+        "google",
+        "langchain",
+        "make",
+        "mcp",
+        "meta",
+        "notion",
+        "openai",
+        "opus",
+        "slack",
+        "startups",
+        "tutorials"
+      ],
       "transcript_chars": 117347,
       "folder": "2025-07-03-building-an-ai-startup-with-claude-code-live"
     },
@@ -8164,6 +11487,24 @@
       "concepts": [],
       "summary": [
         "# Master Claude Code in 14 Minutes (8 Steps)\nClawed Code is the most powerful AI coding tool ever made"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "make",
+        "opus",
+        "prompting",
+        "sonnet",
+        "workflows",
+        "youtube"
       ],
       "transcript_chars": 15078,
       "folder": "2025-07-01-master-claude-code-in-14-minutes-8-steps"
@@ -8211,6 +11552,25 @@
       "concepts": [],
       "summary": [
         "# Gemini CLI vs Claude Code: Which is the Best AI Coding Tool Ever"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "gemini",
+        "google",
+        "make",
+        "product-management",
+        "prompting",
+        "tesla",
+        "tutorials"
       ],
       "transcript_chars": 26654,
       "folder": "2025-06-28-gemini-cli-vs-claude-code-which-is-the-best-ai-coding-tool-ever"
@@ -8272,6 +11632,35 @@
       "summary": [
         "# Building a Startup LIVE using Claude Code, Gemini CLI, Cursor\nWe're live"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "amazon",
+        "anthropic",
+        "apple",
+        "canvas",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "gemini",
+        "github",
+        "google",
+        "leadership",
+        "make",
+        "meta",
+        "microsoft",
+        "openai",
+        "opus",
+        "product-management",
+        "projects",
+        "slack",
+        "sonnet",
+        "startups",
+        "stripe",
+        "tutorials",
+        "twitter"
+      ],
       "transcript_chars": 103206,
       "folder": "2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor"
     },
@@ -8320,6 +11709,25 @@
       "summary": [
         "# Google Gemini CLI is an INSANE AI coding tool (full tutorial)\nGoogle just released what might be the most insane AI coding tool ever built"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "openai",
+        "openai-api",
+        "product-management",
+        "tutorials",
+        "youtube"
+      ],
       "transcript_chars": 18326,
       "folder": "2025-06-26-google-gemini-cli-is-an-insane-ai-coding-tool-full-tutorial"
     },
@@ -8356,6 +11764,19 @@
       "concepts": [],
       "summary": [
         "The number one question I get asked is, 'Should I learn how to code now that AI has made it so easy to build apps"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "coding",
+        "cursor",
+        "leadership",
+        "make",
+        "prompting",
+        "tutorials",
+        "youtube"
       ],
       "transcript_chars": 3275,
       "folder": "2025-06-21-should-you-learn-to-code-in-2025"
@@ -8423,6 +11844,35 @@
       "summary": [
         "# Building and launching an AI startup LIVE on stream"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "github",
+        "google",
+        "make",
+        "meta",
+        "microsoft",
+        "openai",
+        "openai-api",
+        "opus",
+        "projects",
+        "sonnet",
+        "startups",
+        "stripe",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 162505,
       "folder": "2025-06-20-building-and-launching-an-ai-startup-live-on-stream-from-0-to-first-customer"
     },
@@ -8473,6 +11923,26 @@
       "summary": [
         "# Claude Code Beginner Guide \u2013 Get Started in 20 Minutes (2025)\nYou are about to gain AI superpowers"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "frameworks",
+        "google",
+        "make",
+        "microsoft",
+        "opus",
+        "shortcuts",
+        "sonnet",
+        "tutorials",
+        "youtube"
+      ],
       "transcript_chars": 27766,
       "folder": "2025-06-16-claude-code-beginner-guide-get-started-in-20-minutes-2025"
     },
@@ -8504,6 +11974,13 @@
       "concepts": [],
       "summary": [
         "# WOW the world's first 100% AI generated commercial just released (built by Veo3) #ai #veo3\nThe world's first fully AI generated commercial just aired during the NBA finals and it's mindblowing"
+      ],
+      "keywords": [
+        "ai-news",
+        "career",
+        "google",
+        "openai",
+        "product-management"
       ],
       "transcript_chars": 786,
       "folder": "2025-06-13-wow-the-worlds-first-100-ai-generated-commercial-just-released-built-by-veo3-ai"
@@ -8543,6 +12020,19 @@
       "concepts": [],
       "summary": [
         "# How I made $19,000 in 15 minutes with AI #ai #cursor #chatgpt #entrepreneurship\nHere's how I made $19,000 in 15 minutes with AI"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "career",
+        "chatgpt",
+        "coding",
+        "cursor",
+        "make",
+        "openai",
+        "startups",
+        "tutorials",
+        "twitter"
       ],
       "transcript_chars": 1493,
       "folder": "2025-06-12-how-i-made-19000-in-15-minutes-with-ai-ai-cursor-chatgpt-entrepreneurship"
@@ -8592,6 +12082,25 @@
       "summary": [
         "# Claude Code is the most insane AI coding tool ever (full guide)\nSome of the things I'm going to show you in this video will change how you use AI forever"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "box",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "github",
+        "make",
+        "microsoft",
+        "notion",
+        "opus",
+        "product-management",
+        "sonnet",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 32228,
       "folder": "2025-06-10-claude-code-is-the-most-insane-ai-coding-tool-ever-full-guide"
     },
@@ -8630,6 +12139,20 @@
       "summary": [
         "# The craziest AI vibe coding workflow ever #claude #ai #vibecoding #programming\nThis is the most powerful AI vibe coding workflow I've ever seen in my life"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor",
+        "make",
+        "notion",
+        "product-management",
+        "workflows"
+      ],
       "transcript_chars": 2121,
       "folder": "2025-06-10-the-craziest-ai-vibe-coding-workflow-ever-claude-ai-vibecoding-programming"
     },
@@ -8665,6 +12188,15 @@
       "concepts": [],
       "summary": [
         "#ai #vibecoding #cursor\nIs this the coolest AI vibe coding setup ever"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding",
+        "cursor"
       ],
       "transcript_chars": 1071,
       "folder": "2025-06-08-coolest-ai-vibe-coding-set-up-ever-ai-vibecoding-cursor"
@@ -8713,6 +12245,27 @@
       "summary": [
         "# Watch me build and launch an AI app in under 15 minutes (Cursor 1"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "claude",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "google",
+        "make",
+        "openai",
+        "openai-api",
+        "prompting",
+        "sonnet",
+        "stripe",
+        "tutorials",
+        "vercel"
+      ],
       "transcript_chars": 20647,
       "folder": "2025-06-07-watch-me-build-and-launch-an-ai-app-in-under-15-minutes-cursor-10-vercel"
     },
@@ -8755,6 +12308,21 @@
       "concepts": [],
       "summary": [
         "# How to find $1M AI SaaS ideas EASILY\nI came up with a $300,000 AI app idea just from solving a small day-to-day challenge I was facing"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "bolt",
+        "coding",
+        "cursor",
+        "make",
+        "openai",
+        "prompting",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 19350,
       "folder": "2025-06-04-how-to-find-1m-ai-saas-ideas-easily"
@@ -8804,6 +12372,23 @@
       "summary": [
         "# Build your first AI agent in under 23 minutes (Cursor, no code)\nInstead of paying $200 a month for Chad GPT Pro or hundreds a month for Manis, you should just build your own AI agent for free"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "cursor",
+        "make",
+        "openai",
+        "openai-api",
+        "opus",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "tutorials"
+      ],
       "transcript_chars": 27651,
       "folder": "2025-05-28-build-your-first-ai-agent-in-under-23-minutes-cursor-no-code"
     },
@@ -8851,6 +12436,21 @@
       "summary": [
         "# I built an app with AI that made $19,971 in one day\nSo, here is my Stripe dashboard"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "bolt",
+        "coding",
+        "cursor",
+        "google",
+        "make",
+        "startups",
+        "stripe",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 24852,
       "folder": "2025-05-21-i-built-an-app-with-ai-that-made-19971-in-one-day"
     },
@@ -8890,6 +12490,19 @@
       "concepts": [],
       "summary": [
         "Here\u2019s how I\u2019m going to make money with it (Codex full demo)\nAs we speak, there is an AI agent working completely by itself to build out this to-do list app you see here"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "codex",
+        "coding",
+        "github",
+        "make",
+        "openai",
+        "projects",
+        "tutorials",
+        "twitter",
+        "youtube"
       ],
       "transcript_chars": 12542,
       "folder": "2025-05-17-openai-just-released-a-coding-ai-agent-heres-how-im-going-to-make-money-with-it"
@@ -8940,6 +12553,29 @@
       "summary": [
         "# I used these 8 AI tools to launch a $300,000 App\n3 months ago, I launched an AI business that's now making around $300,000 a year"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "bolt",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "google",
+        "leadership",
+        "lovable",
+        "make",
+        "openai",
+        "product-management",
+        "projects",
+        "prompting",
+        "startups",
+        "stripe",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 21999,
       "folder": "2025-05-12-i-used-these-8-ai-tools-to-launch-a-300000-app"
     },
@@ -8985,6 +12621,21 @@
       "summary": [
         "# I built an AI app that makes $704 a day passive income\nTwo months ago, I built and launched an app that is now making me $74 a day of passive income"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "bolt",
+        "canvas",
+        "coding",
+        "linkedin",
+        "make",
+        "product-management",
+        "prompting",
+        "stripe",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 32950,
       "folder": "2025-05-07-i-built-an-ai-app-that-makes-704-a-day-passive-income"
     },
@@ -9025,6 +12676,22 @@
       "concepts": [],
       "summary": [
         "# Build Your First Game With AI Using Replit Agent EASILY\nPeter Levelvels is making millions of dollars a year off of a video game he built with AI by himself in half an hour"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "career",
+        "coding",
+        "frameworks",
+        "github",
+        "make",
+        "product-management",
+        "prompting",
+        "replit",
+        "stripe",
+        "tutorials",
+        "twitter",
+        "x"
       ],
       "transcript_chars": 17845,
       "folder": "2025-04-30-build-your-first-game-with-ai-using-replit-agent-easily"
@@ -9073,6 +12740,28 @@
       "concepts": [],
       "summary": [
         "# I built an AI image startup in 10 minutes using ChatGPT (image gen API)\nBreaking news"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "box",
+        "career",
+        "chatgpt",
+        "claude",
+        "coding",
+        "frameworks",
+        "github",
+        "leadership",
+        "make",
+        "openai",
+        "prompting",
+        "sonnet",
+        "startups",
+        "stripe",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 12870,
       "folder": "2025-04-26-i-built-an-ai-image-startup-in-10-minutes-using-chatgpt-image-gen-api"
@@ -9123,6 +12812,28 @@
       "summary": [
         "# I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "bolt",
+        "box",
+        "claude",
+        "coding",
+        "cursor",
+        "gemini",
+        "google",
+        "leadership",
+        "lovable",
+        "make",
+        "microsoft",
+        "notion",
+        "product-management",
+        "prompting",
+        "stripe",
+        "tutorials",
+        "youtube"
+      ],
       "transcript_chars": 31639,
       "folder": "2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew"
     },
@@ -9171,6 +12882,26 @@
       "summary": [
         "# AI Agents clearly explained (and why it matters)\nAI agents are going to change the world in 2025"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "apple",
+        "bolt",
+        "box",
+        "career",
+        "coding",
+        "computer-use",
+        "cursor",
+        "deep-dives",
+        "google",
+        "langchain",
+        "make",
+        "openai",
+        "openai-api",
+        "tutorials",
+        "youtube"
+      ],
       "transcript_chars": 16516,
       "folder": "2025-04-22-ai-agents-clearly-explained-and-why-it-matters"
     },
@@ -9209,6 +12940,19 @@
       "concepts": [],
       "summary": [
         "# ChatGPT o3 Is INSANE For Building Games\nChat GP03 just launched and it is absolutely incredible"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "chatgpt",
+        "coding",
+        "cursor",
+        "frameworks",
+        "make",
+        "o3",
+        "openai",
+        "prompting"
       ],
       "transcript_chars": 9753,
       "folder": "2025-04-18-chatgpt-o3-is-insane-for-building-games"
@@ -9256,6 +13000,24 @@
       "summary": [
         "# The EASIEST way to build apps with AI EVER (Google Firebase Studio)\nGoogle just released the easiest way to build apps without needing to write a single line of code ever"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "box",
+        "coding",
+        "cursor",
+        "frameworks",
+        "gemini",
+        "google",
+        "leadership",
+        "lovable",
+        "make",
+        "product-management",
+        "prompting",
+        "stripe",
+        "tutorials",
+        "v0"
+      ],
       "transcript_chars": 14764,
       "folder": "2025-04-15-the-easiest-way-to-build-apps-with-ai-ever-google-firebase-studio"
     },
@@ -9299,6 +13061,20 @@
       "summary": [
         "# Build your first App Using AI in 11 Minutes With Windsurf\nIn this video, I'm going to show you how to use Windsurf AI to build your very first application, even if you've never programmed a line of"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "cursor",
+        "frameworks",
+        "make",
+        "notion",
+        "prompting",
+        "sonnet",
+        "tutorials"
+      ],
       "transcript_chars": 18069,
       "folder": "2025-04-04-build-your-first-app-using-ai-in-11-minutes-with-windsurf"
     },
@@ -9340,6 +13116,21 @@
       "summary": [
         "# How to Build Your First 3D Game in 11 Minutes With Google Gemini Pro 2"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "canvas",
+        "claude",
+        "coding",
+        "frameworks",
+        "gemini",
+        "google",
+        "make",
+        "product-management",
+        "prompting",
+        "tutorials"
+      ],
       "transcript_chars": 13179,
       "folder": "2025-03-29-how-to-build-your-first-3d-game-in-11-minutes-with-google-gemini-pro-25-pro"
     },
@@ -9379,6 +13170,20 @@
       "concepts": [],
       "summary": [
         "(Full demo)\nAI agents are here and they're absolutely insane"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "intel",
+        "linkedin",
+        "make",
+        "prompting",
+        "tutorials",
+        "twitter",
+        "x"
       ],
       "transcript_chars": 25352,
       "folder": "2025-03-20-manus-ai-is-the-most-powerful-ai-agent-ever-unreal-full-demo"
@@ -9425,6 +13230,24 @@
       "summary": [
         "# Build Your First Game Using AI in 15 Minutes (Claude Sonnet)\nI am going to show you how to build an unbelievably fun 3D firstperson shooting game using grock 3 and Claude Sonet 3"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "google",
+        "make",
+        "product-management",
+        "prompting",
+        "sonnet",
+        "tutorials",
+        "workflows",
+        "youtube"
+      ],
       "transcript_chars": 19801,
       "folder": "2025-02-26-build-your-first-game-using-ai-in-15-minutes-claude-sonnet"
     },
@@ -9463,6 +13286,19 @@
       "summary": [
         "comom download it allows you to paste in code and run it so get that installed pause the video now go to cursor"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "career",
+        "coding",
+        "cursor",
+        "frameworks",
+        "leadership",
+        "make",
+        "product-management",
+        "tutorials",
+        "x"
+      ],
       "transcript_chars": 13722,
       "folder": "2025-02-19-build-your-first-app-using-grok-3-in-10-minutes-beginners-guide"
     },
@@ -9500,6 +13336,18 @@
       "summary": [
         "# How to Build Your First Game With ChatGPT o3 Mini in 4 minutes"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "chatgpt",
+        "coding",
+        "frameworks",
+        "make",
+        "o3",
+        "openai",
+        "prompting",
+        "tutorials"
+      ],
       "transcript_chars": 10181,
       "folder": "2025-01-31-how-to-build-your-first-game-with-chatgpt-o3-mini-in-4-minutes"
     },
@@ -9533,6 +13381,19 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "chatgpt",
+        "frameworks",
+        "make",
+        "openai",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "workflows"
+      ],
       "transcript_chars": 8819,
       "folder": "2025-01-14-ai-agents-are-here-openai-releases-chatgpt-tasks-complete-beginners-guide"
     },
@@ -9581,6 +13442,26 @@
       "summary": [
         "it is going to give me the command which is Python mario"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "box",
+        "chatgpt",
+        "claude",
+        "coding",
+        "cursor",
+        "frameworks",
+        "leadership",
+        "linkedin",
+        "make",
+        "o1",
+        "openai",
+        "product-management",
+        "startups",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 14251,
       "folder": "2024-12-06-new-chatgpt-model-is-a-game-changer-full-o1-demo-and-beginners-guide"
     },
@@ -9621,6 +13502,19 @@
       "summary": [
         "new)\nby, the, end, of, this, video, you, will, know what, is, the, best, no, code, AI, coding, tool on, the, planet, bolt"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "bolt",
+        "coding",
+        "cursor",
+        "google",
+        "make",
+        "product-management",
+        "prompting",
+        "v0"
+      ],
       "transcript_chars": 42067,
       "folder": "2024-12-02-best-ai-code-editor-ever-cursor-vs-windsurf-vs-boltnew"
     },
@@ -9659,6 +13553,20 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "bolt",
+        "claude",
+        "coding",
+        "cursor",
+        "make",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "v0"
+      ],
       "transcript_chars": 8372,
       "folder": "2024-11-20-windsurf-just-killed-cursor-ai-and-bolt-the-easiest-way-to-build-no-code-apps-ev"
     },
@@ -9696,6 +13604,19 @@
       "concepts": [],
       "summary": [
         "Swift okay so we have the new file we're going to name it expense"
+      ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "chatgpt",
+        "coding",
+        "make",
+        "openai",
+        "product-management",
+        "tutorials",
+        "x",
+        "youtube"
       ],
       "transcript_chars": 21131,
       "folder": "2024-11-15-chatgpt-releases-a-coding-buddy-full-beginners-guide"
@@ -9737,6 +13658,22 @@
       "concepts": [],
       "summary": [
         "New: The FASTEST way to build your first app with AI (Beginner\u2019s Guide)\nwith bolt"
+      ],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "bolt",
+        "coding",
+        "cursor",
+        "leadership",
+        "make",
+        "openai",
+        "openai-api",
+        "product-management",
+        "prompting",
+        "stripe",
+        "tutorials"
       ],
       "transcript_chars": 10326,
       "folder": "2024-11-13-boltnew-the-fastest-way-to-build-your-first-app-with-ai-beginners-guide"
@@ -9781,6 +13718,22 @@
       "summary": [
         "new that's the URL put it into your browser the reason I'm excited to use bolt"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "bolt",
+        "career",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "make",
+        "microsoft",
+        "nvidia",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "x"
+      ],
       "transcript_chars": 10083,
       "folder": "2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin"
     },
@@ -9822,6 +13775,17 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-news",
+        "deep-dives",
+        "google",
+        "make",
+        "openai",
+        "perplexity",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 8361,
       "folder": "2024-10-31-openai-just-ended-google-with-searchgpt-full-beginners-guide"
     },
@@ -9860,6 +13824,21 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "anthropic",
+        "anthropic-api",
+        "apple",
+        "career",
+        "claude",
+        "computer-use",
+        "google",
+        "make",
+        "prompting",
+        "tutorials",
+        "twitter"
+      ],
       "transcript_chars": 10806,
       "folder": "2024-10-29-this-automated-social-media-ai-agent-is-insane-full-demo-and-beginners-guide"
     },
@@ -9896,6 +13875,23 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "coding",
+        "computer-use",
+        "frameworks",
+        "google",
+        "make",
+        "product-management",
+        "prompting",
+        "tutorials"
+      ],
       "transcript_chars": 9652,
       "folder": "2024-10-27-i-told-ai-agents-to-make-me-10000-you-wont-believe-what-happened-next-claude-com"
     },
@@ -9933,6 +13929,22 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "deep-dives",
+        "frameworks",
+        "google",
+        "make",
+        "product-management",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 8509,
       "folder": "2024-10-24-claude-can-now-write-and-run-code-mind-blowing-full-demo-and-beginners-guide"
     },
@@ -9971,6 +13983,21 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "apple",
+        "career",
+        "claude",
+        "coding",
+        "computer-use",
+        "cursor",
+        "make",
+        "prompting",
+        "tutorials"
+      ],
       "transcript_chars": 9615,
       "folder": "2024-10-22-anthropic-releases-ai-agents-this-is-insane-full-demo-and-beginners-guide"
     },
@@ -10005,6 +14032,17 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "coding",
+        "cursor",
+        "make",
+        "prompting",
+        "tutorials",
+        "workflows",
+        "x"
+      ],
       "transcript_chars": 6505,
       "folder": "2024-10-22-the-xai-api-is-insane-full-demo-and-beginners-guide"
     },
@@ -10039,6 +14077,15 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "coding",
+        "cursor",
+        "make",
+        "prompting",
+        "tutorials",
+        "x"
+      ],
       "transcript_chars": 16097,
       "folder": "2024-10-18-how-to-build-your-first-ios-game-in-10-minutes-using-cursor-ai"
     },
@@ -10080,6 +14127,20 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "cursor",
+        "make",
+        "prompting",
+        "tutorials",
+        "twitter",
+        "v0",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 25447,
       "folder": "2024-10-14-i-used-ai-to-build-this-10kmo-app-in-15-mins-cursor-ai-claude-v0"
     },
@@ -10116,6 +14177,16 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "coding",
+        "cursor",
+        "make",
+        "prompting",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 9422,
       "folder": "2024-10-10-how-to-build-your-first-ios-app-in-7-minutes-using-cursor-ai"
     },
@@ -10150,6 +14221,13 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "coding",
+        "cursor",
+        "notion",
+        "v0"
+      ],
       "transcript_chars": 581,
       "folder": "2024-10-09-building-a-notion-clone-app-with-ai"
     },
@@ -10186,6 +14264,18 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "career",
+        "coding",
+        "cursor",
+        "make",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "v0",
+        "youtube"
+      ],
       "transcript_chars": 13658,
       "folder": "2024-10-02-i-built-an-evernote-clone-with-ai-in-under-10-minutes-cursor-v0-tutorial"
     },
@@ -10226,6 +14316,17 @@
       "summary": [
         "png in and it's used as the background let's accept that pull in our new background we just generated put that in there we'll rename this background"
       ],
+      "keywords": [
+        "adobe",
+        "ai-tools",
+        "box",
+        "career",
+        "coding",
+        "cursor",
+        "leadership",
+        "make",
+        "prompting"
+      ],
       "transcript_chars": 29408,
       "folder": "2024-09-30-i-built-a-2d-shooting-game-using-ai-cursor-no-code"
     },
@@ -10257,6 +14358,11 @@
       "concepts": [],
       "summary": [
         "# Did I just build a video game with AI using just a screenshot"
+      ],
+      "keywords": [
+        "ai-tools",
+        "coding",
+        "make"
       ],
       "transcript_chars": 776,
       "folder": "2024-09-26-did-i-just-build-a-video-game-with-ai-using-just-a-screenshot-shorts-ai-coding"
@@ -10311,6 +14417,22 @@
       "summary": [
         "Lo file so we're just going to need to create that file here so new file env"
       ],
+      "keywords": [
+        "ai-tools",
+        "apple",
+        "chatgpt",
+        "claude",
+        "coding",
+        "cursor",
+        "google",
+        "make",
+        "meta",
+        "openai",
+        "tutorials",
+        "v0",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 22563,
       "folder": "2024-09-25-i-built-a-todoist-clone-with-ai-in-10-minutes-cursor-v0-chatgpt-api"
     },
@@ -10349,6 +14471,20 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "coding",
+        "cursor",
+        "frameworks",
+        "github",
+        "make",
+        "notion",
+        "product-management",
+        "prompting",
+        "tutorials",
+        "v0",
+        "x"
+      ],
       "transcript_chars": 17173,
       "folder": "2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code"
     },
@@ -10382,6 +14518,10 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "youtube"
+      ],
       "transcript_chars": 398,
       "folder": "2024-09-20-is-this-the-coolest-ai-tool-ever-shorts-ai"
     },
@@ -10412,6 +14552,13 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-agents",
+        "ai-tools",
+        "coding",
+        "make",
+        "prompting"
+      ],
       "transcript_chars": 1074,
       "folder": "2024-09-19-i-built-a-stock-tracking-app-with-one-prompt-using-ai-ai-stocks-shorts-coding"
     },
@@ -10453,6 +14600,19 @@
       "summary": [
         "# Build a game with 1 prompt using AI (ChatGPT o1, no code)\nlet's build a Pac-Man game using chat gp01 with a single prompt here we go I opened up chat gp"
       ],
+      "keywords": [
+        "ai-tools",
+        "chatgpt",
+        "coding",
+        "cursor",
+        "frameworks",
+        "make",
+        "o1",
+        "openai",
+        "product-management",
+        "prompting",
+        "workflows"
+      ],
       "transcript_chars": 8620,
       "folder": "2024-09-18-build-a-game-with-1-prompt-using-ai-chatgpt-o1-no-code"
     },
@@ -10489,6 +14649,15 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "chatgpt",
+        "coding",
+        "cursor",
+        "o1",
+        "openai",
+        "prompting"
+      ],
       "transcript_chars": 943,
       "folder": "2024-09-18-i-built-a-game-with-1-prompt-using-chatgpt-o1-no-coding-required-shorts-ai-chatg"
     },
@@ -10531,6 +14700,19 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "adobe",
+        "ai-news",
+        "ai-strategy",
+        "ai-tools",
+        "apple",
+        "claude",
+        "google",
+        "make",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 16332,
       "folder": "2024-09-17-how-i-got-my-first-1000-subscribers-in-24-days"
     },
@@ -10563,6 +14745,12 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-news",
+        "linkedin",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 785,
       "folder": "2024-09-13-why-you-need-a-newsletter-shorts"
     },
@@ -10598,6 +14786,16 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "box",
+        "coding",
+        "cursor",
+        "google",
+        "make",
+        "product-management",
+        "prompting"
+      ],
       "transcript_chars": 11754,
       "folder": "2024-09-12-i-build-a-full-game-with-ai-using-only-a-screenshot-cursor-no-code"
     },
@@ -10637,6 +14835,19 @@
       "summary": [
         "# Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)\nI want to build a stock dashboard"
       ],
+      "keywords": [
+        "ai-agents",
+        "ai-news",
+        "ai-tools",
+        "claude",
+        "coding",
+        "cursor",
+        "deep-dives",
+        "make",
+        "product-management",
+        "prompting",
+        "replit"
+      ],
       "transcript_chars": 24146,
       "folder": "2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code"
     },
@@ -10672,6 +14883,16 @@
       "concepts": [],
       "summary": [
         "# I Built a No-Code Chess Game in 10 Mins (Cursor AI)\nI want to build a chess game and boom just like that you go to chess"
+      ],
+      "keywords": [
+        "ai-tools",
+        "career",
+        "coding",
+        "cursor",
+        "frameworks",
+        "make",
+        "product-management",
+        "tutorials"
       ],
       "transcript_chars": 22169,
       "folder": "2024-09-05-i-built-a-no-code-chess-game-in-10-mins-cursor-ai"
@@ -10721,6 +14942,21 @@
       "summary": [
         "# Cursor AI Beginners Guide: Build Apps with NO CODE"
       ],
+      "keywords": [
+        "ai-tools",
+        "box",
+        "career",
+        "claude",
+        "coding",
+        "cursor",
+        "make",
+        "microsoft",
+        "notion",
+        "prompting",
+        "startups",
+        "tutorials",
+        "x"
+      ],
       "transcript_chars": 21731,
       "folder": "2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code"
     },
@@ -10759,6 +14995,15 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-tools",
+        "claude",
+        "coding",
+        "cursor",
+        "make",
+        "prompting",
+        "tutorials"
+      ],
       "transcript_chars": 6028,
       "folder": "2024-08-30-can-i-build-5-apps-in-5-minutes-with-ai-cursor-no-code"
     },
@@ -10801,6 +15046,19 @@
       "summary": [
         "# Build A Game With AI In 10 Minutes (no code, Cursor)\nI'm going to teach you in under 15 minutes how to build your own video game with AI"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "coding",
+        "cursor",
+        "frameworks",
+        "make",
+        "product-management",
+        "sonnet",
+        "tutorials"
+      ],
       "transcript_chars": 16236,
       "folder": "2024-08-28-build-a-game-with-ai-in-10-minutes-no-code-cursor"
     },
@@ -10829,6 +15087,7 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": null,
       "transcript_chars": 869,
       "folder": "2024-08-28-the-number-one-rule-in-life-is-so-simple"
     },
@@ -10866,6 +15125,17 @@
       "summary": [
         "0 but you can use whatever you want if you want to use chat GPT or Claude you can do that any of them work uh I just like to use grock it's the newest model grock 2"
       ],
+      "keywords": [
+        "ai-tools",
+        "anthropic",
+        "career",
+        "claude",
+        "coding",
+        "frameworks",
+        "make",
+        "prompting",
+        "tutorials"
+      ],
       "transcript_chars": 16159,
       "folder": "2024-08-23-how-to-build-an-app-with-ai-no-experience-required"
     },
@@ -10894,6 +15164,7 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": null,
       "transcript_chars": 914,
       "folder": "2024-08-20-take-nothing-personally"
     },
@@ -10931,6 +15202,15 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "product-management",
+        "tutorials",
+        "twitter",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 11750,
       "folder": "2024-08-16-how-i-built-a-250000year-online-business-with-0-beginners-guide"
     },
@@ -10964,6 +15244,13 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-strategy",
+        "make",
+        "tutorials",
+        "twitter",
+        "x"
+      ],
       "transcript_chars": 3468,
       "folder": "2024-08-07-how-to-make-way-more-money-on-twitter"
     },
@@ -11003,6 +15290,20 @@
       "summary": [
         "# How to Find Purpose Through Content\nhey I'm Alex and this is the story of how I turned tweeting for a couple minutes a day after work into a full-time business so my entire life I really didn't kno"
       ],
+      "keywords": [
+        "ai-news",
+        "ai-tools",
+        "career",
+        "coding",
+        "leadership",
+        "make",
+        "meta",
+        "product-management",
+        "tutorials",
+        "twitter",
+        "workflows",
+        "youtube"
+      ],
       "transcript_chars": 6935,
       "folder": "2024-08-02-how-to-find-purpose-through-content"
     },
@@ -11031,6 +15332,7 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": null,
       "transcript_chars": 722,
       "folder": "2024-05-03-dont-listen-to-the-liars-the-rabbit-r1-is-mind-blowing-shorts"
     },
@@ -11061,6 +15363,9 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "apple"
+      ],
       "transcript_chars": 282,
       "folder": "2024-03-24-the-apple-vision-pro-will-solve-all-of-your-relationship-problems"
     },
@@ -11095,6 +15400,14 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "apple",
+        "make",
+        "product-management",
+        "workflows",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 2431,
       "folder": "2024-02-08-my-productive-morning-routine-with-the-apple-vision-pro"
     },
@@ -11126,6 +15439,9 @@
       "concepts": [],
       "summary": [
         "# Finally getting use out of my NFTs thanks to the Apple Vision Pro"
+      ],
+      "keywords": [
+        "apple"
       ],
       "transcript_chars": 1447,
       "folder": "2024-02-07-finally-getting-use-out-of-my-nfts-thanks-to-the-apple-vision-pro-3000000-well-s"
@@ -11159,6 +15475,12 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "apple",
+        "google",
+        "make",
+        "tutorials"
+      ],
       "transcript_chars": 1619,
       "folder": "2024-02-07-tiktok-on-apple-vision-pro-changed-my-life"
     },
@@ -11198,6 +15520,17 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "ai-news",
+        "apple",
+        "google",
+        "make",
+        "meta",
+        "notion",
+        "tutorials",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 42630,
       "folder": "2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding"
     },
@@ -11230,6 +15563,11 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": [
+        "apple",
+        "x",
+        "youtube"
+      ],
       "transcript_chars": 1047,
       "folder": "2024-02-06-watching-sports-on-the-apple-vision-pro-is-a-dream"
     },
@@ -11258,6 +15596,7 @@
       },
       "concepts": [],
       "summary": [],
+      "keywords": null,
       "transcript_chars": 7,
       "folder": "2023-02-17-impostor-syndrome-is-a-mofo"
     },
@@ -11288,6 +15627,7 @@
       "summary": [
         "# Relentlessly chase discomfort every single day\nforeign [Music] [Music]"
       ],
+      "keywords": null,
       "transcript_chars": 24,
       "folder": "2023-02-11-relentlessly-chase-discomfort-every-single-day"
     }

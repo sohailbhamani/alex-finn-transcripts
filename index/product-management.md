@@ -2,10 +2,10 @@
 
 Episodes discussing **Product Management** (117 episodes):
 
-- [Unknown](../episodes/unknown-8yhytif9pyi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-mdulv-mwrnm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-phr1o_af5na/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
+- [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
+- [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
+- [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
+- [You NEED to set up a multi agent team with OpenClaw and Hermes](../episodes/2026-04-13-you-need-to-set-up-a-multi-agent-team-with-openclaw-and-herm/transcript.md) (2026-04-13)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
 - [MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!](../episodes/2026-03-31-massive-claude-code-leak-this-changes-everything/transcript.md) (2026-03-31)

@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "You NEED to set up a multi agent team with OpenClaw and Hermes"
 video_id: "mduLV-mWrNM"
 youtube_url: "https://www.youtube.com/watch?v=mduLV-mWrNM"
-publish_date: "unknown"
+publish_date: "2026-04-13"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

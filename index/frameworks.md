@@ -2,10 +2,10 @@
 
 Episodes discussing **Frameworks** (134 episodes):
 
-- [Unknown](../episodes/unknown-8yhytif9pyi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-mdulv-mwrnm/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-mgcdxfpwbdu/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
+- [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
+- [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
+- [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
+- [You NEED to set up a multi agent team with OpenClaw and Hermes](../episodes/2026-04-13-you-need-to-set-up-a-multi-agent-team-with-openclaw-and-herm/transcript.md) (2026-04-13)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)

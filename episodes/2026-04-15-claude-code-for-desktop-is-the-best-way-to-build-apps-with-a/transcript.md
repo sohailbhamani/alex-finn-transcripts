@@ -1,8 +1,8 @@
 ---
-title: "Unknown"
+title: "Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)"
 video_id: "pHr1O_Af5NA"
 youtube_url: "https://www.youtube.com/watch?v=pHr1O_Af5NA"
-publish_date: "unknown"
+publish_date: "2026-04-15"
 duration: "unknown"
 duration_seconds: 0
 view_count: 0

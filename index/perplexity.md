@@ -2,9 +2,9 @@
 
 Episodes discussing **Perplexity** (18 episodes):
 
-- [Unknown](../episodes/unknown-dzh0u-jbems/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-q1atprjttta/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
+- [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
+- [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
+- [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
 - [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)

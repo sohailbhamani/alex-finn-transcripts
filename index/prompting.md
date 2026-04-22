@@ -2,8 +2,8 @@
 
 Episodes discussing **Prompting** (109 episodes):
 
-- [Unknown](../episodes/unknown-8yhytif9pyi/transcript.md) (unknown)
-- [Unknown](../episodes/unknown-wldhn2bm3su/transcript.md) (unknown)
+- [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
+- [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
 - [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
