@@ -1,6 +1,6 @@
 # Workflows
 
-Episodes discussing **Workflows** (76 episodes):
+Episodes discussing **Workflows** (77 episodes):
 
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -78,3 +78,4 @@ Episodes discussing **Workflows** (76 episodes):
 - [Build a game with 1 prompt using AI (ChatGPT o1, no code)](../episodes/2024-09-18-build-a-game-with-1-prompt-using-ai-chatgpt-o1-no-code/transcript.md) (2024-09-18)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
 - [My Productive Morning Routine with the Apple Vision Pro](../episodes/2024-02-08-my-productive-morning-routine-with-the-apple-vision-pro/transcript.md) (2024-02-08)
+- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

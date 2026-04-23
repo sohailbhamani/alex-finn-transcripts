@@ -1,6 +1,6 @@
 # Tesla
 
-Episodes discussing **Tesla** (40 episodes):
+Episodes discussing **Tesla** (41 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -42,3 +42,4 @@ Episodes discussing **Tesla** (40 episodes):
 - [Google just released the EASIEST way to build apps with AI ever (Google Opal guide)](../episodes/2025-08-01-google-just-released-the-easiest-way-to-build-apps-with-ai-ever-google-opal-guid/transcript.md) (2025-08-01)
 - [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
 - [Gemini CLI vs Claude Code: Which is the Best AI Coding Tool Ever?](../episodes/2025-06-28-gemini-cli-vs-claude-code-which-is-the-best-ai-coding-tool-ever/transcript.md) (2025-06-28)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)

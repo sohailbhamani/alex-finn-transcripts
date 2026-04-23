@@ -1,6 +1,6 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (35 episodes):
+Episodes discussing **Chatgpt** (36 episodes):
 
 - [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
 - [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)
@@ -37,3 +37,4 @@ Episodes discussing **Chatgpt** (35 episodes):
 - [I Built a Todoist Clone with AI in 10 minutes (Cursor + v0 + ChatGPT API)](../episodes/2024-09-25-i-built-a-todoist-clone-with-ai-in-10-minutes-cursor-v0-chatgpt-api/transcript.md) (2024-09-25)
 - [Build a game with 1 prompt using AI (ChatGPT o1, no code)](../episodes/2024-09-18-build-a-game-with-1-prompt-using-ai-chatgpt-o1-no-code/transcript.md) (2024-09-18)
 - [I built a game with 1 prompt using ChatGPT o1 (no coding required) #shorts #ai #chatgpt  #coding](../episodes/2024-09-18-i-built-a-game-with-1-prompt-using-chatgpt-o1-no-coding-required-shorts-ai-chatg/transcript.md) (2024-09-18)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)

@@ -1,6 +1,6 @@
 # Twitter
 
-Episodes discussing **Twitter** (81 episodes):
+Episodes discussing **Twitter** (82 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
@@ -83,3 +83,4 @@ Episodes discussing **Twitter** (81 episodes):
 - [How I built a $250,000/year online business with $0 (beginner's guide)](../episodes/2024-08-16-how-i-built-a-250000year-online-business-with-0-beginners-guide/transcript.md) (2024-08-16)
 - [How To Make WAY More Money on Twitter](../episodes/2024-08-07-how-to-make-way-more-money-on-twitter/transcript.md) (2024-08-07)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)

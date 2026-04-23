@@ -1,6 +1,6 @@
 # Make
 
-Episodes discussing **Make** (215 episodes):
+Episodes discussing **Make** (217 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -217,3 +217,5 @@ Episodes discussing **Make** (215 episodes):
 - [My Productive Morning Routine with the Apple Vision Pro](../episodes/2024-02-08-my-productive-morning-routine-with-the-apple-vision-pro/transcript.md) (2024-02-08)
 - [TikTok on Apple Vision Pro Changed My Life](../episodes/2024-02-07-tiktok-on-apple-vision-pro-changed-my-life/transcript.md) (2024-02-07)
 - [APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!](../episodes/2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding/transcript.md) (2024-02-06)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

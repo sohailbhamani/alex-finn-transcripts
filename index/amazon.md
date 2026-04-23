@@ -1,6 +1,6 @@
 # Amazon
 
-Episodes discussing **Amazon** (26 episodes):
+Episodes discussing **Amazon** (27 episodes):
 
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
@@ -28,3 +28,4 @@ Episodes discussing **Amazon** (26 episodes):
 - [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
 - [Building an AI Startup with Claude Code LIVE](../episodes/2025-07-03-building-an-ai-startup-with-claude-code-live/transcript.md) (2025-07-03)
 - [Building a Startup LIVE using Claude Code, Gemini CLI, Cursor](../episodes/2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor/transcript.md) (2025-06-27)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
