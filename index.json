@@ -1,8 +1,8 @@
 {
-  "total_videos": 238,
+  "total_videos": 240,
   "date_range": {
     "newest": "2026-04-21",
-    "oldest": "2023-02-11"
+    "oldest": ""
   },
   "videos": [
     {
@@ -11290,6 +11290,113 @@
       ],
       "transcript_chars": 24,
       "folder": "2023-02-11-relentlessly-chase-discomfort-every-single-day"
+    },
+    {
+      "title": "\ud83d\udd34LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???",
+      "video_id": "6npNKBs_UAM",
+      "youtube_url": "https://www.youtube.com/watch?v=6npNKBs_UAM",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Slack",
+          "Cursor",
+          "Twitter"
+        ],
+        "people": [
+          "Tim Cook",
+          "Alex Finn"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Codex",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Llama",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "They're promising that chat GBT is now actually useful inside of OpenClaw"
+      ],
+      "transcript_chars": 103633,
+      "folder": "undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus"
+    },
+    {
+      "title": "The best Claude Design workflow you\u2019ll ever see\u2026",
+      "video_id": "_v_heNg0j1c",
+      "youtube_url": "https://www.youtube.com/watch?v=_v_heNg0j1c",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "GitHub",
+          "Box",
+          "X",
+          "YouTube",
+          "Figma"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Artifacts",
+          "Nano Banana"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# The best Claude Design workflow you\u2019ll ever see\u2026\nI figured out a system that allows you to design the most beautiful apps you can possibly imagine using claw design and Chad GBT's new image gen mod"
+      ],
+      "transcript_chars": 26026,
+      "folder": "undated-the-best-claude-design-workflow-youll-ever-see"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Cursor
 
-Episodes discussing **Cursor** (143 episodes):
+Episodes discussing **Cursor** (144 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -145,3 +145,4 @@ Episodes discussing **Cursor** (143 episodes):
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
 - [Can I build 5 apps in 5 minutes with AI? (Cursor, no-code)](../episodes/2024-08-30-can-i-build-5-apps-in-5-minutes-with-ai-cursor-no-code/transcript.md) (2024-08-30)
 - [Build A Game With AI In 10 Minutes (no code, Cursor)](../episodes/2024-08-28-build-a-game-with-ai-in-10-minutes-no-code-cursor/transcript.md) (2024-08-28)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)

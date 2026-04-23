@@ -1,6 +1,6 @@
 # Openai
 
-Episodes discussing **Openai** (102 episodes):
+Episodes discussing **Openai** (104 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
@@ -104,3 +104,5 @@ Episodes discussing **Openai** (102 episodes):
 - [I Built a Todoist Clone with AI in 10 minutes (Cursor + v0 + ChatGPT API)](../episodes/2024-09-25-i-built-a-todoist-clone-with-ai-in-10-minutes-cursor-v0-chatgpt-api/transcript.md) (2024-09-25)
 - [Build a game with 1 prompt using AI (ChatGPT o1, no code)](../episodes/2024-09-18-build-a-game-with-1-prompt-using-ai-chatgpt-o1-no-code/transcript.md) (2024-09-18)
 - [I built a game with 1 prompt using ChatGPT o1 (no coding required) #shorts #ai #chatgpt  #coding](../episodes/2024-09-18-i-built-a-game-with-1-prompt-using-chatgpt-o1-no-coding-required-shorts-ai-chatg/transcript.md) (2024-09-18)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

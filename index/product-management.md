@@ -1,6 +1,6 @@
 # Product Management
 
-Episodes discussing **Product Management** (117 episodes):
+Episodes discussing **Product Management** (119 episodes):
 
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
@@ -119,3 +119,5 @@ Episodes discussing **Product Management** (117 episodes):
 - [How I built a $250,000/year online business with $0 (beginner's guide)](../episodes/2024-08-16-how-i-built-a-250000year-online-business-with-0-beginners-guide/transcript.md) (2024-08-16)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
 - [My Productive Morning Routine with the Apple Vision Pro](../episodes/2024-02-08-my-productive-morning-routine-with-the-apple-vision-pro/transcript.md) (2024-02-08)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

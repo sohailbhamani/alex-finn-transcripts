@@ -1,6 +1,6 @@
 # Youtube
 
-Episodes discussing **Youtube** (100 episodes):
+Episodes discussing **Youtube** (101 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -102,3 +102,4 @@ Episodes discussing **Youtube** (100 episodes):
 - [My Productive Morning Routine with the Apple Vision Pro](../episodes/2024-02-08-my-productive-morning-routine-with-the-apple-vision-pro/transcript.md) (2024-02-08)
 - [APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!](../episodes/2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding/transcript.md) (2024-02-06)
 - [Watching Sports on the Apple Vision Pro is a Dream](../episodes/2024-02-06-watching-sports-on-the-apple-vision-pro-is-a-dream/transcript.md) (2024-02-06)
+- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

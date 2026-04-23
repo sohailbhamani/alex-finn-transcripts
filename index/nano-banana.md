@@ -1,6 +1,6 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (14 episodes):
+Episodes discussing **Nano Banana** (16 episodes):
 
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
@@ -16,3 +16,5 @@ Episodes discussing **Nano Banana** (14 episodes):
 - [Google AI Studio just KILLED Lovable! Most INSANE AI app builder ever](../episodes/2025-10-21-google-ai-studio-just-killed-lovable-most-insane-ai-app-builder-ever/transcript.md) (2025-10-21)
 - [Building an entire app LIVE with Claude Code (Haiku 4.5)](../episodes/2025-10-15-building-an-entire-app-live-with-claude-code-haiku-45/transcript.md) (2025-10-15)
 - [Watch me build a startup live with Claude Code and Codex GPT 5](../episodes/2025-10-11-watch-me-build-a-startup-live-with-claude-code-and-codex-gpt-5/transcript.md) (2025-10-11)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

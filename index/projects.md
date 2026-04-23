@@ -1,6 +1,6 @@
 # Projects
 
-Episodes discussing **Projects** (45 episodes):
+Episodes discussing **Projects** (46 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -47,3 +47,4 @@ Episodes discussing **Projects** (45 episodes):
 - [Building and launching an AI startup LIVE on stream! From 0 to first customer.](../episodes/2025-06-20-building-and-launching-an-ai-startup-live-on-stream-from-0-to-first-customer/transcript.md) (2025-06-20)
 - [OpenAI just released a coding AI agent. Here’s how I’m going to make money with it (Codex full demo)](../episodes/2025-05-17-openai-just-released-a-coding-ai-agent-heres-how-im-going-to-make-money-with-it/transcript.md) (2025-05-17)
 - [I used these 8 AI tools to launch a $300,000 App](../episodes/2025-05-12-i-used-these-8-ai-tools-to-launch-a-300000-app/transcript.md) (2025-05-12)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)

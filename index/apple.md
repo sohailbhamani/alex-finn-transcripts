@@ -1,6 +1,6 @@
 # Apple
 
-Episodes discussing **Apple** (85 episodes):
+Episodes discussing **Apple** (86 episodes):
 
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
@@ -87,3 +87,4 @@ Episodes discussing **Apple** (85 episodes):
 - [TikTok on Apple Vision Pro Changed My Life](../episodes/2024-02-07-tiktok-on-apple-vision-pro-changed-my-life/transcript.md) (2024-02-07)
 - [APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!](../episodes/2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding/transcript.md) (2024-02-06)
 - [Watching Sports on the Apple Vision Pro is a Dream](../episodes/2024-02-06-watching-sports-on-the-apple-vision-pro-is-a-dream/transcript.md) (2024-02-06)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)

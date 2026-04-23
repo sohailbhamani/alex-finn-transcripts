@@ -1,6 +1,6 @@
 # Coding
 
-Episodes discussing **Coding** (194 episodes):
+Episodes discussing **Coding** (195 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -196,3 +196,4 @@ Episodes discussing **Coding** (194 episodes):
 - [Build A Game With AI In 10 Minutes (no code, Cursor)](../episodes/2024-08-28-build-a-game-with-ai-in-10-minutes-no-code-cursor/transcript.md) (2024-08-28)
 - [How To Build An App With AI (no experience required)](../episodes/2024-08-23-how-to-build-an-app-with-ai-no-experience-required/transcript.md) (2024-08-23)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
