@@ -406,9 +406,19 @@
       "id": "aT5FXvOe-Y0",
       "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
       "time": "2026-04-24T08:20:33.025824"
+    },
+    {
+      "id": "aT5FXvOe-Y0",
+      "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
+      "time": "2026-04-24T19:11:25.688401"
+    },
+    {
+      "id": "l2o6HYJpiQI",
+      "reason": "Supadata API error: 400 - {\"error\":\"invalid-request\",\"message\":\"Invalid Request\",\"details\":\"This video is currently live streaming. Transcripts are only available after the stream ends.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/invalid-request\"}",
+      "time": "2026-04-24T19:11:37.752742"
     }
   ],
-  "last_run": "2026-04-24T08:20:33.025837",
+  "last_run": "2026-04-24T19:11:37.752756",
   "no_transcript": [
     "5zbsR03aGAE",
     "DWKPszM-bXk"
