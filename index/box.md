@@ -1,6 +1,6 @@
 # Box
 
-Episodes discussing **Box** (48 episodes):
+Episodes discussing **Box** (49 episodes):
 
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
@@ -49,4 +49,5 @@ Episodes discussing **Box** (48 episodes):
 - [I Built a 2D Shooting Game Using AI (Cursor + no-code)](../episodes/2024-09-30-i-built-a-2d-shooting-game-using-ai-cursor-no-code/transcript.md) (2024-09-30)
 - [I Build a full game with AI using only a SCREENSHOT (Cursor, no code)](../episodes/2024-09-12-i-build-a-full-game-with-ai-using-only-a-screenshot-cursor-no-code/transcript.md) (2024-09-12)
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

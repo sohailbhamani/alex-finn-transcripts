@@ -1,6 +1,6 @@
 # Leadership
 
-Episodes discussing **Leadership** (33 episodes):
+Episodes discussing **Leadership** (34 episodes):
 
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
 - [The only OpenClaw tutorial you’ll ever need (March 2026 edition)](../episodes/2026-03-17-the-only-openclaw-tutorial-you-ll-ever-need-march-2026-editi/transcript.md) (2026-03-17)
@@ -35,3 +35,4 @@ Episodes discussing **Leadership** (33 episodes):
 - [Bolt.New: The FASTEST way to build your first app with AI (Beginner’s Guide)](../episodes/2024-11-13-boltnew-the-fastest-way-to-build-your-first-app-with-ai-beginners-guide/transcript.md) (2024-11-13)
 - [I Built a 2D Shooting Game Using AI (Cursor + no-code)](../episodes/2024-09-30-i-built-a-2d-shooting-game-using-ai-cursor-no-code/transcript.md) (2024-09-30)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
