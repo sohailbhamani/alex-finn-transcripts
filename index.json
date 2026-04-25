@@ -1,5 +1,5 @@
 {
-  "total_videos": 240,
+  "total_videos": 241,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11290,6 +11290,63 @@
       ],
       "transcript_chars": 24,
       "folder": "2023-02-11-relentlessly-chase-discomfort-every-single-day"
+    },
+    {
+      "title": "\ud83d\udd34LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?",
+      "video_id": "l2o6HYJpiQI",
+      "youtube_url": "https://www.youtube.com/watch?v=l2o6HYJpiQI",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Apple",
+          "Nvidia",
+          "Box",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": [
+          "Claude Opus",
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "In this video, we are going to find out if it lives up to the hype"
+      ],
+      "transcript_chars": 87546,
+      "folder": "undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47"
     },
     {
       "title": "\ud83d\udd34LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???",

@@ -1,6 +1,6 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (32 episodes):
+Episodes discussing **Nvidia** (33 episodes):
 
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
@@ -33,4 +33,5 @@ Episodes discussing **Nvidia** (32 episodes):
 - [Launching an app with Claude Code LIVE](../episodes/2025-11-01-launching-an-app-with-claude-code-live/transcript.md) (2025-11-01)
 - [Building apps live with GPT-5 and Claude Code](../episodes/2025-08-21-building-apps-live-with-gpt-5-and-claude-code/transcript.md) (2025-08-21)
 - [Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)](../episodes/2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin/transcript.md) (2024-11-07)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
