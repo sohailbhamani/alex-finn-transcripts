@@ -1,6 +1,6 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (28 episodes):
+Episodes discussing **News Roundup** (29 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -30,3 +30,4 @@ Episodes discussing **News Roundup** (28 episodes):
 - [I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)](../episodes/2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code/transcript.md) (2024-09-22)
 - [Why You NEED a Newsletter #shorts](../episodes/2024-09-13-why-you-need-a-newsletter-shorts/transcript.md) (2024-09-13)
 - [Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)](../episodes/2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code/transcript.md) (2024-09-09)
+- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)

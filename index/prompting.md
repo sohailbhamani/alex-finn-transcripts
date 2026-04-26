@@ -1,6 +1,6 @@
 # Prompting
 
-Episodes discussing **Prompting** (109 episodes):
+Episodes discussing **Prompting** (110 episodes):
 
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
@@ -111,3 +111,4 @@ Episodes discussing **Prompting** (109 episodes):
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
 - [Can I build 5 apps in 5 minutes with AI? (Cursor, no-code)](../episodes/2024-08-30-can-i-build-5-apps-in-5-minutes-with-ai-cursor-no-code/transcript.md) (2024-08-30)
 - [How To Build An App With AI (no experience required)](../episodes/2024-08-23-how-to-build-an-app-with-ai-no-experience-required/transcript.md) (2024-08-23)
+- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
