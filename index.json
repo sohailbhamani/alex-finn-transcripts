@@ -1,5 +1,5 @@
 {
-  "total_videos": 242,
+  "total_videos": 243,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11399,6 +11399,67 @@
       ],
       "transcript_chars": 87546,
       "folder": "undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47"
+    },
+    {
+      "title": "\ud83d\udd34LIVE: ChatGPT 5.5 Pro greatest AI model ever?",
+      "video_id": "H0MT0lWm_kk",
+      "youtube_url": "https://www.youtube.com/watch?v=H0MT0lWm_kk",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "GitHub",
+          "Box",
+          "Cursor",
+          "Twitter"
+        ],
+        "people": [
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Codex",
+          "Make",
+          "Opus",
+          "Atlas",
+          "Nano Banana"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "I'm going to show you five different tests we will do live with Chad GBT 5"
+      ],
+      "transcript_chars": 109087,
+      "folder": "undated-live-chatgpt-55-pro-greatest-ai-model-ever"
     },
     {
       "title": "\ud83d\udd34LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???",
