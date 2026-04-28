@@ -1,6 +1,6 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (17 episodes):
+Episodes discussing **Nano Banana** (18 episodes):
 
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
@@ -17,5 +17,6 @@ Episodes discussing **Nano Banana** (17 episodes):
 - [Building an entire app LIVE with Claude Code (Haiku 4.5)](../episodes/2025-10-15-building-an-entire-app-live-with-claude-code-haiku-45/transcript.md) (2025-10-15)
 - [Watch me build a startup live with Claude Code and Codex GPT 5](../episodes/2025-10-11-watch-me-build-a-startup-live-with-claude-code-and-codex-gpt-5/transcript.md) (2025-10-11)
 - [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
 - [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)
