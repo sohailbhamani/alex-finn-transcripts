@@ -1,6 +1,6 @@
 # Opus
 
-Episodes discussing **Opus** (99 episodes):
+Episodes discussing **Opus** (100 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -98,6 +98,7 @@ Episodes discussing **Opus** (99 episodes):
 - [Claude Code is the most insane AI coding tool ever (full guide)](../episodes/2025-06-10-claude-code-is-the-most-insane-ai-coding-tool-ever-full-guide/transcript.md) (2025-06-10)
 - [Build your first AI agent in under 23 minutes (Cursor, no code)](../episodes/2025-05-28-build-your-first-ai-agent-in-under-23-minutes-cursor-no-code/transcript.md) (2025-05-28)
 - [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
+- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)

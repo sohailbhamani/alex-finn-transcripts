@@ -1,6 +1,6 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (106 episodes):
+Episodes discussing **Ai Agents** (107 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
@@ -107,4 +107,5 @@ Episodes discussing **Ai Agents** (106 episodes):
 - [ANTHROPIC RELEASES AI AGENTS! THIS IS INSANE! FULL DEMO AND BEGINNER’S GUIDE](../episodes/2024-10-22-anthropic-releases-ai-agents-this-is-insane-full-demo-and-beginners-guide/transcript.md) (2024-10-22)
 - [I built a stock tracking app with ONE PROMPT using AI #ai #stocks #shorts #coding](../episodes/2024-09-19-i-built-a-stock-tracking-app-with-one-prompt-using-ai-ai-stocks-shorts-coding/transcript.md) (2024-09-19)
 - [Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)](../episodes/2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code/transcript.md) (2024-09-09)
+- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)

@@ -242,7 +242,8 @@
     "_v_heNg0j1c",
     "l2o6HYJpiQI",
     "cgp-gfSbmNE",
-    "H0MT0lWm_kk"
+    "H0MT0lWm_kk",
+    "B2wHaRDf3Qo"
   ],
   "failed": [
     {
@@ -464,9 +465,14 @@
       "id": "aT5FXvOe-Y0",
       "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
       "time": "2026-04-28T19:55:04.848417"
+    },
+    {
+      "id": "aT5FXvOe-Y0",
+      "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
+      "time": "2026-04-29T08:32:02.448429"
     }
   ],
-  "last_run": "2026-04-28T19:55:04.848430",
+  "last_run": "2026-04-29T08:32:14.259159",
   "no_transcript": [
     "5zbsR03aGAE",
     "DWKPszM-bXk"
