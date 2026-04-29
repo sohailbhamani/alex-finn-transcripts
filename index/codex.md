@@ -1,6 +1,6 @@
 # Codex
 
-Episodes discussing **Codex** (43 episodes):
+Episodes discussing **Codex** (44 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -42,6 +42,7 @@ Episodes discussing **Codex** (43 episodes):
 - [Building and launching an AI startup LIVE on stream! From 0 to first customer.](../episodes/2025-06-20-building-and-launching-an-ai-startup-live-on-stream-from-0-to-first-customer/transcript.md) (2025-06-20)
 - [OpenAI just released a coding AI agent. Here’s how I’m going to make money with it (Codex full demo)](../episodes/2025-05-17-openai-just-released-a-coding-ai-agent-heres-how-im-going-to-make-money-with-it/transcript.md) (2025-05-17)
 - [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
+- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)

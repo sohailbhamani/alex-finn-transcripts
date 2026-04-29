@@ -1,6 +1,6 @@
 # Career
 
-Episodes discussing **Career** (51 episodes):
+Episodes discussing **Career** (52 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
@@ -52,4 +52,5 @@ Episodes discussing **Career** (51 episodes):
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
 - [How To Build An App With AI (no experience required)](../episodes/2024-08-23-how-to-build-an-app-with-ai-no-experience-required/transcript.md) (2024-08-23)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
+- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

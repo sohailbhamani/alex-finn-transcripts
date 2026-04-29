@@ -1,6 +1,6 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (137 episodes):
+Episodes discussing **Claude Code** (138 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -135,6 +135,7 @@ Episodes discussing **Claude Code** (137 episodes):
 - [The craziest AI vibe coding workflow ever #claude #ai #vibecoding #programming](../episodes/2025-06-10-the-craziest-ai-vibe-coding-workflow-ever-claude-ai-vibecoding-programming/transcript.md) (2025-06-10)
 - [Coolest AI vibe coding set up ever? #ai #vibecoding #cursor](../episodes/2025-06-08-coolest-ai-vibe-coding-set-up-ever-ai-vibecoding-cursor/transcript.md) (2025-06-08)
 - [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
+- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
