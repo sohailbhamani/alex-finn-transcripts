@@ -1,6 +1,6 @@
 # Mcp
 
-Episodes discussing **Mcp** (32 episodes):
+Episodes discussing **Mcp** (33 episodes):
 
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
 - [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
@@ -34,3 +34,4 @@ Episodes discussing **Mcp** (32 episodes):
 - [AI NEWS: ChatGPT 5 Massive disappointment?  Grok Imagine Slop?](../episodes/2025-08-12-ai-news-chatgpt-5-massive-disappointment-grok-imagine-slop/transcript.md) (2025-08-12)
 - [Building and launching an app with Claude Code LIVE](../episodes/2025-07-24-building-and-launching-an-app-with-claude-code-live/transcript.md) (2025-07-24)
 - [Building an AI Startup with Claude Code LIVE](../episodes/2025-07-03-building-an-ai-startup-with-claude-code-live/transcript.md) (2025-07-03)
+- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)

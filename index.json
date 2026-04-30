@@ -1,5 +1,5 @@
 {
-  "total_videos": 244,
+  "total_videos": 245,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11567,6 +11567,64 @@
       ],
       "transcript_chars": 103633,
       "folder": "undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus"
+    },
+    {
+      "title": "\ud83d\udd34LIVE: The new Claude Code plugins are incredible...",
+      "video_id": "8yVAuAGeMWo",
+      "youtube_url": "https://www.youtube.com/watch?v=8yVAuAGeMWo",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "Box",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Tim Cook",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Arc",
+          "Make",
+          "MCP",
+          "Opus",
+          "Nano Banana"
+        ],
+        "models": [
+          "SAM",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# \ud83d\udd34LIVE: The new Claude Code plugins are incredible"
+      ],
+      "transcript_chars": 86487,
+      "folder": "undated-live-the-new-claude-code-plugins-are-incredible"
     },
     {
       "title": "The best Claude Design workflow you\u2019ll ever see\u2026",
