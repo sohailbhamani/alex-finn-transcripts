@@ -1,6 +1,6 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (35 episodes):
+Episodes discussing **Nvidia** (36 episodes):
 
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
@@ -37,3 +37,4 @@ Episodes discussing **Nvidia** (35 episodes):
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
