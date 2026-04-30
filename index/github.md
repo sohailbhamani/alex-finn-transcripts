@@ -1,6 +1,6 @@
 # Github
 
-Episodes discussing **Github** (79 episodes):
+Episodes discussing **Github** (80 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
@@ -81,3 +81,4 @@ Episodes discussing **Github** (79 episodes):
 - [I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)](../episodes/2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code/transcript.md) (2024-09-22)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)

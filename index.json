@@ -1,5 +1,5 @@
 {
-  "total_videos": 245,
+  "total_videos": 246,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11671,6 +11671,60 @@
       ],
       "transcript_chars": 26026,
       "folder": "undated-the-best-claude-design-workflow-youll-ever-see"
+    },
+    {
+      "title": "The only Codex ChatGPT 5.5 tutorial you'll ever need",
+      "video_id": "iz3_xhi6iQE",
+      "youtube_url": "https://www.youtube.com/watch?v=iz3_xhi6iQE",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Nvidia",
+          "Tesla",
+          "GitHub",
+          "Twitter",
+          "TSMC"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Than all of that kind of honestly is the fact that openai doesn't make these models stupider",
+        "Than that, usage feels like anthropic keeps lowering the usage limits"
+      ],
+      "summary": [
+        "5 tutorial you'll ever need\nI am absolutely in love with Chad GBT 5"
+      ],
+      "transcript_chars": 26818,
+      "folder": "undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need"
     }
   ]
 }

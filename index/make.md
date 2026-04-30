@@ -1,6 +1,6 @@
 # Make
 
-Episodes discussing **Make** (222 episodes):
+Episodes discussing **Make** (223 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -224,3 +224,4 @@ Episodes discussing **Make** (222 episodes):
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
 - [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
 - [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)

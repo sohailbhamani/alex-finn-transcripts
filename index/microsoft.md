@@ -1,6 +1,6 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (26 episodes):
+Episodes discussing **Microsoft** (27 episodes):
 
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
@@ -28,3 +28,4 @@ Episodes discussing **Microsoft** (26 episodes):
 - [Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)](../episodes/2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin/transcript.md) (2024-11-07)
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)

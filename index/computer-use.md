@@ -1,6 +1,6 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (11 episodes):
+Episodes discussing **Computer Use** (12 episodes):
 
 - [Unknown](../episodes/2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever/transcript.md) (2026-02-17)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
@@ -13,3 +13,4 @@ Episodes discussing **Computer Use** (11 episodes):
 - [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)
