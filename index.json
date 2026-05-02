@@ -1,5 +1,5 @@
 {
-  "total_videos": 246,
+  "total_videos": 247,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11567,6 +11567,61 @@
       ],
       "transcript_chars": 103633,
       "folder": "undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus"
+    },
+    {
+      "title": "LIVE: OpenClaw vs Hermes Agent: The ultimate showdown",
+      "video_id": "UCPE3wPAcho",
+      "youtube_url": "https://www.youtube.com/watch?v=UCPE3wPAcho",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Apple",
+          "Nvidia",
+          "Stripe",
+          "Cursor",
+          "X",
+          "YouTube",
+          "Oracle"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Codex",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# LIVE: OpenClaw vs Hermes Agent: The ultimate showdown\nToday's going to be a special one"
+      ],
+      "transcript_chars": 80270,
+      "folder": "undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown"
     },
     {
       "title": "\ud83d\udd34LIVE: The new Claude Code plugins are incredible...",

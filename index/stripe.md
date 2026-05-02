@@ -1,6 +1,6 @@
 # Stripe
 
-Episodes discussing **Stripe** (25 episodes):
+Episodes discussing **Stripe** (26 episodes):
 
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
@@ -27,3 +27,4 @@ Episodes discussing **Stripe** (25 episodes):
 - [I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)](../episodes/2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew/transcript.md) (2025-04-23)
 - [The EASIEST way to build apps with AI EVER (Google Firebase Studio)](../episodes/2025-04-15-the-easiest-way-to-build-apps-with-ai-ever-google-firebase-studio/transcript.md) (2025-04-15)
 - [Bolt.New: The FASTEST way to build your first app with AI (Beginner’s Guide)](../episodes/2024-11-13-boltnew-the-fastest-way-to-build-your-first-app-with-ai-beginners-guide/transcript.md) (2024-11-13)
+- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
