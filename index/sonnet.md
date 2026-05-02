@@ -1,6 +1,6 @@
 # Sonnet
 
-Episodes discussing **Sonnet** (71 episodes):
+Episodes discussing **Sonnet** (72 episodes):
 
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
@@ -73,3 +73,4 @@ Episodes discussing **Sonnet** (71 episodes):
 - [Build your first App Using AI in 11 Minutes With Windsurf](../episodes/2025-04-04-build-your-first-app-using-ai-in-11-minutes-with-windsurf/transcript.md) (2025-04-04)
 - [Build Your First Game Using AI in 15 Minutes (Claude Sonnet)](../episodes/2025-02-26-build-your-first-game-using-ai-in-15-minutes-claude-sonnet/transcript.md) (2025-02-26)
 - [Build A Game With AI In 10 Minutes (no code, Cursor)](../episodes/2024-08-28-build-a-game-with-ai-in-10-minutes-no-code-cursor/transcript.md) (2024-08-28)
+- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
