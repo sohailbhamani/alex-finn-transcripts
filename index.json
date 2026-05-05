@@ -1,5 +1,5 @@
 {
-  "total_videos": 247,
+  "total_videos": 248,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11506,6 +11506,66 @@
       ],
       "transcript_chars": 109087,
       "folder": "undated-live-chatgpt-55-pro-greatest-ai-model-ever"
+    },
+    {
+      "title": "LIVE: Is Hermes better than OpenClaw? FINALE!!!",
+      "video_id": "DU192Mj71tk",
+      "youtube_url": "https://www.youtube.com/watch?v=DU192Mj71tk",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Cursor",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Copilot",
+          "GitHub Copilot",
+          "Cursor",
+          "Codex",
+          "Whisper",
+          "Arc",
+          "Make",
+          "MCP"
+        ],
+        "models": [
+          "SAM",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Today we are going to find out once and for all which is the best agent"
+      ],
+      "transcript_chars": 144736,
+      "folder": "undated-live-is-hermes-better-than-openclaw-finale"
     },
     {
       "title": "\ud83d\udd34LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???",
