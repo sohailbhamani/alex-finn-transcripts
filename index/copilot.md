@@ -1,6 +1,6 @@
 # Copilot
 
-Episodes discussing **Copilot** (12 episodes):
+Episodes discussing **Copilot** (13 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)
@@ -14,3 +14,4 @@ Episodes discussing **Copilot** (12 episodes):
 - [Claude Code vs Codex: Who can make the better trading bot LIVE?](../episodes/2025-10-24-claude-code-vs-codex-who-can-make-the-better-trading-bot-live/transcript.md) (2025-10-24)
 - [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
 - [Building an AI Startup with Claude Code LIVE](../episodes/2025-07-03-building-an-ai-startup-with-claude-code-live/transcript.md) (2025-07-03)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)

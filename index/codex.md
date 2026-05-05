@@ -1,6 +1,6 @@
 # Codex
 
-Episodes discussing **Codex** (47 episodes):
+Episodes discussing **Codex** (48 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -45,6 +45,7 @@ Episodes discussing **Codex** (47 episodes):
 - [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
 - [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
 - [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)

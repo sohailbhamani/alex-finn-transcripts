@@ -1,6 +1,6 @@
 # Whisper
 
-Episodes discussing **Whisper** (21 episodes):
+Episodes discussing **Whisper** (22 episodes):
 
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
@@ -23,3 +23,4 @@ Episodes discussing **Whisper** (21 episodes):
 - [Using Google AI Studio to build entire apps with AI LIVE!!!](../episodes/2025-10-27-using-google-ai-studio-to-build-entire-apps-with-ai-live/transcript.md) (2025-10-27)
 - [Using Claude Code to build and launch apps LIVE](../episodes/2025-08-16-using-claude-code-to-build-and-launch-apps-live/transcript.md) (2025-08-16)
 - [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
