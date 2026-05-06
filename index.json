@@ -1,5 +1,5 @@
 {
-  "total_videos": 248,
+  "total_videos": 249,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11342,6 +11342,52 @@
       ],
       "transcript_chars": 32289,
       "folder": "undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear"
+    },
+    {
+      "title": "Hermes Agent might have just killed OpenClaw",
+      "video_id": "Bg-IPiql7x8",
+      "youtube_url": "https://www.youtube.com/watch?v=Bg-IPiql7x8",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "MCP",
+          "Opus",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Has made it incredibly reliable"
+      ],
+      "summary": [
+        "# Hermes Agent might have just killed OpenClaw\nSo, let's be honest about something"
+      ],
+      "transcript_chars": 21130,
+      "folder": "undated-hermes-agent-might-have-just-killed-openclaw"
     },
     {
       "title": "Hermes Agent w/ ChatGPT 5.5 is literally magic",
