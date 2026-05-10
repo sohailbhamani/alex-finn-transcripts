@@ -1,5 +1,5 @@
 {
-  "total_videos": 249,
+  "total_videos": 250,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11342,6 +11342,50 @@
       ],
       "transcript_chars": 32289,
       "folder": "undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear"
+    },
+    {
+      "title": "Hermes Agent is blowing me away...",
+      "video_id": "cEo95olh2j4",
+      "youtube_url": "https://www.youtube.com/watch?v=cEo95olh2j4",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "X",
+          "YouTube",
+          "Netflix"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "OpenClaw has fumbled the bag over the last couple months"
+      ],
+      "transcript_chars": 20767,
+      "folder": "undated-hermes-agent-is-blowing-me-away"
     },
     {
       "title": "Hermes Agent might have just killed OpenClaw",
