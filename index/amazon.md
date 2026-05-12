@@ -1,6 +1,6 @@
 # Amazon
 
-Episodes discussing **Amazon** (30 episodes):
+Episodes discussing **Amazon** (31 episodes):
 
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
@@ -30,5 +30,6 @@ Episodes discussing **Amazon** (30 episodes):
 - [Building a Startup LIVE using Claude Code, Gemini CLI, Cursor](../episodes/2025-06-27-building-a-startup-live-using-claude-code-gemini-cli-cursor/transcript.md) (2025-06-27)
 - [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
 - [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
 - [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)

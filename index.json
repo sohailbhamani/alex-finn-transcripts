@@ -1,5 +1,5 @@
 {
-  "total_videos": 250,
+  "total_videos": 251,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11772,6 +11772,67 @@
       ],
       "transcript_chars": 80270,
       "folder": "undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown"
+    },
+    {
+      "title": "LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)",
+      "video_id": "Gz_uZcnCDLs",
+      "youtube_url": "https://www.youtube.com/watch?v=Gz_uZcnCDLs",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Notion",
+          "Slack"
+        ],
+        "people": [
+          "Mark Zuckerberg",
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Whisper",
+          "Perplexity",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": [
+          "Llama",
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "What their product does, so i can't invest in them"
+      ],
+      "summary": [
+        "# LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)\nToday we are going to go through Hermes agent and we are going to find the best use cases for it"
+      ],
+      "transcript_chars": 94235,
+      "folder": "undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail"
     },
     {
       "title": "\ud83d\udd34LIVE: The new Claude Code plugins are incredible...",

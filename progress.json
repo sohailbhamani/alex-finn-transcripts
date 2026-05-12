@@ -249,7 +249,8 @@
     "UCPE3wPAcho",
     "DU192Mj71tk",
     "Bg-IPiql7x8",
-    "cEo95olh2j4"
+    "cEo95olh2j4",
+    "Gz_uZcnCDLs"
   ],
   "failed": [
     {
@@ -621,9 +622,14 @@
       "id": "Gz_uZcnCDLs",
       "reason": "Supadata API error: 400 - {\"error\":\"invalid-request\",\"message\":\"Invalid Request\",\"details\":\"This video is currently live streaming. Transcripts are only available after the stream ends.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/invalid-request\"}",
       "time": "2026-05-11T20:02:23.539876"
+    },
+    {
+      "id": "aT5FXvOe-Y0",
+      "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
+      "time": "2026-05-12T08:52:35.440808"
     }
   ],
-  "last_run": "2026-05-11T20:02:23.539889",
+  "last_run": "2026-05-12T08:52:47.332732",
   "no_transcript": [
     "5zbsR03aGAE",
     "DWKPszM-bXk",

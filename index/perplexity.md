@@ -1,6 +1,6 @@
 # Perplexity
 
-Episodes discussing **Perplexity** (18 episodes):
+Episodes discussing **Perplexity** (19 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -20,3 +20,4 @@ Episodes discussing **Perplexity** (18 episodes):
 - [Perplexity trying to buy Google? Sam Altman and Elon FIGHTING](../episodes/2025-08-14-perplexity-trying-to-buy-google-sam-altman-and-elon-fighting/transcript.md) (2025-08-14)
 - [AI NEWS: ChatGPT 5 Massive disappointment?  Grok Imagine Slop?](../episodes/2025-08-12-ai-news-chatgpt-5-massive-disappointment-grok-imagine-slop/transcript.md) (2025-08-12)
 - [OpenAI Just ENDED Google with SearchGPT! (Full Beginner's Guide)](../episodes/2024-10-31-openai-just-ended-google-with-searchgpt-full-beginners-guide/transcript.md) (2024-10-31)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)

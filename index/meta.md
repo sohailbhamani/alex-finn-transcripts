@@ -1,6 +1,6 @@
 # Meta
 
-Episodes discussing **Meta** (45 episodes):
+Episodes discussing **Meta** (46 episodes):
 
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
@@ -46,4 +46,5 @@ Episodes discussing **Meta** (45 episodes):
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
 - [APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!](../episodes/2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding/transcript.md) (2024-02-06)
 - [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
 - [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)

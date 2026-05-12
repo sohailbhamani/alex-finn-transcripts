@@ -1,6 +1,6 @@
 # Tesla
 
-Episodes discussing **Tesla** (44 episodes):
+Episodes discussing **Tesla** (45 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -45,4 +45,5 @@ Episodes discussing **Tesla** (44 episodes):
 - [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
 - [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)
