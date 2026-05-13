@@ -250,7 +250,8 @@
     "DU192Mj71tk",
     "Bg-IPiql7x8",
     "cEo95olh2j4",
-    "Gz_uZcnCDLs"
+    "Gz_uZcnCDLs",
+    "7JRHSo2F-Wk"
   ],
   "failed": [
     {
@@ -637,12 +638,18 @@
       "id": "aT5FXvOe-Y0",
       "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
       "time": "2026-05-13T09:17:57.352281"
+    },
+    {
+      "id": "aT5FXvOe-Y0",
+      "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
+      "time": "2026-05-13T20:07:07.045444"
     }
   ],
-  "last_run": "2026-05-13T09:17:57.352349",
+  "last_run": "2026-05-13T20:07:42.545028",
   "no_transcript": [
     "5zbsR03aGAE",
     "DWKPszM-bXk",
-    "q030uxRoV6U"
+    "q030uxRoV6U",
+    "yoPv_M2A40U"
   ]
 }

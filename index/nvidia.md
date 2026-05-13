@@ -1,6 +1,6 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (40 episodes):
+Episodes discussing **Nvidia** (41 episodes):
 
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
@@ -34,6 +34,7 @@ Episodes discussing **Nvidia** (40 episodes):
 - [Building apps live with GPT-5 and Claude Code](../episodes/2025-08-21-building-apps-live-with-gpt-5-and-claude-code/transcript.md) (2025-08-21)
 - [Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)](../episodes/2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin/transcript.md) (2024-11-07)
 - [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
+- [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)

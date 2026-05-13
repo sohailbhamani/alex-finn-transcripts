@@ -1,5 +1,5 @@
 {
-  "total_videos": 251,
+  "total_videos": 252,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11432,6 +11432,46 @@
       ],
       "transcript_chars": 21130,
       "folder": "undated-hermes-agent-might-have-just-killed-openclaw"
+    },
+    {
+      "title": "Hermes Agent powered by local models on the DGX Spark is basically magic",
+      "video_id": "7JRHSo2F-Wk",
+      "youtube_url": "https://www.youtube.com/watch?v=7JRHSo2F-Wk",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Nvidia",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Anthropic API"
+        ],
+        "models": [
+          "Llama"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Hermes Agent powered by local models on the DGX Spark is basically magic\nOkay, so this is really sick"
+      ],
+      "transcript_chars": 26302,
+      "folder": "undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic"
     },
     {
       "title": "Hermes Agent w/ ChatGPT 5.5 is literally magic",
