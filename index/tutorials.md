@@ -1,6 +1,6 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (173 episodes):
+Episodes discussing **Tutorials** (174 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -171,6 +171,7 @@ Episodes discussing **Tutorials** (173 episodes):
 - [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic/transcript.md)
 - [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
 - [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
 - [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)

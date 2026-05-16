@@ -1,6 +1,6 @@
 # Gemini
 
-Episodes discussing **Gemini** (81 episodes):
+Episodes discussing **Gemini** (82 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
@@ -83,3 +83,4 @@ Episodes discussing **Gemini** (81 episodes):
 - [The EASIEST way to build apps with AI EVER (Google Firebase Studio)](../episodes/2025-04-15-the-easiest-way-to-build-apps-with-ai-ever-google-firebase-studio/transcript.md) (2025-04-15)
 - [How to Build Your First 3D Game in 11 Minutes With Google Gemini Pro 2.5 Pro](../episodes/2025-03-29-how-to-build-your-first-3d-game-in-11-minutes-with-google-gemini-pro-25-pro/transcript.md) (2025-03-29)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)

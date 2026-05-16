@@ -1,6 +1,6 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (113 episodes):
+Episodes discussing **Ai Agents** (114 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
@@ -112,6 +112,7 @@ Episodes discussing **Ai Agents** (113 episodes):
 - [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic/transcript.md)
 - [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
 - [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
 - [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
 - [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)

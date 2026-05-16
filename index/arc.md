@@ -1,6 +1,6 @@
 # Arc
 
-Episodes discussing **Arc** (26 episodes):
+Episodes discussing **Arc** (27 episodes):
 
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -26,5 +26,6 @@ Episodes discussing **Arc** (26 episodes):
 - [Using Cursor 2.0 + Claude Code to build a startup LIVE!](../episodes/2025-11-04-using-cursor-20-claude-code-to-build-a-startup-live/transcript.md) (2025-11-04)
 - [Launching an app with Claude Code LIVE](../episodes/2025-11-01-launching-an-app-with-claude-code-live/transcript.md) (2025-11-01)
 - [Perplexity trying to buy Google? Sam Altman and Elon FIGHTING](../episodes/2025-08-14-perplexity-trying-to-buy-google-sam-altman-and-elon-fighting/transcript.md) (2025-08-14)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
 - [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
 - [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
