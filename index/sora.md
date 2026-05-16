@@ -1,6 +1,6 @@
 # Sora
 
-Episodes discussing **Sora** (9 episodes):
+Episodes discussing **Sora** (10 episodes):
 
 - [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
 - [Building startups LIVE with Claude Code (Claude Opus 4.5)](../episodes/2025-12-10-building-startups-live-with-claude-code-claude-opus-45/transcript.md) (2025-12-10)
@@ -11,3 +11,4 @@ Episodes discussing **Sora** (9 episodes):
 - [CHATGPT 5.1 JUST DROPPED! TESTING IT LIVE](../episodes/2025-11-12-chatgpt-51-just-dropped-testing-it-live/transcript.md) (2025-11-12)
 - [Using Cursor 2.0 + Claude Code to build a startup LIVE!](../episodes/2025-11-04-using-cursor-20-claude-code-to-build-a-startup-live/transcript.md) (2025-11-04)
 - [Google AI Studio just KILLED Lovable! Most INSANE AI app builder ever](../episodes/2025-10-21-google-ai-studio-just-killed-lovable-most-insane-ai-app-builder-ever/transcript.md) (2025-10-21)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)

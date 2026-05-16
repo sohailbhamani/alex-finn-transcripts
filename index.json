@@ -1,5 +1,5 @@
 {
-  "total_videos": 252,
+  "total_videos": 253,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11636,6 +11636,69 @@
       ],
       "transcript_chars": 109087,
       "folder": "undated-live-chatgpt-55-pro-greatest-ai-model-ever"
+    },
+    {
+      "title": "LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???",
+      "video_id": "0nI5oo0BDDA",
+      "youtube_url": "https://www.youtube.com/watch?v=0nI5oo0BDDA",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Slack",
+          "GitHub",
+          "Stripe",
+          "Box"
+        ],
+        "people": [
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Codex",
+          "Sora",
+          "Perplexity",
+          "Arc",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Gemini",
+          "Gemini 3",
+          "Gemini Ultra",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Today is the day we are going to go through live live step by step by step how to make tons of money off SAS"
+      ],
+      "transcript_chars": 85413,
+      "folder": "undated-live-grok-build-cli-is-actually-incredible"
     },
     {
       "title": "LIVE: Is Hermes better than OpenClaw? FINALE!!!",
