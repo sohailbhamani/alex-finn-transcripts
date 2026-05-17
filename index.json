@@ -1,5 +1,5 @@
 {
-  "total_videos": 253,
+  "total_videos": 254,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11994,6 +11994,51 @@
       ],
       "transcript_chars": 86487,
       "folder": "undated-live-the-new-claude-code-plugins-are-incredible"
+    },
+    {
+      "title": "STOP Using Claude Code without this tool",
+      "video_id": "VQPWyS2KGt0",
+      "youtube_url": "https://www.youtube.com/watch?v=VQPWyS2KGt0",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Slack",
+          "GitHub",
+          "Cursor",
+          "YouTube",
+          "Tailwind"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Codex",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# STOP Using Claude Code without this tool\nI found a free tool that will increase your Claude code velocity by 100x"
+      ],
+      "transcript_chars": 22712,
+      "folder": "undated-stop-using-claude-code-without-this-tool"
     },
     {
       "title": "The best Claude Design workflow you\u2019ll ever see\u2026",
