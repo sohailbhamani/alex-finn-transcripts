@@ -1,6 +1,6 @@
 # Notion
 
-Episodes discussing **Notion** (26 episodes):
+Episodes discussing **Notion** (27 episodes):
 
 - [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)
 - [ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up](../episodes/2026-01-24-clawdbot-is-the-most-powerful-ai-tool-ive-ever-used-in-my-life-heres-how-to-set/transcript.md) (2026-01-24)
@@ -27,4 +27,5 @@ Episodes discussing **Notion** (26 episodes):
 - [I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)](../episodes/2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code/transcript.md) (2024-09-22)
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
 - [APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!](../episodes/2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding/transcript.md) (2024-02-06)
+- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
 - [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)

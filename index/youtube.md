@@ -1,6 +1,6 @@
 # Youtube
 
-Episodes discussing **Youtube** (107 episodes):
+Episodes discussing **Youtube** (108 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -105,6 +105,7 @@ Episodes discussing **Youtube** (107 episodes):
 - [Hermes Agent is blowing me away...](../episodes/undated-hermes-agent-is-blowing-me-away/transcript.md)
 - [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic/transcript.md)
 - [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
+- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
 - [STOP Using Claude Code without this tool](../episodes/undated-stop-using-claude-code-without-this-tool/transcript.md)

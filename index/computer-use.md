@@ -1,6 +1,6 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (13 episodes):
+Episodes discussing **Computer Use** (14 episodes):
 
 - [Unknown](../episodes/2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever/transcript.md) (2026-02-17)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
@@ -11,6 +11,7 @@ Episodes discussing **Computer Use** (13 episodes):
 - [I Told AI Agents to MAKE ME $10,000. You WON'T believe what happened next... (Claude Computer Use)](../episodes/2024-10-27-i-told-ai-agents-to-make-me-10000-you-wont-believe-what-happened-next-claude-com/transcript.md) (2024-10-27)
 - [ANTHROPIC RELEASES AI AGENTS! THIS IS INSANE! FULL DEMO AND BEGINNER’S GUIDE](../episodes/2024-10-22-anthropic-releases-ai-agents-this-is-insane-full-demo-and-beginners-guide/transcript.md) (2024-10-22)
 - [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
+- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
 - [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)

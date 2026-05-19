@@ -1,6 +1,6 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (219 episodes):
+Episodes discussing **Ai Tools** (220 episodes):
 
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
@@ -211,6 +211,7 @@ Episodes discussing **Ai Tools** (219 episodes):
 - [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
 - [Hermes Agent is blowing me away...](../episodes/undated-hermes-agent-is-blowing-me-away/transcript.md)
 - [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
+- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
 - [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
 - [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)

@@ -1,5 +1,5 @@
 {
-  "total_videos": 254,
+  "total_videos": 255,
   "date_range": {
     "newest": "2026-04-21",
     "oldest": ""
@@ -11518,6 +11518,52 @@
       ],
       "transcript_chars": 18707,
       "folder": "undated-hermes-agent-w-chatgpt-55-is-literally-magic"
+    },
+    {
+      "title": "Hermes just got 10x better...",
+      "video_id": "8iZUyE7SlXo",
+      "youtube_url": "https://www.youtube.com/watch?v=8iZUyE7SlXo",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Notion",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Hermes Agent just had its biggest update yet and my mind is blown"
+      ],
+      "transcript_chars": 13602,
+      "folder": "undated-hermes-just-got-10x-better"
     },
     {
       "title": "\ud83d\udd34LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?",
