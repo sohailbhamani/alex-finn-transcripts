@@ -13,6 +13,42 @@ import time
 import requests
 from pathlib import Path
 
+_access_token_cache = {"token": None, "expires_at": 0}
+
+
+def _get_oauth_access_token():
+    """Refresh-token -> access-token exchange, cached until ~5s before expiry."""
+    refresh = os.environ.get("YOUTUBE_REFRESH_TOKEN", "")
+    cid = os.environ.get("YOUTUBE_CLIENT_ID", "")
+    cs = os.environ.get("YOUTUBE_CLIENT_SECRET", "")
+    if not (refresh and cid and cs):
+        return None
+
+    now = time.time()
+    if _access_token_cache["token"] and _access_token_cache["expires_at"] - 5 > now:
+        return _access_token_cache["token"]
+
+    try:
+        r = requests.post(
+            "https://oauth2.googleapis.com/token",
+            data={
+                "client_id": cid,
+                "client_secret": cs,
+                "refresh_token": refresh,
+                "grant_type": "refresh_token",
+            },
+            timeout=15,
+        )
+        r.raise_for_status()
+        data = r.json()
+    except Exception as e:
+        print(f"  Warning: OAuth token exchange failed: {e}")
+        return None
+
+    _access_token_cache["token"] = data["access_token"]
+    _access_token_cache["expires_at"] = now + int(data.get("expires_in", 3600))
+    return _access_token_cache["token"]
+
 
 def slugify(title):
     s = title.lower()
@@ -50,12 +86,18 @@ def get_yt_metadata(video_id, api_key, max_retries=3):
     then falls back to oEmbed so at least the title is recovered.
     """
     last_err = None
-    if api_key:
+    oauth_token = _get_oauth_access_token()
+    if oauth_token or api_key:
         url = "https://www.googleapis.com/youtube/v3/videos"
-        params = {"part": "snippet", "id": video_id, "key": api_key}
+        if oauth_token:
+            params = {"part": "snippet", "id": video_id}
+            headers = {"Authorization": f"Bearer {oauth_token}"}
+        else:
+            params = {"part": "snippet", "id": video_id, "key": api_key}
+            headers = {}
         for attempt in range(max_retries):
             try:
-                r = requests.get(url, params=params, timeout=10)
+                r = requests.get(url, params=params, headers=headers, timeout=10)
                 r.raise_for_status()
                 items = r.json().get("items", [])
                 if not items:
@@ -174,8 +216,15 @@ def fix_repo(repo_dir, api_key):
 
 if __name__ == "__main__":
     repo = sys.argv[1] if len(sys.argv) > 1 else "."
-    api_key = os.environ.get("YOUTUBE_API_KEY")
-    if not api_key:
-        print("ERROR: YOUTUBE_API_KEY not set")
+    api_key = os.environ.get("YOUTUBE_API_KEY", "")
+    has_oauth = all(
+        os.environ.get(k)
+        for k in ("YOUTUBE_REFRESH_TOKEN", "YOUTUBE_CLIENT_ID", "YOUTUBE_CLIENT_SECRET")
+    )
+    if not (api_key or has_oauth):
+        print(
+            "ERROR: need YOUTUBE_API_KEY or full OAuth set "
+            "(YOUTUBE_REFRESH_TOKEN + YOUTUBE_CLIENT_ID + YOUTUBE_CLIENT_SECRET)"
+        )
         sys.exit(1)
     fix_repo(repo, api_key)
