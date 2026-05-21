@@ -1,7 +1,9 @@
 # Apple
 
-Episodes discussing **Apple** (93 episodes):
+Episodes discussing **Apple** (95 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
+- [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
@@ -87,11 +89,11 @@ Episodes discussing **Apple** (93 episodes):
 - [TikTok on Apple Vision Pro Changed My Life](../episodes/2024-02-07-tiktok-on-apple-vision-pro-changed-my-life/transcript.md) (2024-02-07)
 - [APPLE VISION PRO LIVE DEMO!!! ASK QUESTIONS AND COMMAND ME TO DO YOUR BIDDING!!!](../episodes/2024-02-06-apple-vision-pro-live-demo-ask-questions-and-command-me-to-do-your-bidding/transcript.md) (2024-02-06)
 - [Watching Sports on the Apple Vision Pro is a Dream](../episodes/2024-02-06-watching-sports-on-the-apple-vision-pro-is-a-dream/transcript.md) (2024-02-06)
-- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
-- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
-- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
-- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
-- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
-- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/2026-04-22-live-openclaw-4-20-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/2026-04-24-live-chatgpt-5-5-is-here-does-it-beat-claude-opus-4-7/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever/transcript.md)
+- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/2026-04-29-live-the-new-claude-code-plugins-are-incredible/transcript.md)
+- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/2026-05-01-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/2026-05-04-live-is-hermes-better-than-openclaw-finale/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/2026-05-11-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnai/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)

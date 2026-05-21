@@ -10,4 +10,4 @@ Episodes discussing **Anthropic Api** (9 episodes):
 - [Building and launching an app with Claude Code LIVE](../episodes/2025-07-24-building-and-launching-an-app-with-claude-code-live/transcript.md) (2025-07-24)
 - [Kimi K2- The FREE AI Model That Killed Claude Code??](../episodes/2025-07-13-kimi-k2-the-free-ai-model-that-killed-claude-code/transcript.md) (2025-07-13)
 - [This AUTOMATED Social Media AI Agent is INSANE: Full Demo and Beginner’s Guide](../episodes/2024-10-29-this-automated-social-media-ai-agent-is-insane-full-demo-and-beginners-guide/transcript.md) (2024-10-29)
-- [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic/transcript.md)
+- [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/2026-05-13-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-bas/transcript.md)

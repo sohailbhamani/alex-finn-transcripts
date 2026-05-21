@@ -14,4 +14,4 @@ Episodes discussing **Copilot** (13 episodes):
 - [Claude Code vs Codex: Who can make the better trading bot LIVE?](../episodes/2025-10-24-claude-code-vs-codex-who-can-make-the-better-trading-bot-live/transcript.md) (2025-10-24)
 - [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
 - [Building an AI Startup with Claude Code LIVE](../episodes/2025-07-03-building-an-ai-startup-with-claude-code-live/transcript.md) (2025-07-03)
-- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/2026-05-04-live-is-hermes-better-than-openclaw-finale/transcript.md)

@@ -254,9 +254,17 @@
     "8yVAuAGeMWo",
     "VQPWyS2KGt0",
     "_v_heNg0j1c",
-    "iz3_xhi6iQE"
+    "iz3_xhi6iQE",
+    "q030uxRoV6U",
+    "yoPv_M2A40U"
   ],
-  "failed": [],
+  "failed": [
+    {
+      "id": "aT5FXvOe-Y0",
+      "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
+      "time": "2026-05-21T01:34:14.230927"
+    }
+  ],
   "no_transcript": [],
-  "last_run": null
+  "last_run": "2026-05-21T01:34:23.821823"
 }

@@ -20,5 +20,5 @@ Episodes discussing **Perplexity** (20 episodes):
 - [Perplexity trying to buy Google? Sam Altman and Elon FIGHTING](../episodes/2025-08-14-perplexity-trying-to-buy-google-sam-altman-and-elon-fighting/transcript.md) (2025-08-14)
 - [AI NEWS: ChatGPT 5 Massive disappointment?  Grok Imagine Slop?](../episodes/2025-08-12-ai-news-chatgpt-5-massive-disappointment-grok-imagine-slop/transcript.md) (2025-08-12)
 - [OpenAI Just ENDED Google with SearchGPT! (Full Beginner's Guide)](../episodes/2024-10-31-openai-just-ended-google-with-searchgpt-full-beginners-guide/transcript.md) (2024-10-31)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
-- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/2026-05-11-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnai/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)

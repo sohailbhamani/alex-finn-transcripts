@@ -1,7 +1,9 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (42 episodes):
+Episodes discussing **Nvidia** (44 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
+- [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
 - [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
@@ -33,14 +35,14 @@ Episodes discussing **Nvidia** (42 episodes):
 - [Launching an app with Claude Code LIVE](../episodes/2025-11-01-launching-an-app-with-claude-code-live/transcript.md) (2025-11-01)
 - [Building apps live with GPT-5 and Claude Code](../episodes/2025-08-21-building-apps-live-with-gpt-5-and-claude-code/transcript.md) (2025-08-21)
 - [Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)](../episodes/2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin/transcript.md) (2024-11-07)
-- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
-- [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
-- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
-- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
-- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
-- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
-- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
-- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/2026-04-22-live-openclaw-4-20-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/2026-04-24-live-chatgpt-5-5-is-here-does-it-beat-claude-opus-4-7/transcript.md)
+- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/2026-04-25-chatgpt-5-5-codex-i-can-t-believe-they-did-this/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever/transcript.md)
+- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/2026-04-29-live-the-new-claude-code-plugins-are-incredible/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/2026-04-30-chatgpt-5-5-codex-is-the-greatest-ai-coding-tool-ever-here-s/transcript.md)
+- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/2026-05-01-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/2026-05-04-live-is-hermes-better-than-openclaw-finale/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/2026-05-11-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnai/transcript.md)
+- [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/2026-05-13-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-bas/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)

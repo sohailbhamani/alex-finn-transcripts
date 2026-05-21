@@ -12,4 +12,4 @@ Episodes discussing **Atlas** (11 episodes):
 - [Testing Kimi K2 Thinking and Launching an App LIVE with Claude Code](../episodes/2025-11-08-testing-kimi-k2-thinking-and-launching-an-app-live-with-claude-code/transcript.md) (2025-11-08)
 - [Using Cursor 2.0 + Claude Code to build a startup LIVE!](../episodes/2025-11-04-using-cursor-20-claude-code-to-build-a-startup-live/transcript.md) (2025-11-04)
 - [Claude Code vs Codex: Who can make the better trading bot LIVE?](../episodes/2025-10-24-claude-code-vs-codex-who-can-make-the-better-trading-bot-live/transcript.md) (2025-10-24)
-- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever/transcript.md)

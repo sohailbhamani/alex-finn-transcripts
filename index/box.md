@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (53 episodes):
+Episodes discussing **Box** (54 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
 - [LIVE: OpenAI Shutting Down Sora!! It's OVER. Also I'm running Opus 4.6 locally????](../episodes/2026-03-25-live-openai-shutting-down-sora-it-s-over-also-i-m-running-op/transcript.md) (2026-03-25)
@@ -49,9 +50,9 @@ Episodes discussing **Box** (53 episodes):
 - [I Built a 2D Shooting Game Using AI (Cursor + no-code)](../episodes/2024-09-30-i-built-a-2d-shooting-game-using-ai-cursor-no-code/transcript.md) (2024-09-30)
 - [I Build a full game with AI using only a SCREENSHOT (Cursor, no code)](../episodes/2024-09-12-i-build-a-full-game-with-ai-using-only-a-screenshot-cursor-no-code/transcript.md) (2024-09-12)
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
-- [Hermes Agent is blowing me away...](../episodes/undated-hermes-agent-is-blowing-me-away/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
-- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
-- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/2026-04-22-the-best-claude-design-workflow-you-ll-ever-see/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/2026-04-24-live-chatgpt-5-5-is-here-does-it-beat-claude-opus-4-7/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever/transcript.md)
+- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/2026-04-29-live-the-new-claude-code-plugins-are-incredible/transcript.md)
+- [Hermes Agent is blowing me away...](../episodes/2026-05-09-hermes-agent-is-blowing-me-away/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)

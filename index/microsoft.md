@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (28 episodes):
+Episodes discussing **Microsoft** (29 episodes):
 
+- [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
@@ -27,6 +28,6 @@ Episodes discussing **Microsoft** (28 episodes):
 - [I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)](../episodes/2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew/transcript.md) (2025-04-23)
 - [Bolt.new is the Cursor Killer. Let's build a no-code app with it (Bolt and xAI Beginner's Guide)](../episodes/2024-11-07-boltnew-is-the-cursor-killer-lets-build-a-no-code-app-with-it-bolt-and-xai-begin/transcript.md) (2024-11-07)
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
-- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
-- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
-- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/2026-04-24-live-chatgpt-5-5-is-here-does-it-beat-claude-opus-4-7/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/2026-04-30-chatgpt-5-5-codex-is-the-greatest-ai-coding-tool-ever-here-s/transcript.md)
+- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/2026-05-01-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)

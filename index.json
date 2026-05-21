@@ -1,10 +1,132 @@
 {
-  "total_videos": 255,
+  "total_videos": 257,
   "date_range": {
-    "newest": "2026-04-21",
+    "newest": "2026-05-13",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "LIVE: The greatest Claude Code workflow ever",
+      "video_id": "yoPv_M2A40U",
+      "youtube_url": "https://www.youtube.com/watch?v=yoPv_M2A40U",
+      "publish_date": "2026-05-13",
+      "duration": "1:47:47",
+      "duration_seconds": 6467,
+      "view_count": 9269,
+      "author": "Alex Finn",
+      "description": "Join the Vibe Coding Academy:  https://vibecodingacademy.dev\n2nd channel: youtube.com/@AlexFinnLabsOfficial\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Apple",
+          "Nvidia",
+          "Slack",
+          "GitHub",
+          "Box",
+          "Twitter"
+        ],
+        "people": [
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make",
+          "Opus",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "Gemini",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# LIVE: The greatest Claude Code workflow ever\nToday we are going to go through an incredible Claude code advanced workflow"
+      ],
+      "transcript_chars": 86692,
+      "folder": "2026-05-13-live-the-greatest-claude-code-workflow-ever"
+    },
+    {
+      "title": "LIVE: Anthropic and Elon just teamed up to take down OpenAI",
+      "video_id": "q030uxRoV6U",
+      "youtube_url": "https://www.youtube.com/watch?v=q030uxRoV6U",
+      "publish_date": "2026-05-06",
+      "duration": "1:50:41",
+      "duration_seconds": 6641,
+      "view_count": 22189,
+      "author": "Alex Finn",
+      "description": "Join the Vibe Coding Academy:  https://vibecodingacademy.dev\nSub to my 2nd Channel: https://www.youtube.com/@AlexFinnLabs1\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "Cursor",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Elon Musk",
+          "Greg Brockman",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Arc",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus",
+          "Gemini",
+          "PaLM",
+          "SAM",
+          "CLIP"
+        ]
+      },
+      "concepts": [
+        "Allow us to use it in openclaw now"
+      ],
+      "summary": [
+        "# LIVE: Anthropic and Elon just teamed up to take down OpenAI\nBreaking news"
+      ],
+      "transcript_chars": 86274,
+      "folder": "2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai"
+    },
     {
       "title": "OpenClaw Full Tutorial: Set up your first AI employee!",
       "video_id": "mGcdxFPwBdU",
@@ -11292,9 +11414,9 @@
       "folder": "2023-02-11-relentlessly-chase-discomfort-every-single-day"
     },
     {
-      "title": "ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear",
-      "video_id": "cgp-gfSbmNE",
-      "youtube_url": "https://www.youtube.com/watch?v=cgp-gfSbmNE",
+      "title": "\ud83d\udd34LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???",
+      "video_id": "6npNKBs_UAM",
+      "youtube_url": "https://www.youtube.com/watch?v=6npNKBs_UAM",
       "publish_date": "",
       "duration": "unknown",
       "duration_seconds": 0,
@@ -11302,7 +11424,7 @@
       "author": "Alex Finn",
       "description": "",
       "yt_tags": [],
-      "content_type": "News Roundup",
+      "content_type": "Tutorial",
       "primary_topic": "AI Tools",
       "difficulty": "Intermediate",
       "audience": [
@@ -11315,14 +11437,24 @@
         "companies": [
           "OpenAI",
           "Anthropic",
+          "Google",
+          "Amazon",
+          "Apple",
           "Nvidia",
+          "Tesla",
+          "Slack",
+          "Cursor",
           "Twitter"
         ],
-        "people": [],
+        "people": [
+          "Tim Cook",
+          "Alex Finn"
+        ],
         "products": [
           "ChatGPT",
           "Claude",
           "Claude Code",
+          "Cursor",
           "Codex",
           "Make",
           "Opus",
@@ -11331,198 +11463,21 @@
           "Nano Banana"
         ],
         "models": [
-          "SAM"
-        ]
-      },
-      "concepts": [
-        "It gets to the point a lot faster"
-      ],
-      "summary": [
-        "5 nonstop since it released a few days ago, and I'm blown away"
-      ],
-      "transcript_chars": 32289,
-      "folder": "undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear"
-    },
-    {
-      "title": "Hermes Agent is blowing me away...",
-      "video_id": "cEo95olh2j4",
-      "youtube_url": "https://www.youtube.com/watch?v=cEo95olh2j4",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "News Roundup",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "Box",
-          "X",
-          "YouTube",
-          "Netflix"
-        ],
-        "people": [
-          "Alex Finn"
-        ],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Make",
-          "Opus"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "OpenClaw has fumbled the bag over the last couple months"
-      ],
-      "transcript_chars": 20767,
-      "folder": "undated-hermes-agent-is-blowing-me-away"
-    },
-    {
-      "title": "Hermes Agent might have just killed OpenClaw",
-      "video_id": "Bg-IPiql7x8",
-      "youtube_url": "https://www.youtube.com/watch?v=Bg-IPiql7x8",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "News Roundup",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Google"
-        ],
-        "people": [
-          "Alex Finn"
-        ],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Make",
-          "MCP",
-          "Opus",
-          "Projects"
-        ],
-        "models": []
-      },
-      "concepts": [
-        "Has made it incredibly reliable"
-      ],
-      "summary": [
-        "# Hermes Agent might have just killed OpenClaw\nSo, let's be honest about something"
-      ],
-      "transcript_chars": 21130,
-      "folder": "undated-hermes-agent-might-have-just-killed-openclaw"
-    },
-    {
-      "title": "Hermes Agent powered by local models on the DGX Spark is basically magic",
-      "video_id": "7JRHSo2F-Wk",
-      "youtube_url": "https://www.youtube.com/watch?v=7JRHSo2F-Wk",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives"
-      ],
-      "entities": {
-        "companies": [
-          "Anthropic",
-          "Nvidia",
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "Make",
-          "Anthropic API"
-        ],
-        "models": [
-          "Llama"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# Hermes Agent powered by local models on the DGX Spark is basically magic\nOkay, so this is really sick"
-      ],
-      "transcript_chars": 26302,
-      "folder": "undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic"
-    },
-    {
-      "title": "Hermes Agent w/ ChatGPT 5.5 is literally magic",
-      "video_id": "B2wHaRDf3Qo",
-      "youtube_url": "https://www.youtube.com/watch?v=B2wHaRDf3Qo",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Tesla",
-          "Twitter",
-          "YouTube"
-        ],
-        "people": [],
-        "products": [
-          "ChatGPT",
-          "Claude",
-          "Claude Code",
-          "Codex",
-          "Make",
-          "Opus"
-        ],
-        "models": [
-          "Claude Opus",
+          "Llama",
           "CLIP"
         ]
       },
       "concepts": [],
       "summary": [
-        "5 is literally magic\nHermes agent just might be the most powerful AI agent out there right now"
+        "They're promising that chat GBT is now actually useful inside of OpenClaw"
       ],
-      "transcript_chars": 18707,
-      "folder": "undated-hermes-agent-w-chatgpt-55-is-literally-magic"
+      "transcript_chars": 103633,
+      "folder": "2026-04-22-live-openclaw-4-20-out-is-chatgpt-finally-better-than-opus"
     },
     {
-      "title": "Hermes just got 10x better...",
-      "video_id": "8iZUyE7SlXo",
-      "youtube_url": "https://www.youtube.com/watch?v=8iZUyE7SlXo",
+      "title": "The best Claude Design workflow you\u2019ll ever see\u2026",
+      "video_id": "_v_heNg0j1c",
+      "youtube_url": "https://www.youtube.com/watch?v=_v_heNg0j1c",
       "publish_date": "",
       "duration": "unknown",
       "duration_seconds": 0,
@@ -11530,40 +11485,40 @@
       "author": "Alex Finn",
       "description": "",
       "yt_tags": [],
-      "content_type": "News Roundup",
-      "primary_topic": "AI Agents",
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
-        "Founders"
+        "Executives",
+        "Product Managers"
       ],
       "entities": {
         "companies": [
-          "Google",
-          "Notion",
+          "OpenAI",
+          "Anthropic",
+          "GitHub",
+          "Box",
           "X",
-          "YouTube"
+          "YouTube",
+          "Figma"
         ],
         "people": [],
         "products": [
           "Claude",
           "Claude Code",
-          "Gemini",
           "Make",
-          "Opus",
-          "Computer Use",
-          "Projects"
+          "Artifacts",
+          "Nano Banana"
         ],
-        "models": [
-          "Gemini"
-        ]
+        "models": []
       },
       "concepts": [],
       "summary": [
-        "Hermes Agent just had its biggest update yet and my mind is blown"
+        "# The best Claude Design workflow you\u2019ll ever see\u2026\nI figured out a system that allows you to design the most beautiful apps you can possibly imagine using claw design and Chad GBT's new image gen mod"
       ],
-      "transcript_chars": 13602,
-      "folder": "undated-hermes-just-got-10x-better"
+      "transcript_chars": 26026,
+      "folder": "2026-04-22-the-best-claude-design-workflow-you-ll-ever-see"
     },
     {
       "title": "\ud83d\udd34LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?",
@@ -11620,7 +11575,59 @@
         "In this video, we are going to find out if it lives up to the hype"
       ],
       "transcript_chars": 87546,
-      "folder": "undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47"
+      "folder": "2026-04-24-live-chatgpt-5-5-is-here-does-it-beat-claude-opus-4-7"
+    },
+    {
+      "title": "ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear",
+      "video_id": "cgp-gfSbmNE",
+      "youtube_url": "https://www.youtube.com/watch?v=cgp-gfSbmNE",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Nvidia",
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Projects",
+          "Nano Banana"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [
+        "It gets to the point a lot faster"
+      ],
+      "summary": [
+        "5 nonstop since it released a few days ago, and I'm blown away"
+      ],
+      "transcript_chars": 32289,
+      "folder": "2026-04-25-chatgpt-5-5-codex-i-can-t-believe-they-did-this"
     },
     {
       "title": "\ud83d\udd34LIVE: ChatGPT 5.5 Pro greatest AI model ever?",
@@ -11681,7 +11688,471 @@
         "I'm going to show you five different tests we will do live with Chad GBT 5"
       ],
       "transcript_chars": 109087,
-      "folder": "undated-live-chatgpt-55-pro-greatest-ai-model-ever"
+      "folder": "2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever"
+    },
+    {
+      "title": "Hermes Agent w/ ChatGPT 5.5 is literally magic",
+      "video_id": "B2wHaRDf3Qo",
+      "youtube_url": "https://www.youtube.com/watch?v=B2wHaRDf3Qo",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Tesla",
+          "Twitter",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "5 is literally magic\nHermes agent just might be the most powerful AI agent out there right now"
+      ],
+      "transcript_chars": 18707,
+      "folder": "2026-04-28-hermes-agent-w-chatgpt-5-5-is-literally-magic"
+    },
+    {
+      "title": "\ud83d\udd34LIVE: The new Claude Code plugins are incredible...",
+      "video_id": "8yVAuAGeMWo",
+      "youtube_url": "https://www.youtube.com/watch?v=8yVAuAGeMWo",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "Box",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Tim Cook",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Arc",
+          "Make",
+          "MCP",
+          "Opus",
+          "Nano Banana"
+        ],
+        "models": [
+          "SAM",
+          "CLIP"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# \ud83d\udd34LIVE: The new Claude Code plugins are incredible"
+      ],
+      "transcript_chars": 86487,
+      "folder": "2026-04-29-live-the-new-claude-code-plugins-are-incredible"
+    },
+    {
+      "title": "The only Codex ChatGPT 5.5 tutorial you'll ever need",
+      "video_id": "iz3_xhi6iQE",
+      "youtube_url": "https://www.youtube.com/watch?v=iz3_xhi6iQE",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "Nvidia",
+          "Tesla",
+          "GitHub",
+          "Twitter",
+          "TSMC"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Than all of that kind of honestly is the fact that openai doesn't make these models stupider",
+        "Than that, usage feels like anthropic keeps lowering the usage limits"
+      ],
+      "summary": [
+        "5 tutorial you'll ever need\nI am absolutely in love with Chad GBT 5"
+      ],
+      "transcript_chars": 26818,
+      "folder": "2026-04-30-chatgpt-5-5-codex-is-the-greatest-ai-coding-tool-ever-here-s"
+    },
+    {
+      "title": "LIVE: OpenClaw vs Hermes Agent: The ultimate showdown",
+      "video_id": "UCPE3wPAcho",
+      "youtube_url": "https://www.youtube.com/watch?v=UCPE3wPAcho",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Meta",
+          "Microsoft",
+          "Apple",
+          "Nvidia",
+          "Stripe",
+          "Cursor",
+          "X",
+          "YouTube",
+          "Oracle"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Codex",
+          "Make",
+          "MCP",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "CLIP",
+          "Flux"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# LIVE: OpenClaw vs Hermes Agent: The ultimate showdown\nToday's going to be a special one"
+      ],
+      "transcript_chars": 80270,
+      "folder": "2026-05-01-live-openclaw-vs-hermes-agent-the-ultimate-showdown"
+    },
+    {
+      "title": "LIVE: Is Hermes better than OpenClaw? FINALE!!!",
+      "video_id": "DU192Mj71tk",
+      "youtube_url": "https://www.youtube.com/watch?v=DU192Mj71tk",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "GitHub",
+          "Cursor",
+          "Twitter",
+          "X"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Copilot",
+          "GitHub Copilot",
+          "Cursor",
+          "Codex",
+          "Whisper",
+          "Arc",
+          "Make",
+          "MCP"
+        ],
+        "models": [
+          "SAM",
+          "CLIP",
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Today we are going to find out once and for all which is the best agent"
+      ],
+      "transcript_chars": 144736,
+      "folder": "2026-05-04-live-is-hermes-better-than-openclaw-finale"
+    },
+    {
+      "title": "Hermes Agent might have just killed OpenClaw",
+      "video_id": "Bg-IPiql7x8",
+      "youtube_url": "https://www.youtube.com/watch?v=Bg-IPiql7x8",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "MCP",
+          "Opus",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Has made it incredibly reliable"
+      ],
+      "summary": [
+        "# Hermes Agent might have just killed OpenClaw\nSo, let's be honest about something"
+      ],
+      "transcript_chars": 21130,
+      "folder": "2026-05-05-hermes-agent-might-have-just-killed-openclaw"
+    },
+    {
+      "title": "Hermes Agent is blowing me away...",
+      "video_id": "cEo95olh2j4",
+      "youtube_url": "https://www.youtube.com/watch?v=cEo95olh2j4",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "X",
+          "YouTube",
+          "Netflix"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "OpenClaw has fumbled the bag over the last couple months"
+      ],
+      "transcript_chars": 20767,
+      "folder": "2026-05-09-hermes-agent-is-blowing-me-away"
+    },
+    {
+      "title": "LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)",
+      "video_id": "Gz_uZcnCDLs",
+      "youtube_url": "https://www.youtube.com/watch?v=Gz_uZcnCDLs",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Amazon",
+          "Apple",
+          "Nvidia",
+          "Tesla",
+          "Notion",
+          "Slack"
+        ],
+        "people": [
+          "Mark Zuckerberg",
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Whisper",
+          "Perplexity",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": [
+          "Llama",
+          "Whisper"
+        ]
+      },
+      "concepts": [
+        "What their product does, so i can't invest in them"
+      ],
+      "summary": [
+        "# LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)\nToday we are going to go through Hermes agent and we are going to find the best use cases for it"
+      ],
+      "transcript_chars": 94235,
+      "folder": "2026-05-11-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnai"
+    },
+    {
+      "title": "Hermes Agent powered by local models on the DGX Spark is basically magic",
+      "video_id": "7JRHSo2F-Wk",
+      "youtube_url": "https://www.youtube.com/watch?v=7JRHSo2F-Wk",
+      "publish_date": "",
+      "duration": "unknown",
+      "duration_seconds": 0,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Nvidia",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Anthropic API"
+        ],
+        "models": [
+          "Llama"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Hermes Agent powered by local models on the DGX Spark is basically magic\nOkay, so this is really sick"
+      ],
+      "transcript_chars": 26302,
+      "folder": "2026-05-13-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-bas"
     },
     {
       "title": "LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???",
@@ -11744,302 +12215,7 @@
         "Today is the day we are going to go through live live step by step by step how to make tons of money off SAS"
       ],
       "transcript_chars": 85413,
-      "folder": "undated-live-grok-build-cli-is-actually-incredible"
-    },
-    {
-      "title": "LIVE: Is Hermes better than OpenClaw? FINALE!!!",
-      "video_id": "DU192Mj71tk",
-      "youtube_url": "https://www.youtube.com/watch?v=DU192Mj71tk",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "News Roundup",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Amazon",
-          "Apple",
-          "Nvidia",
-          "GitHub",
-          "Cursor",
-          "Twitter",
-          "X"
-        ],
-        "people": [
-          "Alex Finn"
-        ],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Copilot",
-          "GitHub Copilot",
-          "Cursor",
-          "Codex",
-          "Whisper",
-          "Arc",
-          "Make",
-          "MCP"
-        ],
-        "models": [
-          "SAM",
-          "CLIP",
-          "Whisper"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "Today we are going to find out once and for all which is the best agent"
-      ],
-      "transcript_chars": 144736,
-      "folder": "undated-live-is-hermes-better-than-openclaw-finale"
-    },
-    {
-      "title": "\ud83d\udd34LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???",
-      "video_id": "6npNKBs_UAM",
-      "youtube_url": "https://www.youtube.com/watch?v=6npNKBs_UAM",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Tools",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
-        "Founders"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Amazon",
-          "Apple",
-          "Nvidia",
-          "Tesla",
-          "Slack",
-          "Cursor",
-          "Twitter"
-        ],
-        "people": [
-          "Tim Cook",
-          "Alex Finn"
-        ],
-        "products": [
-          "ChatGPT",
-          "Claude",
-          "Claude Code",
-          "Cursor",
-          "Codex",
-          "Make",
-          "Opus",
-          "Computer Use",
-          "Projects",
-          "Nano Banana"
-        ],
-        "models": [
-          "Llama",
-          "CLIP"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "They're promising that chat GBT is now actually useful inside of OpenClaw"
-      ],
-      "transcript_chars": 103633,
-      "folder": "undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus"
-    },
-    {
-      "title": "LIVE: OpenClaw vs Hermes Agent: The ultimate showdown",
-      "video_id": "UCPE3wPAcho",
-      "youtube_url": "https://www.youtube.com/watch?v=UCPE3wPAcho",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Agents",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "Google",
-          "Meta",
-          "Microsoft",
-          "Apple",
-          "Nvidia",
-          "Stripe",
-          "Cursor",
-          "X",
-          "YouTube",
-          "Oracle"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Cursor",
-          "Codex",
-          "Make",
-          "MCP",
-          "Opus",
-          "Sonnet"
-        ],
-        "models": [
-          "CLIP",
-          "Flux"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# LIVE: OpenClaw vs Hermes Agent: The ultimate showdown\nToday's going to be a special one"
-      ],
-      "transcript_chars": 80270,
-      "folder": "undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown"
-    },
-    {
-      "title": "LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)",
-      "video_id": "Gz_uZcnCDLs",
-      "youtube_url": "https://www.youtube.com/watch?v=Gz_uZcnCDLs",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "News Roundup",
-      "primary_topic": "AI News",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Meta",
-          "Amazon",
-          "Apple",
-          "Nvidia",
-          "Tesla",
-          "Notion",
-          "Slack"
-        ],
-        "people": [
-          "Mark Zuckerberg",
-          "Elon Musk",
-          "Alex Finn"
-        ],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Codex",
-          "Whisper",
-          "Perplexity",
-          "Make",
-          "Opus",
-          "Computer Use"
-        ],
-        "models": [
-          "Llama",
-          "Whisper"
-        ]
-      },
-      "concepts": [
-        "What their product does, so i can't invest in them"
-      ],
-      "summary": [
-        "# LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)\nToday we are going to go through Hermes agent and we are going to find the best use cases for it"
-      ],
-      "transcript_chars": 94235,
-      "folder": "undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail"
-    },
-    {
-      "title": "\ud83d\udd34LIVE: The new Claude Code plugins are incredible...",
-      "video_id": "8yVAuAGeMWo",
-      "youtube_url": "https://www.youtube.com/watch?v=8yVAuAGeMWo",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Tools",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "Google",
-          "Meta",
-          "Amazon",
-          "Apple",
-          "Nvidia",
-          "Box",
-          "Twitter",
-          "X"
-        ],
-        "people": [
-          "Tim Cook",
-          "Alex Finn"
-        ],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Codex",
-          "Arc",
-          "Make",
-          "MCP",
-          "Opus",
-          "Nano Banana"
-        ],
-        "models": [
-          "SAM",
-          "CLIP"
-        ]
-      },
-      "concepts": [],
-      "summary": [
-        "# \ud83d\udd34LIVE: The new Claude Code plugins are incredible"
-      ],
-      "transcript_chars": 86487,
-      "folder": "undated-live-the-new-claude-code-plugins-are-incredible"
+      "folder": "2026-05-15-live-grok-build-cli-is-actually-incredible"
     },
     {
       "title": "STOP Using Claude Code without this tool",
@@ -12084,12 +12260,12 @@
         "# STOP Using Claude Code without this tool\nI found a free tool that will increase your Claude code velocity by 100x"
       ],
       "transcript_chars": 22712,
-      "folder": "undated-stop-using-claude-code-without-this-tool"
+      "folder": "2026-05-17-claude-code-is-1000x-better-when-you-use-this-tool"
     },
     {
-      "title": "The best Claude Design workflow you\u2019ll ever see\u2026",
-      "video_id": "_v_heNg0j1c",
-      "youtube_url": "https://www.youtube.com/watch?v=_v_heNg0j1c",
+      "title": "Hermes just got 10x better...",
+      "video_id": "8iZUyE7SlXo",
+      "youtube_url": "https://www.youtube.com/watch?v=8iZUyE7SlXo",
       "publish_date": "",
       "duration": "unknown",
       "duration_seconds": 0,
@@ -12097,94 +12273,40 @@
       "author": "Alex Finn",
       "description": "",
       "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Tools",
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
       "difficulty": "Intermediate",
       "audience": [
         "Engineers",
-        "Executives",
-        "Product Managers"
-      ],
-      "entities": {
-        "companies": [
-          "OpenAI",
-          "Anthropic",
-          "GitHub",
-          "Box",
-          "X",
-          "YouTube",
-          "Figma"
-        ],
-        "people": [],
-        "products": [
-          "Claude",
-          "Claude Code",
-          "Make",
-          "Artifacts",
-          "Nano Banana"
-        ],
-        "models": []
-      },
-      "concepts": [],
-      "summary": [
-        "# The best Claude Design workflow you\u2019ll ever see\u2026\nI figured out a system that allows you to design the most beautiful apps you can possibly imagine using claw design and Chad GBT's new image gen mod"
-      ],
-      "transcript_chars": 26026,
-      "folder": "undated-the-best-claude-design-workflow-youll-ever-see"
-    },
-    {
-      "title": "The only Codex ChatGPT 5.5 tutorial you'll ever need",
-      "video_id": "iz3_xhi6iQE",
-      "youtube_url": "https://www.youtube.com/watch?v=iz3_xhi6iQE",
-      "publish_date": "",
-      "duration": "unknown",
-      "duration_seconds": 0,
-      "view_count": 0,
-      "author": "Alex Finn",
-      "description": "",
-      "yt_tags": [],
-      "content_type": "Tutorial",
-      "primary_topic": "AI Tools",
-      "difficulty": "Intermediate",
-      "audience": [
-        "Engineers",
-        "Executives",
-        "Product Managers",
         "Founders"
       ],
       "entities": {
         "companies": [
-          "OpenAI",
-          "Anthropic",
           "Google",
-          "Microsoft",
-          "Amazon",
-          "Nvidia",
-          "Tesla",
-          "GitHub",
-          "Twitter",
-          "TSMC"
+          "Notion",
+          "X",
+          "YouTube"
         ],
         "people": [],
         "products": [
-          "ChatGPT",
           "Claude",
           "Claude Code",
-          "Codex",
+          "Gemini",
           "Make",
-          "Computer Use"
+          "Opus",
+          "Computer Use",
+          "Projects"
         ],
-        "models": []
+        "models": [
+          "Gemini"
+        ]
       },
-      "concepts": [
-        "Than all of that kind of honestly is the fact that openai doesn't make these models stupider",
-        "Than that, usage feels like anthropic keeps lowering the usage limits"
-      ],
+      "concepts": [],
       "summary": [
-        "5 tutorial you'll ever need\nI am absolutely in love with Chad GBT 5"
+        "Hermes Agent just had its biggest update yet and my mind is blown"
       ],
-      "transcript_chars": 26818,
-      "folder": "undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need"
+      "transcript_chars": 13602,
+      "folder": "2026-05-19-hermes-just-got-10x-better"
     }
   ]
 }

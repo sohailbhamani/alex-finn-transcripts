@@ -1,7 +1,9 @@
 # Gemini
 
-Episodes discussing **Gemini** (83 episodes):
+Episodes discussing **Gemini** (85 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
+- [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -82,6 +84,6 @@ Episodes discussing **Gemini** (83 episodes):
 - [I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)](../episodes/2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew/transcript.md) (2025-04-23)
 - [The EASIEST way to build apps with AI EVER (Google Firebase Studio)](../episodes/2025-04-15-the-easiest-way-to-build-apps-with-ai-ever-google-firebase-studio/transcript.md) (2025-04-15)
 - [How to Build Your First 3D Game in 11 Minutes With Google Gemini Pro 2.5 Pro](../episodes/2025-03-29-how-to-build-your-first-3d-game-in-11-minutes-with-google-gemini-pro-25-pro/transcript.md) (2025-03-29)
-- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)
+- [Hermes just got 10x better...](../episodes/2026-05-19-hermes-just-got-10x-better/transcript.md)

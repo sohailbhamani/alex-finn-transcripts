@@ -1,7 +1,8 @@
 # Github
 
-Episodes discussing **Github** (83 episodes):
+Episodes discussing **Github** (84 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -79,9 +80,9 @@ Episodes discussing **Github** (83 episodes):
 - [I built an AI image startup in 10 minutes using ChatGPT (image gen API)](../episodes/2025-04-26-i-built-an-ai-image-startup-in-10-minutes-using-chatgpt-image-gen-api/transcript.md) (2025-04-26)
 - [Build Your First Game Using AI in 15 Minutes (Claude Sonnet)](../episodes/2025-02-26-build-your-first-game-using-ai-in-15-minutes-claude-sonnet/transcript.md) (2025-02-26)
 - [I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)](../episodes/2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code/transcript.md) (2024-09-22)
-- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
-- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
-- [STOP Using Claude Code without this tool](../episodes/undated-stop-using-claude-code-without-this-tool/transcript.md)
-- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)
-- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/2026-04-22-the-best-claude-design-workflow-you-ll-ever-see/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/2026-04-30-chatgpt-5-5-codex-is-the-greatest-ai-coding-tool-ever-here-s/transcript.md)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/2026-05-04-live-is-hermes-better-than-openclaw-finale/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)
+- [STOP Using Claude Code without this tool](../episodes/2026-05-17-claude-code-is-1000x-better-when-you-use-this-tool/transcript.md)

@@ -1,7 +1,9 @@
 # Coding
 
-Episodes discussing **Coding** (203 episodes):
+Episodes discussing **Coding** (205 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
+- [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
@@ -196,12 +198,12 @@ Episodes discussing **Coding** (203 episodes):
 - [Build A Game With AI In 10 Minutes (no code, Cursor)](../episodes/2024-08-28-build-a-game-with-ai-in-10-minutes-no-code-cursor/transcript.md) (2024-08-28)
 - [How To Build An App With AI (no experience required)](../episodes/2024-08-23-how-to-build-an-app-with-ai-no-experience-required/transcript.md) (2024-08-23)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
-- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
-- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
-- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
-- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
-- [STOP Using Claude Code without this tool](../episodes/undated-stop-using-claude-code-without-this-tool/transcript.md)
-- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/2026-04-22-live-openclaw-4-20-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/2026-04-24-live-chatgpt-5-5-is-here-does-it-beat-claude-opus-4-7/transcript.md)
+- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/2026-04-25-chatgpt-5-5-codex-i-can-t-believe-they-did-this/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever/transcript.md)
+- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/2026-04-29-live-the-new-claude-code-plugins-are-incredible/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/2026-04-30-chatgpt-5-5-codex-is-the-greatest-ai-coding-tool-ever-here-s/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)
+- [STOP Using Claude Code without this tool](../episodes/2026-05-17-claude-code-is-1000x-better-when-you-use-this-tool/transcript.md)
+- [Hermes just got 10x better...](../episodes/2026-05-19-hermes-just-got-10x-better/transcript.md)

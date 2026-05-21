@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (50 episodes):
+Episodes discussing **Projects** (51 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
@@ -47,8 +48,8 @@ Episodes discussing **Projects** (50 episodes):
 - [Building and launching an AI startup LIVE on stream! From 0 to first customer.](../episodes/2025-06-20-building-and-launching-an-ai-startup-live-on-stream-from-0-to-first-customer/transcript.md) (2025-06-20)
 - [OpenAI just released a coding AI agent. Here’s how I’m going to make money with it (Codex full demo)](../episodes/2025-05-17-openai-just-released-a-coding-ai-agent-heres-how-im-going-to-make-money-with-it/transcript.md) (2025-05-17)
 - [I used these 8 AI tools to launch a $300,000 App](../episodes/2025-05-12-i-used-these-8-ai-tools-to-launch-a-300000-app/transcript.md) (2025-05-12)
-- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
-- [Hermes Agent might have just killed OpenClaw](../episodes/undated-hermes-agent-might-have-just-killed-openclaw/transcript.md)
-- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
-- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
-- [STOP Using Claude Code without this tool](../episodes/undated-stop-using-claude-code-without-this-tool/transcript.md)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/2026-04-22-live-openclaw-4-20-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/2026-04-25-chatgpt-5-5-codex-i-can-t-believe-they-did-this/transcript.md)
+- [Hermes Agent might have just killed OpenClaw](../episodes/2026-05-05-hermes-agent-might-have-just-killed-openclaw/transcript.md)
+- [STOP Using Claude Code without this tool](../episodes/2026-05-17-claude-code-is-1000x-better-when-you-use-this-tool/transcript.md)
+- [Hermes just got 10x better...](../episodes/2026-05-19-hermes-just-got-10x-better/transcript.md)

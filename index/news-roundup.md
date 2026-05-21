@@ -1,7 +1,8 @@
 # News Roundup
 
-Episodes discussing **News Roundup** (34 episodes):
+Episodes discussing **News Roundup** (35 episodes):
 
+- [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
@@ -30,9 +31,9 @@ Episodes discussing **News Roundup** (34 episodes):
 - [I Built A Notion Clone With AI in 10 Minutes (Cursor + v0 + no-code)](../episodes/2024-09-22-i-built-a-notion-clone-with-ai-in-10-minutes-cursor-v0-no-code/transcript.md) (2024-09-22)
 - [Why You NEED a Newsletter #shorts](../episodes/2024-09-13-why-you-need-a-newsletter-shorts/transcript.md) (2024-09-13)
 - [Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)](../episodes/2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code/transcript.md) (2024-09-09)
-- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
-- [Hermes Agent is blowing me away...](../episodes/undated-hermes-agent-is-blowing-me-away/transcript.md)
-- [Hermes Agent might have just killed OpenClaw](../episodes/undated-hermes-agent-might-have-just-killed-openclaw/transcript.md)
-- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
-- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
-- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
+- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/2026-04-25-chatgpt-5-5-codex-i-can-t-believe-they-did-this/transcript.md)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/2026-05-04-live-is-hermes-better-than-openclaw-finale/transcript.md)
+- [Hermes Agent might have just killed OpenClaw](../episodes/2026-05-05-hermes-agent-might-have-just-killed-openclaw/transcript.md)
+- [Hermes Agent is blowing me away...](../episodes/2026-05-09-hermes-agent-is-blowing-me-away/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/2026-05-11-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnai/transcript.md)
+- [Hermes just got 10x better...](../episodes/2026-05-19-hermes-just-got-10x-better/transcript.md)

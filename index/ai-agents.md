@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (115 episodes):
+Episodes discussing **Ai Agents** (116 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
@@ -107,13 +108,13 @@ Episodes discussing **Ai Agents** (115 episodes):
 - [ANTHROPIC RELEASES AI AGENTS! THIS IS INSANE! FULL DEMO AND BEGINNER’S GUIDE](../episodes/2024-10-22-anthropic-releases-ai-agents-this-is-insane-full-demo-and-beginners-guide/transcript.md) (2024-10-22)
 - [I built a stock tracking app with ONE PROMPT using AI #ai #stocks #shorts #coding](../episodes/2024-09-19-i-built-a-stock-tracking-app-with-one-prompt-using-ai-ai-stocks-shorts-coding/transcript.md) (2024-09-19)
 - [Build a Stock Tracking App in 10 minutes with AI (Replit Agents, No-Code)](../episodes/2024-09-09-build-a-stock-tracking-app-in-10-minutes-with-ai-replit-agents-no-code/transcript.md) (2024-09-09)
-- [Hermes Agent is blowing me away...](../episodes/undated-hermes-agent-is-blowing-me-away/transcript.md)
-- [Hermes Agent might have just killed OpenClaw](../episodes/undated-hermes-agent-might-have-just-killed-openclaw/transcript.md)
-- [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/undated-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-basically-magic/transcript.md)
-- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
-- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/undated-live-chatgpt-55-is-here-does-it-beat-claude-opus-47/transcript.md)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
-- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
-- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
-- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?](../episodes/2026-04-24-live-chatgpt-5-5-is-here-does-it-beat-claude-opus-4-7/transcript.md)
+- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/2026-04-28-hermes-agent-w-chatgpt-5-5-is-literally-magic/transcript.md)
+- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/2026-05-01-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/2026-05-04-live-is-hermes-better-than-openclaw-finale/transcript.md)
+- [Hermes Agent might have just killed OpenClaw](../episodes/2026-05-05-hermes-agent-might-have-just-killed-openclaw/transcript.md)
+- [Hermes Agent is blowing me away...](../episodes/2026-05-09-hermes-agent-is-blowing-me-away/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/2026-05-11-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnai/transcript.md)
+- [Hermes Agent powered by local models on the DGX Spark is basically magic](../episodes/2026-05-13-hermes-agent-powered-by-local-models-on-the-dgx-spark-is-bas/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)
+- [Hermes just got 10x better...](../episodes/2026-05-19-hermes-just-got-10x-better/transcript.md)

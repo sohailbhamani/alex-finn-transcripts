@@ -27,5 +27,5 @@ Episodes discussing **Stripe** (27 episodes):
 - [I Found the Best AI Coding Tool For Beginners (Firebase Studio, Lovable, Bolt.New)](../episodes/2025-04-23-i-found-the-best-ai-coding-tool-for-beginners-firebase-studio-lovable-boltnew/transcript.md) (2025-04-23)
 - [The EASIEST way to build apps with AI EVER (Google Firebase Studio)](../episodes/2025-04-15-the-easiest-way-to-build-apps-with-ai-ever-google-firebase-studio/transcript.md) (2025-04-15)
 - [Bolt.New: The FASTEST way to build your first app with AI (Beginner’s Guide)](../episodes/2024-11-13-boltnew-the-fastest-way-to-build-your-first-app-with-ai-beginners-guide/transcript.md) (2024-11-13)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
-- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/undated-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
+- [LIVE: OpenClaw vs Hermes Agent: The ultimate showdown](../episodes/2026-05-01-live-openclaw-vs-hermes-agent-the-ultimate-showdown/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)

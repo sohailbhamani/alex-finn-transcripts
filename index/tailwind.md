@@ -10,4 +10,4 @@ Episodes discussing **Tailwind** (9 episodes):
 - [The greatest Claude Code workflow you’ll ever see...](../episodes/2025-11-04-the-greatest-claude-code-workflow-youll-ever-see/transcript.md) (2025-11-04)
 - [Cursor 2.0 is INSANE, but is it better than Claude Code?](../episodes/2025-10-29-cursor-20-is-insane-but-is-it-better-than-claude-code/transcript.md) (2025-10-29)
 - [Claude Code with Sonnet 4.5 is actually incredible (with 1 exception)](../episodes/2025-09-30-claude-code-with-sonnet-45-is-actually-incredible-with-1-exception/transcript.md) (2025-09-30)
-- [STOP Using Claude Code without this tool](../episodes/undated-stop-using-claude-code-without-this-tool/transcript.md)
+- [STOP Using Claude Code without this tool](../episodes/2026-05-17-claude-code-is-1000x-better-when-you-use-this-tool/transcript.md)

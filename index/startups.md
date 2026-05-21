@@ -42,4 +42,4 @@ Episodes discussing **Startups** (41 episodes):
 - [I built an AI image startup in 10 minutes using ChatGPT (image gen API)](../episodes/2025-04-26-i-built-an-ai-image-startup-in-10-minutes-using-chatgpt-image-gen-api/transcript.md) (2025-04-26)
 - [NEW ChatGPT model is a GAME CHANGER! Full o1 Demo and Beginner’s Guide](../episodes/2024-12-06-new-chatgpt-model-is-a-game-changer-full-o1-demo-and-beginners-guide/transcript.md) (2024-12-06)
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
-- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
+- [Hermes just got 10x better...](../episodes/2026-05-19-hermes-just-got-10x-better/transcript.md)

@@ -23,5 +23,5 @@ Episodes discussing **Whisper** (23 episodes):
 - [Using Google AI Studio to build entire apps with AI LIVE!!!](../episodes/2025-10-27-using-google-ai-studio-to-build-entire-apps-with-ai-live/transcript.md) (2025-10-27)
 - [Using Claude Code to build and launch apps LIVE](../episodes/2025-08-16-using-claude-code-to-build-and-launch-apps-live/transcript.md) (2025-08-16)
 - [Building a Startup with Grok 4 LIVE!!!](../episodes/2025-07-10-building-a-startup-with-grok-4-live/transcript.md) (2025-07-10)
-- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/undated-live-is-hermes-better-than-openclaw-finale/transcript.md)
-- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/undated-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnail/transcript.md)
+- [LIVE: Is Hermes better than OpenClaw? FINALE!!!](../episodes/2026-05-04-live-is-hermes-better-than-openclaw-finale/transcript.md)
+- [LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)](../episodes/2026-05-11-live-talking-ai-news-no-hermes-use-cases-ignore-the-thumbnai/transcript.md)

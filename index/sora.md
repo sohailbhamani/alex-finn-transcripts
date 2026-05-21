@@ -11,4 +11,4 @@ Episodes discussing **Sora** (10 episodes):
 - [CHATGPT 5.1 JUST DROPPED! TESTING IT LIVE](../episodes/2025-11-12-chatgpt-51-just-dropped-testing-it-live/transcript.md) (2025-11-12)
 - [Using Cursor 2.0 + Claude Code to build a startup LIVE!](../episodes/2025-11-04-using-cursor-20-claude-code-to-build-a-startup-live/transcript.md) (2025-11-04)
 - [Google AI Studio just KILLED Lovable! Most INSANE AI app builder ever](../episodes/2025-10-21-google-ai-studio-just-killed-lovable-most-insane-ai-app-builder-ever/transcript.md) (2025-10-21)
-- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/undated-live-grok-build-cli-is-actually-incredible/transcript.md)
+- [LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???](../episodes/2026-05-15-live-grok-build-cli-is-actually-incredible/transcript.md)

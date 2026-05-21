@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (54 episodes):
+Episodes discussing **Career** (55 episodes):
 
+- [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [OpenClaw + Obsidian gives you super powers](../episodes/2026-04-09-openclaw-obsidian-gives-you-super-powers/transcript.md) (2026-04-09)
 - [Did Hermes Agent just kill OpenClaw? (full guide)](../episodes/2026-03-31-did-hermes-agent-just-kill-openclaw-full-guide/transcript.md) (2026-03-31)
@@ -52,7 +53,7 @@ Episodes discussing **Career** (54 episodes):
 - [Cursor AI Beginners Guide: Build Apps with NO CODE!](../episodes/2024-09-01-cursor-ai-beginners-guide-build-apps-with-no-code/transcript.md) (2024-09-01)
 - [How To Build An App With AI (no experience required)](../episodes/2024-08-23-how-to-build-an-app-with-ai-no-experience-required/transcript.md) (2024-08-23)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
-- [Hermes Agent is blowing me away...](../episodes/undated-hermes-agent-is-blowing-me-away/transcript.md)
-- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
-- [Hermes just got 10x better...](../episodes/undated-hermes-just-got-10x-better/transcript.md)
-- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/2026-04-22-the-best-claude-design-workflow-you-ll-ever-see/transcript.md)
+- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/2026-04-28-hermes-agent-w-chatgpt-5-5-is-literally-magic/transcript.md)
+- [Hermes Agent is blowing me away...](../episodes/2026-05-09-hermes-agent-is-blowing-me-away/transcript.md)
+- [Hermes just got 10x better...](../episodes/2026-05-19-hermes-just-got-10x-better/transcript.md)

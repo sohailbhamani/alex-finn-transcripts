@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (82 episodes):
+Episodes discussing **Workflows** (83 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
 - [You NEED to set up a multi agent team with OpenClaw and Hermes](../episodes/2026-04-13-you-need-to-set-up-a-multi-agent-team-with-openclaw-and-herm/transcript.md) (2026-04-13)
@@ -78,9 +79,9 @@ Episodes discussing **Workflows** (82 episodes):
 - [Build a game with 1 prompt using AI (ChatGPT o1, no code)](../episodes/2024-09-18-build-a-game-with-1-prompt-using-ai-chatgpt-o1-no-code/transcript.md) (2024-09-18)
 - [How to Find Purpose Through Content](../episodes/2024-08-02-how-to-find-purpose-through-content/transcript.md) (2024-08-02)
 - [My Productive Morning Routine with the Apple Vision Pro](../episodes/2024-02-08-my-productive-morning-routine-with-the-apple-vision-pro/transcript.md) (2024-02-08)
-- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
-- [Hermes Agent might have just killed OpenClaw](../episodes/undated-hermes-agent-might-have-just-killed-openclaw/transcript.md)
-- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/undated-hermes-agent-w-chatgpt-55-is-literally-magic/transcript.md)
-- [STOP Using Claude Code without this tool](../episodes/undated-stop-using-claude-code-without-this-tool/transcript.md)
-- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)
-- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/undated-the-only-codex-chatgpt-55-tutorial-youll-ever-need/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/2026-04-22-the-best-claude-design-workflow-you-ll-ever-see/transcript.md)
+- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/2026-04-25-chatgpt-5-5-codex-i-can-t-believe-they-did-this/transcript.md)
+- [Hermes Agent w/ ChatGPT 5.5 is literally magic](../episodes/2026-04-28-hermes-agent-w-chatgpt-5-5-is-literally-magic/transcript.md)
+- [The only Codex ChatGPT 5.5 tutorial you'll ever need](../episodes/2026-04-30-chatgpt-5-5-codex-is-the-greatest-ai-coding-tool-ever-here-s/transcript.md)
+- [Hermes Agent might have just killed OpenClaw](../episodes/2026-05-05-hermes-agent-might-have-just-killed-openclaw/transcript.md)
+- [STOP Using Claude Code without this tool](../episodes/2026-05-17-claude-code-is-1000x-better-when-you-use-this-tool/transcript.md)

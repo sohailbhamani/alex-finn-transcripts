@@ -1,7 +1,8 @@
 # Nano Banana
 
-Episodes discussing **Nano Banana** (19 episodes):
+Episodes discussing **Nano Banana** (20 episodes):
 
+- [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [How to build an army of OpenClaw agents](../episodes/2026-03-12-how-to-build-an-army-of-openclaw-agents/transcript.md) (2026-03-12)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
@@ -16,8 +17,8 @@ Episodes discussing **Nano Banana** (19 episodes):
 - [Google AI Studio just KILLED Lovable! Most INSANE AI app builder ever](../episodes/2025-10-21-google-ai-studio-just-killed-lovable-most-insane-ai-app-builder-ever/transcript.md) (2025-10-21)
 - [Building an entire app LIVE with Claude Code (Haiku 4.5)](../episodes/2025-10-15-building-an-entire-app-live-with-claude-code-haiku-45/transcript.md) (2025-10-15)
 - [Watch me build a startup live with Claude Code and Codex GPT 5](../episodes/2025-10-11-watch-me-build-a-startup-live-with-claude-code-and-codex-gpt-5/transcript.md) (2025-10-11)
-- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/undated-chatgpt-55-codex-vs-opus-47-the-winner-is-clear/transcript.md)
-- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/undated-live-chatgpt-55-pro-greatest-ai-model-ever/transcript.md)
-- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/undated-live-openclaw-420-out-is-chatgpt-finally-better-than-opus/transcript.md)
-- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/undated-live-the-new-claude-code-plugins-are-incredible/transcript.md)
-- [The best Claude Design workflow you’ll ever see…](../episodes/undated-the-best-claude-design-workflow-youll-ever-see/transcript.md)
+- [🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???](../episodes/2026-04-22-live-openclaw-4-20-out-is-chatgpt-finally-better-than-opus/transcript.md)
+- [The best Claude Design workflow you’ll ever see…](../episodes/2026-04-22-the-best-claude-design-workflow-you-ll-ever-see/transcript.md)
+- [ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear](../episodes/2026-04-25-chatgpt-5-5-codex-i-can-t-believe-they-did-this/transcript.md)
+- [🔴LIVE: ChatGPT 5.5 Pro greatest AI model ever?](../episodes/2026-04-27-live-chatgpt-5-5-pro-greatest-ai-model-ever/transcript.md)
+- [🔴LIVE: The new Claude Code plugins are incredible...](../episodes/2026-04-29-live-the-new-claude-code-plugins-are-incredible/transcript.md)
