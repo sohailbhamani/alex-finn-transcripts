@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (116 episodes):
+Episodes discussing **Ai Agents** (117 episodes):
 
+- [6 Hermes Agent use cases I promise will change your life](../episodes/2026-05-22-6-hermes-agent-use-cases-i-promise-will-change-your-life/transcript.md) (2026-05-22)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)

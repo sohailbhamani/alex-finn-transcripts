@@ -1,10 +1,47 @@
 {
-  "total_videos": 257,
+  "total_videos": 258,
   "date_range": {
-    "newest": "2026-05-13",
+    "newest": "2026-05-22",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "6 Hermes Agent use cases I promise will change your life",
+      "video_id": "AQHlyGA2cZM",
+      "youtube_url": "https://www.youtube.com/watch?v=AQHlyGA2cZM",
+      "publish_date": "2026-05-22",
+      "duration": "15:19",
+      "duration_seconds": 919,
+      "view_count": 742,
+      "author": "Alex Finn",
+      "description": "Download the AI Agents Cheat Sheet! https://clickhubspot.com/9b67c7\n\nHere are 6 new Hermes Agent use cases that makes it SO much more powerful\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nPrompts:\nI want to build a memory wiki. This should be a site I can visit that has a list of all the subjects we've talked about and daily logs of what we've done together. I should be able to click on any of the subjects or daily logs and get more details on the conversations we've had and work we've done\n\nEvery morning at 9am ask me what my number 1 priority is for that day. Then, come up with tasks you can do to help me with that priority. Then, update your memories about me accordingly\n\nTimestamps:\n0:00 Intro\n0:48 Goals\n3:22 Kanban board workflow\n6:27 Technical breakdown\n8:58 Personal wiki\n10:36 Computer administrator\n12:51 Morning priority prompt\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 6 Hermes Agent use cases I promise will change your life\nHermes Agent is the most powerful AI software out there right now"
+      ],
+      "transcript_chars": 16616,
+      "folder": "2026-05-22-6-hermes-agent-use-cases-i-promise-will-change-your-life"
+    },
     {
       "title": "LIVE: The greatest Claude Code workflow ever",
       "video_id": "yoPv_M2A40U",

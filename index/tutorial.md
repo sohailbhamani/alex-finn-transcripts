@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (196 episodes):
+Episodes discussing **Tutorial** (197 episodes):
 
+- [6 Hermes Agent use cases I promise will change your life](../episodes/2026-05-22-6-hermes-agent-use-cases-i-promise-will-change-your-life/transcript.md) (2026-05-22)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [OpenClaw Full Tutorial: Set up your first AI employee!](../episodes/2026-04-21-openclaw-full-tutorial-set-up-your-first-ai-employee/transcript.md) (2026-04-21)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)

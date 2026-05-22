@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (83 episodes):
+Episodes discussing **Workflows** (84 episodes):
 
+- [6 Hermes Agent use cases I promise will change your life](../episodes/2026-05-22-6-hermes-agent-use-cases-i-promise-will-change-your-life/transcript.md) (2026-05-22)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)

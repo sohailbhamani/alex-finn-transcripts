@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (174 episodes):
+Episodes discussing **Ai News** (175 episodes):
 
+- [6 Hermes Agent use cases I promise will change your life](../episodes/2026-05-22-6-hermes-agent-use-cases-i-promise-will-change-your-life/transcript.md) (2026-05-22)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)](../episodes/2026-04-18-the-creator-of-claude-code-just-revealed-7-secrets-to-using-/transcript.md) (2026-04-18)
