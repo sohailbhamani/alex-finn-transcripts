@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (14 episodes):
+Episodes discussing **Computer Use** (15 episodes):
 
+- [Hermes Agent is the greatest AI tool ever made. Here's how to set it up](../episodes/2026-05-26-hermes-agent-is-the-greatest-ai-tool-ever-made-heres-how-to-set-it-up/transcript.md) (2026-05-26)
 - [Unknown](../episodes/2026-02-17-claude-sonnet-46-just-released-greatest-model-for-openclaw-ever/transcript.md) (2026-02-17)
 - [Unknown](../episodes/2026-02-16-live-openai-buys-openclaw-will-anthropic-survive/transcript.md) (2026-02-16)
 - [This AI browser works for you 24/7 (FlowithOS guide)](../episodes/2025-12-04-this-ai-browser-works-for-you-247-flowithos-guide/transcript.md) (2025-12-04)

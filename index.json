@@ -1,10 +1,58 @@
 {
-  "total_videos": 258,
+  "total_videos": 259,
   "date_range": {
-    "newest": "2026-05-22",
+    "newest": "2026-05-26",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Hermes Agent is the greatest AI tool ever made. Here's how to set it up",
+      "video_id": "RoBD7Lc-0MI",
+      "youtube_url": "https://www.youtube.com/watch?v=RoBD7Lc-0MI",
+      "publish_date": "2026-05-26",
+      "duration": "44:15",
+      "duration_seconds": 2655,
+      "view_count": 7187,
+      "author": "Alex Finn",
+      "description": "Hermes Agent is the best AI tool out there. Here is your COMPLETE tutorial.\n\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nPrompts:\nI want you to schedule a task for yourself to do every single night at 2am. It should be a micro app, UI, or system that helps us get closer to my personal goals and ambitions. It should save us time, make us more productive, or just be generally useful. Make sure this is scheduled for every single night at 2am.\n\nhermes-agent.nousresearch.com\n\nTimestamps:\n0:00 Intro\n1:50 What Hermes Agent is\n3:13 Hermes vs OpenClaw\n5:17 Hermes vs Claude Code\n7:57 Hermes installation\n9:28 Choosing a model\n13:44 First things to do\n18:02 Hermes dashboard\n21:00 Hermes Kanban board\n23:15 Use case 1\n25:40 Use case 2\n27:47 Use case 3\n29:40 Memory and skills\n34:30 Mission control\n37:38 Troubleshooting\n38:42 Security\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Box",
+          "Twitter",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here's how to set it up\nHermes Agent is the number one AI tool you should be learning right now"
+      ],
+      "transcript_chars": 47057,
+      "folder": "2026-05-26-hermes-agent-is-the-greatest-ai-tool-ever-made-heres-how-to-set-it-up"
+    },
     {
       "title": "6 Hermes Agent use cases I promise will change your life",
       "video_id": "AQHlyGA2cZM",
