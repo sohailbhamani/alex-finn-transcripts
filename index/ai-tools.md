@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (224 episodes):
+Episodes discussing **Ai Tools** (225 episodes):
 
+- [Claude Opus 4.8 actually blew my mind...](../episodes/2026-05-28-claude-opus-48-actually-blew-my-mind/transcript.md) (2026-05-28)
 - [Hermes Agent is the greatest AI tool ever made. Here's how to set it up](../episodes/2026-05-26-hermes-agent-is-the-greatest-ai-tool-ever-made-heres-how-to-set-it-up/transcript.md) (2026-05-26)
 - [6 Hermes Agent use cases I promise will change your life](../episodes/2026-05-22-6-hermes-agent-use-cases-i-promise-will-change-your-life/transcript.md) (2026-05-22)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)

@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (12 episodes):
+Episodes discussing **Framework** (13 episodes):
 
+- [Claude Opus 4.8 actually blew my mind...](../episodes/2026-05-28-claude-opus-48-actually-blew-my-mind/transcript.md) (2026-05-28)
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [I did something INCREDIBLE with OpenClaw](../episodes/2026-03-11-i-did-something-incredible-with-openclaw/transcript.md) (2026-03-11)

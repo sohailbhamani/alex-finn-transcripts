@@ -1,10 +1,58 @@
 {
-  "total_videos": 259,
+  "total_videos": 260,
   "date_range": {
-    "newest": "2026-05-26",
+    "newest": "2026-05-28",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Claude Opus 4.8 actually blew my mind...",
+      "video_id": "j-oiGiIEcws",
+      "youtube_url": "https://www.youtube.com/watch?v=j-oiGiIEcws",
+      "publish_date": "2026-05-28",
+      "duration": "12:43",
+      "duration_seconds": 763,
+      "view_count": 5621,
+      "author": "Alex Finn",
+      "description": "Claude Opus 4.8 full tutorial and walkthrough\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Claude Opus 4.8 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:27 The changes\n5:28 Recommendations\n8:36 Product walkthrough\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Slack",
+          "Twitter",
+          "YouTube"
+        ],
+        "people": [
+          "Elon Musk",
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "They implemented so many changes and a lot of these were hidden"
+      ],
+      "transcript_chars": 13210,
+      "folder": "2026-05-28-claude-opus-48-actually-blew-my-mind"
+    },
     {
       "title": "Hermes Agent is the greatest AI tool ever made. Here's how to set it up",
       "video_id": "RoBD7Lc-0MI",
