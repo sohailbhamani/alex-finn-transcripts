@@ -1,10 +1,53 @@
 {
-  "total_videos": 260,
+  "total_videos": 261,
   "date_range": {
-    "newest": "2026-05-28",
+    "newest": "2026-06-03",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Hermes Agent just WON (Hermes desktop app)",
+      "video_id": "tiFJmVhkF_s",
+      "youtube_url": "https://www.youtube.com/watch?v=tiFJmVhkF_s",
+      "publish_date": "2026-06-03",
+      "duration": "13:12",
+      "duration_seconds": 792,
+      "view_count": 21630,
+      "author": "Alex Finn",
+      "description": "Hermes agent desktop app is incredible. Here's a full walkthrough\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nDesktop app: https://hermes-agent.nousresearch.com/desktop\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Atlas",
+          "Artifacts"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Hermes Agent just WON (Hermes desktop app)\nHermes just dropped the best way to engage with AI agents ever, the desktop app"
+      ],
+      "transcript_chars": 13985,
+      "folder": "2026-06-03-hermes-agent-just-won-hermes-desktop-app"
+    },
     {
       "title": "Claude Opus 4.8 actually blew my mind...",
       "video_id": "j-oiGiIEcws",
