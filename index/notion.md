@@ -1,7 +1,8 @@
 # Notion
 
-Episodes discussing **Notion** (27 episodes):
+Episodes discussing **Notion** (28 episodes):
 
+- [Claude Fable 5 just dropped and I'm speechless...](../episodes/2026-06-09-claude-fable-5-just-dropped-and-im-speechless/transcript.md) (2026-06-09)
 - [6 OpenClaw use cases I promise will change your life](../episodes/2026-02-12-6-openclaw-use-cases-i-promise-will-change-your-life/transcript.md) (2026-02-12)
 - [ClawdBot is the most powerful AI tool I’ve ever used in my life. Here’s how to set it up](../episodes/2026-01-24-clawdbot-is-the-most-powerful-ai-tool-ive-ever-used-in-my-life-heres-how-to-set/transcript.md) (2026-01-24)
 - [Using Claude Code to get my first customers LIVE!!!](../episodes/2026-01-02-using-claude-code-to-get-my-first-customers-live/transcript.md) (2026-01-02)

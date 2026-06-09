@@ -1,10 +1,49 @@
 {
-  "total_videos": 261,
+  "total_videos": 262,
   "date_range": {
-    "newest": "2026-06-03",
+    "newest": "2026-06-09",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Claude Fable 5 just dropped and I'm speechless...",
+      "video_id": "RwsUnvHYmyw",
+      "youtube_url": "https://www.youtube.com/watch?v=RwsUnvHYmyw",
+      "publish_date": "2026-06-09",
+      "duration": "12:57",
+      "duration_seconds": 777,
+      "view_count": 629,
+      "author": "Alex Finn",
+      "description": "Claude Fable 5 (Mythos) full tutorial and walkthrough\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Claude Fable 5 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro \n1:13 How it's different\n3:30 Using the model\n6:03 Building an app with Fable\n9:16 The results\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Notion"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "The biggest model release of the entire year, maybe of all time, happened today, just now"
+      ],
+      "transcript_chars": 13298,
+      "folder": "2026-06-09-claude-fable-5-just-dropped-and-im-speechless"
+    },
     {
       "title": "Hermes Agent just WON (Hermes desktop app)",
       "video_id": "tiFJmVhkF_s",
