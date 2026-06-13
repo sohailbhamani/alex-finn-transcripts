@@ -1,7 +1,8 @@
 # Sonnet
 
-Episodes discussing **Sonnet** (72 episodes):
+Episodes discussing **Sonnet** (73 episodes):
 
+- [CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...](../episodes/2026-06-13-claude-fable-5-banned-it-actually-happened/transcript.md) (2026-06-13)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)](../episodes/2026-04-15-claude-code-for-desktop-is-the-best-way-to-build-apps-with-a/transcript.md) (2026-04-15)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)

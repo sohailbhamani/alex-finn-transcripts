@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (44 episodes):
+Episodes discussing **Nvidia** (45 episodes):
 
+- [CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...](../episodes/2026-06-13-claude-fable-5-banned-it-actually-happened/transcript.md) (2026-06-13)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)

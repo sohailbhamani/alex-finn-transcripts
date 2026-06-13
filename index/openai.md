@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (118 episodes):
+Episodes discussing **Openai** (119 episodes):
 
+- [CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...](../episodes/2026-06-13-claude-fable-5-banned-it-actually-happened/transcript.md) (2026-06-13)
 - [Claude Opus 4.8 actually blew my mind...](../episodes/2026-05-28-claude-opus-48-actually-blew-my-mind/transcript.md) (2026-05-28)
 - [Hermes Agent is the greatest AI tool ever made. Here's how to set it up](../episodes/2026-05-26-hermes-agent-is-the-greatest-ai-tool-ever-made-heres-how-to-set-it-up/transcript.md) (2026-05-26)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)

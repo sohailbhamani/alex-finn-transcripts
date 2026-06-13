@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (199 episodes):
+Episodes discussing **Tutorial** (200 episodes):
 
+- [CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...](../episodes/2026-06-13-claude-fable-5-banned-it-actually-happened/transcript.md) (2026-06-13)
 - [Claude Fable 5 just dropped and I'm speechless...](../episodes/2026-06-09-claude-fable-5-just-dropped-and-im-speechless/transcript.md) (2026-06-09)
 - [Hermes Agent just WON (Hermes desktop app)](../episodes/2026-06-03-hermes-agent-just-won-hermes-desktop-app/transcript.md) (2026-06-03)
 - [6 Hermes Agent use cases I promise will change your life](../episodes/2026-05-22-6-hermes-agent-use-cases-i-promise-will-change-your-life/transcript.md) (2026-05-22)

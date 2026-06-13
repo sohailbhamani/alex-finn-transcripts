@@ -1,10 +1,51 @@
 {
-  "total_videos": 262,
+  "total_videos": 263,
   "date_range": {
-    "newest": "2026-06-09",
+    "newest": "2026-06-13",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...",
+      "video_id": "mm3Ybi-9cCw",
+      "youtube_url": "https://www.youtube.com/watch?v=mm3Ybi-9cCw",
+      "publish_date": "2026-06-13",
+      "duration": "11:39",
+      "duration_seconds": 699,
+      "view_count": 10111,
+      "author": "Alex Finn",
+      "description": "Claude Fable 5 (Mythos) BANNED across the world\n\nFULL Claude Opus 4.8 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Haiku"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Claude Fable 5, the most powerful AI model ever released, has been banned across the world"
+      ],
+      "transcript_chars": 11851,
+      "folder": "2026-06-13-claude-fable-5-banned-it-actually-happened"
+    },
     {
       "title": "Claude Fable 5 just dropped and I'm speechless...",
       "video_id": "RwsUnvHYmyw",

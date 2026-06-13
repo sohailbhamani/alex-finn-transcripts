@@ -1,7 +1,8 @@
 # Haiku
 
-Episodes discussing **Haiku** (10 episodes):
+Episodes discussing **Haiku** (11 episodes):
 
+- [CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...](../episodes/2026-06-13-claude-fable-5-banned-it-actually-happened/transcript.md) (2026-06-13)
 - [LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows](../episodes/2026-04-01-live-massive-claude-code-leak-fallout-hermes-agent-workflows/transcript.md) (2026-04-01)
 - [How to run ClawdBot for DIRT CHEAP](../episodes/2026-02-02-how-to-run-clawdbot-for-dirt-cheap/transcript.md) (2026-02-02)
 - [9 months of Claude Code Lessons in 19 minutes](../episodes/2025-11-28-9-months-of-claude-code-lessons-in-19-minutes/transcript.md) (2025-11-28)
