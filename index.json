@@ -1,10 +1,51 @@
 {
-  "total_videos": 263,
+  "total_videos": 264,
   "date_range": {
-    "newest": "2026-06-13",
+    "newest": "2026-06-19",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "How to get unlimited AI for free (GLM 5.2 local)",
+      "video_id": "mhOqhMuYxWE",
+      "youtube_url": "https://www.youtube.com/watch?v=mhOqhMuYxWE",
+      "publish_date": "2026-06-19",
+      "duration": "18:31",
+      "duration_seconds": 1111,
+      "view_count": 2496,
+      "author": "Alex Finn",
+      "description": "GLM 5.2 is incredible and crushes Opus. Here is how it works and how I am running it locally and more information on local models\n\nFULL GLM 5.2 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n1:18 Demo of GLM\n2:25 What makes GLM special\n4:14 Computer you need\n5:45 The upsides of running GLM locally\n6:42 The downsides\n7:33 What are local models\n10:53 Which local models you can run\n11:55 Setting up GLM locally\n14:04 Pricing\n14:45 The future of AI\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "2 local)\nI have unlimited free super intelligence running on my desk"
+      ],
+      "transcript_chars": 19384,
+      "folder": "2026-06-19-how-to-get-unlimited-ai-for-free-glm-52-local"
+    },
     {
       "title": "CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...",
       "video_id": "mm3Ybi-9cCw",

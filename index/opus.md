@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (113 episodes):
+Episodes discussing **Opus** (114 episodes):
 
+- [How to get unlimited AI for free (GLM 5.2 local)](../episodes/2026-06-19-how-to-get-unlimited-ai-for-free-glm-52-local/transcript.md) (2026-06-19)
 - [CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...](../episodes/2026-06-13-claude-fable-5-banned-it-actually-happened/transcript.md) (2026-06-13)
 - [Claude Fable 5 just dropped and I'm speechless...](../episodes/2026-06-09-claude-fable-5-just-dropped-and-im-speechless/transcript.md) (2026-06-09)
 - [Hermes Agent just WON (Hermes desktop app)](../episodes/2026-06-03-hermes-agent-just-won-hermes-desktop-app/transcript.md) (2026-06-03)

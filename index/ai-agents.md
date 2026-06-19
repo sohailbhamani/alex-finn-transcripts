@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (121 episodes):
+Episodes discussing **Ai Agents** (122 episodes):
 
+- [How to get unlimited AI for free (GLM 5.2 local)](../episodes/2026-06-19-how-to-get-unlimited-ai-for-free-glm-52-local/transcript.md) (2026-06-19)
 - [Claude Fable 5 just dropped and I'm speechless...](../episodes/2026-06-09-claude-fable-5-just-dropped-and-im-speechless/transcript.md) (2026-06-09)
 - [Hermes Agent just WON (Hermes desktop app)](../episodes/2026-06-03-hermes-agent-just-won-hermes-desktop-app/transcript.md) (2026-06-03)
 - [Claude Opus 4.8 actually blew my mind...](../episodes/2026-05-28-claude-opus-48-actually-blew-my-mind/transcript.md) (2026-05-28)

@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (45 episodes):
+Episodes discussing **Nvidia** (46 episodes):
 
+- [How to get unlimited AI for free (GLM 5.2 local)](../episodes/2026-06-19-how-to-get-unlimited-ai-for-free-glm-52-local/transcript.md) (2026-06-19)
 - [CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...](../episodes/2026-06-13-claude-fable-5-banned-it-actually-happened/transcript.md) (2026-06-13)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
 - [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
