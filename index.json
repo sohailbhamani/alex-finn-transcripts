@@ -1,10 +1,47 @@
 {
-  "total_videos": 264,
+  "total_videos": 265,
   "date_range": {
-    "newest": "2026-06-19",
+    "newest": "2026-06-24",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "The new Hermes Agent update has me speechless....",
+      "video_id": "bQ1LCFrwj08",
+      "youtube_url": "https://www.youtube.com/watch?v=bQ1LCFrwj08",
+      "publish_date": "2026-06-24",
+      "duration": "13:39",
+      "duration_seconds": 819,
+      "view_count": 17604,
+      "author": "Alex Finn",
+      "description": "Hermes agent's new update is amazing. Here's a full walkthrough\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nDesktop app: https://hermes-agent.nousresearch.com/desktop\n\nTimestamps:\n0:00 Intro\n0:26 Native iMessage\n2:51 Background agents\n5:12 Unreal MCP\n6:23 New Desktop App\n7:56 Profile builder\n9:42 Skills Hub\n10:50 Smarter self improvement\n12:02 Telegram updates\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "Codex",
+          "Make",
+          "MCP"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "It is safe to say it is now way better than Open Claw"
+      ],
+      "transcript_chars": 14666,
+      "folder": "2026-06-24-the-new-hermes-agent-update-has-me-speechless"
+    },
     {
       "title": "How to get unlimited AI for free (GLM 5.2 local)",
       "video_id": "mhOqhMuYxWE",
