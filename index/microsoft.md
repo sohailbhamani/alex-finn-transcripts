@@ -1,7 +1,8 @@
 # Microsoft
 
-Episodes discussing **Microsoft** (29 episodes):
+Episodes discussing **Microsoft** (30 episodes):
 
+- [The most important concept to learn in AI...](../episodes/2026-06-27-the-most-important-concept-to-learn-in-ai/transcript.md) (2026-06-27)
 - [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)](../episodes/2026-03-16-live-massive-nvidia-announcements-full-jensen-huang-gtc-keyn/transcript.md) (2026-03-16)
 - [Unknown](../episodes/2026-02-18-live-anthropic-bans-openclaw-its-over/transcript.md) (2026-02-18)

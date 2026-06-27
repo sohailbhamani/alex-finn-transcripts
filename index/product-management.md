@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (130 episodes):
+Episodes discussing **Product Management** (131 episodes):
 
+- [The most important concept to learn in AI...](../episodes/2026-06-27-the-most-important-concept-to-learn-in-ai/transcript.md) (2026-06-27)
 - [The new Hermes Agent update has me speechless....](../episodes/2026-06-24-the-new-hermes-agent-update-has-me-speechless/transcript.md) (2026-06-24)
 - [Hermes Agent just WON (Hermes desktop app)](../episodes/2026-06-03-hermes-agent-just-won-hermes-desktop-app/transcript.md) (2026-06-03)
 - [Claude Opus 4.8 actually blew my mind...](../episodes/2026-05-28-claude-opus-48-actually-blew-my-mind/transcript.md) (2026-05-28)

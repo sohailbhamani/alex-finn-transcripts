@@ -1,5 +1,5 @@
 {
-  "total_videos": 266,
+  "total_videos": 267,
   "date_range": {
     "newest": "2026-06-27",
     "oldest": ""
@@ -50,6 +50,52 @@
       ],
       "transcript_chars": 11630,
       "folder": "2026-06-27-chatgpt-56-has-been-announced-im-done"
+    },
+    {
+      "title": "The most important concept to learn in AI...",
+      "video_id": "C4vwvRMTlvc",
+      "youtube_url": "https://www.youtube.com/watch?v=C4vwvRMTlvc",
+      "publish_date": "2026-06-27",
+      "duration": "20:15",
+      "duration_seconds": 1215,
+      "view_count": 287,
+      "author": "Alex Finn",
+      "description": "You NEED to be learning about local AI. Here is your masterclass\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nDesktop app: https://hermes-agent.nousresearch.com/desktop\n\nTimestamps:\n0:00 Intro\n1:11 My home AI lab\n1:44 Why you need to learn about this\n5:22 What is local AI\n6:90 Advantages to local AI\n8:49 Hardware you need\n12:29 Software you need\n14:01 Use cases\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "Microsoft",
+          "Apple",
+          "Nvidia",
+          "X",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "The world has changed dramatically this week and I am not understating that"
+      ],
+      "transcript_chars": 22519,
+      "folder": "2026-06-27-the-most-important-concept-to-learn-in-ai"
     },
     {
       "title": "The new Hermes Agent update has me speechless....",

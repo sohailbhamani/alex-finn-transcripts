@@ -1,8 +1,9 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (155 episodes):
+Episodes discussing **Frameworks** (156 episodes):
 
 - [ChatGPT 5.6 has been announced. I’m done…](../episodes/2026-06-27-chatgpt-56-has-been-announced-im-done/transcript.md) (2026-06-27)
+- [The most important concept to learn in AI...](../episodes/2026-06-27-the-most-important-concept-to-learn-in-ai/transcript.md) (2026-06-27)
 - [The new Hermes Agent update has me speechless....](../episodes/2026-06-24-the-new-hermes-agent-update-has-me-speechless/transcript.md) (2026-06-24)
 - [How to get unlimited AI for free (GLM 5.2 local)](../episodes/2026-06-19-how-to-get-unlimited-ai-for-free-glm-52-local/transcript.md) (2026-06-19)
 - [CLAUDE FABLE 5 BANNED. IT ACTUALLY HAPPENED...](../episodes/2026-06-13-claude-fable-5-banned-it-actually-happened/transcript.md) (2026-06-13)
