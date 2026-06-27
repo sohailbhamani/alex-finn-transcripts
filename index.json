@@ -1,10 +1,56 @@
 {
-  "total_videos": 265,
+  "total_videos": 266,
   "date_range": {
-    "newest": "2026-06-24",
+    "newest": "2026-06-27",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "ChatGPT 5.6 has been announced. I\u2019m done\u2026",
+      "video_id": "5zm7LIDXtvE",
+      "youtube_url": "https://www.youtube.com/watch?v=5zm7LIDXtvE",
+      "publish_date": "2026-06-27",
+      "duration": "10:33",
+      "duration_seconds": 633,
+      "view_count": 18456,
+      "author": "Alex Finn",
+      "description": "ChatGPT 5.6 was just announced. Here is why this is bad.\n\n\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Nvidia",
+          "Twitter",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "What you would do with that ai, which use cases you would do"
+      ],
+      "summary": [
+        "6 just got announced and it is legitimately the worst news of the entire year"
+      ],
+      "transcript_chars": 11630,
+      "folder": "2026-06-27-chatgpt-56-has-been-announced-im-done"
+    },
     {
       "title": "The new Hermes Agent update has me speechless....",
       "video_id": "bQ1LCFrwj08",
