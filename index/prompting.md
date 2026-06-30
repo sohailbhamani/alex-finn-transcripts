@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (119 episodes):
+Episodes discussing **Prompting** (120 episodes):
 
+- [Claude Sonnet 5 just dropped. I'm changing how I use AI...](../episodes/2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai/transcript.md) (2026-06-30)
 - [The new Hermes Agent update has me speechless....](../episodes/2026-06-24-the-new-hermes-agent-update-has-me-speechless/transcript.md) (2026-06-24)
 - [How to get unlimited AI for free (GLM 5.2 local)](../episodes/2026-06-19-how-to-get-unlimited-ai-for-free-glm-52-local/transcript.md) (2026-06-19)
 - [Hermes Agent is the greatest AI tool ever made. Here's how to set it up](../episodes/2026-05-26-hermes-agent-is-the-greatest-ai-tool-ever-made-heres-how-to-set-it-up/transcript.md) (2026-05-26)

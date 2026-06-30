@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (193 episodes):
+Episodes discussing **Claude** (194 episodes):
 
+- [Claude Sonnet 5 just dropped. I'm changing how I use AI...](../episodes/2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai/transcript.md) (2026-06-30)
 - [ChatGPT 5.6 has been announced. I’m done…](../episodes/2026-06-27-chatgpt-56-has-been-announced-im-done/transcript.md) (2026-06-27)
 - [The most important concept to learn in AI...](../episodes/2026-06-27-the-most-important-concept-to-learn-in-ai/transcript.md) (2026-06-27)
 - [How to get unlimited AI for free (GLM 5.2 local)](../episodes/2026-06-19-how-to-get-unlimited-ai-for-free-glm-52-local/transcript.md) (2026-06-19)

@@ -1,10 +1,57 @@
 {
-  "total_videos": 267,
+  "total_videos": 268,
   "date_range": {
-    "newest": "2026-06-27",
+    "newest": "2026-06-30",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Claude Sonnet 5 just dropped. I'm changing how I use AI...",
+      "video_id": "uU0RFxGv-Ks",
+      "youtube_url": "https://www.youtube.com/watch?v=uU0RFxGv-Ks",
+      "publish_date": "2026-06-30",
+      "duration": "11:56",
+      "duration_seconds": 716,
+      "view_count": 1935,
+      "author": "Alex Finn",
+      "description": "A complete walkthrough of the new Claude Sonnet 5 release\n\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:41 What Sonnet 5 is\n3:41 Performance test\n6:25 Sonnet 5 best practices\n10:15 Fable 5\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Notion"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Notion AI",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Computer Use"
+        ],
+        "models": [
+          "Claude Sonnet"
+        ]
+      },
+      "concepts": [
+        "Tell you how you should be using it now, should you be using it in hermes, should you be using open claw, should you be using it in claude code, and where you shouldn't even be touching it at all"
+      ],
+      "summary": [
+        "Claude Sonnet 5 has released and it is by far the best bang for your buck in AI right now"
+      ],
+      "transcript_chars": 12258,
+      "folder": "2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai"
+    },
     {
       "title": "ChatGPT 5.6 has been announced. I\u2019m done\u2026",
       "video_id": "5zm7LIDXtvE",

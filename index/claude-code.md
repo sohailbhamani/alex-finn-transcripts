@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (155 episodes):
+Episodes discussing **Claude Code** (156 episodes):
 
+- [Claude Sonnet 5 just dropped. I'm changing how I use AI...](../episodes/2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai/transcript.md) (2026-06-30)
 - [ChatGPT 5.6 has been announced. I’m done…](../episodes/2026-06-27-chatgpt-56-has-been-announced-im-done/transcript.md) (2026-06-27)
 - [Claude Fable 5 just dropped and I'm speechless...](../episodes/2026-06-09-claude-fable-5-just-dropped-and-im-speechless/transcript.md) (2026-06-09)
 - [Hermes Agent just WON (Hermes desktop app)](../episodes/2026-06-03-hermes-agent-just-won-hermes-desktop-app/transcript.md) (2026-06-03)
