@@ -1,10 +1,55 @@
 {
-  "total_videos": 268,
+  "total_videos": 269,
   "date_range": {
-    "newest": "2026-06-30",
+    "newest": "2026-07-01",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Fable 5 is BACK! Here are the first 8 things you need to do\u2026",
+      "video_id": "A3fxKRsvh3U",
+      "youtube_url": "https://www.youtube.com/watch?v=A3fxKRsvh3U",
+      "publish_date": "2026-07-01",
+      "duration": "14:22",
+      "duration_seconds": 862,
+      "view_count": 43297,
+      "author": "Alex Finn",
+      "description": "Claude Fable 5 is back! Here are the first 8 things you need to do with it. These are use cases EVERYONE should be doing\n\nFULL Claude Code bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\n\nImprove your code: Review all the code that was written after the date Fable was banned. Look for optimizations and improvements you can make\n\nClaude for chrome: Walk through every major user path in the app you're building using browser control. Write a report on where users can get confused and what I can do to improve the UX\n\nBusiness consulting:\nAct as my business consultant.\n\nYour goal is to figure out a digital business we can build together. Ask one short question at a time. Don\u2019t give advice until the interview is done.\n\nFind out:\n\n- What my skillsets are\n- What my passions are\n- Which assets I have (audience, platforms, content)\n- What perspective or value I could provide to the internet\n- What my goals and ambitions are\n\nWhen you have enough context, stop asking questions and produce a business plan with:\n\n1. Saas I could build\n\n1. Services I could start\n2. Digital products I could create\n\nBegin now.\n\nSecurity: /loop it every 24 hours to do a security check on all your API endpoints in your existing apps\n\nX MCP: https://docs.x.com/tools/mcp \n\nunreal MCP: https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor?lang=en-US\n\nAutomate your life: Take a look at my tasks I did today. How can I use you to better handle, automate, and complete these tasks? How could you be the most service to me and save me as much time as possible?\n\nTimestamps:\n0:00 Intro\n0:44 Pricing\n3:06 Improving your code\n4:40 Having it use Claude for Chrome\n5:50 Coming up with businesses\n7:35 Security loops\n9:23 X MCP\n11:05 Unreal MCP\n12:20 Automate your life\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Beginner",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "Cursor",
+          "Twitter",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Make",
+          "MCP",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here are the first 8 things you need to do\u2026\nThe moment you've been waiting for happened"
+      ],
+      "transcript_chars": 15542,
+      "folder": "2026-07-01-fable-5-is-back-here-are-the-first-8-things-you-need-to-do"
+    },
     {
       "title": "Claude Sonnet 5 just dropped. I'm changing how I use AI...",
       "video_id": "uU0RFxGv-Ks",
