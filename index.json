@@ -1,10 +1,51 @@
 {
-  "total_videos": 269,
+  "total_videos": 270,
   "date_range": {
-    "newest": "2026-07-01",
+    "newest": "2026-07-06",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "The new Hermes Agent update officially ended OpenClaw",
+      "video_id": "_LYXbI6JY5M",
+      "youtube_url": "https://www.youtube.com/watch?v=_LYXbI6JY5M",
+      "publish_date": "2026-07-06",
+      "duration": "11:57",
+      "duration_seconds": 717,
+      "view_count": 28840,
+      "author": "Alex Finn",
+      "description": "The new Hermes Agent update is incredible\n\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:26 Mixture of Agents\n3:27 Learn skill\n5:25 Journey skill\n6:14 Cost savings\n7:07 Vibe coding improvements\n9:06 Fable 5\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "X",
+          "Oracle"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "DeepSeek"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# The new Hermes Agent update officially ended OpenClaw\nHermes Agent is officially the best AI agent ever made"
+      ],
+      "transcript_chars": 12589,
+      "folder": "2026-07-06-the-new-hermes-agent-update-officially-ended-openclaw"
+    },
     {
       "title": "Fable 5 is BACK! Here are the first 8 things you need to do\u2026",
       "video_id": "A3fxKRsvh3U",
