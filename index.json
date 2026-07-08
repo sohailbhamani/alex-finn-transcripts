@@ -1,10 +1,55 @@
 {
-  "total_videos": 270,
+  "total_videos": 271,
   "date_range": {
-    "newest": "2026-07-06",
+    "newest": "2026-07-08",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "100 hours of Hermes Agent lessons in 19 minutes",
+      "video_id": "SpEwNq9H23w",
+      "youtube_url": "https://www.youtube.com/watch?v=SpEwNq9H23w",
+      "publish_date": "2026-07-08",
+      "duration": "19:25",
+      "duration_seconds": 1165,
+      "view_count": 3605,
+      "author": "Alex Finn",
+      "description": "Take the free Build Your First Agent course!  https://clickhubspot.com/2e5482\n\nHere are lessons from using Hermes Agent that will make your AI agent so much better!\n\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:28 Choosing the right model\n3:28 Agent profiles\n8:00 Security\n10:14 Using the right platform\n11:49 Improving performance\n14:19 Tailscale\n16:45 Reverse prompting\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Apple",
+          "Notion",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# 100 hours of Hermes Agent lessons in 19 minutes\nHermes Agent is the most powerful software ever made"
+      ],
+      "transcript_chars": 20570,
+      "folder": "2026-07-08-100-hours-of-hermes-agent-lessons-in-19-minutes"
+    },
     {
       "title": "The new Hermes Agent update officially ended OpenClaw",
       "video_id": "_LYXbI6JY5M",
