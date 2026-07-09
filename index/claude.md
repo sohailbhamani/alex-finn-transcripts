@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (197 episodes):
+Episodes discussing **Claude** (198 episodes):
 
+- [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [100 hours of Hermes Agent lessons in 19 minutes](../episodes/2026-07-08-100-hours-of-hermes-agent-lessons-in-19-minutes/transcript.md) (2026-07-08)
 - [The new Hermes Agent update officially ended OpenClaw](../episodes/2026-07-06-the-new-hermes-agent-update-officially-ended-openclaw/transcript.md) (2026-07-06)
 - [Fable 5 is BACK! Here are the first 8 things you need to do…](../episodes/2026-07-01-fable-5-is-back-here-are-the-first-8-things-you-need-to-do/transcript.md) (2026-07-01)

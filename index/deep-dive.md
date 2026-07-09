@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (10 episodes):
+Episodes discussing **Deep Dive** (11 episodes):
 
+- [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
 - [Everything you need to know about Grok 4.1 in 11 minutes](../episodes/2025-11-18-everything-you-need-to-know-about-grok-41-in-11-minutes/transcript.md) (2025-11-18)
 - [AI Agents clearly explained (and why it matters)](../episodes/2025-04-22-ai-agents-clearly-explained-and-why-it-matters/transcript.md) (2025-04-22)

@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (38 episodes):
+Episodes discussing **Leadership** (39 episodes):
 
+- [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [ChatGPT 5.6 has been announced. I’m done…](../episodes/2026-06-27-chatgpt-56-has-been-announced-im-done/transcript.md) (2026-06-27)
 - [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)
 - [Anthropic just blocked OpenClaw. Here’s what you need to do immediately](../episodes/2026-04-05-anthropic-just-blocked-openclaw-here-s-what-you-need-to-do-i/transcript.md) (2026-04-05)

@@ -1,7 +1,8 @@
 # Computer Use
 
-Episodes discussing **Computer Use** (17 episodes):
+Episodes discussing **Computer Use** (18 episodes):
 
+- [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [Claude Sonnet 5 just dropped. I'm changing how I use AI...](../episodes/2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai/transcript.md) (2026-06-30)
 - [ChatGPT 5.6 has been announced. I’m done…](../episodes/2026-06-27-chatgpt-56-has-been-announced-im-done/transcript.md) (2026-06-27)
 - [Hermes Agent is the greatest AI tool ever made. Here's how to set it up](../episodes/2026-05-26-hermes-agent-is-the-greatest-ai-tool-ever-made-heres-how-to-set-it-up/transcript.md) (2026-05-26)

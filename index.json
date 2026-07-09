@@ -1,10 +1,56 @@
 {
-  "total_videos": 271,
+  "total_videos": 272,
   "date_range": {
-    "newest": "2026-07-08",
+    "newest": "2026-07-09",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "ChatGPT 5.6 just KILLED Fable 5",
+      "video_id": "r0TLqUwsB28",
+      "youtube_url": "https://www.youtube.com/watch?v=r0TLqUwsB28",
+      "publish_date": "2026-07-09",
+      "duration": "19:40",
+      "duration_seconds": 1180,
+      "view_count": 5256,
+      "author": "Alex Finn",
+      "description": "ChatGPT 5.6 is revolutionary. But is it better than Fable 5?\n\nFULL ChatGPT 5.6 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\n\nTimestamps:\n0:00 Intro\n0:34 What is new\n3:34 ChatGPT 5.6 vs Fable 5\n11:43 New workflow\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Twitter"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "6 is, the improvements it made, do an indepth breakdown against Fable 5, show you who the clear winner is, and then show you an amazing workflow that will change how you use AI forever"
+      ],
+      "transcript_chars": 19951,
+      "folder": "2026-07-09-chatgpt-56-just-killed-fable-5"
+    },
     {
       "title": "100 hours of Hermes Agent lessons in 19 minutes",
       "video_id": "SpEwNq9H23w",

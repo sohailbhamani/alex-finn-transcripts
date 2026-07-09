@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (52 episodes):
+Episodes discussing **Codex** (53 episodes):
 
+- [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [The new Hermes Agent update has me speechless....](../episodes/2026-06-24-the-new-hermes-agent-update-has-me-speechless/transcript.md) (2026-06-24)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)

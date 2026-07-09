@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (214 episodes):
+Episodes discussing **Coding** (215 episodes):
 
+- [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [The new Hermes Agent update officially ended OpenClaw](../episodes/2026-07-06-the-new-hermes-agent-update-officially-ended-openclaw/transcript.md) (2026-07-06)
 - [Fable 5 is BACK! Here are the first 8 things you need to do…](../episodes/2026-07-01-fable-5-is-back-here-are-the-first-8-things-you-need-to-do/transcript.md) (2026-07-01)
 - [Claude Sonnet 5 just dropped. I'm changing how I use AI...](../episodes/2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai/transcript.md) (2026-06-30)

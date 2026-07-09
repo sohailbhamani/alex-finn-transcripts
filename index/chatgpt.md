@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (42 episodes):
+Episodes discussing **Chatgpt** (43 episodes):
 
+- [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [ChatGPT 5.6 has been announced. I’m done…](../episodes/2026-06-27-chatgpt-56-has-been-announced-im-done/transcript.md) (2026-06-27)
 - [LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!](../episodes/2026-03-27-live-claude-mythos-opus-5-revealed/transcript.md) (2026-03-27)
 - [Why you NEED to be running local AI models (FULL beginners guide)](../episodes/2026-03-24-why-you-need-to-be-running-local-ai-models-full-beginners-gu/transcript.md) (2026-03-24)

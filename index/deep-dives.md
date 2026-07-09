@@ -1,7 +1,8 @@
 # Deep Dives
 
-Episodes discussing **Deep Dives** (18 episodes):
+Episodes discussing **Deep Dives** (19 episodes):
 
+- [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [Claude Code for Mobile is the BEST way to build apps with AI (Remote Control)](../episodes/2026-02-27-claude-code-for-mobile-is-the-best-way-to-build-apps-with-ai/transcript.md) (2026-02-27)
 - [5 OpenClaw use cases that will make you a productivity MACHINE](../episodes/2026-02-22-5-openclaw-use-cases-that-will-make-you-a-productivity-machi/transcript.md) (2026-02-22)
 - [How I made $500,000 with Claude Code (and how you can too)](../episodes/2026-01-22-how-i-made-500000-with-claude-code-and-how-you-can-too/transcript.md) (2026-01-22)
