@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (88 episodes):
+Episodes discussing **Workflows** (89 episodes):
 
+- [ChatGPT 5.6 inside Hermes Agent left me speechless...](../episodes/2026-07-15-chatgpt-56-inside-hermes-agent-left-me-speechless/transcript.md) (2026-07-15)
 - [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [The new Hermes Agent update officially ended OpenClaw](../episodes/2026-07-06-the-new-hermes-agent-update-officially-ended-openclaw/transcript.md) (2026-07-06)
 - [Claude Opus 4.8 actually blew my mind...](../episodes/2026-05-28-claude-opus-48-actually-blew-my-mind/transcript.md) (2026-05-28)

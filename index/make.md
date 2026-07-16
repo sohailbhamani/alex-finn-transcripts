@@ -1,7 +1,8 @@
 # Make
 
-Episodes discussing **Make** (249 episodes):
+Episodes discussing **Make** (250 episodes):
 
+- [ChatGPT 5.6 inside Hermes Agent left me speechless...](../episodes/2026-07-15-chatgpt-56-inside-hermes-agent-left-me-speechless/transcript.md) (2026-07-15)
 - [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [100 hours of Hermes Agent lessons in 19 minutes](../episodes/2026-07-08-100-hours-of-hermes-agent-lessons-in-19-minutes/transcript.md) (2026-07-08)
 - [The new Hermes Agent update officially ended OpenClaw](../episodes/2026-07-06-the-new-hermes-agent-update-officially-ended-openclaw/transcript.md) (2026-07-06)

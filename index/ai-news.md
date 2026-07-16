@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (186 episodes):
+Episodes discussing **Ai News** (187 episodes):
 
+- [ChatGPT 5.6 inside Hermes Agent left me speechless...](../episodes/2026-07-15-chatgpt-56-inside-hermes-agent-left-me-speechless/transcript.md) (2026-07-15)
 - [The new Hermes Agent update officially ended OpenClaw](../episodes/2026-07-06-the-new-hermes-agent-update-officially-ended-openclaw/transcript.md) (2026-07-06)
 - [Fable 5 is BACK! Here are the first 8 things you need to do…](../episodes/2026-07-01-fable-5-is-back-here-are-the-first-8-things-you-need-to-do/transcript.md) (2026-07-01)
 - [Claude Sonnet 5 just dropped. I'm changing how I use AI...](../episodes/2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai/transcript.md) (2026-06-30)

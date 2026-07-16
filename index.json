@@ -1,10 +1,55 @@
 {
-  "total_videos": 272,
+  "total_videos": 273,
   "date_range": {
-    "newest": "2026-07-09",
+    "newest": "2026-07-15",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "ChatGPT 5.6 inside Hermes Agent left me speechless...",
+      "video_id": "eHZ14afnDZ0",
+      "youtube_url": "https://www.youtube.com/watch?v=eHZ14afnDZ0",
+      "publish_date": "2026-07-15",
+      "duration": "13:52",
+      "duration_seconds": 832,
+      "view_count": 14544,
+      "author": "Alex Finn",
+      "description": "ChatGPT 5.6 is revolutionary, and it's even better in Hermes Agent\n\nFULL ChatGPT 5.6 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\n\nTimestamps:\n0:00 Intro\n0:30 Why Hermes over OpenClaw\n3:11 Why ChatGPT over Claude\n5:33 Setting it up\n8:00 Use cases\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Nvidia",
+          "Hugging Face"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Claude Code",
+          "Hugging Face",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "If you don't set up the right way or use it the right way, it's going to absolutely suck"
+      ],
+      "transcript_chars": 13934,
+      "folder": "2026-07-15-chatgpt-56-inside-hermes-agent-left-me-speechless"
+    },
     {
       "title": "ChatGPT 5.6 just KILLED Fable 5",
       "video_id": "r0TLqUwsB28",
