@@ -1,10 +1,48 @@
 {
-  "total_videos": 273,
+  "total_videos": 274,
   "date_range": {
-    "newest": "2026-07-15",
+    "newest": "2026-07-17",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Do these 5 things in Claude Fable 5 NOW",
+      "video_id": "rQUgUKnPsFs",
+      "youtube_url": "https://www.youtube.com/watch?v=rQUgUKnPsFs",
+      "publish_date": "2026-07-17",
+      "duration": "15:16",
+      "duration_seconds": 916,
+      "view_count": 12439,
+      "author": "Alex Finn",
+      "description": "Fable 5 is incredible. Do these 5 things now before they disappear\n\nFULL Fable 5 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.alexfinn.ai/subscribe\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\n\nTimestamps:\n0:00 Intro\n0:40 Operating systems\n4:38 Mission Control\n6:42 True vibe coding\n10:35 Do ALL your work\n13:04 Use it the right way w ChatGPT\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Do these 5 things in Claude Fable 5 NOW\nFable 5 is the single greatest AI model ever released and in two days it will be gone"
+      ],
+      "transcript_chars": 16200,
+      "folder": "2026-07-17-do-these-5-things-in-claude-fable-5-now"
+    },
     {
       "title": "ChatGPT 5.6 inside Hermes Agent left me speechless...",
       "video_id": "eHZ14afnDZ0",
