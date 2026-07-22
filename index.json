@@ -1,10 +1,49 @@
 {
-  "total_videos": 274,
+  "total_videos": 275,
   "date_range": {
-    "newest": "2026-07-17",
+    "newest": "2026-07-22",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Prompting is dead. Here is how you create loops",
+      "video_id": "FRGLToHAtgc",
+      "youtube_url": "https://www.youtube.com/watch?v=FRGLToHAtgc",
+      "publish_date": "2026-07-22",
+      "duration": "18:10",
+      "duration_seconds": 1090,
+      "view_count": 2279,
+      "author": "Alex Finn",
+      "description": "Check out the Claude Code Playbook here: https://clickhubspot.com/b7cb86\n\nFULL loop engineering bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nThe Finn Loop repo with all the skills and prompts:\nhttps://github.com/finna/Finn-loop\n\nAs a sidenote, I kept this repo dead simple. A lot of the more advanced things like sending PRs to Slack were not included since you might be using other messaging services. In this repo you just click a link to the PR and hit merge. But if you want to hook it up to Slack or Discord just ask your agent to set it up!\n\nTimestamps:\n0:00 Intro\n1:31 What is loop engineering\n6:25 Building out the loop\n14:46 What we built\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "Prompting",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here is how you create loops\nEveryone and their mothers has been talking about vibe coding loops lately, aka loop engineering"
+      ],
+      "transcript_chars": 19266,
+      "folder": "2026-07-22-prompting-is-dead-here-is-how-you-create-loops"
+    },
     {
       "title": "Do these 5 things in Claude Fable 5 NOW",
       "video_id": "rQUgUKnPsFs",
