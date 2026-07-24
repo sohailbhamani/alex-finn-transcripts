@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (163 episodes):
+Episodes discussing **Frameworks** (164 episodes):
 
+- [Claude Opus 5 DESTROYS Fable 5](../episodes/2026-07-24-claude-opus-5-destroys-fable-5/transcript.md) (2026-07-24)
 - [Do these 5 things in Claude Fable 5 NOW](../episodes/2026-07-17-do-these-5-things-in-claude-fable-5-now/transcript.md) (2026-07-17)
 - [ChatGPT 5.6 inside Hermes Agent left me speechless...](../episodes/2026-07-15-chatgpt-56-inside-hermes-agent-left-me-speechless/transcript.md) (2026-07-15)
 - [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)

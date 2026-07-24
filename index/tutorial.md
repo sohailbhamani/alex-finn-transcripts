@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (203 episodes):
+Episodes discussing **Tutorial** (204 episodes):
 
+- [Claude Opus 5 DESTROYS Fable 5](../episodes/2026-07-24-claude-opus-5-destroys-fable-5/transcript.md) (2026-07-24)
 - [Prompting is dead. Here is how you create loops](../episodes/2026-07-22-prompting-is-dead-here-is-how-you-create-loops/transcript.md) (2026-07-22)
 - [ChatGPT 5.6 has been announced. I’m done…](../episodes/2026-06-27-chatgpt-56-has-been-announced-im-done/transcript.md) (2026-06-27)
 - [How to get unlimited AI for free (GLM 5.2 local)](../episodes/2026-06-19-how-to-get-unlimited-ai-for-free-glm-52-local/transcript.md) (2026-06-19)

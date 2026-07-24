@@ -1,7 +1,8 @@
 # Github
 
-Episodes discussing **Github** (86 episodes):
+Episodes discussing **Github** (87 episodes):
 
+- [Claude Opus 5 DESTROYS Fable 5](../episodes/2026-07-24-claude-opus-5-destroys-fable-5/transcript.md) (2026-07-24)
 - [Do these 5 things in Claude Fable 5 NOW](../episodes/2026-07-17-do-these-5-things-in-claude-fable-5-now/transcript.md) (2026-07-17)
 - [Fable 5 is BACK! Here are the first 8 things you need to do…](../episodes/2026-07-01-fable-5-is-back-here-are-the-first-8-things-you-need-to-do/transcript.md) (2026-07-01)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)

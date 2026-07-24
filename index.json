@@ -1,10 +1,52 @@
 {
-  "total_videos": 275,
+  "total_videos": 276,
   "date_range": {
-    "newest": "2026-07-22",
+    "newest": "2026-07-24",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Claude Opus 5 DESTROYS Fable 5",
+      "video_id": "Vh1v2VSroes",
+      "youtube_url": "https://www.youtube.com/watch?v=Vh1v2VSroes",
+      "publish_date": "2026-07-24",
+      "duration": "10:53",
+      "duration_seconds": 653,
+      "view_count": 32,
+      "author": "Alex Finn",
+      "description": "Claude Opus 5 DOMINATES Claude Fable 5. Here's why\n\nFULL Opus 5 bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n1:40 Opus 5 testing vs Fable\n6:19 Deal breakers\n9:45 When to use Opus\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Apple",
+          "GitHub",
+          "Twitter"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# Claude Opus 5 DESTROYS Fable 5\nClaude Opus 5 has dropped"
+      ],
+      "transcript_chars": 11062,
+      "folder": "2026-07-24-claude-opus-5-destroys-fable-5"
+    },
     {
       "title": "Prompting is dead. Here is how you create loops",
       "video_id": "FRGLToHAtgc",
