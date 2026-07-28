@@ -1,10 +1,61 @@
 {
-  "total_videos": 276,
+  "total_videos": 277,
   "date_range": {
-    "newest": "2026-07-24",
+    "newest": "2026-07-27",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "The greatest AI tool ever??",
+      "video_id": "EyIYybdLK0M",
+      "youtube_url": "https://www.youtube.com/watch?v=EyIYybdLK0M",
+      "publish_date": "2026-07-27",
+      "duration": "20:36",
+      "duration_seconds": 1236,
+      "view_count": 18006,
+      "author": "Alex Finn",
+      "description": "ChatGPT Voice mode is INCREDIBLE. Here's how to use it.\n\nFULL ChatGPT Voice bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:50 AGI moments\n2:23 Demo\n10:06 Why it's so good\n12:31 Workflows\n16:45 Best tips\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "GitHub",
+          "Cursor",
+          "Twitter",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Make",
+          "Opus",
+          "Sonnet",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Choose one device as your headquarters"
+      ],
+      "summary": [
+        "OpenAI has quietly released what I believe to be the biggest AI tool a major lab has ever put out"
+      ],
+      "transcript_chars": 21768,
+      "folder": "2026-07-27-the-greatest-ai-tool-ever"
+    },
     {
       "title": "Claude Opus 5 DESTROYS Fable 5",
       "video_id": "Vh1v2VSroes",
