@@ -1,7 +1,8 @@
 # Codex
 
-Episodes discussing **Codex** (53 episodes):
+Episodes discussing **Codex** (54 episodes):
 
+- [Jack Dorsey's Buzz has left me completely speechless...](../episodes/2026-07-31-jack-dorseys-buzz-has-left-me-completely-speechless/transcript.md) (2026-07-31)
 - [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [The new Hermes Agent update has me speechless....](../episodes/2026-06-24-the-new-hermes-agent-update-has-me-speechless/transcript.md) (2026-06-24)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)

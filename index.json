@@ -1,10 +1,54 @@
 {
-  "total_videos": 277,
+  "total_videos": 278,
   "date_range": {
-    "newest": "2026-07-27",
+    "newest": "2026-07-31",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Jack Dorsey's Buzz has left me completely speechless...",
+      "video_id": "RA0E_luzfBM",
+      "youtube_url": "https://www.youtube.com/watch?v=RA0E_luzfBM",
+      "publish_date": "2026-07-31",
+      "duration": "19:05",
+      "duration_seconds": 1145,
+      "view_count": 4055,
+      "author": "Alex Finn",
+      "description": "Buzz from Jack Dorsey is one of the best AI tools I've ever used. It's a glimpse into the future. Here's how to use it\n\nFULL Buzz bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:37 Walkthrough\n6:34 What makes it different\n13:22 Shared compute\n",
+      "yt_tags": [],
+      "content_type": "Opinion",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Slack",
+          "GitHub",
+          "Twitter",
+          "AMD"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Codex",
+          "LM Studio",
+          "Make",
+          "MCP",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Jack Dorsey's Buzz has left me completely speechless"
+      ],
+      "transcript_chars": 20088,
+      "folder": "2026-07-31-jack-dorseys-buzz-has-left-me-completely-speechless"
+    },
     {
       "title": "The greatest AI tool ever??",
       "video_id": "EyIYybdLK0M",

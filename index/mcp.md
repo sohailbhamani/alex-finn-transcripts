@@ -1,7 +1,8 @@
 # Mcp
 
-Episodes discussing **Mcp** (38 episodes):
+Episodes discussing **Mcp** (39 episodes):
 
+- [Jack Dorsey's Buzz has left me completely speechless...](../episodes/2026-07-31-jack-dorseys-buzz-has-left-me-completely-speechless/transcript.md) (2026-07-31)
 - [Fable 5 is BACK! Here are the first 8 things you need to do…](../episodes/2026-07-01-fable-5-is-back-here-are-the-first-8-things-you-need-to-do/transcript.md) (2026-07-01)
 - [The new Hermes Agent update has me speechless....](../episodes/2026-06-24-the-new-hermes-agent-update-has-me-speechless/transcript.md) (2026-06-24)
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)

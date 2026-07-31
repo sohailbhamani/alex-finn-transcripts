@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (190 episodes):
+Episodes discussing **Ai News** (191 episodes):
 
+- [Jack Dorsey's Buzz has left me completely speechless...](../episodes/2026-07-31-jack-dorseys-buzz-has-left-me-completely-speechless/transcript.md) (2026-07-31)
 - [The greatest AI tool ever??](../episodes/2026-07-27-the-greatest-ai-tool-ever/transcript.md) (2026-07-27)
 - [Prompting is dead. Here is how you create loops](../episodes/2026-07-22-prompting-is-dead-here-is-how-you-create-loops/transcript.md) (2026-07-22)
 - [Do these 5 things in Claude Fable 5 NOW](../episodes/2026-07-17-do-these-5-things-in-claude-fable-5-now/transcript.md) (2026-07-17)

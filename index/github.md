@@ -1,7 +1,8 @@
 # Github
 
-Episodes discussing **Github** (88 episodes):
+Episodes discussing **Github** (89 episodes):
 
+- [Jack Dorsey's Buzz has left me completely speechless...](../episodes/2026-07-31-jack-dorseys-buzz-has-left-me-completely-speechless/transcript.md) (2026-07-31)
 - [The greatest AI tool ever??](../episodes/2026-07-27-the-greatest-ai-tool-ever/transcript.md) (2026-07-27)
 - [Claude Opus 5 DESTROYS Fable 5](../episodes/2026-07-24-claude-opus-5-destroys-fable-5/transcript.md) (2026-07-24)
 - [Do these 5 things in Claude Fable 5 NOW](../episodes/2026-07-17-do-these-5-things-in-claude-fable-5-now/transcript.md) (2026-07-17)

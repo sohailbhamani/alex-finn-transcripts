@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (16 episodes):
+Episodes discussing **Slack** (17 episodes):
 
+- [Jack Dorsey's Buzz has left me completely speechless...](../episodes/2026-07-31-jack-dorseys-buzz-has-left-me-completely-speechless/transcript.md) (2026-07-31)
 - [Prompting is dead. Here is how you create loops](../episodes/2026-07-22-prompting-is-dead-here-is-how-you-create-loops/transcript.md) (2026-07-22)
 - [Claude Opus 4.8 actually blew my mind...](../episodes/2026-05-28-claude-opus-48-actually-blew-my-mind/transcript.md) (2026-05-28)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)
