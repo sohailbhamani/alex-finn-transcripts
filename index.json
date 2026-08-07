@@ -1,10 +1,56 @@
 {
-  "total_videos": 278,
+  "total_videos": 279,
   "date_range": {
-    "newest": "2026-07-31",
+    "newest": "2026-08-07",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "ChatGPT Voice is the most powerful AI feature of 2026. Here\u2019s how to master it",
+      "video_id": "jKkr8czmG4U",
+      "youtube_url": "https://www.youtube.com/watch?v=jKkr8czmG4U",
+      "publish_date": "2026-08-07",
+      "duration": "25:55",
+      "duration_seconds": 1555,
+      "view_count": 1610,
+      "author": "Alex Finn",
+      "description": "ChatGPT Voice is AMAZING. Here is how to master it\n\nFULL ChatGPT Voice bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:41 Why ChatGPT Voice\n5:20 Basic ChatGPT Voice workflow\n10:36 Setting up Remote\n12:43 Orchestration model\n14:33 Morning preparation\n16:47 Summary notes\n19:00 Computer and browser use\n21:16 Activity view\n22:19 Using the widget\n23:43 Ask more questions\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Amazon",
+          "Apple",
+          "Tesla"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Whisper",
+          "Make",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": [
+          "Whisper"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# ChatGPT Voice is the most powerful AI feature of 2026"
+      ],
+      "transcript_chars": 27761,
+      "folder": "2026-08-07-chatgpt-voice-is-the-most-powerful-ai-feature-of-2026-heres-how-to-master-it"
+    },
     {
       "title": "Jack Dorsey's Buzz has left me completely speechless...",
       "video_id": "RA0E_luzfBM",
