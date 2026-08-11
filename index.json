@@ -1,10 +1,49 @@
 {
-  "total_videos": 280,
+  "total_videos": 281,
   "date_range": {
     "newest": "2026-08-11",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Did Grok Bot just kill Hermes and OpenClaw?",
+      "video_id": "lc6hKU4BdsA",
+      "youtube_url": "https://www.youtube.com/watch?v=lc6hKU4BdsA",
+      "publish_date": "2026-08-11",
+      "duration": "12:11",
+      "duration_seconds": 731,
+      "view_count": 0,
+      "author": "Alex Finn",
+      "description": "Grok Bot just released, and it might have just killed Hermes and OpenClaw\n\nFULL Grok Bot bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:30 What is Grok Bot\n9:56 Does it replace Hermes\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Amazon",
+          "Box",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "SpaceX AI just released Grockbot, a direct competitor to Hermes Agent and OpenClaw"
+      ],
+      "transcript_chars": 13235,
+      "folder": "2026-08-11-did-grok-bot-just-kill-hermes-and-openclaw"
+    },
     {
       "title": "Every AI tool you need to be using in August 2026",
       "video_id": "u0_5qgc3k0Y",
