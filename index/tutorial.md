@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (207 episodes):
+Episodes discussing **Tutorial** (208 episodes):
 
+- [Grok 4.6 is Claude Fable 5, but dirt cheap](../episodes/2026-08-13-grok-46-is-claude-fable-5-but-dirt-cheap/transcript.md) (2026-08-13)
 - [Every AI tool you need to be using in August 2026](../episodes/2026-08-11-every-ai-tool-you-need-to-be-using-in-august-2026/transcript.md) (2026-08-11)
 - [ChatGPT Voice is the most powerful AI feature of 2026. Here’s how to master it](../episodes/2026-08-07-chatgpt-voice-is-the-most-powerful-ai-feature-of-2026-heres-how-to-master-it/transcript.md) (2026-08-07)
 - [The greatest AI tool ever??](../episodes/2026-07-27-the-greatest-ai-tool-ever/transcript.md) (2026-07-27)

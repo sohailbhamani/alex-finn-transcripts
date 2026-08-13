@@ -1,10 +1,53 @@
 {
-  "total_videos": 281,
+  "total_videos": 282,
   "date_range": {
-    "newest": "2026-08-11",
+    "newest": "2026-08-13",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Grok 4.6 is Claude Fable 5, but dirt cheap",
+      "video_id": "3-ahsHfFjwk",
+      "youtube_url": "https://www.youtube.com/watch?v=3-ahsHfFjwk",
+      "publish_date": "2026-08-13",
+      "duration": "13:20",
+      "duration_seconds": 800,
+      "view_count": 12583,
+      "author": "Alex Finn",
+      "description": "Grok 4.6 just released, and it actually beats chatgpt and claude fable. Here's how to use it\n\nFULL Grok Bot bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:33 Strengths of Grok\n1:32 Testing Grok\n7:10 Should you use it\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "GitHub",
+          "Cursor"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Cursor",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Elon claims you can now get above Chad GBT56 and Opus 5 quality for a fraction of the price and much much faster"
+      ],
+      "transcript_chars": 13361,
+      "folder": "2026-08-13-grok-46-is-claude-fable-5-but-dirt-cheap"
+    },
     {
       "title": "Did Grok Bot just kill Hermes and OpenClaw?",
       "video_id": "lc6hKU4BdsA",
