@@ -1,10 +1,58 @@
 {
-  "total_videos": 282,
+  "total_videos": 283,
   "date_range": {
-    "newest": "2026-08-13",
+    "newest": "2026-08-17",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Grok Bot is the best AI agent ever. Here's how to set it up",
+      "video_id": "vrgO4D_mUlA",
+      "youtube_url": "https://www.youtube.com/watch?v=vrgO4D_mUlA",
+      "publish_date": "2026-08-17",
+      "duration": "25:06",
+      "duration_seconds": 1506,
+      "view_count": 11480,
+      "author": "Alex Finn",
+      "description": "Grok Bot just released, and it might have just killed Hermes and OpenClaw\n\nFULL Grok Bot bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nLast 30 days skill: https://github.com/mvanhorn/last30days-skill\n\nTimestamps:\n0:00 Intro\n0:29 Why Grok Bot is incredible\n6:06 First things to do in Grok Bot\n11:59 Plugins\n16:49 Use Cases\n23:47 Hermes vs Grok Bot\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Google",
+          "GitHub",
+          "Box",
+          "Cursor",
+          "Twitter",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Cursor",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Here's how to set it up\nGrockbot is the absolute best AI agent out there right now"
+      ],
+      "transcript_chars": 26801,
+      "folder": "2026-08-17-grok-bot-is-the-best-ai-agent-ever-heres-how-to-set-it-up"
+    },
     {
       "title": "Grok 4.6 is Claude Fable 5, but dirt cheap",
       "video_id": "3-ahsHfFjwk",
