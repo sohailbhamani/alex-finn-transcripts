@@ -1,7 +1,8 @@
 # Claude Code
 
-Episodes discussing **Claude Code** (167 episodes):
+Episodes discussing **Claude Code** (168 episodes):
 
+- [Hermes just released their biggest update ever (Hermes Bot)](../episodes/2026-08-18-hermes-just-released-their-biggest-update-ever-hermes-bot/transcript.md) (2026-08-18)
 - [Every AI tool you need to be using in August 2026](../episodes/2026-08-11-every-ai-tool-you-need-to-be-using-in-august-2026/transcript.md) (2026-08-11)
 - [Jack Dorsey's Buzz has left me completely speechless...](../episodes/2026-07-31-jack-dorseys-buzz-has-left-me-completely-speechless/transcript.md) (2026-07-31)
 - [The greatest AI tool ever??](../episodes/2026-07-27-the-greatest-ai-tool-ever/transcript.md) (2026-07-27)

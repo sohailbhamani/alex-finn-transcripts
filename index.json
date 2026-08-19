@@ -1,10 +1,55 @@
 {
-  "total_videos": 283,
+  "total_videos": 284,
   "date_range": {
-    "newest": "2026-08-17",
+    "newest": "2026-08-18",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Hermes just released their biggest update ever (Hermes Bot)",
+      "video_id": "1udtpl43iv8",
+      "youtube_url": "https://www.youtube.com/watch?v=1udtpl43iv8",
+      "publish_date": "2026-08-18",
+      "duration": "22:29",
+      "duration_seconds": 1349,
+      "view_count": 26094,
+      "author": "Alex Finn",
+      "description": "Hermes agent just released Hermes Bot, a direct attack on Grok Bot. Which should you be using?\n\nFULL Hermes Agent bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\n\nTimestamps:\n0:00 Intro\n0:29 How we got here\n3:58 Hermes Bot walkthrough\n8:48 Downsides of Hermes Bot\n12:20 Why Bot mode is excellent\n14:31 When to use Hermes vs Grok\n15:24 Is it replacing Grok Bot\n17:21 Recommendation for you\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "Box",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [
+        "Kind of fun way to interact with ai agents"
+      ],
+      "summary": [
+        "# Hermes just released their biggest update ever (Hermes Bot)\nHermes just released a massive new update and it's the biggest facelift to Hermes agent ever"
+      ],
+      "transcript_chars": 23899,
+      "folder": "2026-08-18-hermes-just-released-their-biggest-update-ever-hermes-bot"
+    },
     {
       "title": "Grok Bot is the best AI agent ever. Here's how to set it up",
       "video_id": "vrgO4D_mUlA",

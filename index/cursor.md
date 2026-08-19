@@ -1,7 +1,8 @@
 # Cursor
 
-Episodes discussing **Cursor** (154 episodes):
+Episodes discussing **Cursor** (155 episodes):
 
+- [Hermes just released their biggest update ever (Hermes Bot)](../episodes/2026-08-18-hermes-just-released-their-biggest-update-ever-hermes-bot/transcript.md) (2026-08-18)
 - [Grok Bot is the best AI agent ever. Here's how to set it up](../episodes/2026-08-17-grok-bot-is-the-best-ai-agent-ever-heres-how-to-set-it-up/transcript.md) (2026-08-17)
 - [Grok 4.6 is Claude Fable 5, but dirt cheap](../episodes/2026-08-13-grok-46-is-claude-fable-5-but-dirt-cheap/transcript.md) (2026-08-13)
 - [The greatest AI tool ever??](../episodes/2026-07-27-the-greatest-ai-tool-ever/transcript.md) (2026-07-27)

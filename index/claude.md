@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (208 episodes):
+Episodes discussing **Claude** (209 episodes):
 
+- [Hermes just released their biggest update ever (Hermes Bot)](../episodes/2026-08-18-hermes-just-released-their-biggest-update-ever-hermes-bot/transcript.md) (2026-08-18)
 - [Grok 4.6 is Claude Fable 5, but dirt cheap](../episodes/2026-08-13-grok-46-is-claude-fable-5-but-dirt-cheap/transcript.md) (2026-08-13)
 - [Did Grok Bot just kill Hermes and OpenClaw?](../episodes/2026-08-11-did-grok-bot-just-kill-hermes-and-openclaw/transcript.md) (2026-08-11)
 - [Every AI tool you need to be using in August 2026](../episodes/2026-08-11-every-ai-tool-you-need-to-be-using-in-august-2026/transcript.md) (2026-08-11)

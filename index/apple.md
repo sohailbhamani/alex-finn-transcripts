@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (101 episodes):
+Episodes discussing **Apple** (102 episodes):
 
+- [Hermes just released their biggest update ever (Hermes Bot)](../episodes/2026-08-18-hermes-just-released-their-biggest-update-ever-hermes-bot/transcript.md) (2026-08-18)
 - [Grok 4.6 is Claude Fable 5, but dirt cheap](../episodes/2026-08-13-grok-46-is-claude-fable-5-but-dirt-cheap/transcript.md) (2026-08-13)
 - [ChatGPT Voice is the most powerful AI feature of 2026. Here’s how to master it](../episodes/2026-08-07-chatgpt-voice-is-the-most-powerful-ai-feature-of-2026-heres-how-to-master-it/transcript.md) (2026-08-07)
 - [Claude Opus 5 DESTROYS Fable 5](../episodes/2026-07-24-claude-opus-5-destroys-fable-5/transcript.md) (2026-07-24)

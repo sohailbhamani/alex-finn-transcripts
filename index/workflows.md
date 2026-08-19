@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (95 episodes):
+Episodes discussing **Workflows** (96 episodes):
 
+- [Hermes just released their biggest update ever (Hermes Bot)](../episodes/2026-08-18-hermes-just-released-their-biggest-update-ever-hermes-bot/transcript.md) (2026-08-18)
 - [Grok Bot is the best AI agent ever. Here's how to set it up](../episodes/2026-08-17-grok-bot-is-the-best-ai-agent-ever-heres-how-to-set-it-up/transcript.md) (2026-08-17)
 - [Did Grok Bot just kill Hermes and OpenClaw?](../episodes/2026-08-11-did-grok-bot-just-kill-hermes-and-openclaw/transcript.md) (2026-08-11)
 - [ChatGPT Voice is the most powerful AI feature of 2026. Here’s how to master it](../episodes/2026-08-07-chatgpt-voice-is-the-most-powerful-ai-feature-of-2026-heres-how-to-master-it/transcript.md) (2026-08-07)

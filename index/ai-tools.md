@@ -1,7 +1,8 @@
 # Ai Tools
 
-Episodes discussing **Ai Tools** (246 episodes):
+Episodes discussing **Ai Tools** (247 episodes):
 
+- [Hermes just released their biggest update ever (Hermes Bot)](../episodes/2026-08-18-hermes-just-released-their-biggest-update-ever-hermes-bot/transcript.md) (2026-08-18)
 - [Grok Bot is the best AI agent ever. Here's how to set it up](../episodes/2026-08-17-grok-bot-is-the-best-ai-agent-ever-heres-how-to-set-it-up/transcript.md) (2026-08-17)
 - [Grok 4.6 is Claude Fable 5, but dirt cheap](../episodes/2026-08-13-grok-46-is-claude-fable-5-but-dirt-cheap/transcript.md) (2026-08-13)
 - [Did Grok Bot just kill Hermes and OpenClaw?](../episodes/2026-08-11-did-grok-bot-just-kill-hermes-and-openclaw/transcript.md) (2026-08-11)
