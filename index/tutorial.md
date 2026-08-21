@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (209 episodes):
+Episodes discussing **Tutorial** (210 episodes):
 
+- [8 Grok Bot use cases I promise will change your life](../episodes/2026-08-20-8-grok-bot-use-cases-i-promise-will-change-your-life/transcript.md) (2026-08-20)
 - [Grok Bot is the best AI agent ever. Here's how to set it up](../episodes/2026-08-17-grok-bot-is-the-best-ai-agent-ever-heres-how-to-set-it-up/transcript.md) (2026-08-17)
 - [Grok 4.6 is Claude Fable 5, but dirt cheap](../episodes/2026-08-13-grok-46-is-claude-fable-5-but-dirt-cheap/transcript.md) (2026-08-13)
 - [Every AI tool you need to be using in August 2026](../episodes/2026-08-11-every-ai-tool-you-need-to-be-using-in-august-2026/transcript.md) (2026-08-11)

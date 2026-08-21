@@ -1,10 +1,57 @@
 {
-  "total_videos": 284,
+  "total_videos": 285,
   "date_range": {
-    "newest": "2026-08-18",
+    "newest": "2026-08-20",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "8 Grok Bot use cases I promise will change your life",
+      "video_id": "x8KP4MdvM1k",
+      "youtube_url": "https://www.youtube.com/watch?v=x8KP4MdvM1k",
+      "publish_date": "2026-08-20",
+      "duration": "26:59",
+      "duration_seconds": 1619,
+      "view_count": 10039,
+      "author": "Alex Finn",
+      "description": "Grok Bot uses cases I promise will amaze you\n\nFULL Grok Bot bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nLast 30 days skill: https://github.com/mvanhorn/last30days-skill\n\nTimestamps:\n0:00 Intro\n0:34 Grok Bot made me money\n1:52 What makes Grok Bot great\n7:33 Use case 1 CEO\n10:23 Use case 2 revenue ops\n13:31 Use case 3 building\n17:17 Use case 4 repurposing\n19:35 Use case 5 management\n21:52 Use case 6 autonomous research\n23:33 Use case 7 last30days\n24:11 Use case 8 Hermes\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Apple",
+          "Box",
+          "X",
+          "YouTube"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Operator",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 8 Grok Bot use cases I promise will change your life\nGrockbot is the number one AI tool you need to be learning right now"
+      ],
+      "transcript_chars": 30383,
+      "folder": "2026-08-20-8-grok-bot-use-cases-i-promise-will-change-your-life"
+    },
     {
       "title": "Hermes just released their biggest update ever (Hermes Bot)",
       "video_id": "1udtpl43iv8",
