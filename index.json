@@ -1,10 +1,43 @@
 {
-  "total_videos": 285,
+  "total_videos": 286,
   "date_range": {
-    "newest": "2026-08-20",
+    "newest": "2026-08-27",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "August 27, 2026",
+      "video_id": "_Ph9I3Yl8YA",
+      "youtube_url": "https://www.youtube.com/watch?v=_Ph9I3Yl8YA",
+      "publish_date": "2026-08-27",
+      "duration": "1:23",
+      "duration_seconds": 83,
+      "view_count": 2644,
+      "author": "Alex Finn",
+      "description": "",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# August 27, 2026\nGrockbot is the number one way to make money with AI right now"
+      ],
+      "transcript_chars": 1482,
+      "folder": "2026-08-27-august-27-2026"
+    },
     {
       "title": "8 Grok Bot use cases I promise will change your life",
       "video_id": "x8KP4MdvM1k",

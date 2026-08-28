@@ -1,23 +1,23 @@
 # Alex Finn Podcast Index
 
-Index of 285 episodes across 106 topics.
+Index of 286 episodes across 106 topics.
 
 ## Topics
 
-- [Make](make.md) (262 episodes)
-- [Ai Tools](ai-tools.md) (248 episodes)
+- [Make](make.md) (263 episodes)
+- [Ai Tools](ai-tools.md) (249 episodes)
 - [Coding](coding.md) (221 episodes)
-- [Tutorial](tutorial.md) (210 episodes)
+- [Tutorial](tutorial.md) (211 episodes)
 - [Claude](claude.md) (210 episodes)
 - [Anthropic](anthropic.md) (198 episodes)
 - [Ai News](ai-news.md) (195 episodes)
-- [Tutorials](tutorials.md) (194 episodes)
+- [Tutorials](tutorials.md) (195 episodes)
 - [Frameworks](frameworks.md) (170 episodes)
 - [Claude Code](claude-code.md) (169 episodes)
 - [Cursor](cursor.md) (155 episodes)
-- [Product Management](product-management.md) (144 episodes)
+- [Product Management](product-management.md) (145 episodes)
 - [Google](google.md) (142 episodes)
-- [Ai Agents](ai-agents.md) (138 episodes)
+- [Ai Agents](ai-agents.md) (139 episodes)
 - [Prompting](prompting.md) (128 episodes)
 - [Opus](opus.md) (128 episodes)
 - [Openai](openai.md) (127 episodes)
@@ -28,7 +28,7 @@ Index of 285 episodes across 106 topics.
 - [Workflows](workflows.md) (96 episodes)
 - [Github](github.md) (91 episodes)
 - [Gemini](gemini.md) (86 episodes)
-- [Ai Strategy](ai-strategy.md) (81 episodes)
+- [Ai Strategy](ai-strategy.md) (82 episodes)
 - [Sonnet](sonnet.md) (75 episodes)
 - [Career](career.md) (70 episodes)
 - [Box](box.md) (60 episodes)
@@ -83,8 +83,8 @@ Index of 285 episodes across 106 topics.
 - [O3](o3.md) (3 episodes)
 - [Langchain](langchain.md) (3 episodes)
 - [Oracle](oracle.md) (3 episodes)
-- [Cowork](cowork.md) (3 episodes)
 - [Claude Cowork](claude-cowork.md) (3 episodes)
+- [Cowork](cowork.md) (3 episodes)
 - [Hugging Face](hugging-face.md) (3 episodes)
 - [Vercel](vercel.md) (2 episodes)
 - [Jan](jan.md) (2 episodes)
