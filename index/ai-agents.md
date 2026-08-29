@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (139 episodes):
+Episodes discussing **Ai Agents** (140 episodes):
 
+- [If you use AI, switch to Omarchy immediately](../episodes/2026-08-28-if-you-use-ai-switch-to-omarchy-immediately/transcript.md) (2026-08-28)
 - [August 27, 2026](../episodes/2026-08-27-august-27-2026/transcript.md) (2026-08-27)
 - [8 Grok Bot use cases I promise will change your life](../episodes/2026-08-20-8-grok-bot-use-cases-i-promise-will-change-your-life/transcript.md) (2026-08-20)
 - [Hermes just released their biggest update ever (Hermes Bot)](../episodes/2026-08-18-hermes-just-released-their-biggest-update-ever-hermes-bot/transcript.md) (2026-08-18)

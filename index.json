@@ -1,10 +1,55 @@
 {
-  "total_videos": 286,
+  "total_videos": 287,
   "date_range": {
-    "newest": "2026-08-27",
+    "newest": "2026-08-28",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "If you use AI, switch to Omarchy immediately",
+      "video_id": "KO2T0oET9go",
+      "youtube_url": "https://www.youtube.com/watch?v=KO2T0oET9go",
+      "publish_date": "2026-08-28",
+      "duration": "21:46",
+      "duration_seconds": 1306,
+      "view_count": 92045,
+      "author": "Alex Finn",
+      "description": "Omarchy is the best operating system for AI users ever. You need to switch now...\n\nFULL Omarchy bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nLast 30 days skill: https://github.com/mvanhorn/last30days-skill\n\nTimestamps:\n0:00 Intro\n0:40 Why Omarchy is different\n6:48 Full Omarchy demo\n12:20 Why this is the future\n18:20 Which computer you need\n19:00 How to install\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Box",
+          "Cursor",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Shortcuts",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Make videos about things i love and i love this"
+      ],
+      "summary": [
+        "# If you use AI, switch to Omarchy immediately\nThe entire internet is going nuts talking about this brand new agentic operating system named Omachi and for good reason"
+      ],
+      "transcript_chars": 23346,
+      "folder": "2026-08-28-if-you-use-ai-switch-to-omarchy-immediately"
+    },
     {
       "title": "August 27, 2026",
       "video_id": "_Ph9I3Yl8YA",
