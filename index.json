@@ -1,10 +1,56 @@
 {
-  "total_videos": 287,
+  "total_videos": 288,
   "date_range": {
-    "newest": "2026-08-28",
+    "newest": "2026-08-31",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Did OpenClaw 2.0 just kill Hermes and Grok Bot?",
+      "video_id": "4PIR12vhszk",
+      "youtube_url": "https://www.youtube.com/watch?v=4PIR12vhszk",
+      "publish_date": "2026-08-31",
+      "duration": "20:39",
+      "duration_seconds": 1239,
+      "view_count": 6170,
+      "author": "Alex Finn",
+      "description": "OpenClaw 2.0 is here and it's the biggest OpenClaw update ever. But should you switch?\n\nFULL OpenClaw masterclass in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:23 Same old OpenClaw issues\n3:36 OpenClaw new features\n5:28 Demo of OpenClaw 2\n15:13 OpenClaw 2 strengths\n16:18 OpenClaw vs Hermes vs Grok Bot\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Slack",
+          "Box",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "After not shipping a single update in seven weeks, which is about three decades in AI time, they are back with OpenClaw 2"
+      ],
+      "transcript_chars": 22040,
+      "folder": "2026-08-31-did-openclaw-20-just-kill-hermes-and-grok-bot"
+    },
     {
       "title": "If you use AI, switch to Omarchy immediately",
       "video_id": "KO2T0oET9go",
