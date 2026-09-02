@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (128 episodes):
+Episodes discussing **Openai** (129 episodes):
 
+- [Claude Fable 5.1 just dropped and I can't believe it...](../episodes/2026-09-01-claude-fable-51-just-dropped-and-i-cant-believe-it/transcript.md) (2026-09-01)
 - [Did OpenClaw 2.0 just kill Hermes and Grok Bot?](../episodes/2026-08-31-did-openclaw-20-just-kill-hermes-and-grok-bot/transcript.md) (2026-08-31)
 - [8 Grok Bot use cases I promise will change your life](../episodes/2026-08-20-8-grok-bot-use-cases-i-promise-will-change-your-life/transcript.md) (2026-08-20)
 - [Every AI tool you need to be using in August 2026](../episodes/2026-08-11-every-ai-tool-you-need-to-be-using-in-august-2026/transcript.md) (2026-08-11)

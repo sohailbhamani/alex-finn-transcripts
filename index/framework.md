@@ -1,7 +1,8 @@
 # Framework
 
-Episodes discussing **Framework** (17 episodes):
+Episodes discussing **Framework** (18 episodes):
 
+- [Claude Fable 5.1 just dropped and I can't believe it...](../episodes/2026-09-01-claude-fable-51-just-dropped-and-i-cant-believe-it/transcript.md) (2026-09-01)
 - [Did Grok Bot just kill Hermes and OpenClaw?](../episodes/2026-08-11-did-grok-bot-just-kill-hermes-and-openclaw/transcript.md) (2026-08-11)
 - [Do these 5 things in Claude Fable 5 NOW](../episodes/2026-07-17-do-these-5-things-in-claude-fable-5-now/transcript.md) (2026-07-17)
 - [100 hours of Hermes Agent lessons in 19 minutes](../episodes/2026-07-08-100-hours-of-hermes-agent-lessons-in-19-minutes/transcript.md) (2026-07-08)

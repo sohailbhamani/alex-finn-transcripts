@@ -1,10 +1,54 @@
 {
-  "total_videos": 288,
+  "total_videos": 289,
   "date_range": {
-    "newest": "2026-08-31",
+    "newest": "2026-09-01",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Claude Fable 5.1 just dropped and I can't believe it...",
+      "video_id": "N3Me0Pf2hiY",
+      "youtube_url": "https://www.youtube.com/watch?v=N3Me0Pf2hiY",
+      "publish_date": "2026-09-01",
+      "duration": "12:27",
+      "duration_seconds": 747,
+      "view_count": 52396,
+      "author": "Alex Finn",
+      "description": "Claude Fable 5.1 is the greatest model ever made. Here's why...\n\nFULL Claude Code masterclass in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:33 Why it's different\n3:45 World famous benchmarks\n6:42 Best first use cases\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Apple",
+          "GitHub"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Claude",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "I'm going to be showing you how you should be using it today to get the absolute most out of this revolutionary model"
+      ],
+      "summary": [
+        "1 just released and what it's capable of is mindblowing"
+      ],
+      "transcript_chars": 12644,
+      "folder": "2026-09-01-claude-fable-51-just-dropped-and-i-cant-believe-it"
+    },
     {
       "title": "Did OpenClaw 2.0 just kill Hermes and Grok Bot?",
       "video_id": "4PIR12vhszk",
