@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (172 episodes):
+Episodes discussing **Frameworks** (173 episodes):
 
+- [ChatGPT 6 Astra has released. AGI is here.](../episodes/2026-09-03-chatgpt-6-astra-has-released-agi-is-here/transcript.md) (2026-09-03)
 - [Claude Fable 5.1 just dropped and I can't believe it...](../episodes/2026-09-01-claude-fable-51-just-dropped-and-i-cant-believe-it/transcript.md) (2026-09-01)
 - [If you use AI, switch to Omarchy immediately](../episodes/2026-08-28-if-you-use-ai-switch-to-omarchy-immediately/transcript.md) (2026-08-28)
 - [Grok Bot is the best AI agent ever. Here's how to set it up](../episodes/2026-08-17-grok-bot-is-the-best-ai-agent-ever-heres-how-to-set-it-up/transcript.md) (2026-08-17)

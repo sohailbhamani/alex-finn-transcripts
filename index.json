@@ -1,10 +1,57 @@
 {
-  "total_videos": 289,
+  "total_videos": 290,
   "date_range": {
-    "newest": "2026-09-01",
+    "newest": "2026-09-03",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "ChatGPT 6 Astra has released. AGI is here.",
+      "video_id": "tp29Fl0EK1w",
+      "youtube_url": "https://www.youtube.com/watch?v=tp29Fl0EK1w",
+      "publish_date": "2026-09-03",
+      "duration": "12:52",
+      "duration_seconds": 772,
+      "view_count": 6367,
+      "author": "Alex Finn",
+      "description": "ChatGPT 6 Astra just released and it's being called AGI. Here's everything you need to know...\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL ChatGPT bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Nvidia",
+          "Hugging Face",
+          "Arc"
+        ],
+        "people": [
+          "Greg Brockman"
+        ],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Hugging Face",
+          "Arc",
+          "Make",
+          "Sonnet",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Chad GPT6 Astra just released and its creators are literally calling it AGI"
+      ],
+      "transcript_chars": 13262,
+      "folder": "2026-09-03-chatgpt-6-astra-has-released-agi-is-here"
+    },
     {
       "title": "Claude Fable 5.1 just dropped and I can't believe it...",
       "video_id": "N3Me0Pf2hiY",

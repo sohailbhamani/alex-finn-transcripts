@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (60 episodes):
+Episodes discussing **Projects** (61 episodes):
 
+- [ChatGPT 6 Astra has released. AGI is here.](../episodes/2026-09-03-chatgpt-6-astra-has-released-agi-is-here/transcript.md) (2026-09-03)
 - [Did OpenClaw 2.0 just kill Hermes and Grok Bot?](../episodes/2026-08-31-did-openclaw-20-just-kill-hermes-and-grok-bot/transcript.md) (2026-08-31)
 - [8 Grok Bot use cases I promise will change your life](../episodes/2026-08-20-8-grok-bot-use-cases-i-promise-will-change-your-life/transcript.md) (2026-08-20)
 - [Grok Bot is the best AI agent ever. Here's how to set it up](../episodes/2026-08-17-grok-bot-is-the-best-ai-agent-ever-heres-how-to-set-it-up/transcript.md) (2026-08-17)

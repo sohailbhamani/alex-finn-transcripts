@@ -1,7 +1,8 @@
 # Nvidia
 
-Episodes discussing **Nvidia** (50 episodes):
+Episodes discussing **Nvidia** (51 episodes):
 
+- [ChatGPT 6 Astra has released. AGI is here.](../episodes/2026-09-03-chatgpt-6-astra-has-released-agi-is-here/transcript.md) (2026-09-03)
 - [ChatGPT 5.6 inside Hermes Agent left me speechless...](../episodes/2026-07-15-chatgpt-56-inside-hermes-agent-left-me-speechless/transcript.md) (2026-07-15)
 - [ChatGPT 5.6 has been announced. I’m done…](../episodes/2026-06-27-chatgpt-56-has-been-announced-im-done/transcript.md) (2026-06-27)
 - [The most important concept to learn in AI...](../episodes/2026-06-27-the-most-important-concept-to-learn-in-ai/transcript.md) (2026-06-27)

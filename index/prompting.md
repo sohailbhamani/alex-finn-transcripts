@@ -1,7 +1,8 @@
 # Prompting
 
-Episodes discussing **Prompting** (128 episodes):
+Episodes discussing **Prompting** (129 episodes):
 
+- [ChatGPT 6 Astra has released. AGI is here.](../episodes/2026-09-03-chatgpt-6-astra-has-released-agi-is-here/transcript.md) (2026-09-03)
 - [Did Grok Bot just kill Hermes and OpenClaw?](../episodes/2026-08-11-did-grok-bot-just-kill-hermes-and-openclaw/transcript.md) (2026-08-11)
 - [Prompting is dead. Here is how you create loops](../episodes/2026-07-22-prompting-is-dead-here-is-how-you-create-loops/transcript.md) (2026-07-22)
 - [Do these 5 things in Claude Fable 5 NOW](../episodes/2026-07-17-do-these-5-things-in-claude-fable-5-now/transcript.md) (2026-07-17)
