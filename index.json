@@ -1,10 +1,49 @@
 {
-  "total_videos": 290,
+  "total_videos": 291,
   "date_range": {
-    "newest": "2026-09-03",
+    "newest": "2026-09-07",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "7 tips that turn ChatGPT 6 Astra into AGI",
+      "video_id": "ppN_erpEuZ0",
+      "youtube_url": "https://www.youtube.com/watch?v=ppN_erpEuZ0",
+      "publish_date": "2026-09-07",
+      "duration": "16:22",
+      "duration_seconds": 982,
+      "view_count": 53686,
+      "author": "Alex Finn",
+      "description": "ChatGPT 6 Astra just released and it's being called AGI. Here's everything you need to know...\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL ChatGPT bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:52 Computer Use\n4:00 Thinking levels\n5:38 AgentMD and skills\n7:37 3D Modeling\n9:33 Second brain\n11:38 Remote mode\n13:59 Blindspots\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers"
+      ],
+      "entities": {
+        "companies": [
+          "Amazon",
+          "Notion",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Make",
+          "Opus",
+          "Computer Use"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 7 tips that turn ChatGPT 6 Astra into AGI\nAGI is here"
+      ],
+      "transcript_chars": 17522,
+      "folder": "2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi"
+    },
     {
       "title": "ChatGPT 6 Astra has released. AGI is here.",
       "video_id": "tp29Fl0EK1w",

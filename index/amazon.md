@@ -1,7 +1,8 @@
 # Amazon
 
-Episodes discussing **Amazon** (34 episodes):
+Episodes discussing **Amazon** (35 episodes):
 
+- [7 tips that turn ChatGPT 6 Astra into AGI](../episodes/2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi/transcript.md) (2026-09-07)
 - [Did Grok Bot just kill Hermes and OpenClaw?](../episodes/2026-08-11-did-grok-bot-just-kill-hermes-and-openclaw/transcript.md) (2026-08-11)
 - [ChatGPT Voice is the most powerful AI feature of 2026. Here’s how to master it](../episodes/2026-08-07-chatgpt-voice-is-the-most-powerful-ai-feature-of-2026-heres-how-to-master-it/transcript.md) (2026-08-07)
 - [LIVE: Anthropic and Elon just teamed up to take down OpenAI](../episodes/2026-05-06-live-anthropic-and-elon-just-teamed-up-to-take-down-openai/transcript.md) (2026-05-06)

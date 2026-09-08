@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (146 episodes):
+Episodes discussing **Product Management** (147 episodes):
 
+- [7 tips that turn ChatGPT 6 Astra into AGI](../episodes/2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi/transcript.md) (2026-09-07)
 - [If you use AI, switch to Omarchy immediately](../episodes/2026-08-28-if-you-use-ai-switch-to-omarchy-immediately/transcript.md) (2026-08-28)
 - [August 27, 2026](../episodes/2026-08-27-august-27-2026/transcript.md) (2026-08-27)
 - [8 Grok Bot use cases I promise will change your life](../episodes/2026-08-20-8-grok-bot-use-cases-i-promise-will-change-your-life/transcript.md) (2026-08-20)

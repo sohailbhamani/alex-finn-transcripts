@@ -1,7 +1,8 @@
 # Notion
 
-Episodes discussing **Notion** (30 episodes):
+Episodes discussing **Notion** (31 episodes):
 
+- [7 tips that turn ChatGPT 6 Astra into AGI](../episodes/2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi/transcript.md) (2026-09-07)
 - [100 hours of Hermes Agent lessons in 19 minutes](../episodes/2026-07-08-100-hours-of-hermes-agent-lessons-in-19-minutes/transcript.md) (2026-07-08)
 - [Claude Sonnet 5 just dropped. I'm changing how I use AI...](../episodes/2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai/transcript.md) (2026-06-30)
 - [Claude Fable 5 just dropped and I'm speechless...](../episodes/2026-06-09-claude-fable-5-just-dropped-and-im-speechless/transcript.md) (2026-06-09)
