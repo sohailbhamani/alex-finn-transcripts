@@ -1,7 +1,8 @@
 # Canvas
 
-Episodes discussing **Canvas** (8 episodes):
+Episodes discussing **Canvas** (9 episodes):
 
+- [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [ChatGPT 5.2 is INCREDIBLE. Here’s how to use it in 14 minutes](../episodes/2025-12-12-chatgpt-52-is-incredible-heres-how-to-use-it-in-14-minutes/transcript.md) (2025-12-12)
 - [Claude Code for Desktop is the BEST way to build apps with AI EVER](../episodes/2025-11-26-claude-code-for-desktop-is-the-best-way-to-build-apps-with-ai-ever/transcript.md) (2025-11-26)

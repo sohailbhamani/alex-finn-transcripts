@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (225 episodes):
+Episodes discussing **Coding** (226 episodes):
 
+- [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [7 tips that turn ChatGPT 6 Astra into AGI](../episodes/2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi/transcript.md) (2026-09-07)
 - [ChatGPT 6 Astra has released. AGI is here.](../episodes/2026-09-03-chatgpt-6-astra-has-released-agi-is-here/transcript.md) (2026-09-03)
 - [Did OpenClaw 2.0 just kill Hermes and Grok Bot?](../episodes/2026-08-31-did-openclaw-20-just-kill-hermes-and-grok-bot/transcript.md) (2026-08-31)

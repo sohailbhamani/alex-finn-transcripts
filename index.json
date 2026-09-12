@@ -1,10 +1,61 @@
 {
-  "total_videos": 291,
+  "total_videos": 292,
   "date_range": {
-    "newest": "2026-09-07",
+    "newest": "2026-09-12",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "ChatGPT Work with GPT 6 Astra just blew my mind",
+      "video_id": "jsqbgLZ-Chg",
+      "youtube_url": "https://www.youtube.com/watch?v=jsqbgLZ-Chg",
+      "publish_date": "2026-09-12",
+      "duration": "18:16",
+      "duration_seconds": 1096,
+      "view_count": 28933,
+      "author": "Alex Finn",
+      "description": "ChatGPT Work with GPT 6 Astra is absolutely incredible\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL ChatGPT bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:39 How it works for me\n5:12 Why it rocks\n6:23 Plugins you need\n11:53 How to use it\n",
+      "yt_tags": [],
+      "content_type": "Case Study",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Notion",
+          "Slack",
+          "GitHub",
+          "Cursor",
+          "Twitter",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Claude",
+          "Cursor",
+          "Make",
+          "Computer Use",
+          "Projects",
+          "Canvas"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# ChatGPT Work with GPT 6 Astra just blew my mind\nSo, I am 100% convinced Chat GBT work with Astra 6 is like the most powerful tool out there right now"
+      ],
+      "transcript_chars": 20525,
+      "folder": "2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind"
+    },
     {
       "title": "7 tips that turn ChatGPT 6 Astra into AGI",
       "video_id": "ppN_erpEuZ0",

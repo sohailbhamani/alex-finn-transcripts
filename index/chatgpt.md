@@ -1,7 +1,8 @@
 # Chatgpt
 
-Episodes discussing **Chatgpt** (47 episodes):
+Episodes discussing **Chatgpt** (48 episodes):
 
+- [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [7 tips that turn ChatGPT 6 Astra into AGI](../episodes/2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi/transcript.md) (2026-09-07)
 - [ChatGPT 6 Astra has released. AGI is here.](../episodes/2026-09-03-chatgpt-6-astra-has-released-agi-is-here/transcript.md) (2026-09-03)
 - [ChatGPT Voice is the most powerful AI feature of 2026. Here’s how to master it](../episodes/2026-08-07-chatgpt-voice-is-the-most-powerful-ai-feature-of-2026-heres-how-to-master-it/transcript.md) (2026-08-07)

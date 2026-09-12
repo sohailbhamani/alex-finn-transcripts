@@ -1,7 +1,8 @@
 # Twitter
 
-Episodes discussing **Twitter** (100 episodes):
+Episodes discussing **Twitter** (101 episodes):
 
+- [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [Grok Bot is the best AI agent ever. Here's how to set it up](../episodes/2026-08-17-grok-bot-is-the-best-ai-agent-ever-heres-how-to-set-it-up/transcript.md) (2026-08-17)
 - [Every AI tool you need to be using in August 2026](../episodes/2026-08-11-every-ai-tool-you-need-to-be-using-in-august-2026/transcript.md) (2026-08-11)
 - [Jack Dorsey's Buzz has left me completely speechless...](../episodes/2026-07-31-jack-dorseys-buzz-has-left-me-completely-speechless/transcript.md) (2026-07-31)

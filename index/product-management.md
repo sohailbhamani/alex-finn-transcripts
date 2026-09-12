@@ -1,7 +1,8 @@
 # Product Management
 
-Episodes discussing **Product Management** (147 episodes):
+Episodes discussing **Product Management** (148 episodes):
 
+- [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [7 tips that turn ChatGPT 6 Astra into AGI](../episodes/2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi/transcript.md) (2026-09-07)
 - [If you use AI, switch to Omarchy immediately](../episodes/2026-08-28-if-you-use-ai-switch-to-omarchy-immediately/transcript.md) (2026-08-28)
 - [August 27, 2026](../episodes/2026-08-27-august-27-2026/transcript.md) (2026-08-27)
