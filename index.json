@@ -1,10 +1,54 @@
 {
-  "total_videos": 292,
+  "total_videos": 293,
   "date_range": {
-    "newest": "2026-09-12",
+    "newest": "2026-09-16",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Omarchy is the BEST Operating System on Earth",
+      "video_id": "UJKkS4KLVOo",
+      "youtube_url": "https://www.youtube.com/watch?v=UJKkS4KLVOo",
+      "publish_date": "2026-09-16",
+      "duration": "21:21",
+      "duration_seconds": 1281,
+      "view_count": 37132,
+      "author": "Alex Finn",
+      "description": "Omarchy is the only AI operating system on Earth. You need to switch...\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL ChatGPT bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:37 Why Omarchy is so good\n2:23 How to install\n3:48 How to use it\n9:03 My advanced workflows\n19:36 Playing games\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Apple",
+          "Notion",
+          "Box",
+          "Cursor",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Cursor",
+          "Make",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Omarchy is the BEST Operating System on Earth\nThat's it"
+      ],
+      "transcript_chars": 23536,
+      "folder": "2026-09-16-omarchy-is-the-best-operating-system-on-earth"
+    },
     {
       "title": "ChatGPT Work with GPT 6 Astra just blew my mind",
       "video_id": "jsqbgLZ-Chg",
