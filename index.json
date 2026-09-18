@@ -1,10 +1,49 @@
 {
-  "total_videos": 293,
+  "total_videos": 294,
   "date_range": {
-    "newest": "2026-09-16",
+    "newest": "2026-09-18",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "How to Run Local AI on ANY Computer (in 1 click)",
+      "video_id": "MZ2YVMkdjTI",
+      "youtube_url": "https://www.youtube.com/watch?v=MZ2YVMkdjTI",
+      "publish_date": "2026-09-18",
+      "duration": "12:10",
+      "duration_seconds": 730,
+      "view_count": 2996,
+      "author": "Alex Finn",
+      "description": "It's never been easier to use local AI with Hermes agent\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL local AI bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:50 Local AI doing research for me\n1:08 Why local AI is so important\n3:23 Which computers you need\n4:56 How to set up local AI\n7:15 Use cases\n9:39 Cloud vs local\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Apple",
+          "Nvidia"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# How to Run Local AI on ANY Computer (in 1 click)\nLocal AI allows you get unlimited free AI usage with no guard rails all on your home computer"
+      ],
+      "transcript_chars": 13962,
+      "folder": "2026-09-18-how-to-run-local-ai-on-any-computer-in-1-click"
+    },
     {
       "title": "Omarchy is the BEST Operating System on Earth",
       "video_id": "UJKkS4KLVOo",

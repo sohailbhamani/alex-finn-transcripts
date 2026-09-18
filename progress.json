@@ -292,7 +292,8 @@
     "tp29Fl0EK1w",
     "ppN_erpEuZ0",
     "jsqbgLZ-Chg",
-    "UJKkS4KLVOo"
+    "UJKkS4KLVOo",
+    "MZ2YVMkdjTI"
   ],
   "failed": [
     {
@@ -1509,8 +1510,18 @@
       "id": "5mRGhSeMDhM",
       "reason": "Supadata API error: 404 - {\"error\":\"not-found\",\"message\":\"Not Found\",\"details\":\"This video does not exist\",\"documentationUrl\":\"https://docs.supadata.ai/errors/not-found\"}",
       "time": "2026-09-18T11:08:01.886344"
+    },
+    {
+      "id": "aT5FXvOe-Y0",
+      "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
+      "time": "2026-09-18T20:51:20.675699"
+    },
+    {
+      "id": "5mRGhSeMDhM",
+      "reason": "Supadata API error: 404 - {\"error\":\"not-found\",\"message\":\"Not Found\",\"details\":\"This video does not exist\",\"documentationUrl\":\"https://docs.supadata.ai/errors/not-found\"}",
+      "time": "2026-09-18T20:51:35.476674"
     }
   ],
   "no_transcript": [],
-  "last_run": "2026-09-18T11:08:01.886357"
+  "last_run": "2026-09-18T20:51:38.881558"
 }
