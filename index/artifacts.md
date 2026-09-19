@@ -1,7 +1,8 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (8 episodes):
+Episodes discussing **Artifacts** (9 episodes):
 
+- [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)
 - [Hermes Agent just WON (Hermes desktop app)](../episodes/2026-06-03-hermes-agent-just-won-hermes-desktop-app/transcript.md) (2026-06-03)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)
 - [Claude Cowork: from beginner to expert in 18 minutes](../episodes/2026-01-15-claude-cowork-from-beginner-to-expert-in-18-minutes/transcript.md) (2026-01-15)

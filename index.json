@@ -1,10 +1,61 @@
 {
-  "total_videos": 294,
+  "total_videos": 295,
   "date_range": {
-    "newest": "2026-09-18",
+    "newest": "2026-09-19",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Meta Muse is INCREDIBLE. There's one big issue though...",
+      "video_id": "Wod_A8xIy4E",
+      "youtube_url": "https://www.youtube.com/watch?v=Wod_A8xIy4E",
+      "publish_date": "2026-09-19",
+      "duration": "24:09",
+      "duration_seconds": 1449,
+      "view_count": 5841,
+      "author": "Alex Finn",
+      "description": "Try out AssemblyAI's incredible new voice agent API: https://www.assemblyai.com/dashboard/signup?utm_source=YouTube&utm_medium=influencer&utm_campaign=Alex_Finn&utm_content=realtime_voice_agents\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL local AI bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:29 Meta Muse Features\n1:07 The god thread\n6:10 Feeds, ideas, goals\n8:43 Proactive artifacts\n11:00 Instagram and facebook integration\n13:42 Cloud vs local computer use\n15:35 Strengths and weaknesses\n18:24 Who Meta Muse is for\n22:21 My current agent stack\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Box",
+          "Cursor",
+          "LinkedIn",
+          "X"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Cursor",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Artifacts",
+          "Canvas"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "Meta's Muse is possibly the best AI agent out there"
+      ],
+      "transcript_chars": 26655,
+      "folder": "2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though"
+    },
     {
       "title": "How to Run Local AI on ANY Computer (in 1 click)",
       "video_id": "MZ2YVMkdjTI",
