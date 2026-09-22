@@ -1,7 +1,8 @@
 # Workflows
 
-Episodes discussing **Workflows** (99 episodes):
+Episodes discussing **Workflows** (100 episodes):
 
+- [Grok 4.7 inside Grok Bot is INCREDIBLE](../episodes/2026-09-22-grok-47-inside-grok-bot-is-incredible/transcript.md) (2026-09-22)
 - [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [Did OpenClaw 2.0 just kill Hermes and Grok Bot?](../episodes/2026-08-31-did-openclaw-20-just-kill-hermes-and-grok-bot/transcript.md) (2026-08-31)
 - [If you use AI, switch to Omarchy immediately](../episodes/2026-08-28-if-you-use-ai-switch-to-omarchy-immediately/transcript.md) (2026-08-28)

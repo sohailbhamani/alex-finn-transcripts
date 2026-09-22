@@ -1,10 +1,56 @@
 {
-  "total_videos": 295,
+  "total_videos": 296,
   "date_range": {
-    "newest": "2026-09-19",
+    "newest": "2026-09-22",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Grok 4.7 inside Grok Bot is INCREDIBLE",
+      "video_id": "ajuOF7vclCM",
+      "youtube_url": "https://www.youtube.com/watch?v=ajuOF7vclCM",
+      "publish_date": "2026-09-22",
+      "duration": "14:06",
+      "duration_seconds": 846,
+      "view_count": 27969,
+      "author": "Alex Finn",
+      "description": "Grok 4.7 inside of Grok Bot is SOOOO good. Here is how to master it\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL local AI bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:29 What is different\n2:49 Vs other models\n3:26 Grok Bot set up\n7:48 Grok Bot workflow\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Notion",
+          "Cursor"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Cursor",
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [
+        "Show you my grockbot setup and workflow that will skyrocket your activity and makes the absolute most out of grock 4",
+        "Practical ai advice for getting the most out of these magical tools"
+      ],
+      "summary": [
+        "7 inside Grok Bot is INCREDIBLE\nGro 47 just released and it's not only an excellent model, but is the first model trained to be used in an AI agent harness"
+      ],
+      "transcript_chars": 14787,
+      "folder": "2026-09-22-grok-47-inside-grok-bot-is-incredible"
+    },
     {
       "title": "Meta Muse is INCREDIBLE. There's one big issue though...",
       "video_id": "Wod_A8xIy4E",
