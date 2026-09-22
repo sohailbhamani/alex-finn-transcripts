@@ -1,5 +1,5 @@
 {
-  "total_videos": 296,
+  "total_videos": 297,
   "date_range": {
     "newest": "2026-09-22",
     "oldest": ""
@@ -50,6 +50,43 @@
       ],
       "transcript_chars": 14787,
       "folder": "2026-09-22-grok-47-inside-grok-bot-is-incredible"
+    },
+    {
+      "title": "Grok Bot in the Tesla Cybertruck is the coolest thing ever",
+      "video_id": "PH1EVP5rOKA",
+      "youtube_url": "https://www.youtube.com/watch?v=PH1EVP5rOKA",
+      "publish_date": "2026-09-22",
+      "duration": "11:44",
+      "duration_seconds": 704,
+      "view_count": 7403,
+      "author": "Alex Finn",
+      "description": "Grok Bot for Tesla is the coolest AI integration ever. Here's how it works in my Tesla Cybertruck\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL Grok Bot bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "Career",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "Tesla"
+        ],
+        "people": [],
+        "products": [
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Grok Bot in the Tesla Cybertruck is the coolest thing ever\nGrockbot just released for Tesla"
+      ],
+      "transcript_chars": 11032,
+      "folder": "2026-09-22-grok-bot-in-the-tesla-cybertruck-is-the-coolest-thing-ever"
     },
     {
       "title": "Meta Muse is INCREDIBLE. There's one big issue though...",
