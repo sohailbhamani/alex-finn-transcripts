@@ -1,7 +1,8 @@
 # Startups
 
-Episodes discussing **Startups** (41 episodes):
+Episodes discussing **Startups** (42 episodes):
 
+- [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)
 - [LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT](../episodes/2026-04-06-live-anthropic-banned-openclaw-do-this-now-plus-massive-anno/transcript.md) (2026-04-06)

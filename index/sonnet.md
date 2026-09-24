@@ -1,7 +1,8 @@
 # Sonnet
 
-Episodes discussing **Sonnet** (76 episodes):
+Episodes discussing **Sonnet** (77 episodes):
 
+- [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [ChatGPT 6 Astra has released. AGI is here.](../episodes/2026-09-03-chatgpt-6-astra-has-released-agi-is-here/transcript.md) (2026-09-03)
 - [The greatest AI tool ever??](../episodes/2026-07-27-the-greatest-ai-tool-ever/transcript.md) (2026-07-27)
 - [Claude Sonnet 5 just dropped. I'm changing how I use AI...](../episodes/2026-06-30-claude-sonnet-5-just-dropped-im-changing-how-i-use-ai/transcript.md) (2026-06-30)

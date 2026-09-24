@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (202 episodes):
+Episodes discussing **Tutorials** (203 episodes):
 
+- [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [Grok 4.7 inside Grok Bot is INCREDIBLE](../episodes/2026-09-22-grok-47-inside-grok-bot-is-incredible/transcript.md) (2026-09-22)
 - [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)
 - [How to Run Local AI on ANY Computer (in 1 click)](../episodes/2026-09-18-how-to-run-local-ai-on-any-computer-in-1-click/transcript.md) (2026-09-18)

@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (201 episodes):
+Episodes discussing **Ai News** (202 episodes):
 
+- [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [Grok 4.7 inside Grok Bot is INCREDIBLE](../episodes/2026-09-22-grok-47-inside-grok-bot-is-incredible/transcript.md) (2026-09-22)
 - [Grok Bot in the Tesla Cybertruck is the coolest thing ever](../episodes/2026-09-22-grok-bot-in-the-tesla-cybertruck-is-the-coolest-thing-ever/transcript.md) (2026-09-22)
 - [7 tips that turn ChatGPT 6 Astra into AGI](../episodes/2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi/transcript.md) (2026-09-07)

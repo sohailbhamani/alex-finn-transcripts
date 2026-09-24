@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (106 episodes):
+Episodes discussing **Apple** (107 episodes):
 
+- [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [How to Run Local AI on ANY Computer (in 1 click)](../episodes/2026-09-18-how-to-run-local-ai-on-any-computer-in-1-click/transcript.md) (2026-09-18)
 - [Omarchy is the BEST Operating System on Earth](../episodes/2026-09-16-omarchy-is-the-best-operating-system-on-earth/transcript.md) (2026-09-16)
 - [Claude Fable 5.1 just dropped and I can't believe it...](../episodes/2026-09-01-claude-fable-51-just-dropped-and-i-cant-believe-it/transcript.md) (2026-09-01)

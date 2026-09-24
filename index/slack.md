@@ -1,7 +1,8 @@
 # Slack
 
-Episodes discussing **Slack** (20 episodes):
+Episodes discussing **Slack** (21 episodes):
 
+- [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [Did OpenClaw 2.0 just kill Hermes and Grok Bot?](../episodes/2026-08-31-did-openclaw-20-just-kill-hermes-and-grok-bot/transcript.md) (2026-08-31)
 - [Every AI tool you need to be using in August 2026](../episodes/2026-08-11-every-ai-tool-you-need-to-be-using-in-august-2026/transcript.md) (2026-08-11)

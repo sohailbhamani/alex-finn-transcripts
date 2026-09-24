@@ -1,10 +1,53 @@
 {
-  "total_videos": 297,
+  "total_videos": 298,
   "date_range": {
-    "newest": "2026-09-22",
+    "newest": "2026-09-23",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Claude Opus 5.5 is the greatest AI model ever released",
+      "video_id": "mesHJAGiaUg",
+      "youtube_url": "https://www.youtube.com/watch?v=mesHJAGiaUg",
+      "publish_date": "2026-09-23",
+      "duration": "11:16",
+      "duration_seconds": 676,
+      "view_count": 35892,
+      "author": "Alex Finn",
+      "description": "Get your Hubspot Claude Skills cheat sheet here: https://clickhubspot.com/82fc16\n\nClaude Opus 5.5 is the greatest AI model ever released\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL Grok Bot bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Why Opus is the GOAT\n3:52 The best part about the model\n6:58 Demo\n8:30 How to use it\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Tools",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Apple",
+          "Slack"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Opus",
+          "Sonnet"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "5 is the greatest AI model ever released\nAll right, so I want to make one thing clear here"
+      ],
+      "transcript_chars": 12135,
+      "folder": "2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released"
+    },
     {
       "title": "Grok 4.7 inside Grok Bot is INCREDIBLE",
       "video_id": "ajuOF7vclCM",

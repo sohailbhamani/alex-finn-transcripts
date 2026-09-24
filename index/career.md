@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (74 episodes):
+Episodes discussing **Career** (75 episodes):
 
+- [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [Grok Bot in the Tesla Cybertruck is the coolest thing ever](../episodes/2026-09-22-grok-bot-in-the-tesla-cybertruck-is-the-coolest-thing-ever/transcript.md) (2026-09-22)
 - [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)
 - [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
