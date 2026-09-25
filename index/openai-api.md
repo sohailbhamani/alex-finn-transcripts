@@ -1,7 +1,8 @@
 # Openai Api
 
-Episodes discussing **Openai Api** (11 episodes):
+Episodes discussing **Openai Api** (12 episodes):
 
+- [The newest Hermes agent update is unbelievable](../episodes/2026-09-25-the-newest-hermes-agent-update-is-unbelievable/transcript.md) (2026-09-25)
 - [5 insane ClawdBot uses cases you need to do immediately](../episodes/2026-01-28-5-insane-clawdbot-uses-cases-you-need-to-do-immediately/transcript.md) (2026-01-28)
 - [This is the CHEAPEST and EASIEST way to set up ClawdBot](../episodes/2026-01-27-this-is-the-cheapest-and-easiest-way-to-set-up-clawdbot/transcript.md) (2026-01-27)
 - [GROK 4.1 JUST DROPPED! TESTING AND BENCHMARKING LIVE](../episodes/2025-11-17-grok-41-just-dropped-testing-and-benchmarking-live/transcript.md) (2025-11-17)
