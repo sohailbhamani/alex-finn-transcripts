@@ -1,10 +1,58 @@
 {
-  "total_videos": 299,
+  "total_videos": 300,
   "date_range": {
-    "newest": "2026-09-25",
+    "newest": "2026-09-30",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "OpenAI just made some MASSIVE announcements",
+      "video_id": "cro5EDMlcTY",
+      "youtube_url": "https://www.youtube.com/watch?v=cro5EDMlcTY",
+      "publish_date": "2026-09-30",
+      "duration": "20:32",
+      "duration_seconds": 1232,
+      "view_count": 48647,
+      "author": "Alex Finn",
+      "description": "ChatGPT Dots is so good (plus other OpenAI dev day announcements)\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL ChatGPT 6 Astra bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:42 Dots is so good\n5:22 ChatGPT Spaces\n8:59 ChatGPT 6.1 Sol\n11:21 $500 plan\n13:33 CLI improvements\n15:10 Extensions\n17:01 More announcements\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Meta",
+          "Amazon",
+          "Notion",
+          "Box"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Make",
+          "Opus",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": [
+          "SAM"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# OpenAI just made some MASSIVE announcements\nI just got back from OpenAI Dev Day"
+      ],
+      "transcript_chars": 22205,
+      "folder": "2026-09-30-openai-just-made-some-massive-announcements"
+    },
     {
       "title": "The newest Hermes agent update is unbelievable",
       "video_id": "K6G5fp8LB6w",

@@ -1,7 +1,8 @@
 # Artifacts
 
-Episodes discussing **Artifacts** (9 episodes):
+Episodes discussing **Artifacts** (10 episodes):
 
+- [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)
 - [Hermes Agent just WON (Hermes desktop app)](../episodes/2026-06-03-hermes-agent-just-won-hermes-desktop-app/transcript.md) (2026-06-03)
 - [You're Using OpenClaw Wrong If You Don't Use Discord](../episodes/2026-02-24-you-re-using-openclaw-wrong-if-you-don-t-use-discord/transcript.md) (2026-02-24)

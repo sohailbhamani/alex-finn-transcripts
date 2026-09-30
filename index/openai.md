@@ -1,7 +1,8 @@
 # Openai
 
-Episodes discussing **Openai** (135 episodes):
+Episodes discussing **Openai** (136 episodes):
 
+- [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [The newest Hermes agent update is unbelievable](../episodes/2026-09-25-the-newest-hermes-agent-update-is-unbelievable/transcript.md) (2026-09-25)
 - [Grok 4.7 inside Grok Bot is INCREDIBLE](../episodes/2026-09-22-grok-47-inside-grok-bot-is-incredible/transcript.md) (2026-09-22)
 - [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)

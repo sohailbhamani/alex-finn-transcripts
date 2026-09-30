@@ -1,7 +1,8 @@
 # Tutorial
 
-Episodes discussing **Tutorial** (217 episodes):
+Episodes discussing **Tutorial** (218 episodes):
 
+- [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [Grok Bot in the Tesla Cybertruck is the coolest thing ever](../episodes/2026-09-22-grok-bot-in-the-tesla-cybertruck-is-the-coolest-thing-ever/transcript.md) (2026-09-22)
 - [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)

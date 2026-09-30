@@ -1,7 +1,8 @@
 # Ai Agents
 
-Episodes discussing **Ai Agents** (148 episodes):
+Episodes discussing **Ai Agents** (149 episodes):
 
+- [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [The newest Hermes agent update is unbelievable](../episodes/2026-09-25-the-newest-hermes-agent-update-is-unbelievable/transcript.md) (2026-09-25)
 - [Grok 4.7 inside Grok Bot is INCREDIBLE](../episodes/2026-09-22-grok-47-inside-grok-bot-is-incredible/transcript.md) (2026-09-22)
 - [Grok Bot in the Tesla Cybertruck is the coolest thing ever](../episodes/2026-09-22-grok-bot-in-the-tesla-cybertruck-is-the-coolest-thing-ever/transcript.md) (2026-09-22)

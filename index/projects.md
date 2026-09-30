@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (63 episodes):
+Episodes discussing **Projects** (64 episodes):
 
+- [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [Omarchy is the BEST Operating System on Earth](../episodes/2026-09-16-omarchy-is-the-best-operating-system-on-earth/transcript.md) (2026-09-16)
 - [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [ChatGPT 6 Astra has released. AGI is here.](../episodes/2026-09-03-chatgpt-6-astra-has-released-agi-is-here/transcript.md) (2026-09-03)

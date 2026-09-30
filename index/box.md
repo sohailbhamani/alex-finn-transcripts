@@ -1,7 +1,8 @@
 # Box
 
-Episodes discussing **Box** (65 episodes):
+Episodes discussing **Box** (66 episodes):
 
+- [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)
 - [Omarchy is the BEST Operating System on Earth](../episodes/2026-09-16-omarchy-is-the-best-operating-system-on-earth/transcript.md) (2026-09-16)
 - [7 tips that turn ChatGPT 6 Astra into AGI](../episodes/2026-09-07-7-tips-that-turn-chatgpt-6-astra-into-agi/transcript.md) (2026-09-07)

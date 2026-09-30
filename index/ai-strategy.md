@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (85 episodes):
+Episodes discussing **Ai Strategy** (86 episodes):
 
+- [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [How to Run Local AI on ANY Computer (in 1 click)](../episodes/2026-09-18-how-to-run-local-ai-on-any-computer-in-1-click/transcript.md) (2026-09-18)
 - [Omarchy is the BEST Operating System on Earth](../episodes/2026-09-16-omarchy-is-the-best-operating-system-on-earth/transcript.md) (2026-09-16)
 - [If you use AI, switch to Omarchy immediately](../episodes/2026-08-28-if-you-use-ai-switch-to-omarchy-immediately/transcript.md) (2026-08-28)
