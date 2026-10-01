@@ -1,10 +1,55 @@
 {
-  "total_videos": 300,
+  "total_videos": 301,
   "date_range": {
-    "newest": "2026-09-30",
+    "newest": "2026-10-01",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "ChatGPT Dots is INCREDIBLE (but only if you use it the right way)",
+      "video_id": "e29WTzoOKxk",
+      "youtube_url": "https://www.youtube.com/watch?v=e29WTzoOKxk",
+      "publish_date": "2026-10-01",
+      "duration": "19:19",
+      "duration_seconds": 1159,
+      "view_count": 4539,
+      "author": "Alex Finn",
+      "description": "This is the best ChatGPT Dots workflow ever\n\nProject Manager skill: https://github.com/finna/project-manager-skill\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL ChatGPT 6 Astra bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:43 What is ChatGPT Dots\n3:09 Showing you my Dot\n4:03 How to get the most out of Dots\n13:32 Which agent you should be using\n",
+      "yt_tags": [],
+      "content_type": "Framework",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "OpenAI",
+          "Anthropic",
+          "Google",
+          "Notion",
+          "GitHub"
+        ],
+        "people": [],
+        "products": [
+          "ChatGPT",
+          "Make",
+          "Opus",
+          "Computer Use",
+          "Artifacts",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# ChatGPT Dots is INCREDIBLE (but only if you use it the right way)\nChat GPT Dots is an amazing AI agent, possibly the best out there, but only if you use it the right way"
+      ],
+      "transcript_chars": 20889,
+      "folder": "2026-10-01-chatgpt-dots-is-incredible-but-only-if-you-use-it-the-right-way"
+    },
     {
       "title": "OpenAI just made some MASSIVE announcements",
       "video_id": "cro5EDMlcTY",
