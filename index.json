@@ -1,10 +1,48 @@
 {
-  "total_videos": 302,
+  "total_videos": 303,
   "date_range": {
-    "newest": "2026-10-05",
+    "newest": "2026-10-06",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Hark is a MIND BLOWING AI Agent you need to try",
+      "video_id": "aL_WMpJB2iY",
+      "youtube_url": "https://www.youtube.com/watch?v=aL_WMpJB2iY",
+      "publish_date": "2026-10-06",
+      "duration": "15:19",
+      "duration_seconds": 919,
+      "view_count": 11971,
+      "author": "Alex Finn",
+      "description": "Check out Hark: http://hark.com/?ref=alexfinn\n\nHark is an amazing new AI agent. Here's how it works\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my Instagram! http://instagram.com/alexfinnai\nFULL ChatGPT 6 Astra bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:45 What makes it special\n1:43 The interface\n7:03 Doing tasks for you\n9:26 Proactivity\n10:30 Projects\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "GitHub",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Make",
+          "Computer Use",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# Hark is a MIND BLOWING AI Agent you need to try\nA brand new, very impressive AI agent just dropped, and I think your mind's about to be blown by this one"
+      ],
+      "transcript_chars": 17408,
+      "folder": "2026-10-06-hark-is-a-mind-blowing-ai-agent-you-need-to-try"
+    },
     {
       "title": "6 Meta Muse use cases that will change your life",
       "video_id": "5Hw4nHrTMR0",
