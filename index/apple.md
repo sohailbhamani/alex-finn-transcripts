@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (107 episodes):
+Episodes discussing **Apple** (108 episodes):
 
+- [6 Meta Muse use cases that will change your life](../episodes/2026-10-05-6-meta-muse-use-cases-that-will-change-your-life/transcript.md) (2026-10-05)
 - [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
 - [How to Run Local AI on ANY Computer (in 1 click)](../episodes/2026-09-18-how-to-run-local-ai-on-any-computer-in-1-click/transcript.md) (2026-09-18)
 - [Omarchy is the BEST Operating System on Earth](../episodes/2026-09-16-omarchy-is-the-best-operating-system-on-earth/transcript.md) (2026-09-16)

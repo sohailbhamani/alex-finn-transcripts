@@ -1,10 +1,50 @@
 {
-  "total_videos": 301,
+  "total_videos": 302,
   "date_range": {
-    "newest": "2026-10-01",
+    "newest": "2026-10-05",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "6 Meta Muse use cases that will change your life",
+      "video_id": "5Hw4nHrTMR0",
+      "youtube_url": "https://www.youtube.com/watch?v=5Hw4nHrTMR0",
+      "publish_date": "2026-10-05",
+      "duration": "11:32",
+      "duration_seconds": 692,
+      "view_count": 360,
+      "author": "Alex Finn",
+      "description": "Meta Muse is an incredible AI agent. Here are 6 use cases that will change your life.\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL ChatGPT 6 Astra bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Cancel subscriptions\n1:53 Auto replier\n3:49 Automate tasks\n5:26 Find you free money\n7:06 Proactive goals\n8:43 Do your taxes\n",
+      "yt_tags": [],
+      "content_type": "Deep Dive",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Meta",
+          "Apple",
+          "Slack",
+          "Perplexity",
+          "LinkedIn"
+        ],
+        "people": [],
+        "products": [
+          "Perplexity",
+          "Make"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "# 6 Meta Muse use cases that will change your life\nMetamuse is for sure one of the best AI agents out there right now"
+      ],
+      "transcript_chars": 12530,
+      "folder": "2026-10-05-6-meta-muse-use-cases-that-will-change-your-life"
+    },
     {
       "title": "ChatGPT Dots is INCREDIBLE (but only if you use it the right way)",
       "video_id": "e29WTzoOKxk",

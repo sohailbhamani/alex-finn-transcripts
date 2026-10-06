@@ -1,7 +1,8 @@
 # Perplexity
 
-Episodes discussing **Perplexity** (20 episodes):
+Episodes discussing **Perplexity** (21 episodes):
 
+- [6 Meta Muse use cases that will change your life](../episodes/2026-10-05-6-meta-muse-use-cases-that-will-change-your-life/transcript.md) (2026-10-05)
 - [LIVE: Opus 4.7 is incredible, new Codex automated my life, Claude Design is MWAH](../episodes/2026-04-17-live-opus-4-7-is-incredible-new-codex-automated-my-life-clau/transcript.md) (2026-04-17)
 - [LIVE: You NEED to be using OpenClaw and Claude Code together](../episodes/2026-04-15-live-you-need-to-be-using-openclaw-and-claude-code-together/transcript.md) (2026-04-15)
 - [OpenClaw 4.12 update is actually incredible](../episodes/2026-04-13-openclaw-4-12-update-is-actually-incredible/transcript.md) (2026-04-13)

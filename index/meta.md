@@ -1,7 +1,8 @@
 # Meta
 
-Episodes discussing **Meta** (51 episodes):
+Episodes discussing **Meta** (52 episodes):
 
+- [6 Meta Muse use cases that will change your life](../episodes/2026-10-05-6-meta-muse-use-cases-that-will-change-your-life/transcript.md) (2026-10-05)
 - [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [The newest Hermes agent update is unbelievable](../episodes/2026-09-25-the-newest-hermes-agent-update-is-unbelievable/transcript.md) (2026-09-25)
 - [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)

@@ -1,7 +1,8 @@
 # Deep Dive
 
-Episodes discussing **Deep Dive** (11 episodes):
+Episodes discussing **Deep Dive** (12 episodes):
 
+- [6 Meta Muse use cases that will change your life](../episodes/2026-10-05-6-meta-muse-use-cases-that-will-change-your-life/transcript.md) (2026-10-05)
 - [ChatGPT 5.6 just KILLED Fable 5](../episodes/2026-07-09-chatgpt-56-just-killed-fable-5/transcript.md) (2026-07-09)
 - [LIVE: Hermes vs OpenClaw live tests](../episodes/2026-03-30-live-hermes-vs-openclaw-live-tests/transcript.md) (2026-03-30)
 - [Everything you need to know about Grok 4.1 in 11 minutes](../episodes/2025-11-18-everything-you-need-to-know-about-grok-41-in-11-minutes/transcript.md) (2025-11-18)
