@@ -1,10 +1,61 @@
 {
-  "total_videos": 303,
+  "total_videos": 304,
   "date_range": {
-    "newest": "2026-10-06",
+    "newest": "2026-10-07",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Grok Bot just got a MASSIVE update",
+      "video_id": "ZW-HR9XMQKw",
+      "youtube_url": "https://www.youtube.com/watch?v=ZW-HR9XMQKw",
+      "publish_date": "2026-10-07",
+      "duration": "14:47",
+      "duration_seconds": 887,
+      "view_count": 3255,
+      "author": "Alex Finn",
+      "description": "Grok Bot's newest update is MASSIVE. Here are all 5 new features plus new use cases.\n\nFollow my Instagram! http://instagram.com/alexfinnai\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFULL ChatGPT 6 Astra bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n0:34 Grok email\n2:29 Main bot\n4:56 Opus in Grok\n8:17 Cursor integration\n9:50 Tagging BOT\n10:53 Two new use cases\n12:24 Which agents you should use\n",
+      "yt_tags": [],
+      "content_type": "News Roundup",
+      "primary_topic": "AI News",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Executives",
+        "Product Managers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "Notion",
+          "Cursor",
+          "X",
+          "Uber",
+          "Midjourney"
+        ],
+        "people": [
+          "Elon Musk"
+        ],
+        "products": [
+          "Claude",
+          "Cursor",
+          "Midjourney",
+          "Make",
+          "Opus"
+        ],
+        "models": [
+          "Claude Opus"
+        ]
+      },
+      "concepts": [
+        "It can sign up for its own accounts with its own email address"
+      ],
+      "summary": [
+        "# Grok Bot just got a MASSIVE update\nYour Grockbot just got a hundred times smarter"
+      ],
+      "transcript_chars": 16513,
+      "folder": "2026-10-07-grok-bot-just-got-a-massive-update"
+    },
     {
       "title": "Hark is a MIND BLOWING AI Agent you need to try",
       "video_id": "aL_WMpJB2iY",
