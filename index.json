@@ -1,10 +1,49 @@
 {
-  "total_videos": 304,
+  "total_videos": 305,
   "date_range": {
-    "newest": "2026-10-07",
+    "newest": "2026-10-10",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Can a Mac Mini run local AI? (shocking)",
+      "video_id": "dFTXOt0GBx4",
+      "youtube_url": "https://www.youtube.com/watch?v=dFTXOt0GBx4",
+      "publish_date": "2026-10-10",
+      "duration": "16:42",
+      "duration_seconds": 1002,
+      "view_count": 17201,
+      "author": "Alex Finn",
+      "description": "Can the Mac Mini M6 run local AI\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my Instagram! http://instagram.com/alexfinnai\nFULL Local AI bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\nTimestamps:\n0:00 Intro\n1:00 Setting up Hermes\n2:50 Loading the local AI\n4:19 Why use Apple for AI\n7:12 Testing the local AI\n13:05 Did it work?\n13:36 Why local AI\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Founders"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "Nvidia"
+        ],
+        "people": [
+          "Alex Finn"
+        ],
+        "products": [
+          "Make",
+          "Opus"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "(shocking)\nBack in January, I told the world that the Mac Mini was going to be the king of local AI"
+      ],
+      "transcript_chars": 18064,
+      "folder": "2026-10-10-can-a-mac-mini-run-local-ai-shocking"
+    },
     {
       "title": "Grok Bot just got a MASSIVE update",
       "video_id": "ZW-HR9XMQKw",

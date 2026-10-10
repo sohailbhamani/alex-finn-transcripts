@@ -1,7 +1,8 @@
 # Ai Strategy
 
-Episodes discussing **Ai Strategy** (87 episodes):
+Episodes discussing **Ai Strategy** (88 episodes):
 
+- [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)
 - [6 Meta Muse use cases that will change your life](../episodes/2026-10-05-6-meta-muse-use-cases-that-will-change-your-life/transcript.md) (2026-10-05)
 - [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [How to Run Local AI on ANY Computer (in 1 click)](../episodes/2026-09-18-how-to-run-local-ai-on-any-computer-in-1-click/transcript.md) (2026-09-18)

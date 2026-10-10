@@ -1,7 +1,8 @@
 # Frameworks
 
-Episodes discussing **Frameworks** (183 episodes):
+Episodes discussing **Frameworks** (184 episodes):
 
+- [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)
 - [Hark is a MIND BLOWING AI Agent you need to try](../episodes/2026-10-06-hark-is-a-mind-blowing-ai-agent-you-need-to-try/transcript.md) (2026-10-06)
 - [ChatGPT Dots is INCREDIBLE (but only if you use it the right way)](../episodes/2026-10-01-chatgpt-dots-is-incredible-but-only-if-you-use-it-the-right-way/transcript.md) (2026-10-01)
 - [The newest Hermes agent update is unbelievable](../episodes/2026-09-25-the-newest-hermes-agent-update-is-unbelievable/transcript.md) (2026-09-25)

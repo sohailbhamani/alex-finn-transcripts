@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (77 episodes):
+Episodes discussing **Career** (78 episodes):
 
+- [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)
 - [Grok Bot just got a MASSIVE update](../episodes/2026-10-07-grok-bot-just-got-a-massive-update/transcript.md) (2026-10-07)
 - [The newest Hermes agent update is unbelievable](../episodes/2026-09-25-the-newest-hermes-agent-update-is-unbelievable/transcript.md) (2026-09-25)
 - [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)

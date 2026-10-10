@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (208 episodes):
+Episodes discussing **Tutorials** (209 episodes):
 
+- [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)
 - [Grok Bot just got a MASSIVE update](../episodes/2026-10-07-grok-bot-just-got-a-massive-update/transcript.md) (2026-10-07)
 - [Hark is a MIND BLOWING AI Agent you need to try](../episodes/2026-10-06-hark-is-a-mind-blowing-ai-agent-you-need-to-try/transcript.md) (2026-10-06)
 - [ChatGPT Dots is INCREDIBLE (but only if you use it the right way)](../episodes/2026-10-01-chatgpt-dots-is-incredible-but-only-if-you-use-it-the-right-way/transcript.md) (2026-10-01)

@@ -1,7 +1,8 @@
 # Ai News
 
-Episodes discussing **Ai News** (207 episodes):
+Episodes discussing **Ai News** (208 episodes):
 
+- [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)
 - [Grok Bot just got a MASSIVE update](../episodes/2026-10-07-grok-bot-just-got-a-massive-update/transcript.md) (2026-10-07)
 - [Hark is a MIND BLOWING AI Agent you need to try](../episodes/2026-10-06-hark-is-a-mind-blowing-ai-agent-you-need-to-try/transcript.md) (2026-10-06)
 - [6 Meta Muse use cases that will change your life](../episodes/2026-10-05-6-meta-muse-use-cases-that-will-change-your-life/transcript.md) (2026-10-05)
