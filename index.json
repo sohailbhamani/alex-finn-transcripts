@@ -1,10 +1,57 @@
 {
-  "total_videos": 305,
+  "total_videos": 306,
   "date_range": {
-    "newest": "2026-10-10",
+    "newest": "2026-10-13",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Grok Bot just built me an autonomous business...",
+      "video_id": "lmYLF3keVmw",
+      "youtube_url": "https://www.youtube.com/watch?v=lmYLF3keVmw",
+      "publish_date": "2026-10-13",
+      "duration": "20:36",
+      "duration_seconds": 1236,
+      "view_count": 929,
+      "author": "Alex Finn",
+      "description": "How to build your own autonomous business with Grok Bot\n\nCheck out my autonomous business: https://agentusecases.ai/\n\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my Instagram! http://instagram.com/alexfinnai\nFULL Local AI bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\n\nPrompts:\nI want you to design, build, and run an autonomous business for me. Let's first come up with the idea. I want this to solve a very simple problem my audience might have. I'm into AI, AI agents, tech, video games, and vibe coding. What are some very simple challenges we can solve?\n\n\n\nPlease autonomously maintain these for me:\nmonetizing when appropriate\noptimizing SEO\noptimizing for chat bots\nstarting and maintaining a newsletter\nwatching for feedback on X\ncontinuously testing and improving the site\nwatching for bugs\nupdating you on progress\nkeeping sponsors happy\n\nTimestamps:\n0:00 Intro\n0:45 My autonomous business\n2:07 Setting up an autonomous business\n9:23 Maintaining the business\n13:06 The connectors you need\n16:56 The future economy\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives"
+      ],
+      "entities": {
+        "companies": [
+          "Google",
+          "GitHub",
+          "Stripe",
+          "Cursor",
+          "LinkedIn",
+          "X",
+          "YouTube"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Make"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "I think what I'm about to show you is the future of the economy"
+      ],
+      "transcript_chars": 22789,
+      "folder": "2026-10-13-grok-bot-just-built-me-an-autonomous-business"
+    },
     {
       "title": "Can a Mac Mini run local AI? (shocking)",
       "video_id": "dFTXOt0GBx4",

@@ -1,7 +1,8 @@
 # Google
 
-Episodes discussing **Google** (147 episodes):
+Episodes discussing **Google** (148 episodes):
 
+- [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [ChatGPT Dots is INCREDIBLE (but only if you use it the right way)](../episodes/2026-10-01-chatgpt-dots-is-incredible-but-only-if-you-use-it-the-right-way/transcript.md) (2026-10-01)
 - [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)
 - [Grok Bot in the Tesla Cybertruck is the coolest thing ever](../episodes/2026-09-22-grok-bot-in-the-tesla-cybertruck-is-the-coolest-thing-ever/transcript.md) (2026-09-22)

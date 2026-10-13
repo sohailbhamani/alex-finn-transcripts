@@ -1,7 +1,8 @@
 # Youtube
 
-Episodes discussing **Youtube** (122 episodes):
+Episodes discussing **Youtube** (123 episodes):
 
+- [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [Hark is a MIND BLOWING AI Agent you need to try](../episodes/2026-10-06-hark-is-a-mind-blowing-ai-agent-you-need-to-try/transcript.md) (2026-10-06)
 - [ChatGPT Work with GPT 6 Astra just blew my mind](../episodes/2026-09-12-chatgpt-work-with-gpt-6-astra-just-blew-my-mind/transcript.md) (2026-09-12)
 - [Did OpenClaw 2.0 just kill Hermes and Grok Bot?](../episodes/2026-08-31-did-openclaw-20-just-kill-hermes-and-grok-bot/transcript.md) (2026-08-31)
