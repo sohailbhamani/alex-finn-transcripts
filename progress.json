@@ -2042,8 +2042,18 @@
       "id": "5mRGhSeMDhM",
       "reason": "Supadata API error: 404 - {\"error\":\"not-found\",\"message\":\"Not Found\",\"details\":\"This video does not exist\",\"documentationUrl\":\"https://docs.supadata.ai/errors/not-found\"}",
       "time": "2026-10-14T11:44:53.105234"
+    },
+    {
+      "id": "aT5FXvOe-Y0",
+      "reason": "Supadata API error: 403 - {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/forbidden\"}",
+      "time": "2026-10-14T21:36:57.973632"
+    },
+    {
+      "id": "5mRGhSeMDhM",
+      "reason": "Supadata API error: 404 - {\"error\":\"not-found\",\"message\":\"Not Found\",\"details\":\"This video does not exist\",\"documentationUrl\":\"https://docs.supadata.ai/errors/not-found\"}",
+      "time": "2026-10-14T21:37:17.362011"
     }
   ],
   "no_transcript": [],
-  "last_run": "2026-10-14T11:44:53.105248"
+  "last_run": "2026-10-14T21:37:17.362024"
 }
