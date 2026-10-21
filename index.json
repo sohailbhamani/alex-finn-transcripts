@@ -1,10 +1,58 @@
 {
-  "total_videos": 306,
+  "total_videos": 307,
   "date_range": {
-    "newest": "2026-10-13",
+    "newest": "2026-10-21",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "The greatest AI engineering workflow of all time revealed (Herdr)",
+      "video_id": "cmvF7nfEJLo",
+      "youtube_url": "https://www.youtube.com/watch?v=cmvF7nfEJLo",
+      "publish_date": "2026-10-21",
+      "duration": "21:34",
+      "duration_seconds": 1294,
+      "view_count": 1652,
+      "author": "Alex Finn",
+      "description": "Here is the best AI engineering workflow ever using Herdr\n\nHerdr: https://herdr.dev/\nHerdr HUD: https://github.com/finna/herdr-hud\n\nCheck out my autonomous business: https://agentusecases.ai/\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my Instagram! http://instagram.com/alexfinnai\nFULL Local AI bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\n\nPrompt:\nI want to build a roguelike game using threejs. i want it to be a top down demon slaying game like Diablo where each level you get more and more demons, but in between levels you can choose a specific power to get or attribute to level up. it should be a dark, demon like theme simlar to diablo with fun satisfying gameplay and in depth, detailed, beautiful stylistic graphics\n\n\nTimestamps:\n0:00 Intro\n0:52 The interface\n7:52 Setting it up\n11:38 Building a game\n15:56 Building custom apps for Herdr\n18:03 Final test\n19:54 Herdr HUD\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Strategy",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Apple",
+          "GitHub",
+          "Cursor",
+          "X",
+          "Bolt"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Gemini",
+          "Cursor",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": [
+          "Gemini"
+        ]
+      },
+      "concepts": [],
+      "summary": [
+        "# The greatest AI engineering workflow of all time revealed (Herdr)\nI have figured out the greatest AI vibe coding setup of all time"
+      ],
+      "transcript_chars": 25241,
+      "folder": "2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr"
+    },
     {
       "title": "Grok Bot just built me an autonomous business...",
       "video_id": "lmYLF3keVmw",

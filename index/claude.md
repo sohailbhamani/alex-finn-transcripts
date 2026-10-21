@@ -1,7 +1,8 @@
 # Claude
 
-Episodes discussing **Claude** (224 episodes):
+Episodes discussing **Claude** (225 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [Grok Bot just got a MASSIVE update](../episodes/2026-10-07-grok-bot-just-got-a-massive-update/transcript.md) (2026-10-07)
 - [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)

@@ -1,7 +1,8 @@
 # Cursor
 
-Episodes discussing **Cursor** (162 episodes):
+Episodes discussing **Cursor** (163 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [Grok Bot just got a MASSIVE update](../episodes/2026-10-07-grok-bot-just-got-a-massive-update/transcript.md) (2026-10-07)
 - [Grok 4.7 inside Grok Bot is INCREDIBLE](../episodes/2026-09-22-grok-47-inside-grok-bot-is-incredible/transcript.md) (2026-09-22)

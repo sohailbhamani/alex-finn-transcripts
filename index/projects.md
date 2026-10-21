@@ -1,7 +1,8 @@
 # Projects
 
-Episodes discussing **Projects** (66 episodes):
+Episodes discussing **Projects** (67 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Hark is a MIND BLOWING AI Agent you need to try](../episodes/2026-10-06-hark-is-a-mind-blowing-ai-agent-you-need-to-try/transcript.md) (2026-10-06)
 - [ChatGPT Dots is INCREDIBLE (but only if you use it the right way)](../episodes/2026-10-01-chatgpt-dots-is-incredible-but-only-if-you-use-it-the-right-way/transcript.md) (2026-10-01)
 - [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)

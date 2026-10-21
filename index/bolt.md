@@ -1,7 +1,8 @@
 # Bolt
 
-Episodes discussing **Bolt** (13 episodes):
+Episodes discussing **Bolt** (14 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [I was using Claude Code wrong... then I discovered this](../episodes/2025-12-30-i-was-using-claude-code-wrong-then-i-discovered-this/transcript.md) (2025-12-30)
 - [Google AI Studio just KILLED Lovable! Most INSANE AI app builder ever](../episodes/2025-10-21-google-ai-studio-just-killed-lovable-most-insane-ai-app-builder-ever/transcript.md) (2025-10-21)
 - [Testing BRAND NEW GPT 5 against world famous benchmarks](../episodes/2025-08-23-testing-brand-new-gpt-5-against-world-famous-benchmarks/transcript.md) (2025-08-23)

@@ -1,7 +1,8 @@
 # Leadership
 
-Episodes discussing **Leadership** (46 episodes):
+Episodes discussing **Leadership** (47 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [Grok Bot just got a MASSIVE update](../episodes/2026-10-07-grok-bot-just-got-a-massive-update/transcript.md) (2026-10-07)
 - [ChatGPT Dots is INCREDIBLE (but only if you use it the right way)](../episodes/2026-10-01-chatgpt-dots-is-incredible-but-only-if-you-use-it-the-right-way/transcript.md) (2026-10-01)

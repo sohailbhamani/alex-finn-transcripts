@@ -1,7 +1,8 @@
 # Opus
 
-Episodes discussing **Opus** (141 episodes):
+Episodes discussing **Opus** (142 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)
 - [Grok Bot just got a MASSIVE update](../episodes/2026-10-07-grok-bot-just-got-a-massive-update/transcript.md) (2026-10-07)
 - [ChatGPT Dots is INCREDIBLE (but only if you use it the right way)](../episodes/2026-10-01-chatgpt-dots-is-incredible-but-only-if-you-use-it-the-right-way/transcript.md) (2026-10-01)

@@ -1,7 +1,8 @@
 # Coding
 
-Episodes discussing **Coding** (233 episodes):
+Episodes discussing **Coding** (234 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [ChatGPT Dots is INCREDIBLE (but only if you use it the right way)](../episodes/2026-10-01-chatgpt-dots-is-incredible-but-only-if-you-use-it-the-right-way/transcript.md) (2026-10-01)
 - [OpenAI just made some MASSIVE announcements](../episodes/2026-09-30-openai-just-made-some-massive-announcements/transcript.md) (2026-09-30)

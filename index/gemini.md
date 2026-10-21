@@ -1,7 +1,8 @@
 # Gemini
 
-Episodes discussing **Gemini** (87 episodes):
+Episodes discussing **Gemini** (88 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [100 hours of Hermes Agent lessons in 19 minutes](../episodes/2026-07-08-100-hours-of-hermes-agent-lessons-in-19-minutes/transcript.md) (2026-07-08)
 - [LIVE: The greatest Claude Code workflow ever](../episodes/2026-05-13-live-the-greatest-claude-code-workflow-ever/transcript.md) (2026-05-13)

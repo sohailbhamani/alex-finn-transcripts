@@ -1,7 +1,8 @@
 # Apple
 
-Episodes discussing **Apple** (109 episodes):
+Episodes discussing **Apple** (110 episodes):
 
+- [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)
 - [6 Meta Muse use cases that will change your life](../episodes/2026-10-05-6-meta-muse-use-cases-that-will-change-your-life/transcript.md) (2026-10-05)
 - [Claude Opus 5.5 is the greatest AI model ever released](../episodes/2026-09-23-claude-opus-55-is-the-greatest-ai-model-ever-released/transcript.md) (2026-09-23)
