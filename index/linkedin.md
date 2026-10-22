@@ -1,7 +1,8 @@
 # Linkedin
 
-Episodes discussing **Linkedin** (19 episodes):
+Episodes discussing **Linkedin** (20 episodes):
 
+- [Did Claude Duet just kill Grok Bot?](../episodes/2026-10-22-did-claude-duet-just-kill-grok-bot/transcript.md) (2026-10-22)
 - [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [6 Meta Muse use cases that will change your life](../episodes/2026-10-05-6-meta-muse-use-cases-that-will-change-your-life/transcript.md) (2026-10-05)
 - [Meta Muse is INCREDIBLE. There's one big issue though...](../episodes/2026-09-19-meta-muse-is-incredible-theres-one-big-issue-though/transcript.md) (2026-09-19)

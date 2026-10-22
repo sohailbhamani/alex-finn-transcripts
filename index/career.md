@@ -1,7 +1,8 @@
 # Career
 
-Episodes discussing **Career** (78 episodes):
+Episodes discussing **Career** (79 episodes):
 
+- [Did Claude Duet just kill Grok Bot?](../episodes/2026-10-22-did-claude-duet-just-kill-grok-bot/transcript.md) (2026-10-22)
 - [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)
 - [Grok Bot just got a MASSIVE update](../episodes/2026-10-07-grok-bot-just-got-a-massive-update/transcript.md) (2026-10-07)
 - [The newest Hermes agent update is unbelievable](../episodes/2026-09-25-the-newest-hermes-agent-update-is-unbelievable/transcript.md) (2026-09-25)

@@ -1,7 +1,8 @@
 # Tutorials
 
-Episodes discussing **Tutorials** (211 episodes):
+Episodes discussing **Tutorials** (212 episodes):
 
+- [Did Claude Duet just kill Grok Bot?](../episodes/2026-10-22-did-claude-duet-just-kill-grok-bot/transcript.md) (2026-10-22)
 - [The greatest AI engineering workflow of all time revealed (Herdr)](../episodes/2026-10-21-the-greatest-ai-engineering-workflow-of-all-time-revealed-herdr/transcript.md) (2026-10-21)
 - [Grok Bot just built me an autonomous business...](../episodes/2026-10-13-grok-bot-just-built-me-an-autonomous-business/transcript.md) (2026-10-13)
 - [Can a Mac Mini run local AI? (shocking)](../episodes/2026-10-10-can-a-mac-mini-run-local-ai-shocking/transcript.md) (2026-10-10)

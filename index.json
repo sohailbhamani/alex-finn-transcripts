@@ -1,10 +1,53 @@
 {
-  "total_videos": 307,
+  "total_videos": 308,
   "date_range": {
-    "newest": "2026-10-21",
+    "newest": "2026-10-22",
     "oldest": ""
   },
   "videos": [
+    {
+      "title": "Did Claude Duet just kill Grok Bot?",
+      "video_id": "jC26BnJseAw",
+      "youtube_url": "https://www.youtube.com/watch?v=jC26BnJseAw",
+      "publish_date": "2026-10-22",
+      "duration": "19:22",
+      "duration_seconds": 1162,
+      "view_count": 3121,
+      "author": "Alex Finn",
+      "description": "Anthropic just released Claude Duet and it's incredible\n\n\nJoin the Claude Duet waitlist: https://claude.com/resources/articles/claude-duet\n\nCheck out my autonomous business: https://agentusecases.ai/\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my Instagram! http://instagram.com/alexfinnai\nFULL Local AI bootcamp in the Vibe Coding Academy: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/\n\n\nTimestamps:\n0:00 Intro\n0:24 What is Claude Duet\n3:54 Doing work in Claude Duet\n5:50 Task breakdown mode\n7:40 Duet is the FSD of AI\n10:24 Why this is the future\n13:16 More features\n13:55 Weaknesses\n17:00 Which agent you should be using\n",
+      "yt_tags": [],
+      "content_type": "Tutorial",
+      "primary_topic": "AI Agents",
+      "difficulty": "Intermediate",
+      "audience": [
+        "Engineers",
+        "Executives",
+        "Product Managers"
+      ],
+      "entities": {
+        "companies": [
+          "Anthropic",
+          "GitHub",
+          "Box",
+          "LinkedIn"
+        ],
+        "people": [],
+        "products": [
+          "Claude",
+          "Claude Code",
+          "Make",
+          "Opus",
+          "Projects"
+        ],
+        "models": []
+      },
+      "concepts": [],
+      "summary": [
+        "Anthropic just released their Grockbot in Chad GBT dots killer"
+      ],
+      "transcript_chars": 21328,
+      "folder": "2026-10-22-did-claude-duet-just-kill-grok-bot"
+    },
     {
       "title": "The greatest AI engineering workflow of all time revealed (Herdr)",
       "video_id": "cmvF7nfEJLo",
