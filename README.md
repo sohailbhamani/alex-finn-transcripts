@@ -1,5 +1,8 @@
 # Alex Finn Transcripts
 
+> [!WARNING]
+> **Archived 2026-10-22. No longer updated.** The daily sync is disabled; the 308 episodes here stay as a static snapshot.
+
 Transcript archive of [Alex Finn (OpenClaw)](https://www.youtube.com/@AlexFinn) YouTube videos.
 
 ## Stats
